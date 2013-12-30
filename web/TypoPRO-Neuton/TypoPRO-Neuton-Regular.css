@@ -1,0 +1,16 @@
+
+/* TypoPRO Neuton Regular */
+@font-face {
+    font-family:  'TypoPRO Neuton';
+    src:          url('TypoPRO-Neuton-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Neuton-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Neuton-Regular.woff') format('woff'),
+                  url('TypoPRO-Neuton-Regular.ttf') format('truetype'),
+                  url('TypoPRO-Neuton-Regular.svgz#TypoPRO-Neuton-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

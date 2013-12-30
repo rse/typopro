@@ -1,0 +1,16 @@
+
+/* TypoPRO Clear Sans Light */
+@font-face {
+    font-family:  'TypoPRO Clear Sans Light';
+    src:          url('TypoPRO-ClearSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-ClearSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ClearSans-Light.woff') format('woff'),
+                  url('TypoPRO-ClearSans-Light.ttf') format('truetype'),
+                  url('TypoPRO-ClearSans-Light.svgz#TypoPRO-ClearSans-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,16 @@
+
+/* TypoPRO Source Sans Pro Italic */
+@font-face {
+    font-family:  'TypoPRO Source Sans Pro';
+    src:          url('TypoPRO-SourceSansPro-It.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSansPro-It.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-It.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-It.ttf') format('truetype'),
+                  url('TypoPRO-SourceSansPro-It.svgz#TypoPRO-SourceSansPro-It') format('svg');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

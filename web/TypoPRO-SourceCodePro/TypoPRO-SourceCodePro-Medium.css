@@ -1,0 +1,16 @@
+
+/* TypoPRO Source Code Pro Medium */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro Medium';
+    src:          url('TypoPRO-SourceCodePro-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-Medium.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-Medium.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-Medium.svgz#TypoPRO-SourceCodePro-Medium') format('svg');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

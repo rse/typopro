@@ -1,0 +1,16 @@
+
+/* TypoPRO Source Sans Pro Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Source Sans Pro';
+    src:          url('TypoPRO-SourceSansPro-BoldIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSansPro-BoldIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-BoldIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-BoldIt.ttf') format('truetype'),
+                  url('TypoPRO-SourceSansPro-BoldIt.svgz#TypoPRO-SourceSansPro-BoldIt') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

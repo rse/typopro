@@ -1,0 +1,16 @@
+
+/* TypoPRO Lato Black */
+@font-face {
+    font-family:  'TypoPRO Lato Black';
+    src:          url('TypoPRO-Lato-Bla.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-Bla.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Bla.woff') format('woff'),
+                  url('TypoPRO-Lato-Bla.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Bla.svgz#TypoPRO-Lato-Black') format('svg');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

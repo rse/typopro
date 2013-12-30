@@ -1,0 +1,9 @@
+Name:       Neuton
+Homepage:   http://luc.devroye.org/zick.html
+Download:   http://luc.devroye.org/zick-fonts.zip
+Version:    1.43
+License:    Open Font License 1.1
+Publisher:  Brian M. Zick
+Designer:   Brian M. Zick
+Designed:   2010
+Derivation: none

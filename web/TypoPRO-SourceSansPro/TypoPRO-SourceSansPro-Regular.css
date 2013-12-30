@@ -1,0 +1,16 @@
+
+/* TypoPRO Source Sans Pro */
+@font-face {
+    font-family:  'TypoPRO Source Sans Pro';
+    src:          url('TypoPRO-SourceSansPro-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-Regular.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-Regular.ttf') format('truetype'),
+                  url('TypoPRO-SourceSansPro-Regular.svgz#TypoPRO-SourceSansPro-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

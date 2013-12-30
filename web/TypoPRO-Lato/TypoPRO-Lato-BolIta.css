@@ -1,0 +1,16 @@
+
+/* TypoPRO Lato-BoldItalic */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-BolIta.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-BolIta.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-BolIta.woff') format('woff'),
+                  url('TypoPRO-Lato-BolIta.ttf') format('truetype'),
+                  url('TypoPRO-Lato-BolIta.svgz#TypoPRO-Lato-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

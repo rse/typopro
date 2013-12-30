@@ -1,0 +1,16 @@
+
+/* TypoPRO Lato-Bold */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-Bol.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-Bol.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Bol.woff') format('woff'),
+                  url('TypoPRO-Lato-Bol.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Bol.svgz#TypoPRO-Lato-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,16 @@
+
+/* TypoPRO Komika Text Tight Italic */
+@font-face {
+    font-family:  'TypoPRO Komika Text Tight';
+    src:          url('TypoPRO-KomikaText-TightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-KomikaText-TightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-KomikaText-TightItalic.woff') format('woff'),
+                  url('TypoPRO-KomikaText-TightItalic.ttf') format('truetype'),
+                  url('TypoPRO-KomikaText-TightItalic.svgz#TypoPRO-KomikaTextTight-Italic') format('svg');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,16 @@
+
+/* TypoPRO Komika Text */
+@font-face {
+    font-family:  'TypoPRO Komika Text';
+    src:          url('TypoPRO-KomikaText-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-KomikaText-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-KomikaText-Regular.woff') format('woff'),
+                  url('TypoPRO-KomikaText-Regular.ttf') format('truetype'),
+                  url('TypoPRO-KomikaText-Regular.svgz#TypoPRO-KomikaText') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

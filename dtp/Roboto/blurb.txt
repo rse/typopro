@@ -1,0 +1,9 @@
+Name:       Roboto
+Homepage:   https://github.com/android/platform_frameworks_base/tree/master/data/fonts
+Download:   https://github.com/android/platform_frameworks_base/archive/master.zip
+Version:    1.00
+License:    Apache License 2.0
+Publisher:  Open Handset Alliance, Google
+Designer:   Christian Robertson
+Designed:   2011
+Derivation: Andalé Mono
