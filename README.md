@@ -5,17 +5,15 @@ TypoPRO 0.9.0
 *Fonts for Professional Typography &mdash; the non-cloud way!*
 
 TypoPRO is a carefully hand-selected collection of freely usable
-professional fonts for use in Desktop Publishing, on Websites and
-inside Web-based Desktop or Mobile Applications. Currrently, TypoPRO
-consists of 131 individual fonts of 15 font families. The fonts in total
-span a wide range of font types, font styles and font weights.
+professional fonts for use in Desktop Publishing, on Websites and inside
+Web-based Desktop or Mobile Applications. Currrently, TypoPRO consists
+of 131 individual fonts of 15 font families. The fonts in total span a
+wide range of font types, font styles and font weights.
 
 Collection Overview
 -------------------
 
 
-Family          |       Type         |Files|      Style        |         Weight               
-----------------|:------------------:|:---:|:-----------------:|:---------------------------: 
 Name            |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 ----------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---: 
 ClearSans       |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |   
@@ -71,6 +69,18 @@ Collection Features
 - **Specimen**:
   For the Web font variants, a specimen in HTML format was generated to
   conveniently preview the font.
+
+Alternatives
+------------
+
+Nowadays all those fonts can also be individually
+downloaded for free from online font libraries like
+[Font Squirrel](http://www.fontsquirrel.com/) or
+[DaFont](http://www.dafont.com/) or even on-the-fly used from font
+cloud services like [Google Fonts](http://www.google.com/fonts) or
+[Adobe Typekit](https://typekit.com/). The purpose of TypoPRO is just
+different: TypoPRO provides an offline solution and and it intentionally
+is an opinionated pre-selection of fonts.
 
 Downloading
 -----------
