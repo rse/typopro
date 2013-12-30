@@ -4,12 +4,12 @@ TypoPRO 0.9.0
 
 *Fonts for Professional Typography &mdash; The Non-Cloud Way!*
 
-*TypoPRO* is a carefully hand-selected collection of freely usable
+**TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-*TypoPRO* consists of 131 individual fonts of 15 font families. The
+**TypoPRO** consists of 131 individual fonts of 15 font families. The
 fonts in total span a wide range of font types, font styles and font
-weights. This way *TypoPRO* provides a magnitude of typographic
+weights. This way **TypoPRO** provides a magnitude of typographic
 possibilities with just a minimum number of font families.
 
 Collection Overview
@@ -36,7 +36,7 @@ YanoneKaffeesatz|     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X 
 Collection Features
 -------------------
 
-- **Glyph Design**
+- **Glyph Design**:
   All fonts have their glyphs (individual characters) beautifully
   designed and this way provide a really wonderful optical appearance.
 
@@ -79,8 +79,8 @@ downloaded for free from online font libraries like
 [Font Squirrel](http://www.fontsquirrel.com/) or
 [DaFont](http://www.dafont.com/) or even on-the-fly used from font
 cloud services like [Google Fonts](http://www.google.com/fonts) or
-[Adobe Typekit](https://typekit.com/). The purpose of TypoPRO is just
-different: TypoPRO provides an offline solution and and it intentionally
+[Adobe Typekit](https://typekit.com/). The purpose of **TypoPRO** is just
+different: it provides an offline solution and and it intentionally
 is an opinionated pre-selection of fonts.
 
 Downloading
@@ -103,15 +103,14 @@ You can conveniently download TypoPRO in various ways:
 Licensing
 ---------
 
-All font families are distributed under liberal Open Source licenses.
+All included font families are distributed under very liberal Open Source licenses.
 For license details on each individual font family, please see the files
-`dtp/*/license.txt` and the font family meta information in the files
-`dtp/*/blurb.txt`.
+`dtp/*/license.txt` and the meta information in the files `dtp/*/blurb.txt`.
 
 Author
 ------
 
-Ralf S. Engelschall<br/>
-[engelschall.com](http://engelschall.com/)<br/>
+Ralf S. Engelschall,<br/>
+[http://engelschall.com](http://engelschall.com/)<br/>
 [rse@engelschall.com](mailto:rse@engelschall.com)
 
