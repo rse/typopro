@@ -1,0 +1,29 @@
+{
+    "name":        "typopro",
+    "version":     "0.9.0",
+    "description": "Fonts for Professional Typography",
+    "homepage":    "https://github.com/rse/typopro",
+    "license":     "Apache+OFL+PD",
+    "author": {
+        "name":    "Ralf S. Engelschall",
+        "email":   "rse@engelschall.com",
+        "url":     "http://engelschall.com"
+    },
+    "keywords": [
+        "font", "typography", "ttf", "otf", "woff", "eot", "svg"
+    ],
+    "repository": {
+        "type":    "git",
+        "url":     "git://github.com/rse/typopro.git"
+    },
+    "bugs": {
+        "url":     "http://github.com/rse/typopro/issues"
+    },
+    "devDependencies": {
+    },
+    "dependencies" : {
+    },
+    "engines": {
+        "node":    ">=0.8.0"
+    }
+}
