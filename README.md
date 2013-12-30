@@ -100,6 +100,16 @@ You can conveniently download TypoPRO in various ways:
 - cURL: download only the main file from the repository:<br/>
   `$ curl -O https://github.com/rse/typopro/archive/master.zip`
 
+Rebuilding
+----------
+
+In order to rebuild the `web/` content from the `dtp/` content,
+you can use the `etc/convert.sh` script. It needs Ralf S. Engelschall's **fontface**
+frontend program, as provided by the [OpenPKG](http://www.openpkg.org/) package `fontface`,
+and a magnitude of backend programs for font conversion: [FontForge](http://fontforge.org/),
+[font-optimizer](http://bitbucket.org/philip/font-optimizer/), [ttf2eot](http://ttf2eot.googlecode.com/).
+On installing the OpenPKG `fontface` package, these dependencies are all installed automatically, too.
+
 Licensing
 ---------
 
