@@ -2,12 +2,12 @@
 /* TypoPRO Lato Black */
 @font-face {
     font-family:  'TypoPRO Lato Black';
-    src:          url('TypoPRO-Lato-Bla.eot');
+    src:          url('TypoPRO-Lato-Black.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-Bla.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-Bla.woff') format('woff'),
-                  url('TypoPRO-Lato-Bla.ttf') format('truetype'),
-                  url('TypoPRO-Lato-Bla.svgz#TypoPRO-Lato-Black') format('svg');
+                  url('TypoPRO-Lato-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Black.woff') format('woff'),
+                  url('TypoPRO-Lato-Black.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Black.svgz#TypoPRO-Lato-Black') format('svg');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;
@@ -18,12 +18,12 @@
 /* TypoPRO Lato Black */
 @font-face {
     font-family:  'TypoPRO Lato Black';
-    src:          url('TypoPRO-Lato-BlaIta.eot');
+    src:          url('TypoPRO-Lato-BlackItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-BlaIta.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-BlaIta.woff') format('woff'),
-                  url('TypoPRO-Lato-BlaIta.ttf') format('truetype'),
-                  url('TypoPRO-Lato-BlaIta.svgz#TypoPRO-Lato-BlackItalic') format('svg');
+                  url('TypoPRO-Lato-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-BlackItalic.ttf') format('truetype'),
+                  url('TypoPRO-Lato-BlackItalic.svgz#TypoPRO-Lato-BlackItalic') format('svg');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;
@@ -34,12 +34,12 @@
 /* TypoPRO Lato-Bold */
 @font-face {
     font-family:  'TypoPRO Lato';
-    src:          url('TypoPRO-Lato-Bol.eot');
+    src:          url('TypoPRO-Lato-Bold.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-Bol.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-Bol.woff') format('woff'),
-                  url('TypoPRO-Lato-Bol.ttf') format('truetype'),
-                  url('TypoPRO-Lato-Bol.svgz#TypoPRO-Lato-Bold') format('svg');
+                  url('TypoPRO-Lato-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Bold.woff') format('woff'),
+                  url('TypoPRO-Lato-Bold.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Bold.svgz#TypoPRO-Lato-Bold') format('svg');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -50,12 +50,12 @@
 /* TypoPRO Lato-BoldItalic */
 @font-face {
     font-family:  'TypoPRO Lato';
-    src:          url('TypoPRO-Lato-BolIta.eot');
+    src:          url('TypoPRO-Lato-BoldItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-BolIta.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-BolIta.woff') format('woff'),
-                  url('TypoPRO-Lato-BolIta.ttf') format('truetype'),
-                  url('TypoPRO-Lato-BolIta.svgz#TypoPRO-Lato-BoldItalic') format('svg');
+                  url('TypoPRO-Lato-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Lato-BoldItalic.svgz#TypoPRO-Lato-BoldItalic') format('svg');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -66,12 +66,12 @@
 /* TypoPRO Lato Hairline */
 @font-face {
     font-family:  'TypoPRO Lato Hairline';
-    src:          url('TypoPRO-Lato-Hai.eot');
+    src:          url('TypoPRO-Lato-Hair.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-Hai.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-Hai.woff') format('woff'),
-                  url('TypoPRO-Lato-Hai.ttf') format('truetype'),
-                  url('TypoPRO-Lato-Hai.svgz#TypoPRO-Lato-Hairline') format('svg');
+                  url('TypoPRO-Lato-Hair.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Hair.woff') format('woff'),
+                  url('TypoPRO-Lato-Hair.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Hair.svgz#TypoPRO-Lato-Hairline') format('svg');
     font-style:   normal;
     font-weight:  265;
     font-stretch: normal;
@@ -82,12 +82,12 @@
 /* TypoPRO Lato Hairline */
 @font-face {
     font-family:  'TypoPRO Lato Hairline';
-    src:          url('TypoPRO-Lato-HaiIta.eot');
+    src:          url('TypoPRO-Lato-HairItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-HaiIta.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-HaiIta.woff') format('woff'),
-                  url('TypoPRO-Lato-HaiIta.ttf') format('truetype'),
-                  url('TypoPRO-Lato-HaiIta.svgz#TypoPRO-Lato-HairlineItalic') format('svg');
+                  url('TypoPRO-Lato-HairItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-HairItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-HairItalic.ttf') format('truetype'),
+                  url('TypoPRO-Lato-HairItalic.svgz#TypoPRO-Lato-HairlineItalic') format('svg');
     font-style:   italic;
     font-weight:  265;
     font-stretch: normal;
@@ -98,12 +98,12 @@
 /* TypoPRO Lato Light */
 @font-face {
     font-family:  'TypoPRO Lato Light';
-    src:          url('TypoPRO-Lato-Lig.eot');
+    src:          url('TypoPRO-Lato-Light.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-Lig.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-Lig.woff') format('woff'),
-                  url('TypoPRO-Lato-Lig.ttf') format('truetype'),
-                  url('TypoPRO-Lato-Lig.svgz#TypoPRO-Lato-Light') format('svg');
+                  url('TypoPRO-Lato-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Light.woff') format('woff'),
+                  url('TypoPRO-Lato-Light.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Light.svgz#TypoPRO-Lato-Light') format('svg');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -114,12 +114,12 @@
 /* TypoPRO Lato Light */
 @font-face {
     font-family:  'TypoPRO Lato Light';
-    src:          url('TypoPRO-Lato-LigIta.eot');
+    src:          url('TypoPRO-Lato-LightItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-LigIta.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-LigIta.woff') format('woff'),
-                  url('TypoPRO-Lato-LigIta.ttf') format('truetype'),
-                  url('TypoPRO-Lato-LigIta.svgz#TypoPRO-Lato-LightItalic') format('svg');
+                  url('TypoPRO-Lato-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-LightItalic.ttf') format('truetype'),
+                  url('TypoPRO-Lato-LightItalic.svgz#TypoPRO-Lato-LightItalic') format('svg');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -130,12 +130,12 @@
 /* TypoPRO Lato-Regular */
 @font-face {
     font-family:  'TypoPRO Lato';
-    src:          url('TypoPRO-Lato-Reg.eot');
+    src:          url('TypoPRO-Lato-Regular.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-Reg.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-Reg.woff') format('woff'),
-                  url('TypoPRO-Lato-Reg.ttf') format('truetype'),
-                  url('TypoPRO-Lato-Reg.svgz#TypoPRO-Lato-Regular') format('svg');
+                  url('TypoPRO-Lato-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Regular.woff') format('woff'),
+                  url('TypoPRO-Lato-Regular.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Regular.svgz#TypoPRO-Lato-Regular') format('svg');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -146,12 +146,12 @@
 /* TypoPRO Lato-Italic */
 @font-face {
     font-family:  'TypoPRO Lato';
-    src:          url('TypoPRO-Lato-RegIta.eot');
+    src:          url('TypoPRO-Lato-RegularItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-Lato-RegIta.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Lato-RegIta.woff') format('woff'),
-                  url('TypoPRO-Lato-RegIta.ttf') format('truetype'),
-                  url('TypoPRO-Lato-RegIta.svgz#TypoPRO-Lato-Italic') format('svg');
+                  url('TypoPRO-Lato-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-RegularItalic.ttf') format('truetype'),
+                  url('TypoPRO-Lato-RegularItalic.svgz#TypoPRO-Lato-Italic') format('svg');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
