@@ -2,17 +2,18 @@
 TypoPRO 0.9.0
 =============
 
-*Fonts for Professional Typography &mdash; the non-cloud way!*
+*Fonts for Professional Typography &mdash; The Non-Cloud Way!*
 
-TypoPRO is a carefully hand-selected collection of freely usable
-professional fonts for use in Desktop Publishing, on Websites and inside
-Web-based Desktop or Mobile Applications. Currrently, TypoPRO consists
-of 131 individual fonts of 15 font families. The fonts in total span a
-wide range of font types, font styles and font weights.
+*TypoPRO* is a carefully hand-selected collection of freely usable
+professional fonts for use in Desktop Publishing, on Websites and
+especially inside Web-based Desktop or Mobile Applications. Currrently,
+*TypoPRO* consists of 131 individual fonts of 15 font families. The
+fonts in total span a wide range of font types, font styles and font
+weights. This way *TypoPRO* provides a magnitude of typographic
+possibilities with just a minimum number of font families.
 
 Collection Overview
 -------------------
-
 
 Name            |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 ----------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---: 
