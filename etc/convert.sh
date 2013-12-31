@@ -25,7 +25,7 @@ for line in `cat etc/manifest.txt`; do
     cmd="$cmd -p \"$prefix\""
     cmd="$cmd -f \"$family\""
     if [ ".$weight" != . ]; then
-        cmd="$cmd -Y \"$weight\""
+        cmd="$cmd -W \"$weight\""
     fi
     if [ ".$style" != . ]; then
         cmd="$cmd -Y \"$style\""
