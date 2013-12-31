@@ -1,5 +1,5 @@
 
-TypoPRO 0.9.0
+TypoPRO 0.9.2
 =============
 
 *Fonts for Professional Typography &mdash; The Non-Cloud Way!*
