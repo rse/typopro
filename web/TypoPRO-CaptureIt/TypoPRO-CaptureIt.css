@@ -1,0 +1,16 @@
+
+/* TypoPRO Capture it */
+@font-face {
+    font-family:  'TypoPRO Capture It';
+    src:          url('TypoPRO-CaptureIt-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CaptureIt-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CaptureIt-Regular.woff') format('woff'),
+                  url('TypoPRO-CaptureIt-Regular.ttf') format('truetype'),
+                  url('TypoPRO-CaptureIt-Regular.svgz#TypoPRO-Captureit') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

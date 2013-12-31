@@ -7,31 +7,59 @@ TypoPRO 0.9.2
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 131 individual fonts of 15 font families. The
-fonts in total span a wide range of font types, font styles and font
-weights. This way **TypoPRO** provides a magnitude of typographic
-possibilities with just a minimum number of font families.
+**TypoPRO** consists of 147 individual fonts of 26 font families. The
+fonts in total span a very wide range of font types, font styles, font
+weights and font variants. This way **TypoPRO** provides a magnitude of
+typographic possibilities with just a minimum number of font families.
 
 Collection Overview
 -------------------
 
-Name            |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
-----------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---: 
-ClearSans       |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |   
-DejaVu          |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |     
-Droid           |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |     
-Gentium         |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |     
-Journal         |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |     
-Komika          |     | X  |    | X  | 14  |  X    |  X   |    | X  |      |  X   | X  |     
-Lato            |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X   
-Lora            |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |     
-Neuton          |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X   
-OpenSans        |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X   
-Roboto          |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |     
-SourceCodePro   |     |    | X  |    |  7  |       |      |    | X  |  X   |  X   | X  | X   
-SourceSansPro   |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X   
-Vegur           |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |     
-YanoneKaffeesatz|     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |     
+#### General Purpose Fonts
+
+The fonts in this group are general purpose ones, i.e., they can be used
+equally well for headlines, body text, footnotes, etc. They especially
+are part of whole font families and cover a wide range of Unicode
+characters.
+
+Name             |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+-----------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---: 
+ClearSans        |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |   
+DejaVu           |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |     
+Droid            |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |     
+Gentium          |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |     
+Lato             |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X   
+Lora             |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |     
+Neuton           |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X   
+OpenSans         |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X   
+Roboto           |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |     
+SourceCodePro    |     |    | X  |    |  7  |       |      |    | X  |  X   |  X   | X  | X   
+SourceSansPro    |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X   
+Vegur            |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |     
+YanoneKaffeesatz |     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |     
+
+#### Special Purpose Fonts
+
+The fonts in this group are special purpose ones, i.e., they are usually
+used only for particular headlines, subtitles, tags, etc. They are
+usually just stand-alone fonts and cover just a very limited set of
+Unicode characters.
+
+Name             |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+-----------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---: 
+BebasNeue        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+HHSamuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+CaptureIt        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+TopSecret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+KomikaHand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |     
+KomikaText       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |     
+KingthingsPetrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    | 
+GrandHotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
+Yellowtail       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+GreatVibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Journal          |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |     
+LearningCurve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |     
+VeteranTypewriter|     |    |    |    |  1  |       |      |    |    |      |  X   |    |     
 
 Collection Features
 -------------------
@@ -84,7 +112,8 @@ Nowadays all those fonts can also be individually
 downloaded for free from online font libraries like
 [Font Squirrel](http://www.fontsquirrel.com/) or
 [DaFont](http://www.dafont.com/) or even on-the-fly used from font
-cloud services like [Google Fonts](http://www.google.com/fonts) or
+cloud services like [Google Fonts](http://www.google.com/fonts),
+[Open Font Library](http://openfontlibrary.org/) or
 [Adobe Typekit](https://typekit.com/). The purpose of **TypoPRO** is just
 different: it provides an offline solution and and it intentionally
 is an opinionated pre-selection of fonts.

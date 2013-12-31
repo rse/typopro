@@ -6,6 +6,7 @@ my $links = "";
 my $styles = "";
 my $samples = "";
 
+my $title = 0;
 my $txt < io("etc/manifest.txt");
 foreach my $line (split(/\n/, $txt)) {
     my ($css) = ($line =~ m/^(.+?)\.(?:otf|ttf).*/);
@@ -21,7 +22,7 @@ foreach my $line (split(/\n/, $txt)) {
     my ($font_variant) = ($txt =~ m/font-variant:\s+(.+?);/s);
 
     my $id = "$font_family-$font_style-$font_weight-$font_stretch-$font_variant";
-    $id =~ s/\s+/-/g;
+    $id =~ s/[\s.]+/-/g;
 
     $links .= "<link href=\"$css\" rel=\"stylesheet\" type=\"text/css\"/>\n";
     $styles .=
@@ -32,6 +33,14 @@ foreach my $line (split(/\n/, $txt)) {
         "    font-stretch: $font_stretch;\n" .
         "    font-variant: $font_variant;\n" .
         "}\n";
+    if ($title == 0) {
+        $samples .= "<div class=\"group\">General Purpose</div>\n";
+        $title = 1;
+    }
+    elsif ($title == 1 && $font_family =~ m/Bebas/) {
+        $samples .= "<div class=\"group\">Special Purpose</div>\n";
+        $title = 2;
+    }
     $samples .=
        "<div class=\"sample\">\n" .
        "    <a href=\"$html\">\n" .
@@ -57,8 +66,9 @@ my $html =
    $links .
    "        <style type=\"text/css\">\n" .
    "            html { background-color: #dcdcdc; }\n" .
-   "            body { background-color: #ffffff; width: 865px; font-size: 14pt; margin: auto; margin-top: 0px; font-family: sans-serif; }\n" .
+   "            body { background-color: #ffffff; width: 865px; font-size: 14pt; margin: auto; margin-top: 0px; font-family: sans-serif; margin-bottom: 40px; }\n" .
    "            .title { background-color: #000000; color: #ffffff; width: 100%; font-size: 20pt; font-weight: bold; padding: 20px; -moz-box-sizing: border-box; box-sizing: border-box; }\n" .
+   "            .group { background-color: #666666; color: #ffffff; width: 100%; font-size: 20pt; font-weight: bold; padding: 20px; -moz-box-sizing: border-box; box-sizing: border-box; margin: 10px 0px 10px 0px; }\n" .
    "            .sample { border-top: 1px solid #cccccc; margin-top: 8px; padding: 8px 0px 0px 20px; }\n" .
    "            .sample a { text-decoration: none; }\n" .
    "            .sample .family { font-size: 10pt; color: #000000; }\n" .

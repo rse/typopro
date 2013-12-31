@@ -1,0 +1,16 @@
+
+/* TypoPRO Roboto Slab Thin */
+@font-face {
+    font-family:  'TypoPRO Roboto Slab';
+    src:          url('TypoPRO-RobotoSlab-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoSlab-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoSlab-Thin.woff') format('woff'),
+                  url('TypoPRO-RobotoSlab-Thin.ttf') format('truetype'),
+                  url('TypoPRO-RobotoSlab-Thin.svgz#TypoPRO-RobotoSlab-Thin') format('svg');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

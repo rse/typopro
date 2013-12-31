@@ -1,7 +1,7 @@
 
 /* TypoPRO Lora Bold */
 @font-face {
-    font-family:  'TypoPRO Lato';
+    font-family:  'TypoPRO Lora';
     src:          url('TypoPRO-Lora-Bold.eot');
     src:          local('*'),
                   url('TypoPRO-Lora-Bold.eot?#iefix') format('embedded-opentype'),
@@ -17,7 +17,7 @@
 
 /* TypoPRO Lora Bold Italic */
 @font-face {
-    font-family:  'TypoPRO Lato';
+    font-family:  'TypoPRO Lora';
     src:          url('TypoPRO-Lora-BoldItalic.eot');
     src:          local('*'),
                   url('TypoPRO-Lora-BoldItalic.eot?#iefix') format('embedded-opentype'),
@@ -33,7 +33,7 @@
 
 /* TypoPRO Lora Italic */
 @font-face {
-    font-family:  'TypoPRO Lato';
+    font-family:  'TypoPRO Lora';
     src:          url('TypoPRO-Lora-Italic.eot');
     src:          local('*'),
                   url('TypoPRO-Lora-Italic.eot?#iefix') format('embedded-opentype'),
@@ -49,7 +49,7 @@
 
 /* TypoPRO Lora */
 @font-face {
-    font-family:  'TypoPRO Lato';
+    font-family:  'TypoPRO Lora';
     src:          url('TypoPRO-Lora-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-Lora-Regular.eot?#iefix') format('embedded-opentype'),
