@@ -1,7 +1,7 @@
 
 /* TypoPRO Komika Text Tight */
 @font-face {
-    font-family:  'TypoPRO Komika Text Tight';
+    font-family:  'TypoPRO Komika Text';
     src:          url('TypoPRO-KomikaText-Tight.eot');
     src:          local('*'),
                   url('TypoPRO-KomikaText-Tight.eot?#iefix') format('embedded-opentype'),
@@ -10,7 +10,7 @@
                   url('TypoPRO-KomikaText-Tight.svgz#TypoPRO-KomikaTextTight') format('svg');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

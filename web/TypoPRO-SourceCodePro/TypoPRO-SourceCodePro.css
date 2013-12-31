@@ -1,7 +1,7 @@
 
 /* TypoPRO Source Code Pro Black */
 @font-face {
-    font-family:  'TypoPRO Source Code Pro Black';
+    font-family:  'TypoPRO Source Code Pro';
     src:          url('TypoPRO-SourceCodePro-Black.eot');
     src:          local('*'),
                   url('TypoPRO-SourceCodePro-Black.eot?#iefix') format('embedded-opentype'),
@@ -33,7 +33,7 @@
 
 /* TypoPRO Source Code Pro ExtraLight */
 @font-face {
-    font-family:  'TypoPRO Source Code Pro ExtraLight';
+    font-family:  'TypoPRO Source Code Pro';
     src:          url('TypoPRO-SourceCodePro-ExtraLight.eot');
     src:          local('*'),
                   url('TypoPRO-SourceCodePro-ExtraLight.eot?#iefix') format('embedded-opentype'),
@@ -49,7 +49,7 @@
 
 /* TypoPRO Source Code Pro Light */
 @font-face {
-    font-family:  'TypoPRO Source Code Pro Light';
+    font-family:  'TypoPRO Source Code Pro';
     src:          url('TypoPRO-SourceCodePro-Light.eot');
     src:          local('*'),
                   url('TypoPRO-SourceCodePro-Light.eot?#iefix') format('embedded-opentype'),
@@ -65,7 +65,7 @@
 
 /* TypoPRO Source Code Pro Medium */
 @font-face {
-    font-family:  'TypoPRO Source Code Pro Medium';
+    font-family:  'TypoPRO Source Code Pro';
     src:          url('TypoPRO-SourceCodePro-Medium.eot');
     src:          local('*'),
                   url('TypoPRO-SourceCodePro-Medium.eot?#iefix') format('embedded-opentype'),
@@ -97,7 +97,7 @@
 
 /* TypoPRO Source Code Pro Semibold */
 @font-face {
-    font-family:  'TypoPRO Source Code Pro Semibold';
+    font-family:  'TypoPRO Source Code Pro';
     src:          url('TypoPRO-SourceCodePro-Semibold.eot');
     src:          local('*'),
                   url('TypoPRO-SourceCodePro-Semibold.eot?#iefix') format('embedded-opentype'),

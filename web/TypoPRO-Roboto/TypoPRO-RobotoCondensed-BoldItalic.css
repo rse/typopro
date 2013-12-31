@@ -1,7 +1,7 @@
 
 /* TypoPRO Roboto Condensed Bold Italic */
 @font-face {
-    font-family:  'TypoPRO Roboto Condensed';
+    font-family:  'TypoPRO Roboto';
     src:          url('TypoPRO-RobotoCondensed-BoldItalic.eot');
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
@@ -10,7 +10,7 @@
                   url('TypoPRO-RobotoCondensed-BoldItalic.svgz#TypoPRO-RobotoCondensed-BoldItalic') format('svg');
     font-style:   italic;
     font-weight:  bold;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

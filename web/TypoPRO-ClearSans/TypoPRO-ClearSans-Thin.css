@@ -1,7 +1,7 @@
 
 /* TypoPRO Clear Sans Thin */
 @font-face {
-    font-family:  'TypoPRO Clear Sans Thin';
+    font-family:  'TypoPRO Clear Sans';
     src:          url('TypoPRO-ClearSans-Thin.eot');
     src:          local('*'),
                   url('TypoPRO-ClearSans-Thin.eot?#iefix') format('embedded-opentype'),
@@ -9,7 +9,7 @@
                   url('TypoPRO-ClearSans-Thin.ttf') format('truetype'),
                   url('TypoPRO-ClearSans-Thin.svgz#TypoPRO-ClearSans-Thin') format('svg');
     font-style:   normal;
-    font-weight:  250;
+    font-weight:  300;
     font-stretch: normal;
     font-variant: normal;
 }

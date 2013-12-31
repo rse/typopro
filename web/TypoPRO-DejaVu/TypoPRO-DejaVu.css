@@ -33,7 +33,7 @@
 
 /* TypoPRO DejaVu Sans Light */
 @font-face {
-    font-family:  'TypoPRO DejaVu Sans Light';
+    font-family:  'TypoPRO DejaVu Sans';
     src:          url('TypoPRO-DejaVuSans-ExtraLight.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
@@ -81,7 +81,7 @@
 
 /* TypoPRO DejaVu Sans Condensed Bold */
 @font-face {
-    font-family:  'TypoPRO DejaVu Sans Condensed';
+    font-family:  'TypoPRO DejaVu Sans';
     src:          url('TypoPRO-DejaVuSansCondensed-Bold.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
@@ -90,14 +90,14 @@
                   url('TypoPRO-DejaVuSansCondensed-Bold.svgz#TypoPRO-DejaVuSansCondensed-Bold') format('svg');
     font-style:   normal;
     font-weight:  bold;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO DejaVu Sans Condensed Bold Oblique */
 @font-face {
-    font-family:  'TypoPRO DejaVu Sans Condensed';
+    font-family:  'TypoPRO DejaVu Sans';
     src:          url('TypoPRO-DejaVuSansCondensed-BoldOblique.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-BoldOblique.eot?#iefix') format('embedded-opentype'),
@@ -106,14 +106,14 @@
                   url('TypoPRO-DejaVuSansCondensed-BoldOblique.svgz#TypoPRO-DejaVuSansCondensed-BoldOblique') format('svg');
     font-style:   oblique;
     font-weight:  bold;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO DejaVu Sans Condensed Oblique */
 @font-face {
-    font-family:  'TypoPRO DejaVu Sans Condensed';
+    font-family:  'TypoPRO DejaVu Sans';
     src:          url('TypoPRO-DejaVuSansCondensed-Oblique.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Oblique.eot?#iefix') format('embedded-opentype'),
@@ -122,14 +122,14 @@
                   url('TypoPRO-DejaVuSansCondensed-Oblique.svgz#TypoPRO-DejaVuSansCondensed-Oblique') format('svg');
     font-style:   oblique;
     font-weight:  normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO DejaVu Sans Condensed */
 @font-face {
-    font-family:  'TypoPRO DejaVu Sans Condensed';
+    font-family:  'TypoPRO DejaVu Sans';
     src:          url('TypoPRO-DejaVuSansCondensed-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
@@ -138,7 +138,7 @@
                   url('TypoPRO-DejaVuSansCondensed-Regular.svgz#TypoPRO-DejaVuSansCondensed') format('svg');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
@@ -273,7 +273,7 @@
 
 /* TypoPRO DejaVu Serif Condensed Bold */
 @font-face {
-    font-family:  'TypoPRO DejaVu Serif Condensed';
+    font-family:  'TypoPRO DejaVu Serif';
     src:          url('TypoPRO-DejaVuSerifCondensed-Bold.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-Bold.eot?#iefix') format('embedded-opentype'),
@@ -282,14 +282,14 @@
                   url('TypoPRO-DejaVuSerifCondensed-Bold.svgz#TypoPRO-DejaVuSerifCondensed-Bold') format('svg');
     font-style:   normal;
     font-weight:  bold;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO DejaVu Serif Condensed Bold Italic */
 @font-face {
-    font-family:  'TypoPRO DejaVu Serif Condensed';
+    font-family:  'TypoPRO DejaVu Serif';
     src:          url('TypoPRO-DejaVuSerifCondensed-BoldItalic.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
@@ -298,14 +298,14 @@
                   url('TypoPRO-DejaVuSerifCondensed-BoldItalic.svgz#TypoPRO-DejaVuSerifCondensed-BoldItalic') format('svg');
     font-style:   italic;
     font-weight:  bold;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO DejaVu Serif Condensed Italic */
 @font-face {
-    font-family:  'TypoPRO DejaVu Serif Condensed';
+    font-family:  'TypoPRO DejaVu Serif';
     src:          url('TypoPRO-DejaVuSerifCondensed-Italic.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-Italic.eot?#iefix') format('embedded-opentype'),
@@ -314,14 +314,14 @@
                   url('TypoPRO-DejaVuSerifCondensed-Italic.svgz#TypoPRO-DejaVuSerifCondensed-Italic') format('svg');
     font-style:   italic;
     font-weight:  normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO DejaVu Serif Condensed */
 @font-face {
-    font-family:  'TypoPRO DejaVu Serif Condensed';
+    font-family:  'TypoPRO DejaVu Serif';
     src:          url('TypoPRO-DejaVuSerifCondensed-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-Regular.eot?#iefix') format('embedded-opentype'),
@@ -330,7 +330,7 @@
                   url('TypoPRO-DejaVuSerifCondensed-Regular.svgz#TypoPRO-DejaVuSerifCondensed') format('svg');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

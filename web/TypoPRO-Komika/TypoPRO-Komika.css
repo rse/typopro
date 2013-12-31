@@ -113,7 +113,7 @@
 
 /* TypoPRO Komika Text Kaps */
 @font-face {
-    font-family:  'TypoPRO Komika Text Kaps';
+    font-family:  'TypoPRO Komika Text';
     src:          url('TypoPRO-KomikaText-Kaps.eot');
     src:          local('*'),
                   url('TypoPRO-KomikaText-Kaps.eot?#iefix') format('embedded-opentype'),
@@ -129,7 +129,7 @@
 
 /* TypoPRO Komika Text Kaps Bold */
 @font-face {
-    font-family:  'TypoPRO Komika Text Kaps';
+    font-family:  'TypoPRO Komika Text';
     src:          url('TypoPRO-KomikaText-KapsBold.eot');
     src:          local('*'),
                   url('TypoPRO-KomikaText-KapsBold.eot?#iefix') format('embedded-opentype'),
@@ -145,7 +145,7 @@
 
 /* TypoPRO Komika Text Kaps Bold Italic */
 @font-face {
-    font-family:  'TypoPRO Komika Text Kaps';
+    font-family:  'TypoPRO Komika Text';
     src:          url('TypoPRO-KomikaText-KapsBoldItalic.eot');
     src:          local('*'),
                   url('TypoPRO-KomikaText-KapsBoldItalic.eot?#iefix') format('embedded-opentype'),
@@ -161,7 +161,7 @@
 
 /* TypoPRO Komika Text Kaps Italic */
 @font-face {
-    font-family:  'TypoPRO Komika Text Kaps';
+    font-family:  'TypoPRO Komika Text';
     src:          url('TypoPRO-KomikaText-KapsItalic.eot');
     src:          local('*'),
                   url('TypoPRO-KomikaText-KapsItalic.eot?#iefix') format('embedded-opentype'),
@@ -193,7 +193,7 @@
 
 /* TypoPRO Komika Text Tight */
 @font-face {
-    font-family:  'TypoPRO Komika Text Tight';
+    font-family:  'TypoPRO Komika Text';
     src:          url('TypoPRO-KomikaText-Tight.eot');
     src:          local('*'),
                   url('TypoPRO-KomikaText-Tight.eot?#iefix') format('embedded-opentype'),
@@ -202,14 +202,14 @@
                   url('TypoPRO-KomikaText-Tight.svgz#TypoPRO-KomikaTextTight') format('svg');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO Komika Text Tight Italic */
 @font-face {
-    font-family:  'TypoPRO Komika Text Tight';
+    font-family:  'TypoPRO Komika Text';
     src:          url('TypoPRO-KomikaText-TightItalic.eot');
     src:          local('*'),
                   url('TypoPRO-KomikaText-TightItalic.eot?#iefix') format('embedded-opentype'),
@@ -218,7 +218,7 @@
                   url('TypoPRO-KomikaText-TightItalic.svgz#TypoPRO-KomikaTextTight-Italic') format('svg');
     font-style:   italic;
     font-weight:  normal;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

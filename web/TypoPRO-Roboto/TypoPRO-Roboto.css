@@ -105,7 +105,7 @@
                   url('TypoPRO-Roboto-Thin.ttf') format('truetype'),
                   url('TypoPRO-Roboto-Thin.svgz#TypoPRO-Roboto-Thin') format('svg');
     font-style:   normal;
-    font-weight:  250;
+    font-weight:  300;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -121,7 +121,7 @@
                   url('TypoPRO-Roboto-ThinItalic.ttf') format('truetype'),
                   url('TypoPRO-Roboto-ThinItalic.svgz#TypoPRO-Roboto-ThinItalic') format('svg');
     font-style:   italic;
-    font-weight:  250;
+    font-weight:  300;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -129,7 +129,7 @@
 
 /* TypoPRO Roboto Condensed Bold */
 @font-face {
-    font-family:  'TypoPRO Roboto Condensed';
+    font-family:  'TypoPRO Roboto';
     src:          url('TypoPRO-RobotoCondensed-Bold.eot');
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-Bold.eot?#iefix') format('embedded-opentype'),
@@ -138,14 +138,14 @@
                   url('TypoPRO-RobotoCondensed-Bold.svgz#TypoPRO-RobotoCondensed-Bold') format('svg');
     font-style:   normal;
     font-weight:  bold;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO Roboto Condensed Bold Italic */
 @font-face {
-    font-family:  'TypoPRO Roboto Condensed';
+    font-family:  'TypoPRO Roboto';
     src:          url('TypoPRO-RobotoCondensed-BoldItalic.eot');
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
@@ -154,14 +154,14 @@
                   url('TypoPRO-RobotoCondensed-BoldItalic.svgz#TypoPRO-RobotoCondensed-BoldItalic') format('svg');
     font-style:   italic;
     font-weight:  bold;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO Roboto Condensed Italic */
 @font-face {
-    font-family:  'TypoPRO Roboto Condensed';
+    font-family:  'TypoPRO Roboto';
     src:          url('TypoPRO-RobotoCondensed-Italic.eot');
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-Italic.eot?#iefix') format('embedded-opentype'),
@@ -170,14 +170,14 @@
                   url('TypoPRO-RobotoCondensed-Italic.svgz#TypoPRO-RobotoCondensed-Italic') format('svg');
     font-style:   italic;
     font-weight:  normal;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
 
 /* TypoPRO Roboto Condensed Regular */
 @font-face {
-    font-family:  'TypoPRO Roboto Condensed';
+    font-family:  'TypoPRO Roboto';
     src:          url('TypoPRO-RobotoCondensed-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-Regular.eot?#iefix') format('embedded-opentype'),
@@ -186,7 +186,7 @@
                   url('TypoPRO-RobotoCondensed-Regular.svgz#TypoPRO-RobotoCondensed-Regular') format('svg');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: normal;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

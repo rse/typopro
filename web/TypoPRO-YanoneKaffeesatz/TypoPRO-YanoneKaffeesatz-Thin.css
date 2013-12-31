@@ -1,7 +1,7 @@
 
 /* TypoPRO Yanone Kaffeesatz Thin */
 @font-face {
-    font-family:  'TypoPRO Yanone Kaffeesatz Thin';
+    font-family:  'TypoPRO Yanone Kaffeesatz';
     src:          url('TypoPRO-YanoneKaffeesatz-Thin.eot');
     src:          local('*'),
                   url('TypoPRO-YanoneKaffeesatz-Thin.eot?#iefix') format('embedded-opentype'),
@@ -9,7 +9,7 @@
                   url('TypoPRO-YanoneKaffeesatz-Thin.ttf') format('truetype'),
                   url('TypoPRO-YanoneKaffeesatz-Thin.svgz#TypoPRO-YanoneKaffeesatz-Thin') format('svg');
     font-style:   normal;
-    font-weight:  250;
+    font-weight:  300;
     font-stretch: normal;
     font-variant: normal;
 }

@@ -1,7 +1,7 @@
 
 /* TypoPRO Lato Black */
 @font-face {
-    font-family:  'TypoPRO Lato Black';
+    font-family:  'TypoPRO Lato';
     src:          url('TypoPRO-Lato-Black.eot');
     src:          local('*'),
                   url('TypoPRO-Lato-Black.eot?#iefix') format('embedded-opentype'),
@@ -17,7 +17,7 @@
 
 /* TypoPRO Lato Black */
 @font-face {
-    font-family:  'TypoPRO Lato Black';
+    font-family:  'TypoPRO Lato';
     src:          url('TypoPRO-Lato-BlackItalic.eot');
     src:          local('*'),
                   url('TypoPRO-Lato-BlackItalic.eot?#iefix') format('embedded-opentype'),
@@ -65,7 +65,7 @@
 
 /* TypoPRO Lato Hairline */
 @font-face {
-    font-family:  'TypoPRO Lato Hairline';
+    font-family:  'TypoPRO Lato';
     src:          url('TypoPRO-Lato-Hair.eot');
     src:          local('*'),
                   url('TypoPRO-Lato-Hair.eot?#iefix') format('embedded-opentype'),
@@ -73,7 +73,7 @@
                   url('TypoPRO-Lato-Hair.ttf') format('truetype'),
                   url('TypoPRO-Lato-Hair.svgz#TypoPRO-Lato-Hairline') format('svg');
     font-style:   normal;
-    font-weight:  265;
+    font-weight:  300;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -81,7 +81,7 @@
 
 /* TypoPRO Lato Hairline */
 @font-face {
-    font-family:  'TypoPRO Lato Hairline';
+    font-family:  'TypoPRO Lato';
     src:          url('TypoPRO-Lato-HairItalic.eot');
     src:          local('*'),
                   url('TypoPRO-Lato-HairItalic.eot?#iefix') format('embedded-opentype'),
@@ -89,7 +89,7 @@
                   url('TypoPRO-Lato-HairItalic.ttf') format('truetype'),
                   url('TypoPRO-Lato-HairItalic.svgz#TypoPRO-Lato-HairlineItalic') format('svg');
     font-style:   italic;
-    font-weight:  265;
+    font-weight:  300;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -97,7 +97,7 @@
 
 /* TypoPRO Lato Light */
 @font-face {
-    font-family:  'TypoPRO Lato Light';
+    font-family:  'TypoPRO Lato';
     src:          url('TypoPRO-Lato-Light.eot');
     src:          local('*'),
                   url('TypoPRO-Lato-Light.eot?#iefix') format('embedded-opentype'),
@@ -113,7 +113,7 @@
 
 /* TypoPRO Lato Light */
 @font-face {
-    font-family:  'TypoPRO Lato Light';
+    font-family:  'TypoPRO Lato';
     src:          url('TypoPRO-Lato-LightItalic.eot');
     src:          local('*'),
                   url('TypoPRO-Lato-LightItalic.eot?#iefix') format('embedded-opentype'),

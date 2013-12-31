@@ -1,7 +1,7 @@
 
 /* TypoPRO DejaVu Sans Condensed */
 @font-face {
-    font-family:  'TypoPRO DejaVu Sans Condensed';
+    font-family:  'TypoPRO DejaVu Sans';
     src:          url('TypoPRO-DejaVuSansCondensed-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
@@ -10,7 +10,7 @@
                   url('TypoPRO-DejaVuSansCondensed-Regular.svgz#TypoPRO-DejaVuSansCondensed') format('svg');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

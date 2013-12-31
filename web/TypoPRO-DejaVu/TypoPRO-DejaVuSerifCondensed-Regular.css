@@ -1,7 +1,7 @@
 
 /* TypoPRO DejaVu Serif Condensed */
 @font-face {
-    font-family:  'TypoPRO DejaVu Serif Condensed';
+    font-family:  'TypoPRO DejaVu Serif';
     src:          url('TypoPRO-DejaVuSerifCondensed-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-Regular.eot?#iefix') format('embedded-opentype'),
@@ -10,7 +10,7 @@
                   url('TypoPRO-DejaVuSerifCondensed-Regular.svgz#TypoPRO-DejaVuSerifCondensed') format('svg');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: semi-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

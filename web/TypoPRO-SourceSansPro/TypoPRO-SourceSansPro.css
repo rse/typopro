@@ -1,7 +1,7 @@
 
 /* TypoPRO Source Sans Pro Black */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro Black';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-Black.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-Black.eot?#iefix') format('embedded-opentype'),
@@ -17,7 +17,7 @@
 
 /* TypoPRO Source Sans Pro Black Italic */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro Black';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-BlackIt.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-BlackIt.eot?#iefix') format('embedded-opentype'),
@@ -65,7 +65,7 @@
 
 /* TypoPRO Source Sans Pro ExtraLight */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro ExtraLight';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-ExtraLight.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
@@ -81,7 +81,7 @@
 
 /* TypoPRO Source Sans Pro ExtraLight Italic */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro ExtraLight';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-ExtraLightIt.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-ExtraLightIt.eot?#iefix') format('embedded-opentype'),
@@ -113,7 +113,7 @@
 
 /* TypoPRO Source Sans Pro Light */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro Light';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-Light.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-Light.eot?#iefix') format('embedded-opentype'),
@@ -129,7 +129,7 @@
 
 /* TypoPRO Source Sans Pro Light Italic */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro Light';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-LightIt.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-LightIt.eot?#iefix') format('embedded-opentype'),
@@ -161,7 +161,7 @@
 
 /* TypoPRO Source Sans Pro Semibold */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro Semibold';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-Semibold.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-Semibold.eot?#iefix') format('embedded-opentype'),
@@ -177,7 +177,7 @@
 
 /* TypoPRO Source Sans Pro Semibold Italic */
 @font-face {
-    font-family:  'TypoPRO Source Sans Pro Semibold';
+    font-family:  'TypoPRO Source Sans Pro';
     src:          url('TypoPRO-SourceSansPro-SemiboldIt.eot');
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-SemiboldIt.eot?#iefix') format('embedded-opentype'),
