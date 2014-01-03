@@ -47,4 +47,11 @@ for font in web/*; do
     cat web/$name/*.css >tmp.css
     mv tmp.css web/$name/$name.css
 done
+for dir in dtp/*; do
+    if [ ! -d $dir ]; then
+        continue
+    fi
+    name=`echo "$dir" | sed -e 's;dtp/;;'`
+    cp dtp/$name/blurb.txt dtp/$name/license.txt web/$prefix-$name/
+done
 
