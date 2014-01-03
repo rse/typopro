@@ -16,7 +16,10 @@ for line in `cat etc/manifest.txt`; do
     IFS="$OIFS"
     font=`echo "$line" | sed -e 's; .*$;;'`
     family=`echo "$line" | sed -e 's;.*family="\([^"]*\)".*;\1;'`
+    weight=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*weight="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
+    style=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*style="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
     stretch=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*stretch="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
+    variant=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*variant="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
     echo "++ converting: $font ($family)"
     name=`echo "$font" | sed -e 's;/.*;;'`
     shtool mkdir -f -p -m 755 web/$prefix-$name
