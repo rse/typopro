@@ -150,6 +150,20 @@ Font Format (WOFF), TrueType Font (TTF) and Compressed Scalable Vector
 Graphics (SVGZ). The different formats for each font are required for
 maximum portability across browsers and operating systems.
 
+Recommendation
+--------------
+
+For general purpose typography, I can recommend you all of the above 17
+General Purpose fonts, of course. But my personal preference most of
+the times is towards *Open Sans* for headlines, *Droid Serif* for body
+text and *DejaVu Sans Mono* for code. There are many reasons for this,
+but mainly all those three, each in their class, in my humble opinion,
+provide the best balance of legibility (because of very distinct
+glyph outlines), beauty (because of very harmonic glyph curves) and
+versatility (because of their different available stroke widths and
+optional italic variants). My second choice would be *Source Sans Pro*
+for headlines, *Neuton* for body text and *Anonymous Pro* for code.
+
 Rebuilding
 ----------
 
