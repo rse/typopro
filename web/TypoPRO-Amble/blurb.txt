@@ -8,5 +8,8 @@ Designer:   Christian Robertson (Punchcut)
 Designed:   2009
 Derivation: none
 
-Amble was designed by Punchcut. In 2010 Sun licensed it for inclusion in
-the JavaFX SDK for mobile handsets.
+Amble was designed by Punchcut. In 2010 Sun Microsystems licensed it for
+inclusion in their JavaFX SDK for mobile handsets and released it under
+a liberal Apache License. Amble is a highly legible screen-optimized
+sans-serif font family. Amble is like a slightly more open version of
+Verdana and has a very distinct "K" character.
