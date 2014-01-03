@@ -1,0 +1,12 @@
+Name:       Amble
+Homepage:   http://www.fontsquirrel.com/fonts/amble
+Download:   http://www.fontsquirrel.com/fonts/amble
+Version:    1.0000 (2009)
+License:    Apache
+Publisher:  Sun Microsystems
+Designer:   Christian Robertson (Punchcut)
+Designed:   2009
+Derivation: none
+
+Amble was designed by Punchcut. In 2010 Sun licensed it for inclusion in
+the JavaFX SDK for mobile handsets.

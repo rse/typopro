@@ -1,0 +1,16 @@
+
+/* TypoPRO Vollkorn Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn';
+    src:          url('TypoPRO-Vollkorn-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vollkorn-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vollkorn-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Vollkorn-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Vollkorn-BoldItalic.svgz#TypoPRO-Vollkorn-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

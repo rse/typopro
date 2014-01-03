@@ -7,7 +7,7 @@ TypoPRO 0.9.3
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 147 individual fonts of 26 font families. The
+**TypoPRO** consists of 176 individual fonts of 30 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -23,20 +23,24 @@ are part of whole font families and cover a wide range of Unicode
 characters.
 
 Name             |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---: 
-ClearSans        |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |   
-DejaVu           |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |     
-Droid            |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |     
-Gentium          |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |     
-Lato             |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X   
-Lora             |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |     
-Neuton           |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X   
-OpenSans         |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X   
-Roboto           |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |     
-SourceCodePro    |     |    | X  |    |  7  |       |      |    | X  |  X   |  X   | X  | X   
-SourceSansPro    |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X   
-Vegur            |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |     
-YanoneKaffeesatz |     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |     
+-----------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Amble            |     | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
+AnonymousPro     |     |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+ClearSans        |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
+DejaVu           |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
+Droid            |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
+Gentium          |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
+Lato             |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Lora             |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Neuton           |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
+OpenSans         |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
+Roboto           |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
+SourceCodePro    |     |    | X  |    |  7  |       |      |    | X  |  X   |  X   | X  | X
+SourceSansPro    |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Ubuntu           |     | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
+Vegur            |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
+Vollkorn         | X   |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+YanoneKaffeesatz |     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts
 
@@ -46,20 +50,20 @@ usually just stand-alone fonts and cover just a very limited set of
 Unicode characters.
 
 Name             |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---: 
+-----------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 BebasNeue        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 HHSamuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 CaptureIt        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 TopSecret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-KomikaHand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |     
-KomikaText       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |     
-KingthingsPetrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    | 
+KomikaHand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
+KomikaText       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
+KingthingsPetrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
 GrandHotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
 Yellowtail       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 GreatVibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Journal          |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |     
-LearningCurve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |     
-VeteranTypewriter|     |    |    |    |  1  |       |      |    |    |      |  X   |    |     
+Journal          |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+LearningCurve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
+VeteranTypewriter|     |    |    |    |  1  |       |      |    |    |      |  X   |    |
 
 Collection Features
 -------------------
@@ -88,7 +92,7 @@ Collection Features
   All fonts are consistently converted from their original TTF/OTF
   format into various font formats for use on the Web. Corresponding
   CSS `@font-face` declaration files were generated, too.
-  
+
 - **Font Renaming**:
   To circumvent license restrictions related to font format conversions
   and to avoid confusion with the original font formats, all Web font
@@ -100,7 +104,7 @@ Collection Features
   `font-family` attribute) and all fonts within the same font family
   are consistently distinguished via CSS parameters `font-weight`,
   `font-style`, `font-stretch` and `font-variant`.
-  
+
 - **Specimen**:
   For the Web font variants, a specimen in HTML format was generated to
   conveniently preview the font.
