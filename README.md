@@ -35,7 +35,7 @@ Lora             |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X
 Neuton           |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
 OpenSans         |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
 Roboto           |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
-SourceCodePro    |     |    | X  |    |  7  |       |      |    | X  |  X   |  X   | X  | X
+SourceCodePro    |     |    | X  |    |  7  |  X    |      |    | X  |  X   |  X   | X  | X
 SourceSansPro    |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Ubuntu           |     | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
 Vegur            |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
@@ -119,8 +119,8 @@ downloaded for free from online font libraries like
 cloud services like [Google Fonts](http://www.google.com/fonts),
 [Open Font Library](http://openfontlibrary.org/) or
 [Adobe Typekit](https://typekit.com/). The purpose of **TypoPRO** is just
-different: it provides an offline solution and and it intentionally
-is an opinionated pre-selection of fonts.
+different: it provides an offline solution and it intentionally
+is a very opinionated pre-selection of reasonable fonts.
 
 Downloading
 -----------
@@ -138,6 +138,17 @@ You can conveniently download TypoPRO in various ways:
 
 - cURL: download only the main file from the repository:<br/>
   `$ curl -O https://github.com/rse/typopro/archive/master.zip`
+
+Content
+-------
+
+In directory `dtp/` (Desktop Publishing) all font sources, one directory
+per font family, are stored in OpenType Font (OTF) or TrueType Font
+(TTF) format. In directory `web/` (World Wide Web) the same fonts are
+stored, but this time in Web formats: Embedded OpenType (EOT), Web Open
+Font Format (WOFF), TrueType Font (TTF) and Compressed Scalable Vector
+Graphics (SVGZ). The different formats for each font are required for
+maximum portability across browsers and operating systems.
 
 Rebuilding
 ----------
