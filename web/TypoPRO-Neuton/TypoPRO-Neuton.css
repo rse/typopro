@@ -57,7 +57,7 @@
                   url('TypoPRO-Neuton-Italic.ttf') format('truetype'),
                   url('TypoPRO-Neuton-Italic.svgz#TypoPRO-Neuton-Italic') format('svg');
     font-style:   italic;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -89,7 +89,7 @@
                   url('TypoPRO-Neuton-Regular.ttf') format('truetype'),
                   url('TypoPRO-Neuton-Regular.svgz#TypoPRO-Neuton-Regular') format('svg');
     font-style:   normal;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -105,7 +105,7 @@
                   url('TypoPRO-NeutonCursive-Regular.ttf') format('truetype'),
                   url('TypoPRO-NeutonCursive-Regular.svgz#TypoPRO-NeutonCursive-Regular') format('svg');
     font-style:   normal;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
