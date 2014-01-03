@@ -184,7 +184,7 @@ For license details on each individual font family, please see the files
 Author
 ------
 
-Ralf S. Engelschall,<br/>
+Ralf S. Engelschall<br/>
 [http://engelschall.com](http://engelschall.com/)<br/>
 [rse@engelschall.com](mailto:rse@engelschall.com)
 
