@@ -7,7 +7,7 @@ TypoPRO 0.9.5
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 176 individual fonts of 30 font families. The
+**TypoPRO** consists of 186 individual fonts of 32 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -29,6 +29,8 @@ AnonymousPro     |     |    | X  |    |  4  |  X    |  X   |    |    |      |  X
 ClearSans        |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
 DejaVu           |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
 Droid            |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
+FiraSans         |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
+FiraMono         |     |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
 Gentium          |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
 Lato             |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Lora             |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |

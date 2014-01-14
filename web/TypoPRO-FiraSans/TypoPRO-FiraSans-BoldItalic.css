@@ -1,0 +1,16 @@
+
+/* TypoPRO Fira Sans Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans';
+    src:          url('TypoPRO-FiraSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSans-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-FiraSans-BoldItalic.svgz#TypoPRO-FiraSans-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
