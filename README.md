@@ -22,27 +22,27 @@ equally well for headlines, body text, footnotes, etc. They especially
 are part of whole font families and cover a wide range of Unicode
 characters.
 
-Name             |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Amble            |     | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
-AnonymousPro     |     |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-ClearSans        |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
-DejaVu           |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
-Droid            |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
-FiraSans         |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
-FiraMono         |     |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
-Gentium          |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
-Lato             |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Lora             |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Neuton           |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
-OpenSans         |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
-Roboto           |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
-SourceCodePro    |     |    | X  |    |  7  |  X    |      |    | X  |  X   |  X   | X  | X
-SourceSansPro    |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Ubuntu           |     | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
-Vegur            |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
-Vollkorn         | X   |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-YanoneKaffeesatz |     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
+Name              |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Amble             |     | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
+Anonymous Pro     |     |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Clear Sans        |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
+DejaVu            |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
+Droid             |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
+Fira Sans         |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
+Fira Mono         |     |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
+Gentium           |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
+Lato              |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Lora              |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Neuton            |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Open Sans         |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
+Roboto            |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
+Source Code Pro   |     |    | X  |    |  7  |  X    |      |    | X  |  X   |  X   | X  | X
+Source Sans Pro   |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Ubuntu            |     | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
+Vegur             |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
+Vollkorn          | X   |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Yanone Kaffeesatz |     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts
 
@@ -51,21 +51,21 @@ used only for particular headlines, subtitles, tags, etc. They are
 usually just stand-alone fonts and cover just a very limited set of
 Unicode characters.
 
-Name             |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-BebasNeue        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-HHSamuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-CaptureIt        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-TopSecret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-KomikaHand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
-KomikaText       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
-KingthingsPetrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
-GrandHotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Yellowtail       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-GreatVibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Journal          |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-LearningCurve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
-VeteranTypewriter|     |    |    |    |  1  |       |      |    |    |      |  X   |    |
+Name              |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Bebas Neue        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+HH Samuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Capture It        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Top Secret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Komika Hand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
+Komika Text       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
+Kingthings Petrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
+Grand Hotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
+Yellowtail        |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Great Vibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Journal           |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Learning Curve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
+Veteran Typewriter|     |    |    |    |  1  |       |      |    |    |      |  X   |    |
 
 Collection Features
 -------------------
