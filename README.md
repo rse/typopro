@@ -95,6 +95,23 @@ Collection Features
   format into various font formats for use on the Web. Corresponding
   CSS `@font-face` declaration files were generated, too.
 
+- **Unicode Character Reduction**
+  Some fonts contain a really large number of glyphs, covering a wide
+  range of the Unicode character set. This is great in general, but
+  dramatically increases the font size, which is a major drawback on the
+  web. For this reason, although it reduces the fonts to be used for
+  the main Latin based languages (English, German, etc), we reduce the
+  fonts in web formats to the smaller Unicode range 0000-00FF (Basic
+  Latin, Latin-1 Supplement). The DTP formats of all fonts we reduce
+  to the larger (but still reduced for some very large fonts) Unicode
+  range set 0000-036F,1DC0-1EFF,2000-20FF,2150-218F,2C60-2C7F,A720-A7FF
+  (Basic Latin, Latin-1 Supplement, Latin Extended-A, Latin Extended-B,
+  IPA Extensions, Spacing Modifier Letters, Combining Diacriticals
+  Marks, Combining Diacritical Marks Supplement, Latin Extended
+  Additional, General Punctuation. Superscripts and Subscripts, Currency
+  Symbols, Combining Diacritical Marks for Symbols, Number Forms, Latin
+  Extended-C, Latin Extended-D)
+
 - **Font Renaming**:
   To circumvent license restrictions related to font format conversions
   and to avoid confusion with the original font formats, all Web font
