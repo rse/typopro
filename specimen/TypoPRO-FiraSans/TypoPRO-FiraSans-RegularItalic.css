@@ -1,0 +1,16 @@
+
+/* TypoPRO Fira Sans Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans';
+    src:          url('TypoPRO-FiraSans-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSans-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSans-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSans-RegularItalic.ttf') format('truetype'),
+                  url('TypoPRO-FiraSans-RegularItalic.svgz#TypoPRO-FiraSans-Italic') format('svg');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
