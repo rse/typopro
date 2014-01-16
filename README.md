@@ -1,6 +1,6 @@
 
-Gemstone
-========
+TypoPRO
+=======
 
-This is the Gemstone website (Web: http://gemstonejs.com/).
+This is the TypoPRO website (http://typopro.org/).
 
