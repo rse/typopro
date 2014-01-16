@@ -1,0 +1,48 @@
+
+/* TypoPRO Vegur Bold */
+@font-face {
+    font-family:  'TypoPRO Vegur';
+    src:          url('TypoPRO-Vegur-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vegur-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vegur-Bold.woff') format('woff'),
+                  url('TypoPRO-Vegur-Bold.ttf') format('truetype'),
+                  url('TypoPRO-Vegur-Bold.svgz#TypoPRO-Vegur-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Vegur Light */
+@font-face {
+    font-family:  'TypoPRO Vegur';
+    src:          url('TypoPRO-Vegur-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vegur-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vegur-Light.woff') format('woff'),
+                  url('TypoPRO-Vegur-Light.ttf') format('truetype'),
+                  url('TypoPRO-Vegur-Light.svgz#TypoPRO-Vegur-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Vegur */
+@font-face {
+    font-family:  'TypoPRO Vegur';
+    src:          url('TypoPRO-Vegur-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vegur-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vegur-Regular.woff') format('woff'),
+                  url('TypoPRO-Vegur-Regular.ttf') format('truetype'),
+                  url('TypoPRO-Vegur-Regular.svgz#TypoPRO-Vegur-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

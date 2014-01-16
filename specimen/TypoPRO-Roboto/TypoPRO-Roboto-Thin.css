@@ -1,0 +1,16 @@
+
+/* TypoPRO Roboto Thin */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-Roboto-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Roboto-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Roboto-Thin.woff') format('woff'),
+                  url('TypoPRO-Roboto-Thin.ttf') format('truetype'),
+                  url('TypoPRO-Roboto-Thin.svgz#TypoPRO-Roboto-Thin') format('svg');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,16 @@
+
+/* TypoPRO DejaVu Sans Condensed Oblique */
+@font-face {
+    font-family:  'TypoPRO DejaVu Sans';
+    src:          url('TypoPRO-DejaVuSansCondensed-Oblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-DejaVuSansCondensed-Oblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DejaVuSansCondensed-Oblique.woff') format('woff'),
+                  url('TypoPRO-DejaVuSansCondensed-Oblique.ttf') format('truetype'),
+                  url('TypoPRO-DejaVuSansCondensed-Oblique.svgz#TypoPRO-DejaVuSansCondensed-Oblique') format('svg');
+    font-style:   oblique;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

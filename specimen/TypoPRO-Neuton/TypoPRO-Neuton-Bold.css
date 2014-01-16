@@ -1,0 +1,16 @@
+
+/* TypoPRO Neuton Bold */
+@font-face {
+    font-family:  'TypoPRO Neuton';
+    src:          url('TypoPRO-Neuton-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Neuton-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Neuton-Bold.woff') format('woff'),
+                  url('TypoPRO-Neuton-Bold.ttf') format('truetype'),
+                  url('TypoPRO-Neuton-Bold.svgz#TypoPRO-Neuton-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,16 @@
+
+/* TypoPRO Lora Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Lora';
+    src:          url('TypoPRO-Lora-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lora-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lora-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Lora-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Lora-BoldItalic.svgz#TypoPRO-Lora-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

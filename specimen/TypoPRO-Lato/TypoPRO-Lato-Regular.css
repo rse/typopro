@@ -1,0 +1,16 @@
+
+/* TypoPRO Lato-Regular */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Regular.woff') format('woff'),
+                  url('TypoPRO-Lato-Regular.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Regular.svgz#TypoPRO-Lato-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

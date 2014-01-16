@@ -1,0 +1,16 @@
+
+/* TypoPRO Lato Light */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Light.woff') format('woff'),
+                  url('TypoPRO-Lato-Light.ttf') format('truetype'),
+                  url('TypoPRO-Lato-Light.svgz#TypoPRO-Lato-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,16 @@
+
+/* TypoPRO Yanone Kaffeesatz Light */
+@font-face {
+    font-family:  'TypoPRO Yanone Kaffeesatz';
+    src:          url('TypoPRO-YanoneKaffeesatz-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-YanoneKaffeesatz-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-YanoneKaffeesatz-Light.woff') format('woff'),
+                  url('TypoPRO-YanoneKaffeesatz-Light.ttf') format('truetype'),
+                  url('TypoPRO-YanoneKaffeesatz-Light.svgz#TypoPRO-YanoneKaffeesatz-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

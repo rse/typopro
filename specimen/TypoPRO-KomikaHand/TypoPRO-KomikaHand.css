@@ -1,0 +1,64 @@
+
+/* TypoPRO Komika Hand Bold */
+@font-face {
+    font-family:  'TypoPRO Komika Hand';
+    src:          url('TypoPRO-KomikaHand-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-KomikaHand-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-KomikaHand-Bold.woff') format('woff'),
+                  url('TypoPRO-KomikaHand-Bold.ttf') format('truetype'),
+                  url('TypoPRO-KomikaHand-Bold.svgz#TypoPRO-KomikaHand-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Komika Hand Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Komika Hand';
+    src:          url('TypoPRO-KomikaHand-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-KomikaHand-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-KomikaHand-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-KomikaHand-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-KomikaHand-BoldItalic.svgz#TypoPRO-KomikaHand-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Komika Hand Italic */
+@font-face {
+    font-family:  'TypoPRO Komika Hand';
+    src:          url('TypoPRO-KomikaHand-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-KomikaHand-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-KomikaHand-Italic.woff') format('woff'),
+                  url('TypoPRO-KomikaHand-Italic.ttf') format('truetype'),
+                  url('TypoPRO-KomikaHand-Italic.svgz#TypoPRO-KomikaHand-Italic') format('svg');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Komika Hand */
+@font-face {
+    font-family:  'TypoPRO Komika Hand';
+    src:          url('TypoPRO-KomikaHand-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-KomikaHand-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-KomikaHand-Regular.woff') format('woff'),
+                  url('TypoPRO-KomikaHand-Regular.ttf') format('truetype'),
+                  url('TypoPRO-KomikaHand-Regular.svgz#TypoPRO-KomikaHand') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

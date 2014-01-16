@@ -1,0 +1,16 @@
+
+/* TypoPRO Lato-Italic */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-RegularItalic.ttf') format('truetype'),
+                  url('TypoPRO-Lato-RegularItalic.svgz#TypoPRO-Lato-Italic') format('svg');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

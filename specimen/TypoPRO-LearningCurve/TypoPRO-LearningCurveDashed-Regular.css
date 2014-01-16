@@ -1,0 +1,16 @@
+
+/* TypoPRO Learning Curve Dashed Pro */
+@font-face {
+    font-family:  'TypoPRO Learning Curve Dashed Pro';
+    src:          url('TypoPRO-LearningCurveDashed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LearningCurveDashed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LearningCurveDashed-Regular.woff') format('woff'),
+                  url('TypoPRO-LearningCurveDashed-Regular.ttf') format('truetype'),
+                  url('TypoPRO-LearningCurveDashed-Regular.svgz#TypoPRO-LearningCurveDashedPro') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

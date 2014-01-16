@@ -1,0 +1,104 @@
+
+body {
+    font-family: "TypoPRO Open Sans";
+    font-size: 11pt;
+    background-color: #ffffff;
+    color: #000000;
+    // text-shadow: 0px 1px 2px rgba(0, 0, 0, 1.0);
+}
+
+.canvas {
+    width: 100%;
+    position: relative;
+    text-center: center;
+}
+
+.canvas .logo {
+    margin-top: -40px;
+    margin-left: 80px;
+}
+
+.canvas .installer {
+    position: absolute;
+    top: 840px;
+    left: 520px;
+}
+.canvas .install {
+    width: 430px;
+    padding: 5px 10px 5px 10px;
+    font-family: "TypoPRO DejaVu Sans Mono";
+    font-size: 9pt;
+    white-space: pre;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    margin-bottom: 15px;
+}
+.canvas .install a {
+    text-decoration: none;
+    color: #000000;
+}
+.canvas .install .comment {
+    color: #999999;
+}
+.canvas .install .comment a {
+    color: #999999;
+}
+.canvas .install .command {
+    font-weight: bold;
+}
+
+.canvas .icons {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+.canvas .icons .fa-arrow-circle-left {
+    z-index: 100;
+    position: absolute;
+    left: 10px;
+    top: 40%;
+    color: #c0c0c0;
+    opacity: 0.5;
+    font-size: 50px;
+}
+.canvas .icons .fa-arrow-circle-right {
+    z-index: 100;
+    position: absolute;
+    right: 10px;
+    top: 40%;
+    color: #c0c0c0;
+    opacity: 0.5;
+    font-size: 50px;
+}
+
+.canvas .footer {
+    position: absolute;
+    left: 100px;
+    top: 1050px;
+    margin-top: 0px;
+    color: #999999;
+    font-size: 9pt;
+}
+.canvas .footer a {
+    text-decoration: none;
+    color: #999999;
+}
+
+.canvas .info {
+    width: 400px;
+    position: absolute;
+    top: 840px;
+    left: 100px;
+}
+.canvas .info a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.canvas a:hover {
+    color: #cc3333;
+}
+

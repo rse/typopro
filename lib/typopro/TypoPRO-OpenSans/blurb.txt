@@ -1,0 +1,10 @@
+Name:       Open Sans
+Homepage:   http://opensans.com/
+Download:   http://www.fontsquirrel.com/fonts/download/open-sans
+Download:   http://www.fontsquirrel.com/fonts/download/open-sans-condensed
+Version:    1.10 (2013)
+License:    Apache License 2.0
+Publisher:  Google
+Designer:   Steve Metteson
+Designed:   2010
+Derivation: Droid Sans

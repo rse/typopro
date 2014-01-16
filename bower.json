@@ -1,0 +1,9 @@
+{
+    "name": "typopro",
+    "dependencies": {
+        "sanitize.css":       "1.0.0",
+        "font-awesome":       "4.0.3",
+        "jquery":             "2.0.3",
+        "typopro":            "0.9.5"
+    }
+}

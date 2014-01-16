@@ -1,0 +1,16 @@
+
+/* TypoPRO Open Sans Light */
+@font-face {
+    font-family:  'TypoPRO Open Sans';
+    src:          url('TypoPRO-OpenSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSans-Light.woff') format('woff'),
+                  url('TypoPRO-OpenSans-Light.ttf') format('truetype'),
+                  url('TypoPRO-OpenSans-Light.svgz#TypoPRO-OpenSans-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,16 @@
+
+/* TypoPRO Roboto Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-RobotoCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-RobotoCondensed-Regular.ttf') format('truetype'),
+                  url('TypoPRO-RobotoCondensed-Regular.svgz#TypoPRO-RobotoCondensed-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,112 @@
+
+/* TypoPRO Source Code Pro Black */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-Black.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-Black.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-Black.svgz#TypoPRO-SourceCodePro-Black') format('svg');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Code Pro Bold */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-Bold.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-Bold.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-Bold.svgz#TypoPRO-SourceCodePro-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Code Pro ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-ExtraLight.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-ExtraLight.svgz#TypoPRO-SourceCodePro-ExtraLight') format('svg');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Code Pro Light */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-Light.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-Light.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-Light.svgz#TypoPRO-SourceCodePro-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Code Pro Medium */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-Medium.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-Medium.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-Medium.svgz#TypoPRO-SourceCodePro-Medium') format('svg');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Code Pro */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-Regular.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-Regular.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-Regular.svgz#TypoPRO-SourceCodePro-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Code Pro Semibold */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-Semibold.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-Semibold.ttf') format('truetype'),
+                  url('TypoPRO-SourceCodePro-Semibold.svgz#TypoPRO-SourceCodePro-Semibold') format('svg');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
