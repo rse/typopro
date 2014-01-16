@@ -55,7 +55,7 @@ for line in `cat etc/manifest.txt`; do
     echo "++ converting: $font ($family)"
 
     #   create font-specific target area
-    shtool mkdir -f -p -m 755 web/$prefix-$name
+    shtool mkdir -f -p -m 755 web/$prefix-$name dtp/$prefix-$name
 
     #   determine font conversion command (common part)
     cmd="fontface"
@@ -84,7 +84,7 @@ for line in `cat etc/manifest.txt`; do
     #   determine font conversion command (DTP formats)
     cmd2="$cmd -u '0000-036F,1DC0-1EFF,2000-20FF,2150-218F,2C60-2C7F,A720-A7FF'"
     cmd2="$cmd2 -O \"ttf\""
-    cmd2="$cmd2 -o \"dtp/\""
+    cmd2="$cmd2 -o \"dtp/$prefix-$name/\""
     cmd2="$cmd2 \"src/$font\""
 
     #   execute the font conversion commands
@@ -101,12 +101,19 @@ for font in web/*; do
     mv tmp.css web/$name/$name.css
 done
 
-#   provide font information to Web area
+#   provide font information
 for dir in src/*; do
     if [ ! -d $dir ]; then
         continue
     fi
     name=`echo "$dir" | sed -e 's;src/;;'`
-    cp src/$name/blurb.txt src/$name/license.txt web/$prefix-$name/
+    (   cat src/$name/blurb.txt
+        echo ""
+        cat src/$name/license.txt
+    ) >web/$prefix-$name/$prefix-$name.txt
+    (   cat src/$name/blurb.txt
+        echo ""
+        cat src/$name/license.txt
+    ) >dtp/$prefix-$name/$prefix-$name.txt
 done
 
