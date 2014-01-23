@@ -19,22 +19,6 @@ module.exports = function (grunt) {
                 src: [ "bower_components/jquery/jquery.js" ],
                 dest: "lib/jquery/jquery.js"
             },
-            "font-awesome-css": {
-                src: [ "bower_components/font-awesome/css/font-awesome.css" ],
-                dest: "lib/font-awesome/font-awesome.css",
-                options: {
-                    process: function (content, srcpath) {
-                        return content.replace(/\.\.\/fonts\//g, "");
-                    }
-                }
-            },
-            "font-awesome-fonts": {
-                files: [{
-                    expand: true, flatten: false, cwd: "bower_components/font-awesome/fonts",
-                    src: "fontawesome-webfont.*",
-                    dest: "lib/font-awesome/"
-                }]
-            },
             "typopro": {
                 files: [
                     { expand: true, flatten: false, cwd: "bower_components/typopro/web",

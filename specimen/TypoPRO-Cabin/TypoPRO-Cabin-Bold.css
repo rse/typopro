@@ -1,0 +1,16 @@
+
+/* TypoPRO Cabin-Bold */
+@font-face {
+    font-family:  'TypoPRO Cabin';
+    src:          url('TypoPRO-Cabin-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cabin-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cabin-Bold.woff') format('woff'),
+                  url('TypoPRO-Cabin-Bold.ttf') format('truetype'),
+                  url('TypoPRO-Cabin-Bold.svgz#TypoPRO-Cabin-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

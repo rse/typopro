@@ -1,0 +1,16 @@
+
+/* TypoPRO Cabin Condensed */
+@font-face {
+    font-family:  'TypoPRO Cabin';
+    src:          url('TypoPRO-CabinCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CabinCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CabinCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-CabinCondensed-Regular.ttf') format('truetype'),
+                  url('TypoPRO-CabinCondensed-Regular.svgz#TypoPRO-CabinCondensed') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

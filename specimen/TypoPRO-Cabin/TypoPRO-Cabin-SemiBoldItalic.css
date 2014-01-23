@@ -1,0 +1,16 @@
+
+/* TypoPRO Cabin-SemiBoldItalic */
+@font-face {
+    font-family:  'TypoPRO Cabin';
+    src:          url('TypoPRO-Cabin-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cabin-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cabin-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cabin-SemiBoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Cabin-SemiBoldItalic.svgz#TypoPRO-Cabin-SemiBoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
