@@ -1,5 +1,5 @@
 
-TypoPRO 0.9.6
+TypoPRO 0.9.7
 =============
 
 http://typopro.org/
@@ -9,7 +9,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 186 individual fonts of 32 font families. The
+**TypoPRO** consists of 202 individual fonts of 35 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
