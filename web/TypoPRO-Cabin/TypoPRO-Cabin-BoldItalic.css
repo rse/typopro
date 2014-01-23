@@ -1,0 +1,16 @@
+
+/* TypoPRO Cabin-BoldItalic */
+@font-face {
+    font-family:  'TypoPRO Cabin';
+    src:          url('TypoPRO-Cabin-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cabin-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cabin-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cabin-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Cabin-BoldItalic.svgz#TypoPRO-Cabin-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
