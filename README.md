@@ -28,6 +28,7 @@ Name                      |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|M
 --------------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Amble                     |     | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
 Anonymous&nbsp;Pro        |     |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Cabin                     |     | X  |    | X  | 14  |  X    |  X   | X  |    |  X   |  X   | X  |
 Clear Sans                |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
 DejaVu                    |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
 Droid                     |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
@@ -59,8 +60,10 @@ Bebas&nbsp;Neue        |     | X  |    |    |  1  |  X    |      |    |    |    
 HH&nbsp;Samuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 Capture&nbsp;It        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 Top&nbsp;Secret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Poetsen                |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
 Komika&nbsp;Hand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
+Courgette              |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 Kingthings&nbsp;Petrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
 Grand&nbsp;Hotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
 Yellowtail             |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
