@@ -15,6 +15,10 @@ module.exports = function (grunt) {
             }
         },
         copy: {
+            "sanitize": {
+                src: [ "bower_components/sanitize.css/sanitize.css" ],
+                dest: "lib/sanitize/sanitize.css"
+            },
             "jquery": {
                 src: [ "bower_components/jquery/jquery.js" ],
                 dest: "lib/jquery/jquery.js"

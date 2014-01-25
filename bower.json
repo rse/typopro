@@ -1,8 +1,8 @@
 {
     "name": "typopro",
     "dependencies": {
-        "sanitize.css":       "1.0.0",
-        "jquery":             "2.0.3",
+        "sanitize.css":       "1.0.1",
+        "jquery":             "2.1.0",
         "typopro":            "0.9.8"
     }
 }
