@@ -1,5 +1,5 @@
 
-TypoPRO 0.9.8
+TypoPRO 1.0.0
 =============
 
 http://typopro.org/
