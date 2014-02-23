@@ -9,7 +9,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 202 individual fonts of 35 font families. The
+**TypoPRO** consists of 231 individual fonts of 41 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -24,28 +24,33 @@ equally well for headlines, body text, footnotes, etc. They especially
 are part of whole font families and cover a wide range of Unicode
 characters.
 
-Name                      |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
---------------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Amble                     |     | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
-Anonymous&nbsp;Pro        |     |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Cabin                     |     | X  |    | X  | 14  |  X    |  X   | X  |    |  X   |  X   | X  |
-Clear Sans                |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
-DejaVu                    |  X  | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
-Droid                     |  X  | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
-Fira&nbsp;Sans            |     | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
-Fira&nbsp;Mono            |     |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
-Gentium                   |  X  |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
-Lato                      |     | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Lora                      |  X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Neuton                    |  X  |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Open&nbsp;Sans            |     | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
-Roboto                    |     | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
-Source&nbsp;Code&nbsp;Pro |     |    | X  |    |  7  |  X    |      |    | X  |  X   |  X   | X  | X
-Source&nbsp;Sans&nbsp;Pro |     | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Ubuntu                    |     | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
-Vegur                     |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
-Vollkorn                  | X   |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Yanone&nbsp;Kaffeesatz    |     | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
+Name                      |Serif|Slab|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+--------------------------|:---:|:--:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Aleo                      |     | X  |    |    |    |  6  |  X    |  X   |    | X  |      |  X   | X  |
+Amble                     |     |    | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
+Anonymous&nbsp;Pro        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Bitter                    |     | X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Cabin                     |     |    | X  |    | X  | 14  |  X    |  X   | X  |    |  X   |  X   | X  |
+Clear Sans                |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
+Courier&nbsp;Prime        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Crete&nbsp;Round          |     | X  |    |    |    |  2  |  X    |  X   |    |    |      |  X   |    |
+DejaVu                    |  X  |    | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
+Droid                     |  X  |    | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
+Fira&nbsp;Mono            |     |    |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
+Fira&nbsp;Sans            |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
+Gentium                   |  X  |    |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
+Lato                      |     |    | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Lora                      |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Neuton                    |  X  |    |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Open&nbsp;Sans            |     |    | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
+Oxygen                    |     |    | X  | X  |    |  5  |  X    |  X   |    |    |      |  X   | X  |
+Roboto                    |     |    | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
+Source&nbsp;Code&nbsp;Pro |     |    |    | X  |    |  7  |  X    |      |    | X  |  X   |  X   | X  | X
+Source&nbsp;Sans&nbsp;Pro |     |    | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Ubuntu                    |     |    | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
+Vegur                     |     |    | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
+Vollkorn                  | X   |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Yanone&nbsp;Kaffeesatz    |     |    | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts
 
@@ -57,20 +62,21 @@ Unicode characters.
 Name                   |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 -----------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Bebas&nbsp;Neue        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-HH&nbsp;Samuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 Capture&nbsp;It        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Top&nbsp;Secret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Poetsen                |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
+Courgette              |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Grand&nbsp;Hotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
+Great&nbsp;Vibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+HH&nbsp;Samuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Journal                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Kingthings&nbsp;Petrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
 Komika&nbsp;Hand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
-Courgette              |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Kingthings&nbsp;Petrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
-Grand&nbsp;Hotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Yellowtail             |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Great&nbsp;Vibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Journal                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 Learning&nbsp;Curve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
+Ostrich&nbsp;Sans      |     | X  |    |    |  8  |  X    |      |    | X  |  X   |  X   | X  | X
+Poetsen                |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
+Top&nbsp;Secret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 Veteran&nbsp;Typewriter|     |    |    |    |  1  |       |      |    |    |      |  X   |    |
+Yellowtail             |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 
 Collection Features
 -------------------

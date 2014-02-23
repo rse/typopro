@@ -37,7 +37,7 @@ foreach my $line (split(/\n/, $txt)) {
         $samples .= "<div class=\"group\">General Purpose</div>\n";
         $title = 1;
     }
-    elsif ($title == 1 && $font_family =~ m/Bebas/) {
+    elsif ($title == 1 && $font_family =~ m/Ostrich/) {
         $samples .= "<div class=\"group\">Special Purpose</div>\n";
         $title = 2;
     }
