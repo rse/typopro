@@ -2,7 +2,7 @@
     "name": "typopro",
     "devDependencies": {
         "grunt":                      "~0.4.2",
-        "grunt-cli":                  "~0.1.11",
+        "grunt-cli":                  "~0.1.13",
         "grunt-contrib-clean":        "~0.5.0",
         "grunt-contrib-copy":         "~0.5.0",
         "grunt-bower-install-simple": "~0.9.1"

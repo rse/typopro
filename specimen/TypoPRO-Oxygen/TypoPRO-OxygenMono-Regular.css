@@ -1,0 +1,16 @@
+
+/* TypoPRO Oxygen Mono */
+@font-face {
+    font-family:  'TypoPRO Oxygen Mono';
+    src:          url('TypoPRO-OxygenMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-OxygenMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OxygenMono-Regular.woff') format('woff'),
+                  url('TypoPRO-OxygenMono-Regular.ttf') format('truetype'),
+                  url('TypoPRO-OxygenMono-Regular.svgz#TypoPRO-OxygenMono-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
