@@ -9,6 +9,11 @@ Designer:   Steve Metteson
 Designed:   2010
 Derivation: Droid Sans
 
+Designed by well-known type designer Steve Matteson and commissioned
+by Google, Open Sans is one of the most widely used open-source fonts
+on the Web. The five weights with matching italics make this humanist
+sans-serif useful for a wide variety of situations
+
 
                                  Apache License
                            Version 2.0, January 2004

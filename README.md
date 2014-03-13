@@ -9,7 +9,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 231 individual fonts of 41 font families. The
+**TypoPRO** consists of 250 individual fonts of 44 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -39,8 +39,11 @@ Droid                     |  X  |    | X  | X  |    |  7  |  X    |  X   |    | 
 Fira&nbsp;Mono            |     |    |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Sans            |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
 Gentium                   |  X  |    |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
+Libre&nbsp;Baskerville    |  X  |    |    |    |    |  3  |  X    |  X   |    |    |      |  X   | X  |
 Lato                      |     |    | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Lora                      |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Merriweather              |  X  |    |    |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Merriweather&nbsp;Sans    |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Neuton                    |  X  |    |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Open&nbsp;Sans            |     |    | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
 Oxygen                    |     |    | X  | X  |    |  5  |  X    |  X   |    |    |      |  X   | X  |
@@ -49,7 +52,7 @@ Source&nbsp;Code&nbsp;Pro |     |    |    | X  |    |  7  |  X    |      |    | 
 Source&nbsp;Sans&nbsp;Pro |     |    | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Ubuntu                    |     |    | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
 Vegur                     |     |    | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
-Vollkorn                  | X   |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Vollkorn                  |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Yanone&nbsp;Kaffeesatz    |     |    | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts

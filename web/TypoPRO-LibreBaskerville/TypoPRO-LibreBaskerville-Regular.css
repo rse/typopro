@@ -1,0 +1,16 @@
+
+/* TypoPRO Libre Baskerville */
+@font-face {
+    font-family:  'TypoPRO Libre Baskerville';
+    src:          url('TypoPRO-LibreBaskerville-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreBaskerville-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreBaskerville-Regular.woff') format('woff'),
+                  url('TypoPRO-LibreBaskerville-Regular.ttf') format('truetype'),
+                  url('TypoPRO-LibreBaskerville-Regular.svgz#TypoPRO-LibreBaskerville-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
