@@ -1,0 +1,32 @@
+
+/* TypoPRO Dancing Script Bold */
+@font-face {
+    font-family:  'TypoPRO Dancing Script';
+    src:          url('TypoPRO-DancingScript-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-DancingScript-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DancingScript-Bold.woff') format('woff'),
+                  url('TypoPRO-DancingScript-Bold.ttf') format('truetype'),
+                  url('TypoPRO-DancingScript-Bold.svgz#TypoPRO-DancingScript-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Dancing Script */
+@font-face {
+    font-family:  'TypoPRO Dancing Script';
+    src:          url('TypoPRO-DancingScript-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-DancingScript-Regular.woff') format('woff'),
+                  url('TypoPRO-DancingScript-Regular.ttf') format('truetype'),
+                  url('TypoPRO-DancingScript-Regular.svgz#TypoPRO-DancingScript') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

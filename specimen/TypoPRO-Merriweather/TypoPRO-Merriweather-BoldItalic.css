@@ -1,0 +1,16 @@
+
+/* TypoPRO Merriweather Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Merriweather-BoldItalic.svgz#TypoPRO-Merriweather-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
