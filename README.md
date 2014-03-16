@@ -206,10 +206,24 @@ versatility (because of their different available stroke widths and
 optional italic variants). My second choice would be *Source Sans Pro*
 for headlines, *Neuton* for body text and *Anonymous Pro* for code.
 
+Manifest
+--------
+
+The TypoPRO distribution consists primarily of three content areas:
+
+- `src/`: all font source files (formats: TTF, OTF)
+- `dtp/`: all font target files for DTP usage (formats: TTF)
+- `web/`: all font target files for Web usage (formats: TTF, EOT, WOFF, SVGZ)
+
+All source files are as provided by the upstream font vendor, just with
+filenames aligned to the usual TypoPRO conventions. For the DTP and Web
+targets, the fonts are subsetted (see "Unicode Character Reduction"
+above), renamed and format converted.
+
 Rebuilding
 ----------
 
-In order to rebuild the `web/` content from the `dtp/` content,
+In order to rebuild the `web/` and `dtp/` files from the `src/` files,
 you have to use the `etc/convert.sh` script. It needs Ralf S. Engelschall's **fontface**
 utility, as provided by the [OpenPKG](http://www.openpkg.org/) package `fontface`,
 and a magnitude of backend programs for font conversion: [FontForge](http://fontforge.org/),
