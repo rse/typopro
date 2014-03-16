@@ -11,7 +11,7 @@ professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
 **TypoPRO** consists of 353 individual fonts of 52 font families. The
 fonts in total span a very wide range of font types, font styles, font
-weights and font variants. This way **TypoPRO** provides a magnitude of
+weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
 
 Collection Overview
@@ -153,15 +153,16 @@ Collection Features
 Alternatives
 ------------
 
-Nowadays all those fonts can also be individually
+Nowadays, nearly all these fonts can also be individually
 downloaded for free from online font libraries like
 [Font Squirrel](http://www.fontsquirrel.com/) or
 [DaFont](http://www.dafont.com/) or even on-the-fly used from font
 cloud services like [Google Fonts](http://www.google.com/fonts),
 [Open Font Library](http://openfontlibrary.org/) or
 [Adobe Typekit](https://typekit.com/). The purpose of **TypoPRO** is just
-different: it provides an offline solution and it intentionally
-is a very opinionated pre-selection of reasonable fonts.
+different: it provides an _offline_ solution and it intentionally
+is a very opinionated pre-selection of reasonable (meaning
+high-quality) fonts.
 
 Downloading
 -----------
@@ -194,7 +195,7 @@ maximum portability across browsers and operating systems.
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 17
+For general purpose typography, I can recommend you all of the above 33
 General Purpose fonts, of course. But my personal preference most of
 the times is towards *Open Sans* for headlines, *Droid Serif* for body
 text and *DejaVu Sans Mono* for code. There are many reasons for this,
@@ -209,11 +210,11 @@ Rebuilding
 ----------
 
 In order to rebuild the `web/` content from the `dtp/` content,
-you can use the `etc/convert.sh` script. It needs Ralf S. Engelschall's **fontface**
-frontend program, as provided by the [OpenPKG](http://www.openpkg.org/) package `fontface`,
+you have to use the `etc/convert.sh` script. It needs Ralf S. Engelschall's **fontface**
+utility, as provided by the [OpenPKG](http://www.openpkg.org/) package `fontface`,
 and a magnitude of backend programs for font conversion: [FontForge](http://fontforge.org/),
-[font-optimizer](http://bitbucket.org/philip/font-optimizer/), [ttf2eot](http://ttf2eot.googlecode.com/).
-On installing the OpenPKG `fontface` package, these dependencies are all installed automatically, too.
+[font-optimizer](http://bitbucket.org/philip/font-optimizer/) and [ttf2eot](http://ttf2eot.googlecode.com/).
+On installing the OpenPKG `fontface` package, the dependencies are installed automatically.
 
 Licensing
 ---------
