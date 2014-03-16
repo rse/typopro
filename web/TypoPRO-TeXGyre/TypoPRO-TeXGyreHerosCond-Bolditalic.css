@@ -1,0 +1,16 @@
+
+/* TypoPRO TeXGyreHerosCn */
+@font-face {
+    font-family:  'TypoPRO TeX Gyre Heros';
+    src:          url('TypoPRO-TeXGyreHerosCond-Bolditalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.woff') format('woff'),
+                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.ttf') format('truetype'),
+                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.svgz#TypoPRO-TeXGyreHerosCondensed-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

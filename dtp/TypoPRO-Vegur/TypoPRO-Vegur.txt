@@ -4,7 +4,7 @@ Download:   http://dotcolon.net/font/vegur/
 Version:    0.701 (2013-02)
 License:    Public Domain
 Publisher:  dot colon
-Designer:   dot colon
+Designer:   Sora Sagano
 Designed:   20XX
 Derivation: Myriad Pro
 

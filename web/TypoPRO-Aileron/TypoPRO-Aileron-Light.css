@@ -1,0 +1,16 @@
+
+/* TypoPRO Aileron Light */
+@font-face {
+    font-family:  'TypoPRO Aileron';
+    src:          url('TypoPRO-Aileron-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Aileron-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Aileron-Light.woff') format('woff'),
+                  url('TypoPRO-Aileron-Light.ttf') format('truetype'),
+                  url('TypoPRO-Aileron-Light.svgz#TypoPRO-Aileron-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

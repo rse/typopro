@@ -1,0 +1,16 @@
+
+/* TypoPRO Aileron UltraLight */
+@font-face {
+    font-family:  'TypoPRO Aileron';
+    src:          url('TypoPRO-Aileron-UltraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Aileron-UltraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Aileron-UltraLight.woff') format('woff'),
+                  url('TypoPRO-Aileron-UltraLight.ttf') format('truetype'),
+                  url('TypoPRO-Aileron-UltraLight.svgz#TypoPRO-Aileron-UltraLight') format('svg');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

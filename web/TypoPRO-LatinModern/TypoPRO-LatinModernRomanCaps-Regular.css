@@ -1,0 +1,16 @@
+
+/* TypoPRO LM Roman Caps 10 */
+@font-face {
+    font-family:  'TypoPRO Latin Modern Roman';
+    src:          url('TypoPRO-LatinModernRomanCaps-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LatinModernRomanCaps-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LatinModernRomanCaps-Regular.woff') format('woff'),
+                  url('TypoPRO-LatinModernRomanCaps-Regular.ttf') format('truetype'),
+                  url('TypoPRO-LatinModernRomanCaps-Regular.svgz#TypoPRO-LMRomanCaps10-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

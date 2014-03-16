@@ -1,0 +1,16 @@
+
+/* TypoPRO Aileron Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Aileron';
+    src:          url('TypoPRO-Aileron-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Aileron-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Aileron-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Aileron-BoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Aileron-BoldItalic.svgz#TypoPRO-Aileron-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

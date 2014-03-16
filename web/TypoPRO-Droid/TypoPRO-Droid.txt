@@ -1,11 +1,11 @@
 Name:       Droid
-Homepage:   https://github.com/android/platform_frameworks_base/tree/master/data/fonts
+Homepage:   http://www.droidfonts.com/
 Download:   https://github.com/android/platform_frameworks_base/archive/master.zip
 Version:    1.00
 License:    Apache License 2.0
 Publisher:  Open Handset Alliance, Google
 Designer:   Steve Metteson (Ascender)
-Designed:   2007
+Designed:   2006
 Derivation: Andalé Mono
 
 

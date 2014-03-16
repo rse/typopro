@@ -1,0 +1,16 @@
+
+/* TypoPRO EB Garamond 12 Regular */
+@font-face {
+    font-family:  'TypoPRO EB Garamond';
+    src:          url('TypoPRO-EBGaramond-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-EBGaramond-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EBGaramond-Regular.woff') format('woff'),
+                  url('TypoPRO-EBGaramond-Regular.ttf') format('truetype'),
+                  url('TypoPRO-EBGaramond-Regular.svgz#TypoPRO-EBGaramond12-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
