@@ -148,7 +148,8 @@ Collection Features
 
 - **Specimen**:
   For the Web font variants, a specimen in HTML format was generated to
-  conveniently preview the font.
+  conveniently preview the font. See http://typopro.org/specimen/ for
+  the current overview of all specimens in TypoPRO.
 
 Alternatives
 ------------
