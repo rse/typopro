@@ -182,6 +182,10 @@ You can conveniently download TypoPRO in various ways:
 - cURL: download only the main file from the repository:<br/>
   `$ curl -O https://github.com/rse/typopro/archive/master.zip`
 
+Alternatively, you can use [Grunt](http://gruntjs.com/) and
+my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
+task for conveniently installing TypoPRO font families.
+
 Content
 -------
 
