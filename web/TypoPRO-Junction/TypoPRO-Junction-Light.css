@@ -1,0 +1,16 @@
+
+/* TypoPRO Junction Light */
+@font-face {
+    font-family:  'TypoPRO Junction';
+    src:          url('TypoPRO-Junction-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junction-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junction-Light.woff') format('woff'),
+                  url('TypoPRO-Junction-Light.ttf') format('truetype'),
+                  url('TypoPRO-Junction-Light.svgz#TypoPRO-Junction-Light') format('svg');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

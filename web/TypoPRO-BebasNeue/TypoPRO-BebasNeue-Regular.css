@@ -1,5 +1,5 @@
 
-/* TypoPRO Bebas Neue */
+/* TypoPRO Bebas Neue Regular */
 @font-face {
     font-family:  'TypoPRO Bebas Neue';
     src:          url('TypoPRO-BebasNeue-Regular.eot');
@@ -7,7 +7,7 @@
                   url('TypoPRO-BebasNeue-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Regular.woff') format('woff'),
                   url('TypoPRO-BebasNeue-Regular.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Regular.svgz#TypoPRO-BebasNeue') format('svg');
+                  url('TypoPRO-BebasNeue-Regular.svgz#TypoPRO-BebasNeueRegular') format('svg');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

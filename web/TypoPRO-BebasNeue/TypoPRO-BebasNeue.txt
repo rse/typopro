@@ -1,10 +1,12 @@
 Name:       Bebas Neue
 Homepage:   http://dharmatype.com/dharma-type/bebas-neue.html
 Download:   http://www.dafont.com/bebas-neue.font
-Version:    1.300
+Homepage:   http://fontfabric.com/bebas-neue/
+Download:   http://fontfabric.com/downfont/bebas.zip
+Version:    01.003
 License:    Open Font License 1.1
-Publisher:  Dharma Type
-Designer:   Dharma Type
+Publisher:  Dharma Type, FontFabric
+Designer:   Ryoichi Tsunekawa
 Designed:   2010
 Derivation: Bebas
 

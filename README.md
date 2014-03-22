@@ -9,7 +9,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 353 individual fonts of 52 font families. The
+**TypoPRO** consists of 389 individual fonts of 56 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -37,6 +37,7 @@ Courier&nbsp;Prime        |     |    |    | X  |    |  4  |  X    |  X   |    | 
 Crete&nbsp;Round          |     | X  |    |    |    |  2  |  X    |  X   |    |    |      |  X   |    |
 Crimson                   |  X  |    |    |    |    |  6  |  X    |  X   |    |    |      |  X   | X  |
 DejaVu                    |  X  |    | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
+Dosis                     |     |    | X  |    |    |  7  |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Droid                     |  X  |    | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
 EB&nbsp;Garamond          |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Fira&nbsp;Mono            |     |    |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
@@ -51,6 +52,7 @@ Merriweather&nbsp;Sans    |     |    | X  |    |    |  8  |  X    |  X   |    | 
 Neuton                    |  X  |    |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Open&nbsp;Sans            |     |    | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
 Oxygen                    |     |    | X  | X  |    |  5  |  X    |  X   |    |    |      |  X   | X  |
+Raleway                   |  X  |    |    |    |    | 18  |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Roboto                    |     |    | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
 Source&nbsp;Code&nbsp;Pro |     |    |    | X  |    |  7  |  X    |      |    | X  |  X   |  X   | X  | X
 Source&nbsp;Sans&nbsp;Pro |     |    | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -77,10 +79,12 @@ Grand&nbsp;Hotel       |     |    |    | X  |  1  |  X    |      |    |    |    
 Great&nbsp;Vibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 HH&nbsp;Samuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 Journal                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Junction               |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   |  X |
 Kingthings&nbsp;Petrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
 Komika&nbsp;Hand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
 Learning&nbsp;Curve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
+Lobster&nbsp;Two       |     |    |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
 Nautilus&nbsp;Pompilius|     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
 Ostrich&nbsp;Sans      |     | X  |    |    |  8  |  X    |      |    | X  |  X   |  X   | X  | X
 Poetsen                |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X

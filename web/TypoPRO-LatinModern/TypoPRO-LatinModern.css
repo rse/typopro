@@ -33,7 +33,7 @@
 
 /* TypoPRO LM Mono Caps 10 */
 @font-face {
-    font-family:  'TypoPRO Latin Modern Mono';
+    font-family:  'TypoPRO Latin Modern Mono Caps';
     src:          url('TypoPRO-LatinModernMonoCaps-Oblique.eot');
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoCaps-Oblique.eot?#iefix') format('embedded-opentype'),
@@ -49,7 +49,7 @@
 
 /* TypoPRO LM Mono Caps 10 */
 @font-face {
-    font-family:  'TypoPRO Latin Modern Mono';
+    font-family:  'TypoPRO Latin Modern Mono Caps';
     src:          url('TypoPRO-LatinModernMonoCaps-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoCaps-Regular.eot?#iefix') format('embedded-opentype'),
@@ -337,7 +337,7 @@
 
 /* TypoPRO LM Roman Caps 10 */
 @font-face {
-    font-family:  'TypoPRO Latin Modern Roman';
+    font-family:  'TypoPRO Latin Modern Roman Caps';
     src:          url('TypoPRO-LatinModernRomanCaps-Oblique.eot');
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanCaps-Oblique.eot?#iefix') format('embedded-opentype'),
@@ -353,7 +353,7 @@
 
 /* TypoPRO LM Roman Caps 10 */
 @font-face {
-    font-family:  'TypoPRO Latin Modern Roman';
+    font-family:  'TypoPRO Latin Modern Roman Caps';
     src:          url('TypoPRO-LatinModernRomanCaps-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanCaps-Regular.eot?#iefix') format('embedded-opentype'),
