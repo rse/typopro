@@ -1,0 +1,16 @@
+
+/* TypoPRO Crimson-Bold */
+@font-face {
+    font-family:  'TypoPRO Crimson';
+    src:          url('TypoPRO-Crimson-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Crimson-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Crimson-Bold.woff') format('woff'),
+                  url('TypoPRO-Crimson-Bold.ttf') format('truetype'),
+                  url('TypoPRO-Crimson-Bold.svgz#TypoPRO-Crimson-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

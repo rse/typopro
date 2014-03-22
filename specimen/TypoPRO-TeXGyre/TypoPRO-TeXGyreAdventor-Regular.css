@@ -1,0 +1,16 @@
+
+/* TypoPRO TeXGyreAdventor-Regular */
+@font-face {
+    font-family:  'TypoPRO TeX Gyre Adventor';
+    src:          url('TypoPRO-TeXGyreAdventor-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-TeXGyreAdventor-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TeXGyreAdventor-Regular.woff') format('woff'),
+                  url('TypoPRO-TeXGyreAdventor-Regular.ttf') format('truetype'),
+                  url('TypoPRO-TeXGyreAdventor-Regular.svgz#TypoPRO-TeXGyreAdventor-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

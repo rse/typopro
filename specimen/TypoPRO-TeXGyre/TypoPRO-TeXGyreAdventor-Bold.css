@@ -1,0 +1,16 @@
+
+/* TypoPRO TeXGyreAdventor-Bold */
+@font-face {
+    font-family:  'TypoPRO TeX Gyre Adventor';
+    src:          url('TypoPRO-TeXGyreAdventor-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-TeXGyreAdventor-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TeXGyreAdventor-Bold.woff') format('woff'),
+                  url('TypoPRO-TeXGyreAdventor-Bold.ttf') format('truetype'),
+                  url('TypoPRO-TeXGyreAdventor-Bold.svgz#TypoPRO-TeXGyreAdventor-Bold') format('svg');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

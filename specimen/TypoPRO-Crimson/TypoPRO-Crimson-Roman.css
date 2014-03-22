@@ -1,0 +1,16 @@
+
+/* TypoPRO Crimson-Roman */
+@font-face {
+    font-family:  'TypoPRO Crimson';
+    src:          url('TypoPRO-Crimson-Roman.eot');
+    src:          local('*'),
+                  url('TypoPRO-Crimson-Roman.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Crimson-Roman.woff') format('woff'),
+                  url('TypoPRO-Crimson-Roman.ttf') format('truetype'),
+                  url('TypoPRO-Crimson-Roman.svgz#TypoPRO-Crimson-Roman') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
