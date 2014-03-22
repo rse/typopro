@@ -59,7 +59,7 @@ for line in `cat etc/manifest.txt`; do
 
     #   determine font conversion command (common part)
     cmd="fontface"
-    cmd="$cmd -l"
+    cmd="$cmd -l -h"
     cmd="$cmd -p \"$prefix\""
     cmd="$cmd -f \"$family\""
     if [ ".$weight" != . ]; then
