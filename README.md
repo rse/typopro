@@ -180,7 +180,7 @@ high-quality) fonts.
 Downloading
 -----------
 
-You can conveniently download TypoPRO in various ways:
+You can conveniently download snapshots or particular versions of TypoPRO in various ways:
 
 - Bower: install as client component via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
@@ -190,7 +190,7 @@ You can conveniently download TypoPRO in various ways:
   `$ npm install typopro`<br/>
   `$ npm install typopro@1.3.0`<br/>
 
-- cURL: download a snapshot of the repository:<br/>
+- cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro/archive/master.zip`<br/>
   `$ curl -O https://github.com/rse/typopro/archive/1.3.0.zip`
 
