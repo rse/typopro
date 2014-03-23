@@ -102,7 +102,7 @@ Collection Features
 
 - **Preselection** & **Assembling**:
   The fonts were carefully hand-selected, manually downloaded and
-  consistently assembled into the TypoPRO collection. For many fonts
+  consistently assembled into the **TypoPRO** collection. For many fonts
   the real upstream vendor origin of their latest versions had to be
   determined first, too.
 
@@ -121,7 +121,8 @@ Collection Features
   character spacing adjustments) and hinting (display instructions for
   rasterization adjustments) information. This is important, because for
   professional DTP typography, kerning is essential &mdash; and for rendering
-  fonts on the Web at small sizes, hinting is essential.
+  fonts on the Web at small sizes, hinting is essential. To all fonts hinting
+  information were added by the conversion process of **TypoPRO**.
 
 - **Liberal Licensing**:
   All fonts are under very liberal Open Source licenses and can be
@@ -156,7 +157,7 @@ Collection Features
 - **Font Renaming**:
   To circumvent license restrictions related to font format conversions
   and to avoid confusion with the original font formats, all Web font
-  format variants were renamed to consistently carry the "TypoPRO"
+  format variants were renamed to consistently carry the `TypoPRO `
   prefix.
 
 - **Font Parameters**:
@@ -168,7 +169,7 @@ Collection Features
 - **Specimen**:
   For the Web font variants, a specimen in HTML format was generated to
   conveniently preview the font. See http://typopro.org/specimen/ for
-  the current overview of all specimens in TypoPRO.
+  the current overview of all specimens in **TypoPRO**.
 
 Alternatives
 ------------
@@ -187,7 +188,7 @@ high-quality) fonts.
 Downloading
 -----------
 
-You can conveniently download snapshots or particular versions of TypoPRO in various ways:
+You can conveniently download snapshots or particular versions of **TypoPRO** in various ways:
 
 - Bower: install as client component via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
@@ -203,7 +204,7 @@ You can conveniently download snapshots or particular versions of TypoPRO in var
 
 Alternatively, you can use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
-task for conveniently installing TypoPRO font families.
+task for conveniently installing **TypoPRO** font families.
 
 Recommendation
 --------------
@@ -222,14 +223,14 @@ for headlines, *Neuton* for body text and *Anonymous Pro* for code.
 Manifest
 --------
 
-The TypoPRO distribution consists primarily of three content areas:
+The **TypoPRO** distribution consists primarily of three content areas:
 
 - `src/`: all font source files (formats: TTF, OTF)
 - `dtp/`: all font target files for DTP (Desktop Publishing) usage (formats: TTF)
 - `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF, SVGZ)
 
 All source files are as provided by the upstream font vendor, just with
-filenames aligned to the usual TypoPRO conventions. For the DTP and Web
+filenames aligned to the usual **TypoPRO** conventions. For the DTP and Web
 targets, the fonts are subsetted (see "Unicode Character Reduction"
 above), renamed and format converted.
 
