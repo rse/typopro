@@ -98,6 +98,12 @@ Yellowtail             |     |    |    | X  |  1  |       |  X   |    |    |    
 Collection Features
 -------------------
 
+- **Preselection** & **Assembling**:
+  The fonts were carefully hand-selected, manually downloaded and
+  consistently assembled into the TypoPRO collection. For many fonts
+  the real upstream vendor origin of their latest versions had to be
+  determined first, too.
+
 - **Glyph Design**:
   All fonts have their glyphs (individual characters) beautifully
   designed and this way provide a really wonderful optical appearance.
@@ -160,7 +166,7 @@ Collection Features
 Alternatives
 ------------
 
-Nowadays, nearly all these fonts can also be individually
+Nowadays, most of the fonts can also be individually
 downloaded for free from online font libraries like
 [Font Squirrel](http://www.fontsquirrel.com/) or
 [DaFont](http://www.dafont.com/) or even on-the-fly used from font
