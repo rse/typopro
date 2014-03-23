@@ -198,16 +198,19 @@ Alternatively, you can use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
 task for conveniently installing TypoPRO font families.
 
-Content
--------
+Manifest
+--------
 
-In directory `dtp/` (Desktop Publishing) all font sources, one directory
+In directory `src/` all font sources, one directory
 per font family, are stored in OpenType Font (OTF) or TrueType Font
 (TTF) format. In directory `web/` (World Wide Web) the same fonts are
 stored, but this time in Web formats: Embedded OpenType (EOT), Web Open
 Font Format (WOFF), TrueType Font (TTF) and Compressed Scalable Vector
 Graphics (SVGZ). The different formats for each font are required for
 maximum portability across browsers and operating systems.
+In directory `dtp/` (Desktop Publishing) the same fonts are
+stored, but this time in renamed and reduced TrueType Font (TTF) 
+format only.
 
 Recommendation
 --------------
