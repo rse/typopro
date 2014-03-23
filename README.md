@@ -1,12 +1,12 @@
 
+![TypoPRO](etc/logo.jpg "TypoPRO")
+
 TypoPRO 1.3.0
 =============
 
 http://typopro.org/
 
 *Fonts for Professional Typography &mdash; The Non-Cloud Way!*
-
-![TypoPRO](etc/logo.jpg "TypoPRO")
 
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
