@@ -14,6 +14,8 @@ fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
 
+![The TypoPRO Fonts](etc/cloud.png "The TypoPRO Fonts")
+
 Collection Overview
 -------------------
 
