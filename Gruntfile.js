@@ -16,11 +16,11 @@ module.exports = function (grunt) {
         },
         copy: {
             "sanitize": {
-                src: [ "bower_components/sanitize.css/sanitize.css" ],
+                src: [ "bower_components/sanitize.css/dist/sanitize.css" ],
                 dest: "lib/sanitize/sanitize.css"
             },
             "jquery": {
-                src: [ "bower_components/jquery/jquery.js" ],
+                src: [ "bower_components/jquery/dist/jquery.js" ],
                 dest: "lib/jquery/jquery.js"
             },
             "typopro": {

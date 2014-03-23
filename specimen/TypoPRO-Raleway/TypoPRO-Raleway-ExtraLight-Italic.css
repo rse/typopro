@@ -1,0 +1,16 @@
+
+/* TypoPRO Raleway ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Raleway';
+    src:          url('TypoPRO-Raleway-ExtraLight-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Raleway-ExtraLight-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Raleway-ExtraLight-Italic.woff') format('woff'),
+                  url('TypoPRO-Raleway-ExtraLight-Italic.ttf') format('truetype'),
+                  url('TypoPRO-Raleway-ExtraLight-Italic.svgz#TypoPRO-Raleway-ExtraLightItalic') format('svg');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
