@@ -183,16 +183,16 @@ Downloading
 You can conveniently download TypoPRO in various ways:
 
 - Bower: install as client component via the Bower component manager:<br/>
-  `$ bower install typopro`
+  `$ bower install typopro`<br/>
+  `$ bower install typopro#1.3.0`
 
 - NPM: install as server component via the Node Package Manager:<br/>
-  `$ npm install typopro`
+  `$ npm install typopro`<br/>
+  `$ npm install typopro@1.3.0`<br/>
 
-- Git: directly clone the official repository:<br/>
-  `$ git clone https://github.com/rse/typopro.git`
-
-- cURL: download only the main file from the repository:<br/>
-  `$ curl -O https://github.com/rse/typopro/archive/master.zip`
+- cURL: download a snapshot of the repository:<br/>
+  `$ curl -O https://github.com/rse/typopro/archive/master.zip`<br/>
+  `$ curl -O https://github.com/rse/typopro/archive/1.3.0.zip`
 
 Alternatively, you can use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
