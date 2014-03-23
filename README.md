@@ -116,7 +116,7 @@ Collection Features
   typography results you usually always need multiple weights of at
   least the headline and text fonts.
 
-- **Kerning** 
+- **Kerning**:
   Most of the fonts carry reasonable kerning information, provided by the
   font foundry: instructions for spacing adjustments between particular
   pairs of glyphs. This is important, because for professional
