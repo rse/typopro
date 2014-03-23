@@ -6,6 +6,8 @@ http://typopro.org/
 
 *Fonts for Professional Typography &mdash; The Non-Cloud Way!*
 
+![TypoPRO](etc/logo.jpg "TypoPRO")
+
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
@@ -13,8 +15,6 @@ especially inside Web-based Desktop or Mobile Applications. Currrently,
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
-
-![TypoPRO](etc/logo.jpg "TypoPRO")
 
 Collection Overview
 -------------------
