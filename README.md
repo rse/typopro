@@ -198,24 +198,10 @@ Alternatively, you can use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
 task for conveniently installing TypoPRO font families.
 
-Manifest
---------
-
-In directory `src/` all font sources, one directory
-per font family, are stored in OpenType Font (OTF) or TrueType Font
-(TTF) format. In directory `web/` (World Wide Web) the same fonts are
-stored, but this time in Web formats: Embedded OpenType (EOT), Web Open
-Font Format (WOFF), TrueType Font (TTF) and Compressed Scalable Vector
-Graphics (SVGZ). The different formats for each font are required for
-maximum portability across browsers and operating systems.
-In directory `dtp/` (Desktop Publishing) the same fonts are
-stored, but this time in renamed and reduced TrueType Font (TTF) 
-format only.
-
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 33
+For general purpose typography, I can recommend you all of the above 36
 General Purpose fonts, of course. But my personal preference most of
 the times is towards *Open Sans* for headlines, *Droid Serif* for body
 text and *DejaVu Sans Mono* for code. There are many reasons for this,
@@ -232,13 +218,20 @@ Manifest
 The TypoPRO distribution consists primarily of three content areas:
 
 - `src/`: all font source files (formats: TTF, OTF)
-- `dtp/`: all font target files for DTP usage (formats: TTF)
-- `web/`: all font target files for Web usage (formats: TTF, EOT, WOFF, SVGZ)
+- `dtp/`: all font target files for DTP (Desktop Publishing) usage (formats: TTF)
+- `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF, SVGZ)
 
 All source files are as provided by the upstream font vendor, just with
 filenames aligned to the usual TypoPRO conventions. For the DTP and Web
 targets, the fonts are subsetted (see "Unicode Character Reduction"
 above), renamed and format converted.
+
+In directory `web/` the fonts are stored in Web formats: Embedded
+OpenType (EOT), Web Open Font Format (WOFF), TrueType Font (TTF) and
+Compressed Scalable Vector Graphics (SVGZ). The different formats for
+each font are required for maximum portability across browsers and
+operating systems. In directory `dtp/` the same fonts are stored in
+TrueType Font (TTF) format only.
 
 Rebuilding
 ----------
