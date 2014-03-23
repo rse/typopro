@@ -116,13 +116,18 @@ Collection Features
   typography results you usually always need multiple weights of at
   least the headline and text fonts.
 
-- **Kerning** & **Hinting**:
-  Most of the fonts carry reasonable kerning (instructions for
-  character spacing adjustments) and hinting (display instructions for
-  rasterization adjustments) information. This is important, because for
-  professional DTP typography, kerning is essential &mdash; and for rendering
-  fonts on the Web at small sizes, hinting is essential. To all fonts hinting
-  information were added by the conversion process of **TypoPRO**.
+- **Kerning** 
+  Most of the fonts carry reasonable kerning information, provided by the
+  font foundry: instructions for spacing adjustments between particular
+  pairs of glyphs. This is important, because for professional
+  typography, kerning is essential.
+
+- **Hinting**:
+  All fonts carry reasonable hinting information, provided by the
+  conversion process (and its `ttfautohint` utility) of **TypoPRO**:
+  display instructions for rasterization adjustments at various
+  rendering sizes. This is important, because for rendering fonts on the
+  Web at very small sizes, hinting is essential.
 
 - **Liberal Licensing**:
   All fonts are under very liberal Open Source licenses and can be
