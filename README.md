@@ -120,7 +120,8 @@ Collection Features
   Most of the fonts carry reasonable kerning (instructions for
   character spacing adjustments) and hinting (display instructions for
   rasterization adjustments) information. This is important, because for
-  professional typography results this is a must.
+  professional DTP typography, kerning is essential &mdash; and for rendering
+  fonts on the Web at small sizes, hinting is essential.
 
 - **Liberal Licensing**:
   All fonts are under very liberal Open Source licenses and can be
