@@ -128,8 +128,12 @@ Collection Features
 
 - **Web Conversion**:
   All fonts are consistently converted from their original TTF/OTF
-  format into various font formats for use on the Web. Corresponding
-  CSS `@font-face` declaration files were generated, too.
+  format into various font formats for use on the Web: Embedded OpenType
+  (EOT), Web Open Font Format (WOFF), TrueType Font (TTF) and Compressed
+  Scalable Vector Graphics (SVGZ). These different formats for each font
+  are required for maximum portability across browsers and operating
+  systems. Suitable corresponding CSS `@font-face` declaration files
+  were generated, too.
 
 - **Unicode Character Reduction**
   Some fonts contain a really large number of glyphs, covering a wide
@@ -227,13 +231,6 @@ All source files are as provided by the upstream font vendor, just with
 filenames aligned to the usual TypoPRO conventions. For the DTP and Web
 targets, the fonts are subsetted (see "Unicode Character Reduction"
 above), renamed and format converted.
-
-In directory `web/` the fonts are stored in Web formats: Embedded
-OpenType (EOT), Web Open Font Format (WOFF), TrueType Font (TTF) and
-Compressed Scalable Vector Graphics (SVGZ). The different formats for
-each font are required for maximum portability across browsers and
-operating systems. In directory `dtp/` the same fonts are stored in
-TrueType Font (TTF) format only.
 
 Rebuilding
 ----------
