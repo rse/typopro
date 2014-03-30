@@ -1,0 +1,16 @@
+
+/* TypoPRO Comme Heavy */
+@font-face {
+    font-family:  'TypoPRO Comme';
+    src:          url('TypoPRO-Comme-Heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-Comme-Heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Comme-Heavy.woff') format('woff'),
+                  url('TypoPRO-Comme-Heavy.ttf') format('truetype'),
+                  url('TypoPRO-Comme-Heavy.svgz#TypoPRO-Comme-Heavy') format('svg');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
