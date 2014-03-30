@@ -1,0 +1,16 @@
+
+/* TypoPRO Comme ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Comme';
+    src:          url('TypoPRO-Comme-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Comme-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Comme-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Comme-ExtraLight.ttf') format('truetype'),
+                  url('TypoPRO-Comme-ExtraLight.svgz#TypoPRO-Comme-ExtraLight') format('svg');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

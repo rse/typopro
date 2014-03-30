@@ -1,0 +1,16 @@
+
+/* TypoPRO Muli Semi-Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Muli';
+    src:          url('TypoPRO-Muli-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Muli-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Muli-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Muli-SemiBoldItalic.ttf') format('truetype'),
+                  url('TypoPRO-Muli-SemiBoldItalic.svgz#TypoPRO-Muli-Semi-BoldItalic') format('svg');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

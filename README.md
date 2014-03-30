@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 389 individual fonts of 56 font families. The
+**TypoPRO** consists of 434 individual fonts of 61 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -37,6 +37,7 @@ Anonymous&nbsp;Pro        |     |    |    | X  |    |  4  |  X    |  X   |    | 
 Bitter                    |     | X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Cabin                     |     |    | X  |    | X  | 14  |  X    |  X   | X  |    |  X   |  X   | X  |
 Clear Sans                |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
+Comme                     |     |    | X  | X  |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Courier&nbsp;Prime        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Crete&nbsp;Round          |     | X  |    |    |    |  2  |  X    |  X   |    |    |      |  X   |    |
 Crimson                   |  X  |    |    |    |    |  6  |  X    |  X   |    |    |      |  X   | X  |
@@ -53,8 +54,10 @@ Libre&nbsp;Baskerville    |  X  |    |    |    |    |  3  |  X    |  X   |    | 
 Lora                      |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Merriweather              |  X  |    |    |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Merriweather&nbsp;Sans    |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Muli                      |     |    | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Neuton                    |  X  |    |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Open&nbsp;Sans            |     |    | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
+Oswald                    |     |    | X  |    |    | 14  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Oxygen                    |     |    | X  | X  |    |  5  |  X    |  X   |    |    |      |  X   | X  |
 Raleway                   |  X  |    |    |    |    | 18  |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Roboto                    |     |    | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
@@ -64,6 +67,7 @@ TeX&nbsp;Gyre             |  X  |    | X  | X  | X  | 33  |  X    |  X   | X  | 
 Ubuntu                    |     |    | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
 Vegur                     |     |    | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
 Vollkorn                  |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
+Webly&nbsp;Sleek          |     |    | X  |    |    |  6  |  X    |  X   |    | X  |      |  X   | X  |
 Yanone&nbsp;Kaffeesatz    |     |    | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts
@@ -73,29 +77,30 @@ used only for particular headlines, subtitles, tags, etc. They are
 usually just stand-alone fonts and cover just a very limited set of
 Unicode characters.
 
-Name                   |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
------------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Bebas&nbsp;Neue        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Capture&nbsp;It        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Courgette              |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-DancingScript          |     |    |    | X  |  2  |       |      |    |    |      |  X   | X  |
-Grand&nbsp;Hotel       |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Great&nbsp;Vibes       |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-HH&nbsp;Samuel         |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Journal                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Junction               |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   |  X |
-Kingthings&nbsp;Petrock|     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
-Komika&nbsp;Hand       |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
-Komika&nbsp;Text       |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
-Learning&nbsp;Curve    |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
-Lobster&nbsp;Two       |     |    |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
-Nautilus&nbsp;Pompilius|     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Ostrich&nbsp;Sans      |     | X  |    |    |  8  |  X    |      |    | X  |  X   |  X   | X  | X
-Poetsen                |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
-Pompiere               |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Top&nbsp;Secret        |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Veteran&nbsp;Typewriter|     |    | X  |    |  1  |       |      |    |    |      |  X   |    |
-Yellowtail             |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Name                     |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+-------------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Bebas&nbsp;Neue          |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Courgette                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+DancingScript            |     |    |    | X  |  2  |       |      |    |    |      |  X   | X  |
+Delius                   |     |    |    | X  |  4  |  X    |      |    |    |      |  X   | X  |
+Grand&nbsp;Hotel         |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
+Great&nbsp;Vibes         |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+HH&nbsp;Samuel           |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Journal                  |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Junction                 |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   |  X |
+Kingthings&nbsp;Petrock  |     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
+Komika&nbsp;Hand         |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
+Komika&nbsp;Text         |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
+Learning&nbsp;Curve      |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
+Lobster&nbsp;Two         |     |    |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
+Nautilus&nbsp;Pompilius  |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
+Ostrich&nbsp;Sans        |     | X  |    |    |  8  |  X    |      |    | X  |  X   |  X   | X  | X
+Poetsen                  |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
+Pompiere                 |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
+To&nbsp;Be&nbsp;Continued|     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
+Top&nbsp;Secret          |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Veteran&nbsp;Typewriter  |     |    | X  |    |  1  |       |      |    |    |      |  X   |    |
+Yellowtail               |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 
 Collection Features
 -------------------
@@ -214,7 +219,7 @@ task for conveniently installing **TypoPRO** font families.
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 36
+For general purpose typography, I can recommend you all of the above 39
 General Purpose fonts, of course. But my personal preference most of
 the times is towards *Open Sans* for headlines, *Droid Serif* for body
 text and *DejaVu Sans Mono* for code. There are many reasons for this,
