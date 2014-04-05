@@ -189,8 +189,10 @@ downloaded for free from online font libraries like
 [Font Squirrel](http://www.fontsquirrel.com/) or
 [DaFont](http://www.dafont.com/) or even on-the-fly used from font
 cloud services like [Google Fonts](http://www.google.com/fonts),
-[Open Font Library](http://openfontlibrary.org/) or
-[Adobe Typekit](https://typekit.com/). The purpose of **TypoPRO** is just
+[Open Font Library](http://openfontlibrary.org/),
+[Adobe Typekit](https://typekit.com/),
+[FontDeck](http://fontdeck.com/) or
+[Brick](http://brick.im/). The purpose of **TypoPRO** is just
 different: it provides an _offline_ solution and it intentionally
 is a very opinionated pre-selection of reasonable (meaning
 high-quality) fonts.
