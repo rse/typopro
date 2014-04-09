@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 434 individual fonts of 61 font families. The
+**TypoPRO** consists of 490 individual fonts of 64 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -31,6 +31,7 @@ characters.
 Name                      |Serif|Slab|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 --------------------------|:---:|:--:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Aileron                   |     |    | X  |    |    | 16  |  X    |  X   |    | X  |  X   |  X   | X  | X
+Alegreya                  |  X  |    | X  |    |    | 40  |  X    |  X   |    | X  |      |  X   | X  |
 Aleo                      |     | X  |    |    |    |  6  |  X    |  X   |    | X  |      |  X   | X  |
 Amble                     |     |    | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
 Anonymous&nbsp;Pro        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
@@ -41,6 +42,7 @@ Comme                     |     |    | X  | X  |    | 10  |  X    |  X   |    | 
 Courier&nbsp;Prime        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Crete&nbsp;Round          |     | X  |    |    |    |  2  |  X    |  X   |    |    |      |  X   |    |
 Crimson                   |  X  |    |    |    |    |  6  |  X    |  X   |    |    |      |  X   | X  |
+Cuprum                    |     |    | X  |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 DejaVu                    |  X  |    | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
 Dosis                     |     |    | X  |    |    |  7  |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Droid                     |  X  |    | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
@@ -80,6 +82,7 @@ Unicode characters.
 Name                     |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 -------------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Bebas&nbsp;Neue          |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Comic&nbsp;Neue          |     | X  |    | X  | 12  |  X    |  X   |    | X  |      |  X   | X  |
 Courgette                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 DancingScript            |     |    |    | X  |  2  |       |      |    |    |      |  X   | X  |
 Delius                   |     |    |    | X  |  4  |  X    |      |    |    |      |  X   | X  |

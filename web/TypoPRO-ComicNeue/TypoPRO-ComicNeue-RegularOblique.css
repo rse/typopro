@@ -1,0 +1,16 @@
+
+/* TypoPRO Comic Neue Oblique */
+@font-face {
+    font-family:  'TypoPRO Comic Neue';
+    src:          url('TypoPRO-ComicNeue-RegularOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-ComicNeue-RegularOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ComicNeue-RegularOblique.woff') format('woff'),
+                  url('TypoPRO-ComicNeue-RegularOblique.ttf') format('truetype'),
+                  url('TypoPRO-ComicNeue-RegularOblique.svgz#TypoPRO-ComicNeue-RegularOblique') format('svg');
+    font-style:   oblique;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

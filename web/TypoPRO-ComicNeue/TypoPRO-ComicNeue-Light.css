@@ -1,0 +1,16 @@
+
+/* TypoPRO Comic Neue Light */
+@font-face {
+    font-family:  'TypoPRO Comic Neue';
+    src:          url('TypoPRO-ComicNeue-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-ComicNeue-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ComicNeue-Light.woff') format('woff'),
+                  url('TypoPRO-ComicNeue-Light.ttf') format('truetype'),
+                  url('TypoPRO-ComicNeue-Light.svgz#TypoPRO-ComicNeue-Light') format('svg');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
