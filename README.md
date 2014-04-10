@@ -300,6 +300,7 @@ two steps:
 
 1. Include the `@font-face` based CSS font declaration:
 
+    ```html
     <html>
         <head>
             [...]
@@ -308,9 +309,11 @@ two steps:
         </head>
         [...]
     </html>
+    ```
 
 2. Use CSS to apply it to some of your HTML elements:
 
+    ```html
     <html>
         <head>
             [...]
@@ -329,6 +332,7 @@ two steps:
         [...]
         </body>
     </html>
+    ```
 
 Recommendation
 --------------
