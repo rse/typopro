@@ -11,3 +11,5 @@ Derivation: -
 A gorgeous modern sans-serif with a very long neck. With a whole slew of
 styles & weights: Dashed (thin), Rounded (medium), Ultra light, Normal,
 Bold (race track style double lines) and Black.
+
+[ATTENTION: TypoPRO renamed OstrichSans-Heavy.otf to OstrichSansRounded-Heavy.otf]

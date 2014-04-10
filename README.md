@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 490 individual fonts of 64 font families. The
+**TypoPRO** consists of 494 individual fonts of 66 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -82,7 +82,9 @@ Unicode characters.
 Name                     |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 -------------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Bebas&nbsp;Neue          |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
+Chawp                    |     |    |    | X  |  1  |       |      |    |    |      |      | X  |
 Comic&nbsp;Neue          |     | X  |    | X  | 12  |  X    |  X   |    | X  |      |  X   | X  |
+Comic&nbsp;Relief        |     |    |    | X  |  2  |       |      |    |    |      |  X   | X  |
 Courgette                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
 DancingScript            |     |    |    | X  |  2  |       |      |    |    |      |  X   | X  |
 Delius                   |     |    |    | X  |  4  |  X    |      |    |    |      |  X   | X  |
@@ -97,7 +99,7 @@ Komika&nbsp;Text         |     | X  |    |    | 10  |  X    |  X   |    | X  |  
 Learning&nbsp;Curve      |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
 Lobster&nbsp;Two         |     |    |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
 Nautilus&nbsp;Pompilius  |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Ostrich&nbsp;Sans        |     | X  |    |    |  8  |  X    |      |    | X  |  X   |  X   | X  | X
+Ostrich&nbsp;Sans        |     | X  |    |    |  9  |  X    |      |    | X  |  X   |  X   | X  | X
 Poetsen                  |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
 Pompiere                 |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
 To&nbsp;Be&nbsp;Continued|     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X

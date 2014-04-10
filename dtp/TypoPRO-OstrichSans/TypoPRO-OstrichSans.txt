@@ -12,6 +12,8 @@ A gorgeous modern sans-serif with a very long neck. With a whole slew of
 styles & weights: Dashed (thin), Rounded (medium), Ultra light, Normal,
 Bold (race track style double lines) and Black.
 
+[ATTENTION: TypoPRO renamed OstrichSans-Heavy.otf to OstrichSansRounded-Heavy.otf]
+
 	Copyright (c) 2011, Tyler Finck <hi@tylerfinck.com>, with Reserved Font Name: "Ostrich Sans".
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
