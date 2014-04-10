@@ -117,8 +117,10 @@ Collection Features
   determined first, too.
 
 - **Glyph Design**:
-  All fonts have their glyphs (individual characters) beautifully
-  designed and this way provide a really wonderful optical appearance.
+  All fonts are professionally crafted and have their glyphs (individual
+  characters) beautifully designed and this way provide a really
+  wonderful optical appearance. Most of the fonts are actually from
+  professional font foundries.
 
 - **Font Families**:
   Most of the fonts are based on reasonably large font families of
@@ -141,7 +143,8 @@ Collection Features
 
 - **Liberal Licensing**:
   All fonts are under very liberal Open Source licenses and can be
-  freely used even in Closed Source and Commercial contexts.
+  freely and unrestrictively used even in Closed Source and Commercial
+  contexts.
 
 - **Web Conversion**:
   All fonts are consistently converted from their original TTF/OTF
@@ -185,6 +188,33 @@ Collection Features
   For the Web font variants, a specimen in HTML format was generated to
   conveniently preview the font. See http://typopro.org/specimen/ for
   the current overview of all specimens in **TypoPRO**.
+
+Browser Support
+---------------
+
+All major browsers are fully supported by TypoPRO due to the fact
+that each font is provided in multiple formats. The actual minimum
+browser version which supports a particular format follows (for latest
+information see [1](http://caniuse.com/eot) [2](http://caniuse.com/ttf)
+[3](http://caniuse.com/woff) [4](http://caniuse.com/svg-fonts)):
+
+Browser                     | EOT  | TTF  | WOFF | SVGZ
+----------------------------|:----:|:----:|:----:|:----:
+Internet Explorer (Desktop) | 6.0  | 9    | 9    | --
+Internet Explorer (Mobile)  | --   | --   | 10.0 | --
+Mozilla Firefox (Desktop)   | --   | 3.5  | 3.6  | --
+Mozilla Firefox (Mobile)    | --   | 26.0 | 26.0 | --
+Google Chrome (Desktop)     | --   | 4.0  | 5.0  | 4.0
+Google Chrome (Mobile)      | --   | 33.0 | 33.0 | 33.0
+Apple Safari (Desktop)      | --   | 3.1  | 5.1  | 3.2
+Apple Safari (Mobile)       | --   | 4.2  | 5.0  | 3.2
+Opera (Desktop)             | --   | 10.0 | 11.1 | 9.0
+Opera (Mobile)              | --   | 10.0 | 11.0 | 10.0
+
+This means that for the latest versions of all major browsers the
+optimized WOFF format would be both sufficient and prefered. But for
+backward compatibility to older browser versions, the EOT, TTF and SVGZ
+formats are still provided, too.
 
 Alternatives
 ------------
