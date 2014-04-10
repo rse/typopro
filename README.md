@@ -233,8 +233,8 @@ different: it provides an _offline_ solution and it intentionally
 is a very opinionated pre-selection of reasonable (meaning
 high-quality) fonts.
 
-Downloading
------------
+Download
+--------
 
 You can conveniently download snapshots or particular versions of **TypoPRO** in various ways:
 
@@ -253,6 +253,82 @@ You can conveniently download snapshots or particular versions of **TypoPRO** in
 Alternatively, you can use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
 task for conveniently installing **TypoPRO** font families.
+
+Desktop Usage
+-------------
+
+The DTP variants of all fonts you can find under `dtp/`. Just
+install those files into your system:
+
+- For Windows: For single and bulk installs, right-click one or more `*.ttf` files and choose "Install"
+  from the context menu.
+
+- For Mac OS X: For single installs, open the `*.ttf` file with the Font Book app
+  and choose "Install Font". For bulk installs drag & drop the
+  fonts into the `Fonts` folder of the `Library` folder in the
+  Finder app.
+
+- For GNU/Linux:
+  For single installs, open the `*.ttf` file with the Font Viewer app
+  and choose "Install". For bulk installs copy the
+  `*.ttf` files into `/usr/local/share/fonts/truetype` folder of your system
+  and run `sudo fc-cache`.
+
+Web Usage
+---------
+
+It is important that the font files are delivered to the browser with
+the correct MIME content-types. You can use the following Apache
+`.htaccess` configuration snippet to achieve this:
+
+    #   provide reasonable MIME content-types
+    <IfModule mime_module>
+        AddType application/vnd.ms-fontobject eot
+        AddType application/font-woff         woff
+        AddType application/x-font-ttf        ttf
+        AddType image/svg+xml                 svg
+        AddEncoding gzip                      svgz
+    </IfModule>
+
+    #   compress all fonts (except already compressed WOFF)
+    <IfModule deflate_module>
+        AddOutputFilter DEFLATE eot ttf svg
+    </IfModule>
+
+In order to use an individual font you have to use
+two steps:
+
+1. Include the `@font-face` based CSS font declaration:
+
+   <html>
+       <head>
+           [...]
+           <link href="web/TypoPRO-Lora/TypoPRO-Lora-Regular.css" rel="stylesheet" type="text/css"/>
+           [...]
+       </head>
+       [...]
+   </html>
+
+2. Use CSS to apply it to some of your HTML elements:
+
+   <html>
+       <head>
+           [...]
+           <style type="text/css">
+               .sample {
+                   font-family: "TypoPRO Lora";
+                   font-weight: bold;
+                   font-size: 14pt;
+               }
+           </style>
+           [...]
+       </head>
+       <body>
+       [...]
+           <div class="sample">The Quick Brown Fox Jumps Over The Lazy Dog</div>
+       [...]
+       </body>
+   </html>
 
 Recommendation
 --------------
