@@ -300,35 +300,35 @@ two steps:
 
 1. Include the `@font-face` based CSS font declaration:
 
-   <html>
-       <head>
-           [...]
-           <link href="web/TypoPRO-Lora/TypoPRO-Lora-Regular.css" rel="stylesheet" type="text/css"/>
-           [...]
-       </head>
-       [...]
-   </html>
+    <html>
+        <head>
+            [...]
+            <link href="web/TypoPRO-Lora/TypoPRO-Lora-Regular.css" rel="stylesheet" type="text/css"/>
+            [...]
+        </head>
+        [...]
+    </html>
 
 2. Use CSS to apply it to some of your HTML elements:
 
-   <html>
-       <head>
-           [...]
-           <style type="text/css">
-               .sample {
-                   font-family: "TypoPRO Lora";
-                   font-weight: bold;
-                   font-size: 14pt;
-               }
-           </style>
-           [...]
-       </head>
-       <body>
-       [...]
-           <div class="sample">The Quick Brown Fox Jumps Over The Lazy Dog</div>
-       [...]
-       </body>
-   </html>
+    <html>
+        <head>
+            [...]
+            <style type="text/css">
+                .sample {
+                    font-family: "TypoPRO Lora";
+                    font-weight: bold;
+                    font-size: 14pt;
+                }
+            </style>
+            [...]
+        </head>
+        <body>
+        [...]
+            <div class="sample">The Quick Brown Fox Jumps Over The Lazy Dog</div>
+        [...]
+        </body>
+    </html>
 
 Recommendation
 --------------
