@@ -205,7 +205,8 @@ Internet Explorer (Mobile)  | --   | --   | 10.0 | --
 Mozilla Firefox (Desktop)   | --   | 3.5  | 3.6  | --
 Mozilla Firefox (Mobile)    | --   | 26.0 | 26.0 | --
 Google Chrome (Desktop)     | --   | 4.0  | 5.0  | 4.0
-Google Chrome (Mobile)      | --   | 33.0 | 33.0 | 33.0
+Google Chrome (Mobile 2)    | --   | 33.0 | 33.0 | 33.0
+Google Chrome (Mobile 1)    | --   | 2.2  | 4.4  | 3.0
 Apple Safari (Desktop)      | --   | 3.1  | 5.1  | 3.2
 Apple Safari (Mobile)       | --   | 4.2  | 5.0  | 3.2
 Opera (Desktop)             | --   | 10.0 | 11.1 | 9.0
