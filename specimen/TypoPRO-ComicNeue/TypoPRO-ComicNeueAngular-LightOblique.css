@@ -1,0 +1,16 @@
+
+/* TypoPRO Comic Neue Angular Light Oblique */
+@font-face {
+    font-family:  'TypoPRO Comic Neue Angular';
+    src:          url('TypoPRO-ComicNeueAngular-LightOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-ComicNeueAngular-LightOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ComicNeueAngular-LightOblique.woff') format('woff'),
+                  url('TypoPRO-ComicNeueAngular-LightOblique.ttf') format('truetype'),
+                  url('TypoPRO-ComicNeueAngular-LightOblique.svgz#TypoPRO-ComicNeueAngular-LightOblique') format('svg');
+    font-style:   oblique;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

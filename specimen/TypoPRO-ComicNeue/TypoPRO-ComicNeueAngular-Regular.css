@@ -1,0 +1,16 @@
+
+/* TypoPRO Comic Neue Angular Regular */
+@font-face {
+    font-family:  'TypoPRO Comic Neue Angular';
+    src:          url('TypoPRO-ComicNeueAngular-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ComicNeueAngular-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ComicNeueAngular-Regular.woff') format('woff'),
+                  url('TypoPRO-ComicNeueAngular-Regular.ttf') format('truetype'),
+                  url('TypoPRO-ComicNeueAngular-Regular.svgz#TypoPRO-ComicNeueAngular-Regular') format('svg');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
