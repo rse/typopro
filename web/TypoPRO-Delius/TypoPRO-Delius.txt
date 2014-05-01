@@ -1,8 +1,7 @@
 Name:       Delius
-Homepage:   
-Download:   http://www.dafont.com/delius.font
+Homepage:   http://www.dafont.com/delius.font
 Download:   http://www.dafont.com/delius-unicase.font
-Version:    ?
+Version:    2012
 License:    Open Font License 1.1
 Publisher:  Natalia Raices
 Designer:   Natalia Raices

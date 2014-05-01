@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 494 individual fonts of 66 font families. The
+**TypoPRO** consists of 498 individual fonts of 67 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -37,6 +37,7 @@ Amble                     |     |    | X  |    |    |  8  |  X    |  X   | X  | 
 Anonymous&nbsp;Pro        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Bitter                    |     | X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Cabin                     |     |    | X  |    | X  | 14  |  X    |  X   | X  |    |  X   |  X   | X  |
+Charis&nbsp;SIL           |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Clear Sans                |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
 Comme                     |     |    | X  | X  |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
 Courier&nbsp;Prime        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
@@ -337,7 +338,7 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 41
+For general purpose typography, I can recommend you all of the above 42
 General Purpose fonts, of course. But my personal preference most of
 the times is towards *Open Sans* for headlines, *Droid Serif* for body
 text and *DejaVu Sans Mono* for code. There are many reasons for this,

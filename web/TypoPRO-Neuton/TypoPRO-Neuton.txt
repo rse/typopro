@@ -8,6 +8,12 @@ Designer:   Brian M. Zick
 Designed:   2010
 Derivation: none
 
+Brian M. Zick's font, developed in 2010, is named after Newton County,
+Arkansas, where he currently lives. It is a clean Times-Roman-like
+typeface which grew into a large family that comprises both Latin and
+Hebrew.
+
+
 Copyright (c) 2010, 2011 Brian M Zick (http://21326.info/ artistenator@gmail.com), with Reserved Font Name "Neuton" and "Neuton Cursive"
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
