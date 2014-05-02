@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-CommeMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CommeMono-Regular.woff') format('woff'),
-                  url('TypoPRO-CommeMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-CommeMono-Regular.svgz#TypoPRO-CommeMono') format('svg');
+                  url('TypoPRO-CommeMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

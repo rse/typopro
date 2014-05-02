@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-CharisSIL-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CharisSIL-Regular.woff') format('woff'),
-                  url('TypoPRO-CharisSIL-Regular.ttf') format('truetype'),
-                  url('TypoPRO-CharisSIL-Regular.svgz#TypoPRO-CharisSIL') format('svg');
+                  url('TypoPRO-CharisSIL-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

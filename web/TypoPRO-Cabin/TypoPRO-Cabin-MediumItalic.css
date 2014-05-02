@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-MediumItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-Cabin-MediumItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-MediumItalic.svgz#TypoPRO-Cabin-MediumItalic') format('svg');
+                  url('TypoPRO-Cabin-MediumItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  500;
     font-stretch: normal;

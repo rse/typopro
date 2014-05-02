@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-ClearSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ClearSans-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-ClearSans-MediumItalic.ttf') format('truetype'),
-                  url('TypoPRO-ClearSans-MediumItalic.svgz#TypoPRO-ClearSans-MediumItalic') format('svg');
+                  url('TypoPRO-ClearSans-MediumItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  500;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-VeteranTypewriter-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-VeteranTypewriter-Regular.woff') format('woff'),
-                  url('TypoPRO-VeteranTypewriter-Regular.ttf') format('truetype'),
-                  url('TypoPRO-VeteranTypewriter-Regular.svgz#TypoPRO-VeteranTypewriter') format('svg');
+                  url('TypoPRO-VeteranTypewriter-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

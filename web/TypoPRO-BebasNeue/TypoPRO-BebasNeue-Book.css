@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-BebasNeue-Book.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Book.woff') format('woff'),
-                  url('TypoPRO-BebasNeue-Book.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Book.svgz#TypoPRO-BebasNeueBook') format('svg');
+                  url('TypoPRO-BebasNeue-Book.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Aileron-UltraLight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Aileron-UltraLight.woff') format('woff'),
-                  url('TypoPRO-Aileron-UltraLight.ttf') format('truetype'),
-                  url('TypoPRO-Aileron-UltraLight.svgz#TypoPRO-Aileron-UltraLight') format('svg');
+                  url('TypoPRO-Aileron-UltraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  100;
     font-stretch: normal;

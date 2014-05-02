@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-GentiumBasic-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-GentiumBasic-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-GentiumBasic-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-GentiumBasic-BoldItalic.svgz#TypoPRO-GentiumBasic-BoldItalic') format('svg');
+                  url('TypoPRO-GentiumBasic-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

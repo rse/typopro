@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DeliusSwashCaps-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DeliusSwashCaps-Regular.woff') format('woff'),
-                  url('TypoPRO-DeliusSwashCaps-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DeliusSwashCaps-Regular.svgz#TypoPRO-DeliusSwashCaps-Regular') format('svg');
+                  url('TypoPRO-DeliusSwashCaps-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

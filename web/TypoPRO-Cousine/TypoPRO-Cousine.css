@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cousine-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cousine-Bold.woff') format('woff'),
-                  url('TypoPRO-Cousine-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Cousine-Bold.svgz#TypoPRO-Cousine-Bold') format('svg');
+                  url('TypoPRO-Cousine-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Cousine-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cousine-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Cousine-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cousine-BoldItalic.svgz#TypoPRO-Cousine-BoldItalic') format('svg');
+                  url('TypoPRO-Cousine-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Cousine-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cousine-Italic.woff') format('woff'),
-                  url('TypoPRO-Cousine-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Cousine-Italic.svgz#TypoPRO-Cousine-Italic') format('svg');
+                  url('TypoPRO-Cousine-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Cousine-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cousine-Regular.woff') format('woff'),
-                  url('TypoPRO-Cousine-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Cousine-Regular.svgz#TypoPRO-Cousine') format('svg');
+                  url('TypoPRO-Cousine-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

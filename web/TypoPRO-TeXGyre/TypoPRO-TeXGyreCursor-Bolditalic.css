@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreCursor-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreCursor-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreCursor-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreCursor-Bolditalic.svgz#TypoPRO-TeXGyreCursor-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreCursor-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

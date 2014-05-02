@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Raleway-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Raleway-Regular.woff') format('woff'),
-                  url('TypoPRO-Raleway-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Raleway-Regular.svgz#TypoPRO-Raleway-Regular') format('svg');
+                  url('TypoPRO-Raleway-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

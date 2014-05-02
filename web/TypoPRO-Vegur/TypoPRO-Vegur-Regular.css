@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Vegur-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Vegur-Regular.woff') format('woff'),
-                  url('TypoPRO-Vegur-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Vegur-Regular.svgz#TypoPRO-Vegur-Regular') format('svg');
+                  url('TypoPRO-Vegur-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

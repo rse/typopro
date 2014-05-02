@@ -77,7 +77,7 @@ for line in `cat etc/manifest.txt`; do
 
     #   determine font conversion command (Web formats)
     cmd1="$cmd -u '0000-00FF'"
-    cmd1="$cmd1 -O \"ttf,eot,woff,svgz,css,html\""
+    cmd1="$cmd1 -O \"eot,ttf,woff,css\""
     cmd1="$cmd1 -o \"web/$prefix-$name/\""
     cmd1="$cmd1 \"src/$font\""
 

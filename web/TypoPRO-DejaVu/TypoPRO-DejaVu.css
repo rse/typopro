@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSans-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSans-Bold.woff') format('woff'),
-                  url('TypoPRO-DejaVuSans-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSans-Bold.svgz#TypoPRO-DejaVuSans-Bold') format('svg');
+                  url('TypoPRO-DejaVuSans-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSans-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSans-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-DejaVuSans-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSans-BoldOblique.svgz#TypoPRO-DejaVuSans-BoldOblique') format('svg');
+                  url('TypoPRO-DejaVuSans-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSans-ExtraLight.woff') format('woff'),
-                  url('TypoPRO-DejaVuSans-ExtraLight.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSans-ExtraLight.svgz#TypoPRO-DejaVuSans-ExtraLight') format('svg');
+                  url('TypoPRO-DejaVuSans-ExtraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSans-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSans-Oblique.woff') format('woff'),
-                  url('TypoPRO-DejaVuSans-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSans-Oblique.svgz#TypoPRO-DejaVuSans-Oblique') format('svg');
+                  url('TypoPRO-DejaVuSans-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSans-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSans-Regular.woff') format('woff'),
-                  url('TypoPRO-DejaVuSans-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSans-Regular.svgz#TypoPRO-DejaVuSans') format('svg');
+                  url('TypoPRO-DejaVuSans-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansCondensed-Bold.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansCondensed-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansCondensed-Bold.svgz#TypoPRO-DejaVuSansCondensed-Bold') format('svg');
+                  url('TypoPRO-DejaVuSansCondensed-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: condensed;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansCondensed-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansCondensed-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansCondensed-BoldOblique.svgz#TypoPRO-DejaVuSansCondensed-BoldOblique') format('svg');
+                  url('TypoPRO-DejaVuSansCondensed-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: condensed;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansCondensed-Oblique.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansCondensed-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansCondensed-Oblique.svgz#TypoPRO-DejaVuSansCondensed-Oblique') format('svg');
+                  url('TypoPRO-DejaVuSansCondensed-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: condensed;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansCondensed-Regular.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansCondensed-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansCondensed-Regular.svgz#TypoPRO-DejaVuSansCondensed') format('svg');
+                  url('TypoPRO-DejaVuSansCondensed-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansMono-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansMono-Bold.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansMono-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansMono-Bold.svgz#TypoPRO-DejaVuSansMono-Bold') format('svg');
+                  url('TypoPRO-DejaVuSansMono-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansMono-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansMono-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansMono-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansMono-BoldOblique.svgz#TypoPRO-DejaVuSansMono-BoldOblique') format('svg');
+                  url('TypoPRO-DejaVuSansMono-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: normal;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansMono-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansMono-Oblique.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansMono-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansMono-Oblique.svgz#TypoPRO-DejaVuSansMono-Oblique') format('svg');
+                  url('TypoPRO-DejaVuSansMono-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansMono-Regular.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansMono-Regular.svgz#TypoPRO-DejaVuSansMono') format('svg');
+                  url('TypoPRO-DejaVuSansMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -214,8 +201,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerif-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerif-Bold.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerif-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerif-Bold.svgz#TypoPRO-DejaVuSerif-Bold') format('svg');
+                  url('TypoPRO-DejaVuSerif-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -230,8 +216,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerif-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerif-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerif-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerif-BoldItalic.svgz#TypoPRO-DejaVuSerif-BoldItalic') format('svg');
+                  url('TypoPRO-DejaVuSerif-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -246,8 +231,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerif-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerif-Italic.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerif-Italic.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerif-Italic.svgz#TypoPRO-DejaVuSerif-Italic') format('svg');
+                  url('TypoPRO-DejaVuSerif-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -262,8 +246,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerif-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerif-Regular.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerif-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerif-Regular.svgz#TypoPRO-DejaVuSerif') format('svg');
+                  url('TypoPRO-DejaVuSerif-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -278,8 +261,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerifCondensed-Bold.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerifCondensed-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerifCondensed-Bold.svgz#TypoPRO-DejaVuSerifCondensed-Bold') format('svg');
+                  url('TypoPRO-DejaVuSerifCondensed-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: condensed;
@@ -294,8 +276,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerifCondensed-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerifCondensed-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerifCondensed-BoldItalic.svgz#TypoPRO-DejaVuSerifCondensed-BoldItalic') format('svg');
+                  url('TypoPRO-DejaVuSerifCondensed-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: condensed;
@@ -310,8 +291,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerifCondensed-Italic.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerifCondensed-Italic.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerifCondensed-Italic.svgz#TypoPRO-DejaVuSerifCondensed-Italic') format('svg');
+                  url('TypoPRO-DejaVuSerifCondensed-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: condensed;
@@ -326,8 +306,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerifCondensed-Regular.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerifCondensed-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerifCondensed-Regular.svgz#TypoPRO-DejaVuSerifCondensed') format('svg');
+                  url('TypoPRO-DejaVuSerifCondensed-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;

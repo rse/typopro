@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaHand-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaHand-Italic.woff') format('woff'),
-                  url('TypoPRO-KomikaHand-Italic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaHand-Italic.svgz#TypoPRO-KomikaHand-Italic') format('svg');
+                  url('TypoPRO-KomikaHand-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;

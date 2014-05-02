@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreCursor-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreCursor-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreCursor-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreCursor-Regular.svgz#TypoPRO-TeXGyreCursor-Regular') format('svg');
+                  url('TypoPRO-TeXGyreCursor-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

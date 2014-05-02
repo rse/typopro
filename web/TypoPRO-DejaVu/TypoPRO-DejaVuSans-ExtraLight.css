@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSans-ExtraLight.woff') format('woff'),
-                  url('TypoPRO-DejaVuSans-ExtraLight.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSans-ExtraLight.svgz#TypoPRO-DejaVuSans-ExtraLight') format('svg');
+                  url('TypoPRO-DejaVuSans-ExtraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Crimson-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Crimson-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Crimson-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Crimson-BoldItalic.svgz#TypoPRO-Crimson-BoldItalic') format('svg');
+                  url('TypoPRO-Crimson-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

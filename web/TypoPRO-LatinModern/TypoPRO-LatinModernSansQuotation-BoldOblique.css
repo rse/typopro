@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansQuotation-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansQuotation-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansQuotation-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansQuotation-BoldOblique.svgz#TypoPRO-LMSansQuot8-BoldOblique') format('svg');
+                  url('TypoPRO-LatinModernSansQuotation-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: normal;

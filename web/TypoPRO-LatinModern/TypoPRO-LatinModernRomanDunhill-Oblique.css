@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanDunhill-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanDunhill-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanDunhill-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanDunhill-Oblique.svgz#TypoPRO-LMRomanDunh10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernRomanDunhill-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-Book.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-Book.woff') format('woff'),
-                  url('TypoPRO-Dosis-Book.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-Book.svgz#TypoPRO-Dosis-Book') format('svg');
+                  url('TypoPRO-Dosis-Book.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

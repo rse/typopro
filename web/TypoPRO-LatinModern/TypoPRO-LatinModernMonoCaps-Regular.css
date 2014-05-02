@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoCaps-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoCaps-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoCaps-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoCaps-Regular.svgz#TypoPRO-LMMonoCaps10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMonoCaps-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-Black.woff') format('woff'),
-                  url('TypoPRO-Merriweather-Black.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-Black.svgz#TypoPRO-Merriweather-Heavy') format('svg');
+                  url('TypoPRO-Merriweather-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-Bold.woff') format('woff'),
-                  url('TypoPRO-Merriweather-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-Bold.svgz#TypoPRO-Merriweather-Bold') format('svg');
+                  url('TypoPRO-Merriweather-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Merriweather-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-BoldItalic.svgz#TypoPRO-Merriweather-BoldItalic') format('svg');
+                  url('TypoPRO-Merriweather-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-HeavyItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-HeavyItalic.woff') format('woff'),
-                  url('TypoPRO-Merriweather-HeavyItalic.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-HeavyItalic.svgz#TypoPRO-Merriweather-HeavyItalic') format('svg');
+                  url('TypoPRO-Merriweather-HeavyItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-Italic.woff') format('woff'),
-                  url('TypoPRO-Merriweather-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-Italic.svgz#TypoPRO-Merriweather-Italic') format('svg');
+                  url('TypoPRO-Merriweather-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-Light.woff') format('woff'),
-                  url('TypoPRO-Merriweather-Light.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-Light.svgz#TypoPRO-Merriweather-Light') format('svg');
+                  url('TypoPRO-Merriweather-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-LightItalic.woff') format('woff'),
-                  url('TypoPRO-Merriweather-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-LightItalic.svgz#TypoPRO-Merriweather-LightItalic') format('svg');
+                  url('TypoPRO-Merriweather-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  200;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-Regular.woff') format('woff'),
-                  url('TypoPRO-Merriweather-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-Regular.svgz#TypoPRO-Merriweather') format('svg');
+                  url('TypoPRO-Merriweather-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-Bold.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-Bold.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-Bold.svgz#TypoPRO-MerriweatherSans-Bold') format('svg');
+                  url('TypoPRO-MerriweatherSans-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-BoldItalic.svgz#TypoPRO-MerriweatherSans-BoldItalic') format('svg');
+                  url('TypoPRO-MerriweatherSans-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-ExtraBold.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-ExtraBold.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-ExtraBold.svgz#TypoPRO-MerriweatherSans-ExtraBold') format('svg');
+                  url('TypoPRO-MerriweatherSans-ExtraBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  800;
     font-stretch: normal;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-ExtraBoldItalic.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-ExtraBoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-ExtraBoldItalic.svgz#TypoPRO-MerriweatherSans-ExtraBldItalic') format('svg');
+                  url('TypoPRO-MerriweatherSans-ExtraBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  800;
     font-stretch: normal;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-Italic.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-Italic.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-Italic.svgz#TypoPRO-MerriweatherSans-Italic') format('svg');
+                  url('TypoPRO-MerriweatherSans-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -214,8 +201,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-Light.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-Light.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-Light.svgz#TypoPRO-MerriweatherSans-Light') format('svg');
+                  url('TypoPRO-MerriweatherSans-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -230,8 +216,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-LightItalic.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-LightItalic.svgz#TypoPRO-MerriweatherSans-LightItalic') format('svg');
+                  url('TypoPRO-MerriweatherSans-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -246,8 +231,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-Regular.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-Regular.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-Regular.svgz#TypoPRO-MerriweatherSans-Regular') format('svg');
+                  url('TypoPRO-MerriweatherSans-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

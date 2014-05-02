@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LobsterTwo-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LobsterTwo-Regular.woff') format('woff'),
-                  url('TypoPRO-LobsterTwo-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LobsterTwo-Regular.svgz#TypoPRO-LobsterTwo') format('svg');
+                  url('TypoPRO-LobsterTwo-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

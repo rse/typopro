@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-AnonymousPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AnonymousPro-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-AnonymousPro-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-AnonymousPro-BoldItalic.svgz#TypoPRO-AnonymousPro-BoldItalic') format('svg');
+                  url('TypoPRO-AnonymousPro-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

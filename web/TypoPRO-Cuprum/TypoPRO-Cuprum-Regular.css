@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cuprum-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cuprum-Regular.woff') format('woff'),
-                  url('TypoPRO-Cuprum-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Cuprum-Regular.svgz#TypoPRO-Cuprum-Regular') format('svg');
+                  url('TypoPRO-Cuprum-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

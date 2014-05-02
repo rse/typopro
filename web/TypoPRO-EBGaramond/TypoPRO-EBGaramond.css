@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-EBGaramond-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-EBGaramond-Bold.woff') format('woff'),
-                  url('TypoPRO-EBGaramond-Bold.ttf') format('truetype'),
-                  url('TypoPRO-EBGaramond-Bold.svgz#TypoPRO-EBGaramond12-Bold') format('svg');
+                  url('TypoPRO-EBGaramond-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-EBGaramond-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-EBGaramond-Italic.woff') format('woff'),
-                  url('TypoPRO-EBGaramond-Italic.ttf') format('truetype'),
-                  url('TypoPRO-EBGaramond-Italic.svgz#TypoPRO-EBGaramond12-Italic') format('svg');
+                  url('TypoPRO-EBGaramond-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-EBGaramond-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-EBGaramond-Regular.woff') format('woff'),
-                  url('TypoPRO-EBGaramond-Regular.ttf') format('truetype'),
-                  url('TypoPRO-EBGaramond-Regular.svgz#TypoPRO-EBGaramond12-Regular') format('svg');
+                  url('TypoPRO-EBGaramond-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-EBGaramond-SmallCaps.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-EBGaramond-SmallCaps.woff') format('woff'),
-                  url('TypoPRO-EBGaramond-SmallCaps.ttf') format('truetype'),
-                  url('TypoPRO-EBGaramond-SmallCaps.svgz#TypoPRO-EBGaramond12-SC') format('svg');
+                  url('TypoPRO-EBGaramond-SmallCaps.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

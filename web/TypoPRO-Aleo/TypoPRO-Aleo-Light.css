@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Aleo-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Aleo-Light.woff') format('woff'),
-                  url('TypoPRO-Aleo-Light.ttf') format('truetype'),
-                  url('TypoPRO-Aleo-Light.svgz#TypoPRO-Aleo-Light') format('svg');
+                  url('TypoPRO-Aleo-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicRelief-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicRelief-Bold.woff') format('woff'),
-                  url('TypoPRO-ComicRelief-Bold.ttf') format('truetype'),
-                  url('TypoPRO-ComicRelief-Bold.svgz#TypoPRO-ComicRelief-Bold') format('svg');
+                  url('TypoPRO-ComicRelief-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicRelief-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicRelief-Regular.woff') format('woff'),
-                  url('TypoPRO-ComicRelief-Regular.ttf') format('truetype'),
-                  url('TypoPRO-ComicRelief-Regular.svgz#TypoPRO-ComicRelief') format('svg');
+                  url('TypoPRO-ComicRelief-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

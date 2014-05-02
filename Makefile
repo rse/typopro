@@ -1,8 +1,8 @@
 
-all:
+all: convert manifest
 
 convert:
 	sh etc/convert.sh
-index:
-	perl etc/index.pl
+manifest:
+	perl etc/manifest.pl
 

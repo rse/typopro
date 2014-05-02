@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Crimson-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Crimson-Bold.woff') format('woff'),
-                  url('TypoPRO-Crimson-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Crimson-Bold.svgz#TypoPRO-Crimson-Bold') format('svg');
+                  url('TypoPRO-Crimson-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

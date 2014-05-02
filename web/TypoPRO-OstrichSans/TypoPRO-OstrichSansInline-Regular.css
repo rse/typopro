@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-OstrichSansInline-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-OstrichSansInline-Regular.woff') format('woff'),
-                  url('TypoPRO-OstrichSansInline-Regular.ttf') format('truetype'),
-                  url('TypoPRO-OstrichSansInline-Regular.svgz#TypoPRO-OstrichSansInline-Regular') format('svg');
+                  url('TypoPRO-OstrichSansInline-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

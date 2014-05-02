@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cuprum-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cuprum-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Cuprum-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cuprum-BoldItalic.svgz#TypoPRO-Cuprum-BoldItalic') format('svg');
+                  url('TypoPRO-Cuprum-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

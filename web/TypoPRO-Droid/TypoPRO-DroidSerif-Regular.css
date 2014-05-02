@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSerif-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSerif-Regular.woff') format('woff'),
-                  url('TypoPRO-DroidSerif-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DroidSerif-Regular.svgz#TypoPRO-DroidSerif') format('svg');
+                  url('TypoPRO-DroidSerif-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

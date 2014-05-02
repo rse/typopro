@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-Bold.woff') format('woff'),
-                  url('TypoPRO-KomikaText-Bold.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-Bold.svgz#TypoPRO-KomikaText-Bold') format('svg');
+                  url('TypoPRO-KomikaText-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

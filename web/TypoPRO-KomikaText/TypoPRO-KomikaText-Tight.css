@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-Tight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-Tight.woff') format('woff'),
-                  url('TypoPRO-KomikaText-Tight.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-Tight.svgz#TypoPRO-KomikaTextTight') format('svg');
+                  url('TypoPRO-KomikaText-Tight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;

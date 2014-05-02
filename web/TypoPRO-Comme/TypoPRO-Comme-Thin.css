@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Thin.woff') format('woff'),
-                  url('TypoPRO-Comme-Thin.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Thin.svgz#TypoPRO-Comme-Thin') format('svg');
+                  url('TypoPRO-Comme-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  100;
     font-stretch: normal;

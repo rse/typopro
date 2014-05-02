@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-GreatVibes-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-GreatVibes-Regular.woff') format('woff'),
-                  url('TypoPRO-GreatVibes-Regular.ttf') format('truetype'),
-                  url('TypoPRO-GreatVibes-Regular.svgz#TypoPRO-GreatVibes-Regular') format('svg');
+                  url('TypoPRO-GreatVibes-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

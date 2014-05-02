@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Delius-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Delius-Regular.woff') format('woff'),
-                  url('TypoPRO-Delius-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Delius-Regular.svgz#TypoPRO-Delius-Regular') format('svg');
+                  url('TypoPRO-Delius-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-DeliusSwashCaps-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DeliusSwashCaps-Regular.woff') format('woff'),
-                  url('TypoPRO-DeliusSwashCaps-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DeliusSwashCaps-Regular.svgz#TypoPRO-DeliusSwashCaps-Regular') format('svg');
+                  url('TypoPRO-DeliusSwashCaps-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-DeliusUnicase-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DeliusUnicase-Bold.woff') format('woff'),
-                  url('TypoPRO-DeliusUnicase-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DeliusUnicase-Bold.svgz#TypoPRO-DeliusUnicase-Bold') format('svg');
+                  url('TypoPRO-DeliusUnicase-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-DeliusUnicase-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DeliusUnicase-Regular.woff') format('woff'),
-                  url('TypoPRO-DeliusUnicase-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DeliusUnicase-Regular.svgz#TypoPRO-DeliusUnicase-Regular') format('svg');
+                  url('TypoPRO-DeliusUnicase-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-CourierPrime-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CourierPrime-Bold.woff') format('woff'),
-                  url('TypoPRO-CourierPrime-Bold.ttf') format('truetype'),
-                  url('TypoPRO-CourierPrime-Bold.svgz#TypoPRO-CourierPrime-Bold') format('svg');
+                  url('TypoPRO-CourierPrime-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

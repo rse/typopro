@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Lato-Hair.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Lato-Hair.woff') format('woff'),
-                  url('TypoPRO-Lato-Hair.ttf') format('truetype'),
-                  url('TypoPRO-Lato-Hair.svgz#TypoPRO-Lato-Hairline') format('svg');
+                  url('TypoPRO-Lato-Hair.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeue-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeue-Bold.woff') format('woff'),
-                  url('TypoPRO-ComicNeue-Bold.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeue-Bold.svgz#TypoPRO-ComicNeue-Bold') format('svg');
+                  url('TypoPRO-ComicNeue-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  700;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeue-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeue-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-ComicNeue-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeue-BoldOblique.svgz#TypoPRO-ComicNeue-BoldOblique') format('svg');
+                  url('TypoPRO-ComicNeue-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  700;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeue-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeue-Light.woff') format('woff'),
-                  url('TypoPRO-ComicNeue-Light.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeue-Light.svgz#TypoPRO-ComicNeue-Light') format('svg');
+                  url('TypoPRO-ComicNeue-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeue-LightOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeue-LightOblique.woff') format('woff'),
-                  url('TypoPRO-ComicNeue-LightOblique.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeue-LightOblique.svgz#TypoPRO-ComicNeue-LightOblique') format('svg');
+                  url('TypoPRO-ComicNeue-LightOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  200;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeue-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeue-Regular.woff') format('woff'),
-                  url('TypoPRO-ComicNeue-Regular.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeue-Regular.svgz#TypoPRO-ComicNeue-Regular') format('svg');
+                  url('TypoPRO-ComicNeue-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeue-RegularOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeue-RegularOblique.woff') format('woff'),
-                  url('TypoPRO-ComicNeue-RegularOblique.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeue-RegularOblique.svgz#TypoPRO-ComicNeue-RegularOblique') format('svg');
+                  url('TypoPRO-ComicNeue-RegularOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-Bold.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-Bold.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-Bold.svgz#TypoPRO-ComicNeueAngular-Bold') format('svg');
+                  url('TypoPRO-ComicNeueAngular-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  700;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-BoldOblique.svgz#TypoPRO-ComicNeueAngular-BoldOblique') format('svg');
+                  url('TypoPRO-ComicNeueAngular-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  700;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-Light.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-Light.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-Light.svgz#TypoPRO-ComicNeueAngular-Light') format('svg');
+                  url('TypoPRO-ComicNeueAngular-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-LightOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-LightOblique.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-LightOblique.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-LightOblique.svgz#TypoPRO-ComicNeueAngular-LightOblique') format('svg');
+                  url('TypoPRO-ComicNeueAngular-LightOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  200;
     font-stretch: normal;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-Regular.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-Regular.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-Regular.svgz#TypoPRO-ComicNeueAngular-Regular') format('svg');
+                  url('TypoPRO-ComicNeueAngular-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-RegularOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-RegularOblique.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-RegularOblique.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-RegularOblique.svgz#TypoPRO-ComicNeueAngular-RegularOblique') format('svg');
+                  url('TypoPRO-ComicNeueAngular-RegularOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;

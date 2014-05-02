@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-Bold.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-Bold.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-Bold.svgz#TypoPRO-ComicNeueAngular-Bold') format('svg');
+                  url('TypoPRO-ComicNeueAngular-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  700;
     font-stretch: normal;

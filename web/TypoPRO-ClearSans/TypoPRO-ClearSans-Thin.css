@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-ClearSans-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ClearSans-Thin.woff') format('woff'),
-                  url('TypoPRO-ClearSans-Thin.ttf') format('truetype'),
-                  url('TypoPRO-ClearSans-Thin.svgz#TypoPRO-ClearSans-Thin') format('svg');
+                  url('TypoPRO-ClearSans-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

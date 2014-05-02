@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Bitter-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Bitter-Regular.woff') format('woff'),
-                  url('TypoPRO-Bitter-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Bitter-Regular.svgz#TypoPRO-Bitter-Regular') format('svg');
+                  url('TypoPRO-Bitter-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

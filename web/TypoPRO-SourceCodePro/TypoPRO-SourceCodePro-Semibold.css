@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-SourceCodePro-Semibold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-SourceCodePro-Semibold.woff') format('woff'),
-                  url('TypoPRO-SourceCodePro-Semibold.ttf') format('truetype'),
-                  url('TypoPRO-SourceCodePro-Semibold.svgz#TypoPRO-SourceCodePro-Semibold') format('svg');
+                  url('TypoPRO-SourceCodePro-Semibold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;

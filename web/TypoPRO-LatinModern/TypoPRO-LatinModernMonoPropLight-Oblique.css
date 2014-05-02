@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoPropLight-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoPropLight-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoPropLight-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoPropLight-Oblique.svgz#TypoPRO-LMMonoPropLt10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernMonoPropLight-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-Bold.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-Bold.svgz#TypoPRO-Ubuntu-Bold') format('svg');
+                  url('TypoPRO-Ubuntu-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

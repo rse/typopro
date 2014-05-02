@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-FiraSans-Bold.woff') format('woff'),
-                  url('TypoPRO-FiraSans-Bold.ttf') format('truetype'),
-                  url('TypoPRO-FiraSans-Bold.svgz#TypoPRO-FiraSans-Bold') format('svg');
+                  url('TypoPRO-FiraSans-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

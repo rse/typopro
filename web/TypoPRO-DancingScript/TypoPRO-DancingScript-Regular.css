@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DancingScript-Regular.woff') format('woff'),
-                  url('TypoPRO-DancingScript-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DancingScript-Regular.svgz#TypoPRO-DancingScript') format('svg');
+                  url('TypoPRO-DancingScript-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

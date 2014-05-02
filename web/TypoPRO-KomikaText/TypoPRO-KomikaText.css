@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-Bold.woff') format('woff'),
-                  url('TypoPRO-KomikaText-Bold.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-Bold.svgz#TypoPRO-KomikaText-Bold') format('svg');
+                  url('TypoPRO-KomikaText-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-KomikaText-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-BoldItalic.svgz#TypoPRO-KomikaText-BoldItalic') format('svg');
+                  url('TypoPRO-KomikaText-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-Italic.woff') format('woff'),
-                  url('TypoPRO-KomikaText-Italic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-Italic.svgz#TypoPRO-KomikaText-Italic') format('svg');
+                  url('TypoPRO-KomikaText-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-Kaps.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-Kaps.woff') format('woff'),
-                  url('TypoPRO-KomikaText-Kaps.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-Kaps.svgz#TypoPRO-KomikaTextKaps') format('svg');
+                  url('TypoPRO-KomikaText-Kaps.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-KapsBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-KapsBold.woff') format('woff'),
-                  url('TypoPRO-KomikaText-KapsBold.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-KapsBold.svgz#TypoPRO-KomikaTextKaps-Bold') format('svg');
+                  url('TypoPRO-KomikaText-KapsBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-KapsBoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-KapsBoldItalic.woff') format('woff'),
-                  url('TypoPRO-KomikaText-KapsBoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-KapsBoldItalic.svgz#TypoPRO-KomikaTextKaps-BoldItalic') format('svg');
+                  url('TypoPRO-KomikaText-KapsBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-KapsItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-KapsItalic.woff') format('woff'),
-                  url('TypoPRO-KomikaText-KapsItalic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-KapsItalic.svgz#TypoPRO-KomikaTextKaps-Italic') format('svg');
+                  url('TypoPRO-KomikaText-KapsItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-Regular.woff') format('woff'),
-                  url('TypoPRO-KomikaText-Regular.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-Regular.svgz#TypoPRO-KomikaText') format('svg');
+                  url('TypoPRO-KomikaText-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-Tight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-Tight.woff') format('woff'),
-                  url('TypoPRO-KomikaText-Tight.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-Tight.svgz#TypoPRO-KomikaTextTight') format('svg');
+                  url('TypoPRO-KomikaText-Tight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-TightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-TightItalic.woff') format('woff'),
-                  url('TypoPRO-KomikaText-TightItalic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-TightItalic.svgz#TypoPRO-KomikaTextTight-Italic') format('svg');
+                  url('TypoPRO-KomikaText-TightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: condensed;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-SourceSansPro-Bold.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-Bold.ttf') format('truetype'),
-                  url('TypoPRO-SourceSansPro-Bold.svgz#TypoPRO-SourceSansPro-Bold') format('svg');
+                  url('TypoPRO-SourceSansPro-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

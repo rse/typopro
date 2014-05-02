@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-AnonymousPro-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AnonymousPro-Bold.woff') format('woff'),
-                  url('TypoPRO-AnonymousPro-Bold.ttf') format('truetype'),
-                  url('TypoPRO-AnonymousPro-Bold.svgz#TypoPRO-AnonymousPro-Bold') format('svg');
+                  url('TypoPRO-AnonymousPro-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-AnonymousPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AnonymousPro-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-AnonymousPro-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-AnonymousPro-BoldItalic.svgz#TypoPRO-AnonymousPro-BoldItalic') format('svg');
+                  url('TypoPRO-AnonymousPro-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-AnonymousPro-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AnonymousPro-Italic.woff') format('woff'),
-                  url('TypoPRO-AnonymousPro-Italic.ttf') format('truetype'),
-                  url('TypoPRO-AnonymousPro-Italic.svgz#TypoPRO-AnonymousPro-Italic') format('svg');
+                  url('TypoPRO-AnonymousPro-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-AnonymousPro-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AnonymousPro-Regular.woff') format('woff'),
-                  url('TypoPRO-AnonymousPro-Regular.ttf') format('truetype'),
-                  url('TypoPRO-AnonymousPro-Regular.svgz#TypoPRO-AnonymousPro') format('svg');
+                  url('TypoPRO-AnonymousPro-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

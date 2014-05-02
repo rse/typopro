@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LobsterTwo-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LobsterTwo-Bold.woff') format('woff'),
-                  url('TypoPRO-LobsterTwo-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LobsterTwo-Bold.svgz#TypoPRO-LobsterTwo-Bold') format('svg');
+                  url('TypoPRO-LobsterTwo-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-LobsterTwo-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LobsterTwo-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-LobsterTwo-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-LobsterTwo-BoldItalic.svgz#TypoPRO-LobsterTwo-BoldItalic') format('svg');
+                  url('TypoPRO-LobsterTwo-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-LobsterTwo-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LobsterTwo-Italic.woff') format('woff'),
-                  url('TypoPRO-LobsterTwo-Italic.ttf') format('truetype'),
-                  url('TypoPRO-LobsterTwo-Italic.svgz#TypoPRO-LobsterTwo-Italic') format('svg');
+                  url('TypoPRO-LobsterTwo-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-LobsterTwo-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LobsterTwo-Regular.woff') format('woff'),
-                  url('TypoPRO-LobsterTwo-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LobsterTwo-Regular.svgz#TypoPRO-LobsterTwo') format('svg');
+                  url('TypoPRO-LobsterTwo-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

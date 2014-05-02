@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHerosCond-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHerosCond-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.svgz#TypoPRO-TeXGyreHerosCondensed-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: condensed;

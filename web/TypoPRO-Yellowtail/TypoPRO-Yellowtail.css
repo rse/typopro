@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Yellowtail-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Yellowtail-Regular.woff') format('woff'),
-                  url('TypoPRO-Yellowtail-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Yellowtail-Regular.svgz#TypoPRO-Yellowtail') format('svg');
+                  url('TypoPRO-Yellowtail-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

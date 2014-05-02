@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-CourierPrime-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CourierPrime-Bold.woff') format('woff'),
-                  url('TypoPRO-CourierPrime-Bold.ttf') format('truetype'),
-                  url('TypoPRO-CourierPrime-Bold.svgz#TypoPRO-CourierPrime-Bold') format('svg');
+                  url('TypoPRO-CourierPrime-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-CourierPrime-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CourierPrime-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-CourierPrime-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-CourierPrime-BoldItalic.svgz#TypoPRO-CourierPrime-BoldItalic') format('svg');
+                  url('TypoPRO-CourierPrime-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-CourierPrime-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CourierPrime-Italic.woff') format('woff'),
-                  url('TypoPRO-CourierPrime-Italic.ttf') format('truetype'),
-                  url('TypoPRO-CourierPrime-Italic.svgz#TypoPRO-CourierPrime-Italic') format('svg');
+                  url('TypoPRO-CourierPrime-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-CourierPrime-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CourierPrime-Regular.woff') format('woff'),
-                  url('TypoPRO-CourierPrime-Regular.ttf') format('truetype'),
-                  url('TypoPRO-CourierPrime-Regular.svgz#TypoPRO-CourierPrime') format('svg');
+                  url('TypoPRO-CourierPrime-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

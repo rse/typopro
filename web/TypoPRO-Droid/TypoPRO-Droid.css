@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSans-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSans-Bold.woff') format('woff'),
-                  url('TypoPRO-DroidSans-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DroidSans-Bold.svgz#TypoPRO-DroidSans-Bold') format('svg');
+                  url('TypoPRO-DroidSans-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSans-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSans-Regular.woff') format('woff'),
-                  url('TypoPRO-DroidSans-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DroidSans-Regular.svgz#TypoPRO-DroidSans') format('svg');
+                  url('TypoPRO-DroidSans-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSansMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSansMono-Regular.woff') format('woff'),
-                  url('TypoPRO-DroidSansMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DroidSansMono-Regular.svgz#TypoPRO-DroidSansMono') format('svg');
+                  url('TypoPRO-DroidSansMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSerif-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSerif-Bold.woff') format('woff'),
-                  url('TypoPRO-DroidSerif-Bold.ttf') format('truetype'),
-                  url('TypoPRO-DroidSerif-Bold.svgz#TypoPRO-DroidSerif-Bold') format('svg');
+                  url('TypoPRO-DroidSerif-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSerif-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSerif-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-DroidSerif-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-DroidSerif-BoldItalic.svgz#TypoPRO-DroidSerif-BoldItalic') format('svg');
+                  url('TypoPRO-DroidSerif-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSerif-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSerif-Italic.woff') format('woff'),
-                  url('TypoPRO-DroidSerif-Italic.ttf') format('truetype'),
-                  url('TypoPRO-DroidSerif-Italic.svgz#TypoPRO-DroidSerif-Italic') format('svg');
+                  url('TypoPRO-DroidSerif-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSerif-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSerif-Regular.woff') format('woff'),
-                  url('TypoPRO-DroidSerif-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DroidSerif-Regular.svgz#TypoPRO-DroidSerif') format('svg');
+                  url('TypoPRO-DroidSerif-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

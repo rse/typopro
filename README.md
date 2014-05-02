@@ -154,11 +154,10 @@ Collection Features
 - **Web Conversion**:
   All fonts are consistently converted from their original TTF/OTF
   format into various font formats for use on the Web: Embedded OpenType
-  (EOT), Web Open Font Format (WOFF), TrueType Font (TTF) and Compressed
-  Scalable Vector Graphics (SVGZ). These different formats for each font
-  are required for maximum portability across browsers and operating
-  systems. Suitable corresponding CSS `@font-face` declaration files
-  were generated, too.
+  (EOT), Web Open Font Format (WOFF) and TrueType Font (TTF). These
+  different formats for each font are required for maximum portability
+  across browsers and operating systems. Suitable corresponding CSS
+  `@font-face` declaration files were generated, too.
 
 - **Unicode Character Reduction**
   Some fonts contain a really large number of glyphs, covering a wide
@@ -203,23 +202,23 @@ browser version which supports a particular format follows (for latest
 information see [1](http://caniuse.com/eot) [2](http://caniuse.com/ttf)
 [3](http://caniuse.com/woff) [4](http://caniuse.com/svg-fonts)):
 
-Browser                     | EOT  | TTF  | WOFF | SVGZ
-----------------------------|:----:|:----:|:----:|:----:
-Internet Explorer (Desktop) | 6.0  | 9    | 9    | --
-Internet Explorer (Mobile)  | --   | --   | 10.0 | --
-Mozilla Firefox (Desktop)   | --   | 3.5  | 3.6  | --
-Mozilla Firefox (Mobile)    | --   | 26.0 | 26.0 | --
-Google Chrome (Desktop)     | --   | 4.0  | 5.0  | 4.0
-Google Chrome (Mobile 2)    | --   | 33.0 | 33.0 | 33.0
-Google Chrome (Mobile 1)    | --   | 2.2  | 4.4  | 3.0
-Apple Safari (Desktop)      | --   | 3.1  | 5.1  | 3.2
-Apple Safari (Mobile)       | --   | 4.2  | 5.0  | 3.2
-Opera (Desktop)             | --   | 10.0 | 11.1 | 9.0
-Opera (Mobile)              | --   | 10.0 | 11.0 | 10.0
+Browser                     | EOT  | TTF  | WOFF 
+----------------------------|:----:|:----:|:----:
+Internet Explorer (Desktop) | 6.0  | 9    | 9    
+Internet Explorer (Mobile)  | --   | --   | 10.0 
+Mozilla Firefox (Desktop)   | --   | 3.5  | 3.6  
+Mozilla Firefox (Mobile)    | --   | 26.0 | 26.0 
+Google Chrome (Desktop)     | --   | 4.0  | 5.0  
+Google Chrome (Mobile 2)    | --   | 33.0 | 33.0 
+Google Chrome (Mobile 1)    | --   | 2.2  | 4.4  
+Apple Safari (Desktop)      | --   | 3.1  | 5.1  
+Apple Safari (Mobile)       | --   | 4.2  | 5.0  
+Opera (Desktop)             | --   | 10.0 | 11.1 
+Opera (Mobile)              | --   | 10.0 | 11.0 
 
 This means that for the latest versions of all major browsers the
 optimized WOFF format would be both sufficient and prefered. But for
-backward compatibility to older browser versions, the EOT, TTF and SVGZ
+backward compatibility to older browser versions, the EOT and TTF
 formats are still provided, too.
 
 Alternatives
@@ -360,7 +359,7 @@ The **TypoPRO** distribution consists primarily of three content areas:
 
 - `src/`: all font source files (formats: TTF, OTF)
 - `dtp/`: all font target files for DTP (Desktop Publishing) usage (formats: TTF)
-- `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF, SVGZ)
+- `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF)
 
 All source files are as provided by the upstream font vendor, just with
 filenames aligned to the usual **TypoPRO** conventions. For the DTP and Web

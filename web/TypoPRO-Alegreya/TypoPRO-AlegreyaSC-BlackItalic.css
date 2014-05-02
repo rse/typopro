@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSC-BlackItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSC-BlackItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSC-BlackItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSC-BlackItalic.svgz#TypoPRO-AlegreyaSC-BlackItalic') format('svg');
+                  url('TypoPRO-AlegreyaSC-BlackItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-Bold.woff') format('woff'),
-                  url('TypoPRO-Amble-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Amble-Bold.svgz#TypoPRO-Amble-Bold') format('svg');
+                  url('TypoPRO-Amble-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

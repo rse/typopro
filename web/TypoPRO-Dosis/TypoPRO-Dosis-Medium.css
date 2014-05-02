@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-Medium.woff') format('woff'),
-                  url('TypoPRO-Dosis-Medium.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-Medium.svgz#TypoPRO-Dosis-Medium') format('svg');
+                  url('TypoPRO-Dosis-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;

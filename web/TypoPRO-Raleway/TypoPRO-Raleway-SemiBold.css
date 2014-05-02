@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Raleway-SemiBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Raleway-SemiBold.woff') format('woff'),
-                  url('TypoPRO-Raleway-SemiBold.ttf') format('truetype'),
-                  url('TypoPRO-Raleway-SemiBold.svgz#TypoPRO-Raleway-SemiBold') format('svg');
+                  url('TypoPRO-Raleway-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;

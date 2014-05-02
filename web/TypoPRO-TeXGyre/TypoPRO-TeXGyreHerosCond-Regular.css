@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHerosCond-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHerosCond-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHerosCond-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHerosCond-Regular.svgz#TypoPRO-TeXGyreHerosCondensed-Regular') format('svg');
+                  url('TypoPRO-TeXGyreHerosCond-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;

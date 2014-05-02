@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreAdventor-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreAdventor-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreAdventor-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreAdventor-Regular.svgz#TypoPRO-TeXGyreAdventor-Regular') format('svg');
+                  url('TypoPRO-TeXGyreAdventor-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

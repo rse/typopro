@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyrePagella-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyrePagella-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyrePagella-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyrePagella-Bold.svgz#TypoPRO-TeXGyrePagella-Bold') format('svg');
+                  url('TypoPRO-TeXGyrePagella-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

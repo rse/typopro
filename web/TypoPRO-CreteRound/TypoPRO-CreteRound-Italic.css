@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-CreteRound-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CreteRound-Italic.woff') format('woff'),
-                  url('TypoPRO-CreteRound-Italic.ttf') format('truetype'),
-                  url('TypoPRO-CreteRound-Italic.svgz#TypoPRO-CreteRound-Italic') format('svg');
+                  url('TypoPRO-CreteRound-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;

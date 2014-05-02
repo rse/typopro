@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-Bold.woff') format('woff'),
-                  url('TypoPRO-Cabin-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-Bold.svgz#TypoPRO-Cabin-Bold') format('svg');
+                  url('TypoPRO-Cabin-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Cabin-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-BoldItalic.svgz#TypoPRO-Cabin-BoldItalic') format('svg');
+                  url('TypoPRO-Cabin-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-Italic.woff') format('woff'),
-                  url('TypoPRO-Cabin-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-Italic.svgz#TypoPRO-Cabin-Italic') format('svg');
+                  url('TypoPRO-Cabin-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-Medium.woff') format('woff'),
-                  url('TypoPRO-Cabin-Medium.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-Medium.svgz#TypoPRO-Cabin-Medium') format('svg');
+                  url('TypoPRO-Cabin-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-MediumItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-Cabin-MediumItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-MediumItalic.svgz#TypoPRO-Cabin-MediumItalic') format('svg');
+                  url('TypoPRO-Cabin-MediumItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  500;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-Regular.woff') format('woff'),
-                  url('TypoPRO-Cabin-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-Regular.svgz#TypoPRO-Cabin-Regular') format('svg');
+                  url('TypoPRO-Cabin-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-SemiBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-SemiBold.woff') format('woff'),
-                  url('TypoPRO-Cabin-SemiBold.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-SemiBold.svgz#TypoPRO-Cabin-SemiBold') format('svg');
+                  url('TypoPRO-Cabin-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-SemiBoldItalic.woff') format('woff'),
-                  url('TypoPRO-Cabin-SemiBoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-SemiBoldItalic.svgz#TypoPRO-Cabin-SemiBoldItalic') format('svg');
+                  url('TypoPRO-Cabin-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  600;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinCondensed-Bold.woff') format('woff'),
-                  url('TypoPRO-CabinCondensed-Bold.ttf') format('truetype'),
-                  url('TypoPRO-CabinCondensed-Bold.svgz#TypoPRO-CabinCondensed-Bold') format('svg');
+                  url('TypoPRO-CabinCondensed-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: condensed;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinCondensed-Medium.woff') format('woff'),
-                  url('TypoPRO-CabinCondensed-Medium.ttf') format('truetype'),
-                  url('TypoPRO-CabinCondensed-Medium.svgz#TypoPRO-CabinCondensed-Medium') format('svg');
+                  url('TypoPRO-CabinCondensed-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: condensed;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinCondensed-Regular.woff') format('woff'),
-                  url('TypoPRO-CabinCondensed-Regular.ttf') format('truetype'),
-                  url('TypoPRO-CabinCondensed-Regular.svgz#TypoPRO-CabinCondensed') format('svg');
+                  url('TypoPRO-CabinCondensed-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinCondensed-SemiBold.woff') format('woff'),
-                  url('TypoPRO-CabinCondensed-SemiBold.ttf') format('truetype'),
-                  url('TypoPRO-CabinCondensed-SemiBold.svgz#TypoPRO-CabinCondensed-SemiBold') format('svg');
+                  url('TypoPRO-CabinCondensed-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: condensed;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinSketch-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinSketch-Bold.woff') format('woff'),
-                  url('TypoPRO-CabinSketch-Bold.ttf') format('truetype'),
-                  url('TypoPRO-CabinSketch-Bold.svgz#TypoPRO-CabinSketch-Bold') format('svg');
+                  url('TypoPRO-CabinSketch-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -214,8 +201,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinSketch-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinSketch-Regular.woff') format('woff'),
-                  url('TypoPRO-CabinSketch-Regular.ttf') format('truetype'),
-                  url('TypoPRO-CabinSketch-Regular.svgz#TypoPRO-CabinSketch-Regular') format('svg');
+                  url('TypoPRO-CabinSketch-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
