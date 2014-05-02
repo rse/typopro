@@ -1,6 +1,6 @@
 {
     "name":        "typopro",
-    "version":     "1.4.2",
+    "version":     "1.5.0",
     "description": "Fonts for Professional Typography",
     "homepage":    "https://github.com/rse/typopro",
     "license":     "Apache+OFL+PD",
@@ -10,7 +10,7 @@
         "url":     "http://engelschall.com"
     },
     "keywords": [
-        "font", "typography", "ttf", "otf", "woff", "eot", "svg"
+        "font", "typography", "ttf", "otf", "woff", "eot"
     ],
     "repository": {
         "type":    "git",
