@@ -2,7 +2,7 @@
     "name": "typopro",
     "dependencies": {
         "sanitize.css":       "2.0.0",
-        "jquery":             "2.1.0",
-        "typopro":            "1.4.1"
+        "jquery":             "2.1.1",
+        "typopro":            "1.4.2"
     }
 }
