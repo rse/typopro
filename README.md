@@ -216,10 +216,10 @@ Apple Safari (Mobile)       | --   | 4.2  | 5.0
 Opera (Desktop)             | --   | 10.0 | 11.1 
 Opera (Mobile)              | --   | 10.0 | 11.0 
 
-This means that for the latest versions of all major browsers the
-optimized WOFF format would be both sufficient and prefered. But for
-backward compatibility to older browser versions, the EOT and TTF
-formats are still provided, too.
+This means that for the latest versions ("evergreen") of all major
+browsers the optimized WOFF format would be both sufficient and
+prefered. But for backward compatibility to older browser versions, the
+EOT and TTF formats are still provided, too.
 
 Alternatives
 ------------
