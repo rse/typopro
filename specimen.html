@@ -135,9 +135,22 @@
                 font-size: 36px;
                 background-color: #000;
                 color: #fff;
+                position: relative;
             }
-            #header span {
-                color: #666;
+            #header div {
+                color: #fff;
+            }
+            #header pre.snippet {
+                position: absolute;
+                right: 0;
+                top: 0;
+                margin: 0;
+                padding: 10px 20px 4px 0;
+                color: #cccccc;
+                font: 10px monospace;
+            }
+            #header pre.snippet span {
+                color: #f0f0f0;
             }
             #footer p {
                 margin: 0;
@@ -148,7 +161,7 @@
             }
             #main_content {
                 background-color: #fff;
-                padding: 20px 20px 20px;
+                padding: 20px 20px 0px;
             }
             div.huge {
                 font-size: 180px;
@@ -293,7 +306,14 @@
     </head>
     <body id="typopro_body">
         <div id="container">
-            <div id="header">FIXME</div>
+            <div id="header">
+                <div id="typopro_header">FIXME</div>
+                <pre class="snippet">font-family:  <span id="typopro_snippet_family">FIXME</span>;
+font-style:   <span id="typopro_snippet_style">FIXME</span>;
+font-weight:  <span id="typopro_snippet_weight">FIXME</span>;
+font-stretch: <span id="typopro_snippet_stretch">FIXME</span>;
+font-variant: <span id="typopro_snippet_variant">FIXME</span>;</pre>
+            </div>
             <div id="main_content">
                 <div id="specimen">
                     <div class="section">
@@ -475,16 +495,28 @@
 
                 /*  activate the stylesheet  */
                 el = document.getElementById("typopro_body");
-                el.style.fontFamily  = "'" + font_family + "'";
+                el.style.fontFamily  = "\"" + font_family + "\"";
                 el.style.fontStyle   = font_style;
                 el.style.fontWeight  = font_weight;
                 el.style.fontStretch = font_stretch;
                 el.style.fontVariant = font_variant;
 
+                /*  provide CSS snippet information */
+                el = document.getElementById("typopro_snippet_family");
+                el.textContent = "\"" + font_family + "\"";
+                el = document.getElementById("typopro_snippet_style");
+                el.textContent = font_style;
+                el = document.getElementById("typopro_snippet_weight");
+                el.textContent = font_weight;
+                el = document.getElementById("typopro_snippet_stretch");
+                el.textContent = font_stretch;
+                el = document.getElementById("typopro_snippet_variant");
+                el.textContent = font_variant;
+
                 /*  set font information  */
                 el = document.getElementById("typopro_title");
                 el.textContent = info.name;
-                el = document.getElementById("header");
+                el = document.getElementById("typopro_header");
                 el.textContent = info.name;
                 el = document.getElementById("typopro_fontbody_text");
                 el.textContent = info.name;
