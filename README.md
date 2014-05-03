@@ -1,7 +1,7 @@
 
 ![TypoPRO](etc/logo.jpg "TypoPRO")
 
-TypoPRO 2.0.0
+TypoPRO 2.0.1
 =============
 
 http://typopro.org/
