@@ -60,7 +60,7 @@ fi
 
 #   start with fresh output areas
 rm -rf web dtp
-shtool mkdir -f -p -m 755 web dtp
+mkdir web dtp
 
 #   iterate over all fonts
 OIFS="$IFS"; IFS="
@@ -79,7 +79,7 @@ for line in `cat etc/manifest.txt`; do
     echo "++ converting: $font ($family)"
 
     #   create font-specific target area
-    shtool mkdir -f -p -m 755 web/$prefix-$name dtp/$prefix-$name
+    mkdir web/$prefix-$name dtp/$prefix-$name
 
     #   determine font conversion command (common part)
     cmd="fontface"
