@@ -380,10 +380,10 @@ Licensing
 ---------
 
 All included font families are distributed under very liberal Open
-Source licenses, either Apache License, Open Font License or Public
-Domain. For particular license details on each individual font family,
-please see the files `src/*/license.txt` and the meta information in the
-files `src/*/blurb.txt`.
+Source licenses, either MIT License, Apache License, Open Font License
+or Public Domain. For particular license details on each individual
+font family, please see the files `src/*/license.txt` and the meta
+information in the files `src/*/blurb.txt`.
 
 Author
 ------
