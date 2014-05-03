@@ -3,15 +3,59 @@
     <head id="typopro_head">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <style type="text/css">
-            html { background-color: #dcdcdc; }
-            body { background-color: #ffffff; width: 865px; font-size: 14pt; margin: auto; margin-top: 0px; font-family: sans-serif; margin-bottom: 40px; }
-            .title { background-color: #000000; color: #ffffff; width: 100%; font-size: 20pt; font-weight: bold; padding: 20px; -moz-box-sizing: border-box; box-sizing: border-box; }
-            .group { background-color: #666666; color: #ffffff; width: 100%; font-size: 20pt; font-weight: bold; padding: 20px; -moz-box-sizing: border-box; box-sizing: border-box; margin: 10px 0px 10px 0px; }
-            .sample { border-top: 1px solid #cccccc; margin-top: 8px; padding: 8px 0px 0px 20px; }
-            .sample a { text-decoration: none; }
-            .sample .family { font-size: 10pt; color: #000000; }
-            .sample .param  { font-size: 9pt; color: #666666; }
-            .sample .text { font-size: 16pt; color: #000000; }
+            html {
+                background-color: #dcdcdc;
+            }
+            body {
+                background-color: #ffffff;
+                width: 865px;
+                font-size: 14pt;
+                margin: auto;
+                margin-top: 0px;
+                font-family: sans-serif;
+                margin-bottom: 40px;
+            }
+            .title {
+                background-color: #000000;
+                color: #ffffff;
+                width: 100%;
+                font-size: 20pt;
+                font-weight: bold;
+                padding: 20px;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+            .group {
+                background-color: #666666;
+                color: #ffffff;
+                width: 100%;
+                font-size: 20pt;
+                font-weight: bold;
+                padding: 20px;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                margin: 10px 0px 10px 0px;
+            }
+            .sample {
+                border-top: 1px solid #cccccc;
+                margin-top: 8px;
+                padding: 8px 0px 0px 20px;
+            }
+            .sample a {
+                text-decoration: none;
+            }
+            .sample .family {
+                font-size: 10pt;
+                color: #000000;
+            }
+            .sample .param {
+                font-size: 9pt;
+                color: #666666;
+            }
+            .sample .text {
+                font-size: 16pt;
+                color: #000000;
+            }
         </style>
         <title>TypoPRO Font Overview</title>
     </head>
@@ -19,19 +63,27 @@
         <div class="title">TypoPRO Font Overview</div>
         <script type="text/javascript" src="etc/manifest.js"></script>
         <script type="text/javascript">
-            var title = 0;
+            /*  fetch some elements beforehand  */
             var head = document.getElementById("typopro_head");
             var body = document.getElementById("typopro_body");
-            var provideFontInformation = function (font_name, font_family, font_style, font_weight, font_stretch, font_variant, css) {
+
+            /*  marker for General/Special Purpose title generation  */
+            var title = 0;
+
+            /*  generate information for a single font  */
+            var generateFontInformation = function (font_name, font_family, font_style, font_weight, font_stretch, font_variant, css) {
+                /*  generate id out of font information  */
                 var id = font_family + "-" + font_style + "-" + font_weight + "-" + font_stretch + "-" + font_variant;
                 id = id.replace(/ /g, "_0_").replace(/\./g, "_1_");
 
+                /*  load CSS font definition  */
                 var link = document.createElement("link");
                 link.setAttribute("rel", "stylesheet");
                 link.setAttribute("type", "text/css");
                 link.setAttribute("href", css);
                 head.appendChild(link);
 
+                /*  provide CSS class for linking to font definition  */
                 var style = document.createElement("style");
                 style.setAttribute("type", "text/css");
                 var text =
@@ -45,6 +97,7 @@
                 style.textContent = text;
                 head.appendChild(style);
 
+                /*  optionally generate title  */
                 var div;
                 if (title == 0) {
                     div = document.createElement("div");
@@ -61,6 +114,7 @@
                     title = 2;
                 }
 
+                /*  generate font entry  */
                 div = document.createElement("div");
                 div.setAttribute("class", "sample");
                 div.innerHTML =
@@ -75,14 +129,17 @@
                    "    </a>\n";
                 body.appendChild(div);
             };
+
+            /*  iterate over all fonts in the TypoPRO manifest
+                and generate an entry in the font list  */
             for (var i = 0; i < TypoPRO_Manifest.length; i++) {
-                provideFontInformation(
-                    TypoPRO_Manifest[i].name, 
-                    TypoPRO_Manifest[i].family, 
-                    TypoPRO_Manifest[i].style, 
-                    TypoPRO_Manifest[i].weight, 
-                    TypoPRO_Manifest[i].stretch, 
-                    TypoPRO_Manifest[i].variant, 
+                generateFontInformation(
+                    TypoPRO_Manifest[i].name,
+                    TypoPRO_Manifest[i].family,
+                    TypoPRO_Manifest[i].style,
+                    TypoPRO_Manifest[i].weight,
+                    TypoPRO_Manifest[i].stretch,
+                    TypoPRO_Manifest[i].variant,
                     TypoPRO_Manifest[i].css
                 );
             }
