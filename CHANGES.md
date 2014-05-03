@@ -19,6 +19,9 @@ CHANGES
 - fixed manifest: use the regular 'condensed' stretch value for 
   H.H. Samuel and not 'ultra-condensed'.
 
+- provide a CSS snippet at the top right header in specimen.html
+  for easy use of a particular TypoPRO font.
+
 1.4.2
 -----
 
