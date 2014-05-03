@@ -2,6 +2,14 @@
 CHANGES
 =======
 
+2.0.1
+-----
+
+- republished with Node 0.10.28 / NPM 1.4.9 (instead of Node 0.11.13 /
+  NPM 1.4.9) in order to get rid of the recent SHA1 checksum problems.
+
+- fixed some file permissions to make NPM more happy
+
 2.0.0
 -----
 
