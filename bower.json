@@ -3,7 +3,7 @@
     "version":     "2.0.0",
     "description": "Fonts for Professional Typography",
     "homepage":    "https://github.com/rse/typopro",
-    "license":     "Apache+OFL+PD",
+    "license":     "MIT+Apache+OFL+PD",
     "authors": [
         "Ralf S. Engelschall <rse@engelschall.com>"
     ],
