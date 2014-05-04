@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-YanoneKaffeesatz-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-YanoneKaffeesatz-Thin.woff') format('woff'),
-                  url('TypoPRO-YanoneKaffeesatz-Thin.ttf') format('truetype'),
-                  url('TypoPRO-YanoneKaffeesatz-Thin.svgz#TypoPRO-YanoneKaffeesatz-Thin') format('svg');
+                  url('TypoPRO-YanoneKaffeesatz-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

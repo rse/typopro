@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Neuton-Extralight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Neuton-Extralight.woff') format('woff'),
-                  url('TypoPRO-Neuton-Extralight.ttf') format('truetype'),
-                  url('TypoPRO-Neuton-Extralight.svgz#TypoPRO-Neuton-Extralight') format('svg');
+                  url('TypoPRO-Neuton-Extralight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

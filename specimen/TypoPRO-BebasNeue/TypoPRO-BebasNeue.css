@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-BebasNeue-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Bold.woff') format('woff'),
-                  url('TypoPRO-BebasNeue-Bold.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Bold.svgz#TypoPRO-BebasNeueBold') format('svg');
+                  url('TypoPRO-BebasNeue-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-BebasNeue-Book.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Book.woff') format('woff'),
-                  url('TypoPRO-BebasNeue-Book.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Book.svgz#TypoPRO-BebasNeueBook') format('svg');
+                  url('TypoPRO-BebasNeue-Book.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-BebasNeue-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Light.woff') format('woff'),
-                  url('TypoPRO-BebasNeue-Light.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Light.svgz#TypoPRO-BebasNeueLight') format('svg');
+                  url('TypoPRO-BebasNeue-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-BebasNeue-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Regular.woff') format('woff'),
-                  url('TypoPRO-BebasNeue-Regular.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Regular.svgz#TypoPRO-BebasNeueRegular') format('svg');
+                  url('TypoPRO-BebasNeue-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Thin.woff') format('woff'),
-                  url('TypoPRO-BebasNeue-Thin.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Thin.svgz#TypoPRO-BebasNeue-Thin') format('svg');
+                  url('TypoPRO-BebasNeue-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

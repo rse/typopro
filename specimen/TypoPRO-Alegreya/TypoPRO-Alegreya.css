@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Alegreya-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Alegreya-Black.woff') format('woff'),
-                  url('TypoPRO-Alegreya-Black.ttf') format('truetype'),
-                  url('TypoPRO-Alegreya-Black.svgz#TypoPRO-Alegreya-Black') format('svg');
+                  url('TypoPRO-Alegreya-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Alegreya-BlackItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Alegreya-BlackItalic.woff') format('woff'),
-                  url('TypoPRO-Alegreya-BlackItalic.ttf') format('truetype'),
-                  url('TypoPRO-Alegreya-BlackItalic.svgz#TypoPRO-Alegreya-BlackItalic') format('svg');
+                  url('TypoPRO-Alegreya-BlackItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Alegreya-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Alegreya-Bold.woff') format('woff'),
-                  url('TypoPRO-Alegreya-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Alegreya-Bold.svgz#TypoPRO-Alegreya-Bold') format('svg');
+                  url('TypoPRO-Alegreya-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Alegreya-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Alegreya-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Alegreya-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Alegreya-BoldItalic.svgz#TypoPRO-Alegreya-BoldItalic') format('svg');
+                  url('TypoPRO-Alegreya-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Alegreya-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Alegreya-Italic.woff') format('woff'),
-                  url('TypoPRO-Alegreya-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Alegreya-Italic.svgz#TypoPRO-Alegreya-Italic') format('svg');
+                  url('TypoPRO-Alegreya-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Alegreya-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Alegreya-Regular.woff') format('woff'),
-                  url('TypoPRO-Alegreya-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Alegreya-Regular.svgz#TypoPRO-Alegreya-Regular') format('svg');
+                  url('TypoPRO-Alegreya-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSC-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSC-Black.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSC-Black.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSC-Black.svgz#TypoPRO-AlegreyaSC-Black') format('svg');
+                  url('TypoPRO-AlegreyaSC-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSC-BlackItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSC-BlackItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSC-BlackItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSC-BlackItalic.svgz#TypoPRO-AlegreyaSC-BlackItalic') format('svg');
+                  url('TypoPRO-AlegreyaSC-BlackItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSC-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSC-Bold.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSC-Bold.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSC-Bold.svgz#TypoPRO-AlegreyaSC-Bold') format('svg');
+                  url('TypoPRO-AlegreyaSC-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSC-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSC-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSC-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSC-BoldItalic.svgz#TypoPRO-AlegreyaSC-BoldItalic') format('svg');
+                  url('TypoPRO-AlegreyaSC-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSC-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSC-Italic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSC-Italic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSC-Italic.svgz#TypoPRO-AlegreyaSC-Italic') format('svg');
+                  url('TypoPRO-AlegreyaSC-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSC-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSC-Regular.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSC-Regular.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSC-Regular.svgz#TypoPRO-AlegreyaSC-Regular') format('svg');
+                  url('TypoPRO-AlegreyaSC-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Black.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Black.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Black.svgz#TypoPRO-AlegreyaSans-Black') format('svg');
+                  url('TypoPRO-AlegreyaSans-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;
@@ -214,8 +201,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-BlackItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-BlackItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-BlackItalic.svgz#TypoPRO-AlegreyaSans-BlackItalic') format('svg');
+                  url('TypoPRO-AlegreyaSans-BlackItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;
@@ -230,8 +216,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Bold.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Bold.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Bold.svgz#TypoPRO-AlegreyaSans-Bold') format('svg');
+                  url('TypoPRO-AlegreyaSans-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -246,8 +231,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-BoldItalic.svgz#TypoPRO-AlegreyaSans-BoldItalic') format('svg');
+                  url('TypoPRO-AlegreyaSans-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -262,8 +246,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-ExtraBold.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-ExtraBold.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-ExtraBold.svgz#TypoPRO-AlegreyaSans-ExtraBold') format('svg');
+                  url('TypoPRO-AlegreyaSans-ExtraBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  800;
     font-stretch: normal;
@@ -278,8 +261,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-ExtraBoldItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-ExtraBoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-ExtraBoldItalic.svgz#TypoPRO-AlegreyaSans-ExtraBoldItalic') format('svg');
+                  url('TypoPRO-AlegreyaSans-ExtraBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  800;
     font-stretch: normal;
@@ -294,8 +276,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Italic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Italic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Italic.svgz#TypoPRO-AlegreyaSans-Italic') format('svg');
+                  url('TypoPRO-AlegreyaSans-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -310,8 +291,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Light.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Light.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Light.svgz#TypoPRO-AlegreyaSans-Light') format('svg');
+                  url('TypoPRO-AlegreyaSans-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -326,8 +306,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-LightItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-LightItalic.svgz#TypoPRO-AlegreyaSans-LightItalic') format('svg');
+                  url('TypoPRO-AlegreyaSans-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -342,8 +321,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Medium.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Medium.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Medium.svgz#TypoPRO-AlegreyaSans-Medium') format('svg');
+                  url('TypoPRO-AlegreyaSans-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;
@@ -358,8 +336,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-MediumItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-MediumItalic.svgz#TypoPRO-AlegreyaSans-MediumItalic') format('svg');
+                  url('TypoPRO-AlegreyaSans-MediumItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  500;
     font-stretch: normal;
@@ -374,8 +351,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Regular.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Regular.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Regular.svgz#TypoPRO-AlegreyaSans-Regular') format('svg');
+                  url('TypoPRO-AlegreyaSans-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -390,8 +366,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Thin.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Thin.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Thin.svgz#TypoPRO-AlegreyaSans-Thin') format('svg');
+                  url('TypoPRO-AlegreyaSans-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -406,8 +381,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-ThinItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-ThinItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-ThinItalic.svgz#TypoPRO-AlegreyaSans-ThinItalic') format('svg');
+                  url('TypoPRO-AlegreyaSans-ThinItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  200;
     font-stretch: normal;
@@ -422,8 +396,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Black.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Black.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Black.svgz#TypoPRO-AlegreyaSansSC-Black') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;
@@ -438,8 +411,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-BlackItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-BlackItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-BlackItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-BlackItalic.svgz#TypoPRO-AlegreyaSansSC-BlackItalic') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-BlackItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;
@@ -454,8 +426,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Bold.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Bold.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Bold.svgz#TypoPRO-AlegreyaSansSC-Bold') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -470,8 +441,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-BoldItalic.svgz#TypoPRO-AlegreyaSansSC-BoldItalic') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -486,8 +456,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-ExtraBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-ExtraBold.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-ExtraBold.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-ExtraBold.svgz#TypoPRO-AlegreyaSansSC-ExtraBold') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-ExtraBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  800;
     font-stretch: normal;
@@ -502,8 +471,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-ExtraBoldItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-ExtraBoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-ExtraBoldItalic.svgz#TypoPRO-AlegreyaSansSC-ExtraBoldItalic') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-ExtraBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  800;
     font-stretch: normal;
@@ -518,8 +486,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Italic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Italic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Italic.svgz#TypoPRO-AlegreyaSansSC-Italic') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -534,8 +501,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Light.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Light.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Light.svgz#TypoPRO-AlegreyaSansSC-Light') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -550,8 +516,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-LightItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-LightItalic.svgz#TypoPRO-AlegreyaSansSC-LightItalic') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -566,8 +531,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Medium.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Medium.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Medium.svgz#TypoPRO-AlegreyaSansSC-Medium') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;
@@ -582,8 +546,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-MediumItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-MediumItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-MediumItalic.svgz#TypoPRO-AlegreyaSansSC-MediumItalic') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-MediumItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  500;
     font-stretch: normal;
@@ -598,8 +561,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Regular.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Regular.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Regular.svgz#TypoPRO-AlegreyaSansSC-Regular') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -614,8 +576,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Thin.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Thin.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Thin.svgz#TypoPRO-AlegreyaSansSC-Thin') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -630,8 +591,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-ThinItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-ThinItalic.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-ThinItalic.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-ThinItalic.svgz#TypoPRO-AlegreyaSansSC-ThinItalic') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-ThinItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  200;
     font-stretch: normal;

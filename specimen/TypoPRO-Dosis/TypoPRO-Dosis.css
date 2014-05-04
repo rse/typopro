@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-Bold.woff') format('woff'),
-                  url('TypoPRO-Dosis-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-Bold.svgz#TypoPRO-Dosis-Bold') format('svg');
+                  url('TypoPRO-Dosis-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-Book.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-Book.woff') format('woff'),
-                  url('TypoPRO-Dosis-Book.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-Book.svgz#TypoPRO-Dosis-Book') format('svg');
+                  url('TypoPRO-Dosis-Book.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-ExtraBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-ExtraBold.woff') format('woff'),
-                  url('TypoPRO-Dosis-ExtraBold.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-ExtraBold.svgz#TypoPRO-Dosis-ExtraBold') format('svg');
+                  url('TypoPRO-Dosis-ExtraBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  800;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-ExtraLight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-ExtraLight.woff') format('woff'),
-                  url('TypoPRO-Dosis-ExtraLight.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-ExtraLight.svgz#TypoPRO-Dosis-ExtraLight') format('svg');
+                  url('TypoPRO-Dosis-ExtraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-Light.woff') format('woff'),
-                  url('TypoPRO-Dosis-Light.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-Light.svgz#TypoPRO-Dosis-Light') format('svg');
+                  url('TypoPRO-Dosis-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-Medium.woff') format('woff'),
-                  url('TypoPRO-Dosis-Medium.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-Medium.svgz#TypoPRO-Dosis-Medium') format('svg');
+                  url('TypoPRO-Dosis-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-Dosis-SemiBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Dosis-SemiBold.woff') format('woff'),
-                  url('TypoPRO-Dosis-SemiBold.ttf') format('truetype'),
-                  url('TypoPRO-Dosis-SemiBold.svgz#TypoPRO-Dosis-SemiBold') format('svg');
+                  url('TypoPRO-Dosis-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;

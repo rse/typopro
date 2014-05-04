@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Cabin-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-BoldItalic.svgz#TypoPRO-Cabin-BoldItalic') format('svg');
+                  url('TypoPRO-Cabin-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

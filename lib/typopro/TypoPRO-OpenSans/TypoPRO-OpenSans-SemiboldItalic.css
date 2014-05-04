@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-OpenSans-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-OpenSans-SemiboldItalic.woff') format('woff'),
-                  url('TypoPRO-OpenSans-SemiboldItalic.ttf') format('truetype'),
-                  url('TypoPRO-OpenSans-SemiboldItalic.svgz#TypoPRO-OpenSans-SemiboldItalic') format('svg');
+                  url('TypoPRO-OpenSans-SemiboldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  600;
     font-stretch: normal;

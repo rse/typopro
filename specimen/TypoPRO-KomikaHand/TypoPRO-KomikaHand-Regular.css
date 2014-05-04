@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaHand-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaHand-Regular.woff') format('woff'),
-                  url('TypoPRO-KomikaHand-Regular.ttf') format('truetype'),
-                  url('TypoPRO-KomikaHand-Regular.svgz#TypoPRO-KomikaHand') format('svg');
+                  url('TypoPRO-KomikaHand-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

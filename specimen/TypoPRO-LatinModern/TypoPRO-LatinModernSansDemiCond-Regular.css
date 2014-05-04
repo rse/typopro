@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansDemiCond-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansDemiCond-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansDemiCond-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansDemiCond-Regular.svgz#TypoPRO-LMSansDemiCond10-Regular') format('svg');
+                  url('TypoPRO-LatinModernSansDemiCond-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: condensed;

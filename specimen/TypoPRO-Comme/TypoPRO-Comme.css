@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Bold.woff') format('woff'),
-                  url('TypoPRO-Comme-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Bold.svgz#TypoPRO-Comme-Bold') format('svg');
+                  url('TypoPRO-Comme-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-ExtraBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-ExtraBold.woff') format('woff'),
-                  url('TypoPRO-Comme-ExtraBold.ttf') format('truetype'),
-                  url('TypoPRO-Comme-ExtraBold.svgz#TypoPRO-Comme-ExtraBold') format('svg');
+                  url('TypoPRO-Comme-ExtraBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  800;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-ExtraLight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-ExtraLight.woff') format('woff'),
-                  url('TypoPRO-Comme-ExtraLight.ttf') format('truetype'),
-                  url('TypoPRO-Comme-ExtraLight.svgz#TypoPRO-Comme-ExtraLight') format('svg');
+                  url('TypoPRO-Comme-ExtraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Heavy.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Heavy.woff') format('woff'),
-                  url('TypoPRO-Comme-Heavy.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Heavy.svgz#TypoPRO-Comme-Heavy') format('svg');
+                  url('TypoPRO-Comme-Heavy.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Light.woff') format('woff'),
-                  url('TypoPRO-Comme-Light.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Light.svgz#TypoPRO-Comme-Light') format('svg');
+                  url('TypoPRO-Comme-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Medium.woff') format('woff'),
-                  url('TypoPRO-Comme-Medium.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Medium.svgz#TypoPRO-Comme-Medium') format('svg');
+                  url('TypoPRO-Comme-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Regular.woff') format('woff'),
-                  url('TypoPRO-Comme-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Regular.svgz#TypoPRO-Comme-Regular') format('svg');
+                  url('TypoPRO-Comme-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-SemiBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-SemiBold.woff') format('woff'),
-                  url('TypoPRO-Comme-SemiBold.ttf') format('truetype'),
-                  url('TypoPRO-Comme-SemiBold.svgz#TypoPRO-Comme-SemiBold') format('svg');
+                  url('TypoPRO-Comme-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Thin.woff') format('woff'),
-                  url('TypoPRO-Comme-Thin.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Thin.svgz#TypoPRO-Comme-Thin') format('svg');
+                  url('TypoPRO-Comme-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  100;
     font-stretch: normal;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-CommeMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CommeMono-Regular.woff') format('woff'),
-                  url('TypoPRO-CommeMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-CommeMono-Regular.svgz#TypoPRO-CommeMono') format('svg');
+                  url('TypoPRO-CommeMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreBonum-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreBonum-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreBonum-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreBonum-Regular.svgz#TypoPRO-TeXGyreBonum-Regular') format('svg');
+                  url('TypoPRO-TeXGyreBonum-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-Regular.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-Regular.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-Regular.svgz#TypoPRO-ComicNeueAngular-Regular') format('svg');
+                  url('TypoPRO-ComicNeueAngular-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

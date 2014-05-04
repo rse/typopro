@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreAdventor-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreAdventor-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreAdventor-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreAdventor-Bold.svgz#TypoPRO-TeXGyreAdventor-Bold') format('svg');
+                  url('TypoPRO-TeXGyreAdventor-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaHand-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaHand-Bold.woff') format('woff'),
-                  url('TypoPRO-KomikaHand-Bold.ttf') format('truetype'),
-                  url('TypoPRO-KomikaHand-Bold.svgz#TypoPRO-KomikaHand-Bold') format('svg');
+                  url('TypoPRO-KomikaHand-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaHand-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaHand-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-KomikaHand-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaHand-BoldItalic.svgz#TypoPRO-KomikaHand-BoldItalic') format('svg');
+                  url('TypoPRO-KomikaHand-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaHand-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaHand-Italic.woff') format('woff'),
-                  url('TypoPRO-KomikaHand-Italic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaHand-Italic.svgz#TypoPRO-KomikaHand-Italic') format('svg');
+                  url('TypoPRO-KomikaHand-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaHand-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaHand-Regular.woff') format('woff'),
-                  url('TypoPRO-KomikaHand-Regular.ttf') format('truetype'),
-                  url('TypoPRO-KomikaHand-Regular.svgz#TypoPRO-KomikaHand') format('svg');
+                  url('TypoPRO-KomikaHand-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

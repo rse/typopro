@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSerifCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSerifCondensed-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-DejaVuSerifCondensed-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSerifCondensed-BoldItalic.svgz#TypoPRO-DejaVuSerifCondensed-BoldItalic') format('svg');
+                  url('TypoPRO-DejaVuSerifCondensed-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: condensed;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-EBGaramond-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-EBGaramond-Regular.woff') format('woff'),
-                  url('TypoPRO-EBGaramond-Regular.ttf') format('truetype'),
-                  url('TypoPRO-EBGaramond-Regular.svgz#TypoPRO-EBGaramond12-Regular') format('svg');
+                  url('TypoPRO-EBGaramond-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

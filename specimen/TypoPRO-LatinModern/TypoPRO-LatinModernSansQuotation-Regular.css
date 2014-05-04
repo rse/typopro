@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansQuotation-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansQuotation-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansQuotation-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansQuotation-Regular.svgz#TypoPRO-LMSansQuot8-Regular') format('svg');
+                  url('TypoPRO-LatinModernSansQuotation-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

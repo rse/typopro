@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Raleway-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Raleway-Bold.woff') format('woff'),
-                  url('TypoPRO-Raleway-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Raleway-Bold.svgz#TypoPRO-Raleway-Bold') format('svg');
+                  url('TypoPRO-Raleway-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

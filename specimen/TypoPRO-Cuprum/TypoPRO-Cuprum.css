@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cuprum-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cuprum-Bold.woff') format('woff'),
-                  url('TypoPRO-Cuprum-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Cuprum-Bold.svgz#TypoPRO-Cuprum-Bold') format('svg');
+                  url('TypoPRO-Cuprum-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Cuprum-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cuprum-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Cuprum-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Cuprum-BoldItalic.svgz#TypoPRO-Cuprum-BoldItalic') format('svg');
+                  url('TypoPRO-Cuprum-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Cuprum-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cuprum-Italic.woff') format('woff'),
-                  url('TypoPRO-Cuprum-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Cuprum-Italic.svgz#TypoPRO-Cuprum-Italic') format('svg');
+                  url('TypoPRO-Cuprum-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Cuprum-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cuprum-Regular.woff') format('woff'),
-                  url('TypoPRO-Cuprum-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Cuprum-Regular.svgz#TypoPRO-Cuprum-Regular') format('svg');
+                  url('TypoPRO-Cuprum-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

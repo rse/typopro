@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Raleway-Thin-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Raleway-Thin-Italic.woff') format('woff'),
-                  url('TypoPRO-Raleway-Thin-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Raleway-Thin-Italic.svgz#TypoPRO-Raleway-ThinItalic') format('svg');
+                  url('TypoPRO-Raleway-Thin-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  200;
     font-stretch: normal;

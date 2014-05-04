@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DroidSansMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DroidSansMono-Regular.woff') format('woff'),
-                  url('TypoPRO-DroidSansMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-DroidSansMono-Regular.svgz#TypoPRO-DroidSansMono') format('svg');
+                  url('TypoPRO-DroidSansMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

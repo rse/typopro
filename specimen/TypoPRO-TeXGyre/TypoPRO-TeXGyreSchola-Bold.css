@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreSchola-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreSchola-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreSchola-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreSchola-Bold.svgz#TypoPRO-TeXGyreSchola-Bold') format('svg');
+                  url('TypoPRO-TeXGyreSchola-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

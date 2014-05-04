@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Vollkorn-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Vollkorn-Regular.woff') format('woff'),
-                  url('TypoPRO-Vollkorn-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Vollkorn-Regular.svgz#TypoPRO-Vollkorn-Regular') format('svg');
+                  url('TypoPRO-Vollkorn-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

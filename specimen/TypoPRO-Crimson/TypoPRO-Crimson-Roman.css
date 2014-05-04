@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Crimson-Roman.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Crimson-Roman.woff') format('woff'),
-                  url('TypoPRO-Crimson-Roman.ttf') format('truetype'),
-                  url('TypoPRO-Crimson-Roman.svgz#TypoPRO-Crimson-Roman') format('svg');
+                  url('TypoPRO-Crimson-Roman.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

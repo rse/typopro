@@ -6,11 +6,10 @@
     src:          local('*'),
                   url('TypoPRO-HHSamuel-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-HHSamuel-Regular.woff') format('woff'),
-                  url('TypoPRO-HHSamuel-Regular.ttf') format('truetype'),
-                  url('TypoPRO-HHSamuel-Regular.svgz#TypoPRO-H.H.Samuel') format('svg');
+                  url('TypoPRO-HHSamuel-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
-    font-stretch: ultra-condensed;
+    font-stretch: condensed;
     font-variant: normal;
 }
 

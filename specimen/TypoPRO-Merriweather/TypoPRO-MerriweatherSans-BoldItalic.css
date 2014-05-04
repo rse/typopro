@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-BoldItalic.svgz#TypoPRO-MerriweatherSans-BoldItalic') format('svg');
+                  url('TypoPRO-MerriweatherSans-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

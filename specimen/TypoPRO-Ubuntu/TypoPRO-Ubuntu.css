@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-Bold.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-Bold.svgz#TypoPRO-Ubuntu-Bold') format('svg');
+                  url('TypoPRO-Ubuntu-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-BoldItalic.svgz#TypoPRO-Ubuntu-BoldItalic') format('svg');
+                  url('TypoPRO-Ubuntu-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-Condensed.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-Condensed.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-Condensed.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-Condensed.svgz#TypoPRO-UbuntuCondensed-Regular') format('svg');
+                  url('TypoPRO-Ubuntu-Condensed.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-Light.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-Light.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-Light.svgz#TypoPRO-Ubuntu-Light') format('svg');
+                  url('TypoPRO-Ubuntu-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-LightItalic.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-LightItalic.svgz#TypoPRO-Ubuntu-LightItalic') format('svg');
+                  url('TypoPRO-Ubuntu-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-Medium.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-Medium.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-Medium.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-Medium.svgz#TypoPRO-Ubuntu-Medium') format('svg');
+                  url('TypoPRO-Ubuntu-Medium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-MediumItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-MediumItalic.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-MediumItalic.svgz#TypoPRO-Ubuntu-MediumItalic') format('svg');
+                  url('TypoPRO-Ubuntu-MediumItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  500;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-Regular.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-Regular.svgz#TypoPRO-Ubuntu') format('svg');
+                  url('TypoPRO-Ubuntu-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-Ubuntu-RegularItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Ubuntu-RegularItalic.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-RegularItalic.ttf') format('truetype'),
-                  url('TypoPRO-Ubuntu-RegularItalic.svgz#TypoPRO-Ubuntu-Italic') format('svg');
+                  url('TypoPRO-Ubuntu-RegularItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-UbuntuMono-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-UbuntuMono-Bold.woff') format('woff'),
-                  url('TypoPRO-UbuntuMono-Bold.ttf') format('truetype'),
-                  url('TypoPRO-UbuntuMono-Bold.svgz#TypoPRO-UbuntuMono-Bold') format('svg');
+                  url('TypoPRO-UbuntuMono-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-UbuntuMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-UbuntuMono-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-UbuntuMono-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-UbuntuMono-BoldItalic.svgz#TypoPRO-UbuntuMono-BoldItalic') format('svg');
+                  url('TypoPRO-UbuntuMono-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-UbuntuMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-UbuntuMono-Regular.woff') format('woff'),
-                  url('TypoPRO-UbuntuMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-UbuntuMono-Regular.svgz#TypoPRO-UbuntuMono-Regular') format('svg');
+                  url('TypoPRO-UbuntuMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-UbuntuMono-RegularItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-UbuntuMono-RegularItalic.woff') format('woff'),
-                  url('TypoPRO-UbuntuMono-RegularItalic.ttf') format('truetype'),
-                  url('TypoPRO-UbuntuMono-RegularItalic.svgz#TypoPRO-UbuntuMono-Italic') format('svg');
+                  url('TypoPRO-UbuntuMono-RegularItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;

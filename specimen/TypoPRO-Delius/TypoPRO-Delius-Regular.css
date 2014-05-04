@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Delius-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Delius-Regular.woff') format('woff'),
-                  url('TypoPRO-Delius-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Delius-Regular.svgz#TypoPRO-Delius-Regular') format('svg');
+                  url('TypoPRO-Delius-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

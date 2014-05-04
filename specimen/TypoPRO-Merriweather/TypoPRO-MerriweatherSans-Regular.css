@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-Regular.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-Regular.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-Regular.svgz#TypoPRO-MerriweatherSans-Regular') format('svg');
+                  url('TypoPRO-MerriweatherSans-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

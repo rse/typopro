@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-ComicNeueAngular-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-ComicNeueAngular-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-ComicNeueAngular-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-ComicNeueAngular-BoldOblique.svgz#TypoPRO-ComicNeueAngular-BoldOblique') format('svg');
+                  url('TypoPRO-ComicNeueAngular-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  700;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-MerriweatherSans-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-MerriweatherSans-Bold.woff') format('woff'),
-                  url('TypoPRO-MerriweatherSans-Bold.ttf') format('truetype'),
-                  url('TypoPRO-MerriweatherSans-Bold.svgz#TypoPRO-MerriweatherSans-Bold') format('svg');
+                  url('TypoPRO-MerriweatherSans-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

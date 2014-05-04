@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Oswald-RegularItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Oswald-RegularItalic.woff') format('woff'),
-                  url('TypoPRO-Oswald-RegularItalic.ttf') format('truetype'),
-                  url('TypoPRO-Oswald-RegularItalic.svgz#TypoPRO-Oswald-RegularItalic') format('svg');
+                  url('TypoPRO-Oswald-RegularItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;

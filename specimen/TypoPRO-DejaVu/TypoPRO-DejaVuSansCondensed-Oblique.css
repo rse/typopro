@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-DejaVuSansCondensed-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-DejaVuSansCondensed-Oblique.woff') format('woff'),
-                  url('TypoPRO-DejaVuSansCondensed-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-DejaVuSansCondensed-Oblique.svgz#TypoPRO-DejaVuSansCondensed-Oblique') format('svg');
+                  url('TypoPRO-DejaVuSansCondensed-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: condensed;

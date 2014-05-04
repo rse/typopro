@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Junction-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Junction-Regular.woff') format('woff'),
-                  url('TypoPRO-Junction-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Junction-Regular.svgz#TypoPRO-Junction-Regular') format('svg');
+                  url('TypoPRO-Junction-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;

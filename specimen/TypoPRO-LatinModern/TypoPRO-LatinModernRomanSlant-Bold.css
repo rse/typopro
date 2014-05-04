@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanSlant-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanSlant-Bold.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanSlant-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanSlant-Bold.svgz#TypoPRO-LMRomanSlant10-Bold') format('svg');
+                  url('TypoPRO-LatinModernRomanSlant-Bold.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

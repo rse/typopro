@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-BebasNeue-Thin.woff') format('woff'),
-                  url('TypoPRO-BebasNeue-Thin.ttf') format('truetype'),
-                  url('TypoPRO-BebasNeue-Thin.svgz#TypoPRO-BebasNeue-Thin') format('svg');
+                  url('TypoPRO-BebasNeue-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

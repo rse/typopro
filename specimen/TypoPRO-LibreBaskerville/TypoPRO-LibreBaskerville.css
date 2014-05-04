@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LibreBaskerville-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LibreBaskerville-Bold.woff') format('woff'),
-                  url('TypoPRO-LibreBaskerville-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LibreBaskerville-Bold.svgz#TypoPRO-LibreBaskerville-Bold') format('svg');
+                  url('TypoPRO-LibreBaskerville-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-LibreBaskerville-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LibreBaskerville-Italic.woff') format('woff'),
-                  url('TypoPRO-LibreBaskerville-Italic.ttf') format('truetype'),
-                  url('TypoPRO-LibreBaskerville-Italic.svgz#TypoPRO-LibreBaskerville-Italic') format('svg');
+                  url('TypoPRO-LibreBaskerville-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-LibreBaskerville-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LibreBaskerville-Regular.woff') format('woff'),
-                  url('TypoPRO-LibreBaskerville-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LibreBaskerville-Regular.svgz#TypoPRO-LibreBaskerville-Regular') format('svg');
+                  url('TypoPRO-LibreBaskerville-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

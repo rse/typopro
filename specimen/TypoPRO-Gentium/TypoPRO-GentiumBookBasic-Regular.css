@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-GentiumBookBasic-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-GentiumBookBasic-Regular.woff') format('woff'),
-                  url('TypoPRO-GentiumBookBasic-Regular.ttf') format('truetype'),
-                  url('TypoPRO-GentiumBookBasic-Regular.svgz#TypoPRO-GentiumBookBasic') format('svg');
+                  url('TypoPRO-GentiumBookBasic-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

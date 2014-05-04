@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-OpenSans-CondLight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-OpenSans-CondLight.woff') format('woff'),
-                  url('TypoPRO-OpenSans-CondLight.ttf') format('truetype'),
-                  url('TypoPRO-OpenSans-CondLight.svgz#TypoPRO-OpenSans-CondensedLight') format('svg');
+                  url('TypoPRO-OpenSans-CondLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: condensed;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-Bold.woff') format('woff'),
-                  url('TypoPRO-Roboto-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-Bold.svgz#TypoPRO-Roboto-Bold') format('svg');
+                  url('TypoPRO-Roboto-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Roboto-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-BoldItalic.svgz#TypoPRO-Roboto-BoldItalic') format('svg');
+                  url('TypoPRO-Roboto-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-Italic.woff') format('woff'),
-                  url('TypoPRO-Roboto-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-Italic.svgz#TypoPRO-Roboto-Italic') format('svg');
+                  url('TypoPRO-Roboto-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-Light.woff') format('woff'),
-                  url('TypoPRO-Roboto-Light.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-Light.svgz#TypoPRO-Roboto-Light') format('svg');
+                  url('TypoPRO-Roboto-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-LightItalic.woff') format('woff'),
-                  url('TypoPRO-Roboto-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-LightItalic.svgz#TypoPRO-Roboto-LightItalic') format('svg');
+                  url('TypoPRO-Roboto-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-Regular.woff') format('woff'),
-                  url('TypoPRO-Roboto-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-Regular.svgz#TypoPRO-Roboto-Regular') format('svg');
+                  url('TypoPRO-Roboto-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-Thin.woff') format('woff'),
-                  url('TypoPRO-Roboto-Thin.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-Thin.svgz#TypoPRO-Roboto-Thin') format('svg');
+                  url('TypoPRO-Roboto-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-Roboto-ThinItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Roboto-ThinItalic.woff') format('woff'),
-                  url('TypoPRO-Roboto-ThinItalic.ttf') format('truetype'),
-                  url('TypoPRO-Roboto-ThinItalic.svgz#TypoPRO-Roboto-ThinItalic') format('svg');
+                  url('TypoPRO-Roboto-ThinItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  200;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoCondensed-Bold.woff') format('woff'),
-                  url('TypoPRO-RobotoCondensed-Bold.ttf') format('truetype'),
-                  url('TypoPRO-RobotoCondensed-Bold.svgz#TypoPRO-RobotoCondensed-Bold') format('svg');
+                  url('TypoPRO-RobotoCondensed-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: condensed;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoCondensed-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-RobotoCondensed-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-RobotoCondensed-BoldItalic.svgz#TypoPRO-RobotoCondensed-BoldItalic') format('svg');
+                  url('TypoPRO-RobotoCondensed-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: condensed;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoCondensed-Italic.woff') format('woff'),
-                  url('TypoPRO-RobotoCondensed-Italic.ttf') format('truetype'),
-                  url('TypoPRO-RobotoCondensed-Italic.svgz#TypoPRO-RobotoCondensed-Italic') format('svg');
+                  url('TypoPRO-RobotoCondensed-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: condensed;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoCondensed-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoCondensed-Regular.woff') format('woff'),
-                  url('TypoPRO-RobotoCondensed-Regular.ttf') format('truetype'),
-                  url('TypoPRO-RobotoCondensed-Regular.svgz#TypoPRO-RobotoCondensed-Regular') format('svg');
+                  url('TypoPRO-RobotoCondensed-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoSlab-Bold.woff') format('woff'),
-                  url('TypoPRO-RobotoSlab-Bold.ttf') format('truetype'),
-                  url('TypoPRO-RobotoSlab-Bold.svgz#TypoPRO-RobotoSlab-Bold') format('svg');
+                  url('TypoPRO-RobotoSlab-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -214,8 +201,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoSlab-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoSlab-Light.woff') format('woff'),
-                  url('TypoPRO-RobotoSlab-Light.ttf') format('truetype'),
-                  url('TypoPRO-RobotoSlab-Light.svgz#TypoPRO-RobotoSlab-Light') format('svg');
+                  url('TypoPRO-RobotoSlab-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -230,8 +216,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoSlab-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoSlab-Regular.woff') format('woff'),
-                  url('TypoPRO-RobotoSlab-Regular.ttf') format('truetype'),
-                  url('TypoPRO-RobotoSlab-Regular.svgz#TypoPRO-RobotoSlab-Regular') format('svg');
+                  url('TypoPRO-RobotoSlab-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -246,8 +231,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoSlab-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoSlab-Thin.woff') format('woff'),
-                  url('TypoPRO-RobotoSlab-Thin.ttf') format('truetype'),
-                  url('TypoPRO-RobotoSlab-Thin.svgz#TypoPRO-RobotoSlab-Thin') format('svg');
+                  url('TypoPRO-RobotoSlab-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

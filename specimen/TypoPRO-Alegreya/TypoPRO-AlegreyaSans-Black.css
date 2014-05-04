@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSans-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSans-Black.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSans-Black.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSans-Black.svgz#TypoPRO-AlegreyaSans-Black') format('svg');
+                  url('TypoPRO-AlegreyaSans-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;

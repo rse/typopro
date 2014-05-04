@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LearningCurve-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LearningCurve-Regular.woff') format('woff'),
-                  url('TypoPRO-LearningCurve-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LearningCurve-Regular.svgz#TypoPRO-LearningCurvePro') format('svg');
+                  url('TypoPRO-LearningCurve-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

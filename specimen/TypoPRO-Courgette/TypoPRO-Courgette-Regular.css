@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Courgette-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Courgette-Regular.woff') format('woff'),
-                  url('TypoPRO-Courgette-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Courgette-Regular.svgz#TypoPRO-Courgette-Regular') format('svg');
+                  url('TypoPRO-Courgette-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

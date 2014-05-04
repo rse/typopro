@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMono-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMono-Italic.woff') format('woff'),
-                  url('TypoPRO-LatinModernMono-Italic.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMono-Italic.svgz#TypoPRO-LMMono10-Italic') format('svg');
+                  url('TypoPRO-LatinModernMono-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;

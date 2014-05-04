@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Oswald-ExtraLight.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Oswald-ExtraLight.woff') format('woff'),
-                  url('TypoPRO-Oswald-ExtraLight.ttf') format('truetype'),
-                  url('TypoPRO-Oswald-ExtraLight.svgz#TypoPRO-Oswald-ExtraLight') format('svg');
+                  url('TypoPRO-Oswald-ExtraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

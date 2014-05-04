@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-SourceSansPro-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-SourceSansPro-Black.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-Black.ttf') format('truetype'),
-                  url('TypoPRO-SourceSansPro-Black.svgz#TypoPRO-SourceSansPro-Black') format('svg');
+                  url('TypoPRO-SourceSansPro-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;

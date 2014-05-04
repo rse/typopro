@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinCondensed-Regular.woff') format('woff'),
-                  url('TypoPRO-CabinCondensed-Regular.ttf') format('truetype'),
-                  url('TypoPRO-CabinCondensed-Regular.svgz#TypoPRO-CabinCondensed') format('svg');
+                  url('TypoPRO-CabinCondensed-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;

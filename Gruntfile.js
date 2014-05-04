@@ -34,11 +34,14 @@ module.exports = function (grunt) {
                 ]
             },
             "typopro-index": {
-                src: [ "bower_components/typopro/index.html" ],
-                dest: "specimen/index.html",
+                files: [
+                    { dest: "specimen/index.html",    src: [ "bower_components/typopro/index.html" ] },
+                    { dest: "specimen/specimen.html", src: [ "bower_components/typopro/specimen.html" ] },
+                    { dest: "specimen/manifest.js",   src: [ "bower_components/typopro/etc/manifest.js" ] }
+                ],
                 options: {
                     process: function (content, srcpath) {
-                        return content.replace(/web\//g, "");
+                        return content.replace(/web\//g, "").replace(/etc\/manifest\.js/g, "manifest.js");
                     }
                 }
             },

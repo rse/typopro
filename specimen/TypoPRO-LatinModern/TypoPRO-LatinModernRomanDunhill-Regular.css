@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanDunhill-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanDunhill-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanDunhill-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanDunhill-Regular.svgz#TypoPRO-LMRomanDunh10-Regular') format('svg');
+                  url('TypoPRO-LatinModernRomanDunhill-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreSchola-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreSchola-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreSchola-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreSchola-Italic.svgz#TypoPRO-TeXGyreSchola-Italic') format('svg');
+                  url('TypoPRO-TeXGyreSchola-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;

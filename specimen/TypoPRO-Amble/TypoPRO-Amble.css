@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-Bold.woff') format('woff'),
-                  url('TypoPRO-Amble-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Amble-Bold.svgz#TypoPRO-Amble-Bold') format('svg');
+                  url('TypoPRO-Amble-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-Amble-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-Amble-BoldItalic.svgz#TypoPRO-Amble-BoldItalic') format('svg');
+                  url('TypoPRO-Amble-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-Italic.woff') format('woff'),
-                  url('TypoPRO-Amble-Italic.ttf') format('truetype'),
-                  url('TypoPRO-Amble-Italic.svgz#TypoPRO-Amble-Italic') format('svg');
+                  url('TypoPRO-Amble-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-Light.woff') format('woff'),
-                  url('TypoPRO-Amble-Light.ttf') format('truetype'),
-                  url('TypoPRO-Amble-Light.svgz#TypoPRO-Amble-Light') format('svg');
+                  url('TypoPRO-Amble-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-LightCondensed.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-LightCondensed.woff') format('woff'),
-                  url('TypoPRO-Amble-LightCondensed.ttf') format('truetype'),
-                  url('TypoPRO-Amble-LightCondensed.svgz#TypoPRO-Amble-LightCondensed') format('svg');
+                  url('TypoPRO-Amble-LightCondensed.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: condensed;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-LightCondensedItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-LightCondensedItalic.woff') format('woff'),
-                  url('TypoPRO-Amble-LightCondensedItalic.ttf') format('truetype'),
-                  url('TypoPRO-Amble-LightCondensedItalic.svgz#TypoPRO-Amble-LightCondensedItalic') format('svg');
+                  url('TypoPRO-Amble-LightCondensedItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: condensed;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-LightItalic.woff') format('woff'),
-                  url('TypoPRO-Amble-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-Amble-LightItalic.svgz#TypoPRO-Amble-LightItalic') format('svg');
+                  url('TypoPRO-Amble-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-Amble-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Amble-Regular.woff') format('woff'),
-                  url('TypoPRO-Amble-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Amble-Regular.svgz#TypoPRO-Amble-Regular') format('svg');
+                  url('TypoPRO-Amble-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

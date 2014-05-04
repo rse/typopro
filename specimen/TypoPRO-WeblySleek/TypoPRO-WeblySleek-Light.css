@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-WeblySleek-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-WeblySleek-Light.woff') format('woff'),
-                  url('TypoPRO-WeblySleek-Light.ttf') format('truetype'),
-                  url('TypoPRO-WeblySleek-Light.svgz#TypoPRO-WeblySleekUILight') format('svg');
+                  url('TypoPRO-WeblySleek-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;

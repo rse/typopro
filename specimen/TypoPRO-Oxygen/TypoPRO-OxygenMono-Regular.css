@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-OxygenMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-OxygenMono-Regular.woff') format('woff'),
-                  url('TypoPRO-OxygenMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-OxygenMono-Regular.svgz#TypoPRO-OxygenMono-Regular') format('svg');
+                  url('TypoPRO-OxygenMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

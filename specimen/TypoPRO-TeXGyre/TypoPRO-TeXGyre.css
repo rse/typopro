@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreAdventor-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreAdventor-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreAdventor-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreAdventor-Bold.svgz#TypoPRO-TeXGyreAdventor-Bold') format('svg');
+                  url('TypoPRO-TeXGyreAdventor-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreAdventor-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreAdventor-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreAdventor-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreAdventor-Bolditalic.svgz#TypoPRO-TeXGyreAdventor-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreAdventor-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreAdventor-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreAdventor-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreAdventor-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreAdventor-Italic.svgz#TypoPRO-TeXGyreAdventor-Italic') format('svg');
+                  url('TypoPRO-TeXGyreAdventor-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreAdventor-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreAdventor-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreAdventor-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreAdventor-Regular.svgz#TypoPRO-TeXGyreAdventor-Regular') format('svg');
+                  url('TypoPRO-TeXGyreAdventor-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreBonum-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreBonum-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreBonum-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreBonum-Bold.svgz#TypoPRO-TeXGyreBonum-Bold') format('svg');
+                  url('TypoPRO-TeXGyreBonum-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreBonum-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreBonum-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreBonum-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreBonum-Bolditalic.svgz#TypoPRO-TeXGyreBonum-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreBonum-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreBonum-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreBonum-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreBonum-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreBonum-Italic.svgz#TypoPRO-TeXGyreBonum-Italic') format('svg');
+                  url('TypoPRO-TeXGyreBonum-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreBonum-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreBonum-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreBonum-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreBonum-Regular.svgz#TypoPRO-TeXGyreBonum-Regular') format('svg');
+                  url('TypoPRO-TeXGyreBonum-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreChorus-MediumItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreChorus-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreChorus-MediumItalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreChorus-MediumItalic.svgz#TypoPRO-TeXGyreChorus-MediumItalic') format('svg');
+                  url('TypoPRO-TeXGyreChorus-MediumItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  500;
     font-stretch: normal;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreCursor-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreCursor-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreCursor-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreCursor-Bold.svgz#TypoPRO-TeXGyreCursor-Bold') format('svg');
+                  url('TypoPRO-TeXGyreCursor-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreCursor-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreCursor-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreCursor-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreCursor-Bolditalic.svgz#TypoPRO-TeXGyreCursor-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreCursor-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreCursor-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreCursor-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreCursor-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreCursor-Italic.svgz#TypoPRO-TeXGyreCursor-Italic') format('svg');
+                  url('TypoPRO-TeXGyreCursor-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreCursor-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreCursor-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreCursor-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreCursor-Regular.svgz#TypoPRO-TeXGyreCursor-Regular') format('svg');
+                  url('TypoPRO-TeXGyreCursor-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -214,8 +201,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHeros-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHeros-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHeros-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHeros-Bold.svgz#TypoPRO-TeXGyreHeros-Bold') format('svg');
+                  url('TypoPRO-TeXGyreHeros-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -230,8 +216,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHeros-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHeros-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHeros-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHeros-Bolditalic.svgz#TypoPRO-TeXGyreHeros-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreHeros-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -246,8 +231,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHeros-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHeros-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHeros-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHeros-Italic.svgz#TypoPRO-TeXGyreHeros-Italic') format('svg');
+                  url('TypoPRO-TeXGyreHeros-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -262,8 +246,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHeros-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHeros-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHeros-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHeros-Regular.svgz#TypoPRO-TeXGyreHeros-Regular') format('svg');
+                  url('TypoPRO-TeXGyreHeros-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -278,8 +261,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHerosCond-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHerosCond-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHerosCond-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHerosCond-Bold.svgz#TypoPRO-TeXGyreHerosCondensed-Bold') format('svg');
+                  url('TypoPRO-TeXGyreHerosCond-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: condensed;
@@ -294,8 +276,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHerosCond-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHerosCond-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.svgz#TypoPRO-TeXGyreHerosCondensed-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreHerosCond-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: condensed;
@@ -310,8 +291,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHerosCond-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHerosCond-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHerosCond-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHerosCond-Italic.svgz#TypoPRO-TeXGyreHerosCondensed-Italic') format('svg');
+                  url('TypoPRO-TeXGyreHerosCond-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: condensed;
@@ -326,8 +306,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreHerosCond-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreHerosCond-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreHerosCond-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreHerosCond-Regular.svgz#TypoPRO-TeXGyreHerosCondensed-Regular') format('svg');
+                  url('TypoPRO-TeXGyreHerosCond-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;
@@ -342,8 +321,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyrePagella-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyrePagella-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyrePagella-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyrePagella-Bold.svgz#TypoPRO-TeXGyrePagella-Bold') format('svg');
+                  url('TypoPRO-TeXGyrePagella-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -358,8 +336,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyrePagella-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyrePagella-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyrePagella-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyrePagella-Bolditalic.svgz#TypoPRO-TeXGyrePagella-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyrePagella-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -374,8 +351,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyrePagella-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyrePagella-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyrePagella-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyrePagella-Italic.svgz#TypoPRO-TeXGyrePagella-Italic') format('svg');
+                  url('TypoPRO-TeXGyrePagella-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -390,8 +366,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyrePagella-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyrePagella-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyrePagella-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyrePagella-Regular.svgz#TypoPRO-TeXGyrePagella-Regular') format('svg');
+                  url('TypoPRO-TeXGyrePagella-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -406,8 +381,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreSchola-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreSchola-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreSchola-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreSchola-Bold.svgz#TypoPRO-TeXGyreSchola-Bold') format('svg');
+                  url('TypoPRO-TeXGyreSchola-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -422,8 +396,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreSchola-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreSchola-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreSchola-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreSchola-Bolditalic.svgz#TypoPRO-TeXGyreSchola-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreSchola-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -438,8 +411,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreSchola-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreSchola-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreSchola-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreSchola-Italic.svgz#TypoPRO-TeXGyreSchola-Italic') format('svg');
+                  url('TypoPRO-TeXGyreSchola-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -454,8 +426,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreSchola-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreSchola-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreSchola-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreSchola-Regular.svgz#TypoPRO-TeXGyreSchola-Regular') format('svg');
+                  url('TypoPRO-TeXGyreSchola-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -470,8 +441,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreTermes-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreTermes-Bold.woff') format('woff'),
-                  url('TypoPRO-TeXGyreTermes-Bold.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreTermes-Bold.svgz#TypoPRO-TeXGyreTermes-Bold') format('svg');
+                  url('TypoPRO-TeXGyreTermes-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -486,8 +456,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreTermes-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreTermes-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreTermes-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreTermes-Bolditalic.svgz#TypoPRO-TeXGyreTermes-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreTermes-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -502,8 +471,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreTermes-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreTermes-Italic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreTermes-Italic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreTermes-Italic.svgz#TypoPRO-TeXGyreTermes-Italic') format('svg');
+                  url('TypoPRO-TeXGyreTermes-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -518,8 +486,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreTermes-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreTermes-Regular.woff') format('woff'),
-                  url('TypoPRO-TeXGyreTermes-Regular.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreTermes-Regular.svgz#TypoPRO-TeXGyreTermes-Regular') format('svg');
+                  url('TypoPRO-TeXGyreTermes-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

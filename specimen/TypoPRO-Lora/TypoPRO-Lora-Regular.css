@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Lora-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Lora-Regular.woff') format('woff'),
-                  url('TypoPRO-Lora-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Lora-Regular.svgz#TypoPRO-Lora-Regular') format('svg');
+                  url('TypoPRO-Lora-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KingthingsPetrock-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KingthingsPetrock-Regular.woff') format('woff'),
-                  url('TypoPRO-KingthingsPetrock-Regular.ttf') format('truetype'),
-                  url('TypoPRO-KingthingsPetrock-Regular.svgz#TypoPRO-KingthingsPetrock') format('svg');
+                  url('TypoPRO-KingthingsPetrock-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

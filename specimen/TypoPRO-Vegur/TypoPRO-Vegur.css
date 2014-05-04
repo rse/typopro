@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Vegur-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Vegur-Bold.woff') format('woff'),
-                  url('TypoPRO-Vegur-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Vegur-Bold.svgz#TypoPRO-Vegur-Bold') format('svg');
+                  url('TypoPRO-Vegur-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-Vegur-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Vegur-Light.woff') format('woff'),
-                  url('TypoPRO-Vegur-Light.ttf') format('truetype'),
-                  url('TypoPRO-Vegur-Light.svgz#TypoPRO-Vegur-Light') format('svg');
+                  url('TypoPRO-Vegur-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-Vegur-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Vegur-Regular.woff') format('woff'),
-                  url('TypoPRO-Vegur-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Vegur-Regular.svgz#TypoPRO-Vegur-Regular') format('svg');
+                  url('TypoPRO-Vegur-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Chawp-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Chawp-Regular.woff') format('woff'),
-                  url('TypoPRO-Chawp-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Chawp-Regular.svgz#TypoPRO-CHAWP') format('svg');
+                  url('TypoPRO-Chawp-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

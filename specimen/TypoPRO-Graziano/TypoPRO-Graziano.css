@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Graziano-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Graziano-Regular.woff') format('woff'),
-                  url('TypoPRO-Graziano-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Graziano-Regular.svgz#TypoPRO-Graziano') format('svg');
+                  url('TypoPRO-Graziano-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;

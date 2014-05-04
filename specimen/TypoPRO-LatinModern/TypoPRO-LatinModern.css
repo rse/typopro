@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMono-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMono-Italic.woff') format('woff'),
-                  url('TypoPRO-LatinModernMono-Italic.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMono-Italic.svgz#TypoPRO-LMMono10-Italic') format('svg');
+                  url('TypoPRO-LatinModernMono-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -22,8 +21,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMono-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMono-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMono-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMono-Regular.svgz#TypoPRO-LMMono10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -38,8 +36,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoCaps-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoCaps-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoCaps-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoCaps-Oblique.svgz#TypoPRO-LMMonoCaps10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernMonoCaps-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -54,8 +51,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoCaps-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoCaps-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoCaps-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoCaps-Regular.svgz#TypoPRO-LMMonoCaps10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMonoCaps-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -70,8 +66,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoLight-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoLight-Bold.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoLight-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoLight-Bold.svgz#TypoPRO-LMMonoLt10-Bold') format('svg');
+                  url('TypoPRO-LatinModernMonoLight-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -86,8 +81,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoLight-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoLight-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoLight-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoLight-BoldOblique.svgz#TypoPRO-LMMonoLt10-BoldOblique') format('svg');
+                  url('TypoPRO-LatinModernMonoLight-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: normal;
@@ -102,8 +96,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoLight-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoLight-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoLight-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoLight-Oblique.svgz#TypoPRO-LMMonoLt10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernMonoLight-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -118,8 +111,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoLight-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoLight-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoLight-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoLight-Regular.svgz#TypoPRO-LMMonoLt10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMonoLight-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -134,8 +126,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoLightCond-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoLightCond-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoLightCond-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoLightCond-Oblique.svgz#TypoPRO-LMMonoLtCond10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernMonoLightCond-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: condensed;
@@ -150,8 +141,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoLightCond-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoLightCond-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoLightCond-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoLightCond-Regular.svgz#TypoPRO-LMMonoLtCond10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMonoLightCond-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: condensed;
@@ -166,8 +156,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoProp-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoProp-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoProp-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoProp-Oblique.svgz#TypoPRO-LMMonoProp10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernMonoProp-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -182,8 +171,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoProp-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoProp-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoProp-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoProp-Regular.svgz#TypoPRO-LMMonoProp10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMonoProp-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -198,8 +186,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoPropLight-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoPropLight-Bold.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoPropLight-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoPropLight-Bold.svgz#TypoPRO-LMMonoPropLt10-Bold') format('svg');
+                  url('TypoPRO-LatinModernMonoPropLight-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -214,8 +201,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoPropLight-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoPropLight-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoPropLight-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoPropLight-BoldOblique.svgz#TypoPRO-LMMonoPropLt10-BoldOblique') format('svg');
+                  url('TypoPRO-LatinModernMonoPropLight-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: normal;
@@ -230,8 +216,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoPropLight-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoPropLight-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoPropLight-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoPropLight-Oblique.svgz#TypoPRO-LMMonoPropLt10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernMonoPropLight-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -246,8 +231,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoPropLight-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoPropLight-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoPropLight-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoPropLight-Regular.svgz#TypoPRO-LMMonoPropLt10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMonoPropLight-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -262,8 +246,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernMonoSlant-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernMonoSlant-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernMonoSlant-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernMonoSlant-Regular.svgz#TypoPRO-LMMonoSlant10-Regular') format('svg');
+                  url('TypoPRO-LatinModernMonoSlant-Regular.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -278,8 +261,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRoman-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRoman-Bold.woff') format('woff'),
-                  url('TypoPRO-LatinModernRoman-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRoman-Bold.svgz#TypoPRO-LMRoman10-Bold') format('svg');
+                  url('TypoPRO-LatinModernRoman-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -294,8 +276,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRoman-BoldItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRoman-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-LatinModernRoman-BoldItalic.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRoman-BoldItalic.svgz#TypoPRO-LMRoman10-BoldItalic') format('svg');
+                  url('TypoPRO-LatinModernRoman-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -310,8 +291,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRoman-Italic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRoman-Italic.woff') format('woff'),
-                  url('TypoPRO-LatinModernRoman-Italic.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRoman-Italic.svgz#TypoPRO-LMRoman10-Italic') format('svg');
+                  url('TypoPRO-LatinModernRoman-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -326,8 +306,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRoman-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRoman-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernRoman-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRoman-Regular.svgz#TypoPRO-LMRoman10-Regular') format('svg');
+                  url('TypoPRO-LatinModernRoman-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -342,8 +321,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanCaps-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanCaps-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanCaps-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanCaps-Oblique.svgz#TypoPRO-LMRomanCaps10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernRomanCaps-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -358,8 +336,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanCaps-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanCaps-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanCaps-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanCaps-Regular.svgz#TypoPRO-LMRomanCaps10-Regular') format('svg');
+                  url('TypoPRO-LatinModernRomanCaps-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -374,8 +351,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanDemi-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanDemi-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanDemi-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanDemi-Oblique.svgz#TypoPRO-LMRomanDemi10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernRomanDemi-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  600;
     font-stretch: normal;
@@ -390,8 +366,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanDemi-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanDemi-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanDemi-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanDemi-Regular.svgz#TypoPRO-LMRomanDemi10-Regular') format('svg');
+                  url('TypoPRO-LatinModernRomanDemi-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -406,8 +381,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanDunhill-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanDunhill-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanDunhill-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanDunhill-Oblique.svgz#TypoPRO-LMRomanDunh10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernRomanDunhill-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -422,8 +396,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanDunhill-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanDunhill-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanDunhill-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanDunhill-Regular.svgz#TypoPRO-LMRomanDunh10-Regular') format('svg');
+                  url('TypoPRO-LatinModernRomanDunhill-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -438,8 +411,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanSlant-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanSlant-Bold.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanSlant-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanSlant-Bold.svgz#TypoPRO-LMRomanSlant10-Bold') format('svg');
+                  url('TypoPRO-LatinModernRomanSlant-Bold.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -454,8 +426,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanSlant-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanSlant-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanSlant-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanSlant-Regular.svgz#TypoPRO-LMRomanSlant10-Regular') format('svg');
+                  url('TypoPRO-LatinModernRomanSlant-Regular.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -470,8 +441,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernRomanUnslanted-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernRomanUnslanted-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernRomanUnslanted-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernRomanUnslanted-Regular.svgz#TypoPRO-LMRomanUnsl10-Regular') format('svg');
+                  url('TypoPRO-LatinModernRomanUnslanted-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -486,8 +456,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSans-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSans-Bold.woff') format('woff'),
-                  url('TypoPRO-LatinModernSans-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSans-Bold.svgz#TypoPRO-LMSans10-Bold') format('svg');
+                  url('TypoPRO-LatinModernSans-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -502,8 +471,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSans-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSans-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernSans-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSans-BoldOblique.svgz#TypoPRO-LMSans10-BoldOblique') format('svg');
+                  url('TypoPRO-LatinModernSans-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: normal;
@@ -518,8 +486,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSans-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSans-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernSans-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSans-Oblique.svgz#TypoPRO-LMSans10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernSans-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -534,8 +501,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSans-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSans-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernSans-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSans-Regular.svgz#TypoPRO-LMSans10-Regular') format('svg');
+                  url('TypoPRO-LatinModernSans-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
@@ -550,8 +516,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansDemiCond-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansDemiCond-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansDemiCond-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansDemiCond-Oblique.svgz#TypoPRO-LMSansDemiCond10-Oblique') format('svg');
+                  url('TypoPRO-LatinModernSansDemiCond-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  600;
     font-stretch: condensed;
@@ -566,8 +531,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansDemiCond-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansDemiCond-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansDemiCond-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansDemiCond-Regular.svgz#TypoPRO-LMSansDemiCond10-Regular') format('svg');
+                  url('TypoPRO-LatinModernSansDemiCond-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: condensed;
@@ -582,8 +546,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansQuotation-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansQuotation-Bold.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansQuotation-Bold.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansQuotation-Bold.svgz#TypoPRO-LMSansQuot8-Bold') format('svg');
+                  url('TypoPRO-LatinModernSansQuotation-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -598,8 +561,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansQuotation-BoldOblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansQuotation-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansQuotation-BoldOblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansQuotation-BoldOblique.svgz#TypoPRO-LMSansQuot8-BoldOblique') format('svg');
+                  url('TypoPRO-LatinModernSansQuotation-BoldOblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  bold;
     font-stretch: normal;
@@ -614,8 +576,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansQuotation-Oblique.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansQuotation-Oblique.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansQuotation-Oblique.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansQuotation-Oblique.svgz#TypoPRO-LMSansQuot8-Oblique') format('svg');
+                  url('TypoPRO-LatinModernSansQuotation-Oblique.ttf') format('truetype');
     font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
@@ -630,8 +591,7 @@
     src:          local('*'),
                   url('TypoPRO-LatinModernSansQuotation-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-LatinModernSansQuotation-Regular.woff') format('woff'),
-                  url('TypoPRO-LatinModernSansQuotation-Regular.ttf') format('truetype'),
-                  url('TypoPRO-LatinModernSansQuotation-Regular.svgz#TypoPRO-LMSansQuot8-Regular') format('svg');
+                  url('TypoPRO-LatinModernSansQuotation-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

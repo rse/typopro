@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-CabinSketch-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-CabinSketch-Bold.woff') format('woff'),
-                  url('TypoPRO-CabinSketch-Bold.ttf') format('truetype'),
-                  url('TypoPRO-CabinSketch-Bold.svgz#TypoPRO-CabinSketch-Bold') format('svg');
+                  url('TypoPRO-CabinSketch-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

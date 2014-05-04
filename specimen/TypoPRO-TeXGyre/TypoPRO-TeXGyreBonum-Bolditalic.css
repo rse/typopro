@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-TeXGyreBonum-Bolditalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-TeXGyreBonum-Bolditalic.woff') format('woff'),
-                  url('TypoPRO-TeXGyreBonum-Bolditalic.ttf') format('truetype'),
-                  url('TypoPRO-TeXGyreBonum-Bolditalic.svgz#TypoPRO-TeXGyreBonum-BoldItalic') format('svg');
+                  url('TypoPRO-TeXGyreBonum-Bolditalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;

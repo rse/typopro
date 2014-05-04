@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-RobotoSlab-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-RobotoSlab-Thin.woff') format('woff'),
-                  url('TypoPRO-RobotoSlab-Thin.ttf') format('truetype'),
-                  url('TypoPRO-RobotoSlab-Thin.svgz#TypoPRO-RobotoSlab-Thin') format('svg');
+                  url('TypoPRO-RobotoSlab-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

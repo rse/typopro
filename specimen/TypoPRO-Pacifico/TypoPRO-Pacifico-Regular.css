@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Pacifico-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Pacifico-Regular.woff') format('woff'),
-                  url('TypoPRO-Pacifico-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Pacifico-Regular.svgz#TypoPRO-Pacifico') format('svg');
+                  url('TypoPRO-Pacifico-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

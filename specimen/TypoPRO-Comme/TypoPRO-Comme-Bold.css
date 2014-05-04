@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Comme-Bold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Comme-Bold.woff') format('woff'),
-                  url('TypoPRO-Comme-Bold.ttf') format('truetype'),
-                  url('TypoPRO-Comme-Bold.svgz#TypoPRO-Comme-Bold') format('svg');
+                  url('TypoPRO-Comme-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;

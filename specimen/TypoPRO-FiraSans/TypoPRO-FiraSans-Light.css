@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-FiraSans-Light.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-FiraSans-Light.woff') format('woff'),
-                  url('TypoPRO-FiraSans-Light.ttf') format('truetype'),
-                  url('TypoPRO-FiraSans-Light.svgz#TypoPRO-FiraSansLight') format('svg');
+                  url('TypoPRO-FiraSans-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-AlegreyaSansSC-Thin.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-AlegreyaSansSC-Thin.woff') format('woff'),
-                  url('TypoPRO-AlegreyaSansSC-Thin.ttf') format('truetype'),
-                  url('TypoPRO-AlegreyaSansSC-Thin.svgz#TypoPRO-AlegreyaSansSC-Thin') format('svg');
+                  url('TypoPRO-AlegreyaSansSC-Thin.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

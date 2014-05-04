@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Lato-Black.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Lato-Black.woff') format('woff'),
-                  url('TypoPRO-Lato-Black.ttf') format('truetype'),
-                  url('TypoPRO-Lato-Black.svgz#TypoPRO-Lato-Black') format('svg');
+                  url('TypoPRO-Lato-Black.ttf') format('truetype');
     font-style:   normal;
     font-weight:  900;
     font-stretch: normal;

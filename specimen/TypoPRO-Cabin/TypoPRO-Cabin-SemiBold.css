@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Cabin-SemiBold.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Cabin-SemiBold.woff') format('woff'),
-                  url('TypoPRO-Cabin-SemiBold.ttf') format('truetype'),
-                  url('TypoPRO-Cabin-SemiBold.svgz#TypoPRO-Cabin-SemiBold') format('svg');
+                  url('TypoPRO-Cabin-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;

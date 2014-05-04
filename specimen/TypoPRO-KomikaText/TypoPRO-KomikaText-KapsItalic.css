@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-KomikaText-KapsItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-KomikaText-KapsItalic.woff') format('woff'),
-                  url('TypoPRO-KomikaText-KapsItalic.ttf') format('truetype'),
-                  url('TypoPRO-KomikaText-KapsItalic.svgz#TypoPRO-KomikaTextKaps-Italic') format('svg');
+                  url('TypoPRO-KomikaText-KapsItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;

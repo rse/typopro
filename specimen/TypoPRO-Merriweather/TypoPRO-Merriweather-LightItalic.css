@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Merriweather-LightItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Merriweather-LightItalic.woff') format('woff'),
-                  url('TypoPRO-Merriweather-LightItalic.ttf') format('truetype'),
-                  url('TypoPRO-Merriweather-LightItalic.svgz#TypoPRO-Merriweather-LightItalic') format('svg');
+                  url('TypoPRO-Merriweather-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  200;
     font-stretch: normal;

@@ -6,8 +6,7 @@
     src:          local('*'),
                   url('TypoPRO-Journal-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Journal-Regular.woff') format('woff'),
-                  url('TypoPRO-Journal-Regular.ttf') format('truetype'),
-                  url('TypoPRO-Journal-Regular.svgz#TypoPRO-Journal') format('svg');
+                  url('TypoPRO-Journal-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
