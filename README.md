@@ -16,6 +16,87 @@ fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
 
+Collection Features
+-------------------
+
+- **Preselection** & **Assembling**:
+  The fonts were carefully hand-selected, manually downloaded and
+  consistently assembled into the **TypoPRO** collection. For many fonts
+  the real upstream vendor origin of their latest versions had to be
+  determined first, too.
+
+- **Glyph Design**:
+  All fonts are professionally crafted and have their glyphs (individual
+  characters) beautifully designed and this way provide a really
+  wonderful optical appearance. Most of the fonts are actually from
+  professional font foundries.
+
+- **Font Families**:
+  Most of the fonts are based on reasonably large font families of
+  individual fonts. This is important, because for professional
+  typography results you usually always need multiple weights of at
+  least the headline and text fonts.
+
+- **Kerning**:
+  Most of the fonts carry reasonable kerning information, provided by the
+  font foundry: instructions for spacing adjustments between particular
+  pairs of glyphs. This is important, because for professional
+  typography, kerning is essential.
+
+- **Hinting**:
+  All fonts carry reasonable hinting information, provided by the
+  conversion process (and its `ttfautohint` utility) of **TypoPRO**:
+  display instructions for rasterization adjustments at various
+  rendering sizes. This is important, because for rendering fonts on the
+  Web at very small sizes, hinting is essential.
+
+- **Liberal Licensing**:
+  All fonts are under very liberal Open Source licenses and can be
+  freely and unrestrictively used even in Closed Source and Commercial
+  contexts.
+
+- **Web Conversion**:
+  All fonts are consistently converted from their original TTF/OTF
+  format into various font formats for use on the Web: Embedded OpenType
+  (EOT), Web Open Font Format (WOFF) and TrueType Font (TTF). These
+  different formats for each font are required for maximum portability
+  across browsers and operating systems. Suitable corresponding CSS
+  `@font-face` declaration files were generated, too.
+
+- **Unicode Character Reduction**
+  Some fonts contain a really large number of glyphs, covering a wide
+  range of the Unicode character set. This is great in general, but
+  dramatically increases the font size, which is a major drawback on the
+  web. For this reason, although it reduces the fonts to be used for
+  the main Latin based languages (English, German, etc), we reduce the
+  fonts in web formats to the smaller Unicode range 0000-00FF (Basic
+  Latin, Latin-1 Supplement). The DTP formats of all fonts we reduce
+  to the larger (but still reduced for some very large fonts) Unicode
+  range set 0000-036F,1DC0-1EFF,2000-20FF,2150-218F,2C60-2C7F,A720-A7FF
+  (Basic Latin, Latin-1 Supplement, Latin Extended-A, Latin Extended-B,
+  IPA Extensions, Spacing Modifier Letters, Combining Diacriticals
+  Marks, Combining Diacritical Marks Supplement, Latin Extended
+  Additional, General Punctuation. Superscripts and Subscripts, Currency
+  Symbols, Combining Diacritical Marks for Symbols, Number Forms, Latin
+  Extended-C, Latin Extended-D)
+
+- **Font Renaming**:
+  To circumvent license restrictions related to font format conversions
+  and to avoid confusion with the original font formats, all Web font
+  format variants were renamed to consistently carry the `TypoPRO `
+  prefix.
+
+- **Font Parameters**:
+  All font families consistently use a common font family name (CSS
+  `font-family` attribute) and all fonts within the same font family
+  are consistently distinguished via CSS parameters `font-weight`,
+  `font-style`, `font-stretch` and `font-variant`.
+
+- **Specimen**:
+  For the Web font variants, a specimen in HTML format was generated to
+  conveniently preview the font. See http://typopro.org/specimen/ for
+  the current overview of all specimens in **TypoPRO**.
+
 Collection Overview
 -------------------
 
@@ -110,87 +191,6 @@ To&nbsp;Be&nbsp;Continued|     |    |    | X  |  1  |  X    |      |    |    |  
 Top&nbsp;Secret          |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
 Veteran&nbsp;Typewriter  |     |    | X  |    |  1  |       |      |    |    |      |  X   |    |
 Yellowtail               |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-
-Collection Features
--------------------
-
-- **Preselection** & **Assembling**:
-  The fonts were carefully hand-selected, manually downloaded and
-  consistently assembled into the **TypoPRO** collection. For many fonts
-  the real upstream vendor origin of their latest versions had to be
-  determined first, too.
-
-- **Glyph Design**:
-  All fonts are professionally crafted and have their glyphs (individual
-  characters) beautifully designed and this way provide a really
-  wonderful optical appearance. Most of the fonts are actually from
-  professional font foundries.
-
-- **Font Families**:
-  Most of the fonts are based on reasonably large font families of
-  individual fonts. This is important, because for professional
-  typography results you usually always need multiple weights of at
-  least the headline and text fonts.
-
-- **Kerning**:
-  Most of the fonts carry reasonable kerning information, provided by the
-  font foundry: instructions for spacing adjustments between particular
-  pairs of glyphs. This is important, because for professional
-  typography, kerning is essential.
-
-- **Hinting**:
-  All fonts carry reasonable hinting information, provided by the
-  conversion process (and its `ttfautohint` utility) of **TypoPRO**:
-  display instructions for rasterization adjustments at various
-  rendering sizes. This is important, because for rendering fonts on the
-  Web at very small sizes, hinting is essential.
-
-- **Liberal Licensing**:
-  All fonts are under very liberal Open Source licenses and can be
-  freely and unrestrictively used even in Closed Source and Commercial
-  contexts.
-
-- **Web Conversion**:
-  All fonts are consistently converted from their original TTF/OTF
-  format into various font formats for use on the Web: Embedded OpenType
-  (EOT), Web Open Font Format (WOFF) and TrueType Font (TTF). These
-  different formats for each font are required for maximum portability
-  across browsers and operating systems. Suitable corresponding CSS
-  `@font-face` declaration files were generated, too.
-
-- **Unicode Character Reduction**
-  Some fonts contain a really large number of glyphs, covering a wide
-  range of the Unicode character set. This is great in general, but
-  dramatically increases the font size, which is a major drawback on the
-  web. For this reason, although it reduces the fonts to be used for
-  the main Latin based languages (English, German, etc), we reduce the
-  fonts in web formats to the smaller Unicode range 0000-00FF (Basic
-  Latin, Latin-1 Supplement). The DTP formats of all fonts we reduce
-  to the larger (but still reduced for some very large fonts) Unicode
-  range set 0000-036F,1DC0-1EFF,2000-20FF,2150-218F,2C60-2C7F,A720-A7FF
-  (Basic Latin, Latin-1 Supplement, Latin Extended-A, Latin Extended-B,
-  IPA Extensions, Spacing Modifier Letters, Combining Diacriticals
-  Marks, Combining Diacritical Marks Supplement, Latin Extended
-  Additional, General Punctuation. Superscripts and Subscripts, Currency
-  Symbols, Combining Diacritical Marks for Symbols, Number Forms, Latin
-  Extended-C, Latin Extended-D)
-
-- **Font Renaming**:
-  To circumvent license restrictions related to font format conversions
-  and to avoid confusion with the original font formats, all Web font
-  format variants were renamed to consistently carry the `TypoPRO `
-  prefix.
-
-- **Font Parameters**:
-  All font families consistently use a common font family name (CSS
-  `font-family` attribute) and all fonts within the same font family
-  are consistently distinguished via CSS parameters `font-weight`,
-  `font-style`, `font-stretch` and `font-variant`.
-
-- **Specimen**:
-  For the Web font variants, a specimen in HTML format was generated to
-  conveniently preview the font. See http://typopro.org/specimen/ for
-  the current overview of all specimens in **TypoPRO**.
 
 Browser Support
 ---------------
