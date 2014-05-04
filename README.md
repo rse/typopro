@@ -10,7 +10,7 @@ http://typopro.org/
 
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
-especially inside Web-based Desktop or Mobile Applications. Currrently,
+especially inside Web-based Desktop or Mobile Applications. Currently,
 **TypoPRO** consists of 504 individual fonts of 70 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
@@ -109,51 +109,51 @@ equally well for headlines, body text, footnotes, etc. They especially
 are part of whole font families and cover a wide range of Unicode
 characters.
 
-Name                      |Serif|Slab|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
---------------------------|:---:|:--:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Aileron                   |     |    | X  |    |    | 16  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Alegreya                  |  X  |    | X  |    |    | 40  |  X    |  X   |    | X  |      |  X   | X  |
-Aleo                      |     | X  |    |    |    |  6  |  X    |  X   |    | X  |      |  X   | X  |
-Amble                     |     |    | X  |    |    |  8  |  X    |  X   | X  | X  |      |  X   | X  |
-Anonymous&nbsp;Pro        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Bitter                    |     | X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Cabin                     |     |    | X  |    | X  | 14  |  X    |  X   | X  |    |  X   |  X   | X  |
-Charis&nbsp;SIL           |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Clear Sans                |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
-Comme                     |     |    | X  | X  |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Courier&nbsp;Prime        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Cousine                   |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Crete&nbsp;Round          |     | X  |    |    |    |  2  |  X    |  X   |    |    |      |  X   |    |
-Crimson                   |  X  |    |    |    |    |  6  |  X    |  X   |    |    |      |  X   | X  |
-Cuprum                    |     |    | X  |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-DejaVu                    |  X  |    | X  | X  |    | 21  |  X    |  X   | X  | X  |      |  X   | X  |
-Dosis                     |     |    | X  |    |    |  7  |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Droid                     |  X  |    | X  | X  |    |  7  |  X    |  X   |    |    |      |  X   | X  |
-EB&nbsp;Garamond          |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Fira&nbsp;Mono            |     |    |    | X  |    |  2  |  X    |      |    |    |      |  X   | X  |
-Fira&nbsp;Sans            |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
-Gentium                   |  X  |    |    |    |    |  8  |  X    |  X   |    |    |      |  X   | X  |
-Latin&nbsp;Modern         |  X  |    | X  | X  |    | 50  |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Lato                      |     |    | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Libre&nbsp;Baskerville    |  X  |    |    |    |    |  3  |  X    |  X   |    |    |      |  X   | X  |
-Lora                      |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Merriweather              |  X  |    |    |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Merriweather&nbsp;Sans    |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Muli                      |     |    | X  |    |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Neuton                    |  X  |    |    |    |    |  7  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Open&nbsp;Sans            |     |    | X  |    |    | 13  |  X    |  X   | X  |    |  X   |  X   | X  | X
-Oswald                    |     |    | X  |    |    | 14  |  X    |  X   |    | X  |  X   |  X   | X  | X
-Oxygen                    |     |    | X  | X  |    |  5  |  X    |  X   |    |    |      |  X   | X  |
-Raleway                   |  X  |    |    |    |    | 18  |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Roboto                    |     |    | X  |    |    | 12  |  X    |  X   | X  | X  |  X   |  X   | X  |
-Source&nbsp;Code&nbsp;Pro |     |    |    | X  |    |  7  |  X    |      |    | X  |  X   |  X   | X  | X
-Source&nbsp;Sans&nbsp;Pro |     |    | X  |    |    | 12  |  X    |  X   |    | X  |  X   |  X   | X  | X
-TeX&nbsp;Gyre             |  X  |    | X  | X  | X  | 33  |  X    |  X   | X  | X  |  X   |  X   | X  |
-Ubuntu                    |     |    | X  | X  |    | 13  |  X    |  X   | X  | X  |  X   |  X   | X  |
-Vegur                     |     |    | X  |    |    |  3  |  X    |      |    |    |  X   |  X   | X  |
-Vollkorn                  |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
-Webly&nbsp;Sleek          |     |    | X  |    |    |  6  |  X    |  X   |    | X  |      |  X   | X  |
-Yanone&nbsp;Kaffeesatz    |     |    | X  |    |    |  4  |  X    |      |    | X  |  X   |  X   | X  |
+Name                      |Fonts|Serif|Slab|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+--------------------------|----:|:---:|:--:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Aileron                   | 16  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Alegreya                  | 40  |  X  |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
+Aleo                      |  6  |     | X  |    |    |    |  X    |  X   |    | X  |      |  X   | X  |
+Amble                     |  8  |     |    | X  |    |    |  X    |  X   | X  | X  |      |  X   | X  |
+Anonymous&nbsp;Pro        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Bitter                    |  4  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Cabin                     | 14  |     |    | X  |    | X  |  X    |  X   | X  |    |  X   |  X   | X  |
+Charis&nbsp;SIL           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Clear&nbsp;Sans           |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
+Comme                     | 10  |     |    | X  | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Courier&nbsp;Prime        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Cousine                   |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Crete&nbsp;Round          |  2  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   |    |
+Crimson                   |  6  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Cuprum                    |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
+DejaVu                    | 21  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |      |  X   | X  |
+Dosis                     |  7  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
+Droid                     |  7  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
+EB&nbsp;Garamond          |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
+Fira&nbsp;Sans            |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
+Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
+Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Libre&nbsp;Baskerville    |  3  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Open&nbsp;Sans            | 13  |     |    | X  |    |    |  X    |  X   | X  |    |  X   |  X   | X  | X
+Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Raleway                   | 18  |  X  |    |    |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
+Roboto                    | 12  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
+Source&nbsp;Code&nbsp;Pro |  7  |     |    |    | X  |    |  X    |      |    | X  |  X   |  X   | X  | X
+Source&nbsp;Sans&nbsp;Pro | 12  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+TeX&nbsp;Gyre             | 33  |  X  |    | X  | X  | X  |  X    |  X   | X  | X  |  X   |  X   | X  |
+Ubuntu                    | 13  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
+Vegur                     |  3  |     |    | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
+Vollkorn                  |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Webly&nbsp;Sleek          |  6  |     |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
+Yanone&nbsp;Kaffeesatz    |  4  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts
 
@@ -162,35 +162,35 @@ used only for particular headlines, subtitles, tags, etc. They are
 usually just stand-alone fonts and cover just a very limited set of
 Unicode characters.
 
-Name                     |Serif|Sans|Mono|Hand|Fonts|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
--------------------------|:---:|:--:|:--:|:--:|:---:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Bebas&nbsp;Neue          |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Chawp                    |     |    |    | X  |  1  |       |      |    |    |      |      | X  |
-Comic&nbsp;Neue          |     | X  |    | X  | 12  |  X    |  X   |    | X  |      |  X   | X  |
-Comic&nbsp;Relief        |     |    |    | X  |  2  |       |      |    |    |      |  X   | X  |
-Courgette                |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-DancingScript            |     |    |    | X  |  2  |       |      |    |    |      |  X   | X  |
-Delius                   |     |    |    | X  |  4  |  X    |      |    |    |      |  X   | X  |
-Grand&nbsp;Hotel         |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Graziano                 |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Great&nbsp;Vibes         |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-HH&nbsp;Samuel           |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Journal                  |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Junction                 |     | X  |    |    |  3  |  X    |      |    |    |  X   |  X   |  X |
-Kingthings&nbsp;Petrock  |     |    |    | X  |  2  |  X    |      |    | X  |      |  X   |    |
-Komika&nbsp;Hand         |     | X  |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
-Komika&nbsp;Text         |     | X  |    |    | 10  |  X    |  X   |    | X  |      |  X   | X  |
-Learning&nbsp;Curve      |     |    |    | X  |  2  |       |  X   |    | X  |      |  X   |    |
-Lobster&nbsp;Two         |     |    |    | X  |  4  |  X    |  X   |    |    |      |  X   | X  |
-Nautilus&nbsp;Pompilius  |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-Ostrich&nbsp;Sans        |     | X  |    |    |  9  |  X    |      |    | X  |  X   |  X   | X  | X
-Patua&nbsp;One           |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
-Poetsen                  |     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
-Pompiere                 |     |    |    | X  |  1  |  X    |      |    |    |      |  X   |    |
-To&nbsp;Be&nbsp;Continued|     |    |    | X  |  1  |  X    |      |    |    |      |      |    | X
-Top&nbsp;Secret          |     | X  |    |    |  1  |  X    |      |    |    |      |      |    | X
-Veteran&nbsp;Typewriter  |     |    | X  |    |  1  |       |      |    |    |      |  X   |    |
-Yellowtail               |     |    |    | X  |  1  |       |  X   |    |    |      |  X   |    |
+Name                      |Fonts|Serif|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
+--------------------------|----:|:---:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
+Chawp                     |  1  |     |    |    | X  |       |      |    |    |      |      | X  |
+Comic&nbsp;Neue           | 12  |     | X  |    | X  |  X    |  X   |    | X  |      |  X   | X  |
+Comic&nbsp;Relief         |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
+Courgette                 |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+DancingScript             |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
+Delius                    |  4  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
+Grand&nbsp;Hotel          |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Graziano                  |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+Great&nbsp;Vibes          |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+HH&nbsp;Samuel            |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
+Journal                   |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+Junction                  |  3  |     | X  |    |    |  X    |      |    |    |  X   |  X   |  X |
+Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  |      |  X   |    |
+Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
+Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
+Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
+Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
+Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
+Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
+Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+To&nbsp;Be&nbsp;Continued |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
+Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
+Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
+Yellowtail                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 
 Browser Support
 ---------------
@@ -201,24 +201,31 @@ browser version which supports a particular format follows (for latest
 information see [1](http://caniuse.com/eot) [2](http://caniuse.com/ttf)
 [3](http://caniuse.com/woff)):
 
-Browser                     | EOT  | TTF  | WOFF 
-----------------------------|:----:|:----:|:----:
-Internet Explorer (Desktop) | 6.0  | 9    | 9    
-Internet Explorer (Mobile)  | --   | --   | 10.0 
-Mozilla Firefox (Desktop)   | --   | 3.5  | 3.6  
-Mozilla Firefox (Mobile)    | --   | 26.0 | 26.0 
-Google Chrome (Desktop)     | --   | 4.0  | 5.0  
-Google Chrome (Mobile 2)    | --   | 33.0 | 33.0 
-Google Chrome (Mobile 1)    | --   | 2.2  | 4.4  
-Apple Safari (Desktop)      | --   | 3.1  | 5.1  
-Apple Safari (Mobile)       | --   | 4.2  | 5.0  
-Opera (Desktop)             | --   | 10.0 | 11.1 
-Opera (Mobile)              | --   | 10.0 | 11.0 
+Browser                     | EOT  | TTF  | WOFF
+----------------------------|-----:|-----:|-----:
+Internet Explorer (Desktop) | 6.0  |  9.0 |  9.0
+Internet Explorer (Mobile)  | --   |  --  | 10.0
+Mozilla Firefox (Desktop)   | --   |  3.5 |  3.6
+Mozilla Firefox (Mobile)    | --   | 26.0 | 26.0
+Google Chrome (Desktop)     | --   |  4.0 |  5.0
+Google Chrome (Mobile 2)    | --   | 33.0 | 33.0
+Google Chrome (Mobile 1)    | --   |  2.2 |  4.4
+Apple Safari (Desktop)      | --   |  3.1 |  5.1
+Apple Safari (Mobile)       | --   |  4.2 |  5.0
+Opera (Desktop)             | --   | 10.0 | 11.1
+Opera (Mobile)              | --   | 10.0 | 11.0
 
 This means that for the latest versions of all major
 browsers the optimized WOFF format would be both sufficient and
-prefered. But for backward compatibility to older browser versions, the
+preferred. But for backward compatibility to older browser versions, the
 EOT and TTF formats are still provided, too.
+
+Notice: The font are intentionally not (or more precise: no longer since
+TypoPRO 2.0) provided in the additionally browser-supported SVG font
+format. The reason simply is that since a longer time this gives not
+really any additional effective cross-browser compatibility and just
+unnecessarily increases the (already rather large) TypoPRO distribution
+size.
 
 Alternatives
 ------------
