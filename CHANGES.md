@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.0.2
+-----
+
+- synchronized NPM and Bower distributions again.
+
 2.0.1
 -----
 
