@@ -1,7 +1,7 @@
 
 ![TypoPRO](etc/logo.jpg "TypoPRO")
 
-TypoPRO 2.0.2
+TypoPRO 2.0.3
 =============
 
 http://typopro.org/
@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currrently,
-**TypoPRO** consists of 504 individual fonts of 71 font families. The
+**TypoPRO** consists of 504 individual fonts of 70 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -19,7 +19,7 @@ typographic possibilities with just a minimum number of font families.
 Collection Overview
 -------------------
 
-![The TypoPRO Fonts](etc/cloud.png "The TypoPRO Fonts")
+![The TypoPRO Font Cloud Image](etc/cloud.png "The TypoPRO Font Cloud Image")
 
 #### General Purpose Fonts
 
@@ -37,7 +37,6 @@ Amble                     |     |    | X  |    |    |  8  |  X    |  X   | X  | 
 Anonymous&nbsp;Pro        |     |    |    | X  |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Bitter                    |     | X  |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Cabin                     |     |    | X  |    | X  | 14  |  X    |  X   | X  |    |  X   |  X   | X  |
-Charis&nbsp;SIL           |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Charis&nbsp;SIL           |  X  |    |    |    |    |  4  |  X    |  X   |    |    |      |  X   | X  |
 Clear Sans                |     |    | X  |    |    |  8  |  X    |  X   |    | X  |  X   |  X   | X  |
 Comme                     |     |    | X  | X  |    | 10  |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -200,7 +199,7 @@ All major browsers are fully supported by TypoPRO due to the fact
 that each font is provided in multiple formats. The actual minimum
 browser version which supports a particular format follows (for latest
 information see [1](http://caniuse.com/eot) [2](http://caniuse.com/ttf)
-[3](http://caniuse.com/woff) [4](http://caniuse.com/svg-fonts)):
+[3](http://caniuse.com/woff)):
 
 Browser                     | EOT  | TTF  | WOFF 
 ----------------------------|:----:|:----:|:----:
@@ -290,13 +289,11 @@ the correct MIME content-types. You can use the following Apache
         AddType application/vnd.ms-fontobject eot
         AddType application/font-woff         woff
         AddType application/x-font-ttf        ttf
-        AddType image/svg+xml                 svg
-        AddEncoding gzip                      svgz
     </IfModule>
 
     #   compress all fonts (except already compressed WOFF)
     <IfModule deflate_module>
-        AddOutputFilter DEFLATE eot ttf svg
+        AddOutputFilter DEFLATE eot ttf
     </IfModule>
 
 In order to use an individual font you have to use
