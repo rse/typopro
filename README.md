@@ -16,8 +16,8 @@ fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
 
-Collection Features
--------------------
+Features
+--------
 
 - **Preselection** & **Assembling**:
   The fonts were carefully hand-selected, manually downloaded and
@@ -97,8 +97,8 @@ Collection Features
   conveniently preview the font. See http://typopro.org/specimen/ for
   the current overview of all specimens in **TypoPRO**.
 
-Collection Overview
--------------------
+Font Overview
+-------------
 
 ![The TypoPRO Font Cloud Image](etc/cloud.png "The TypoPRO Font Cloud Image")
 
@@ -250,15 +250,15 @@ You can conveniently download snapshots or particular versions of **TypoPRO** in
 
 - Bower: install as client component via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install typopro#2.0.0`
+  `$ bower install typopro#2.0.3`
 
 - NPM: install as server component via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@2.0.0`<br/>
+  `$ npm install typopro@2.0.3`<br/>
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro/archive/2.0.0.zip`
+  `$ curl -O https://github.com/rse/typopro/archive/2.0.3.zip`
 
 Alternatively, you can use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
