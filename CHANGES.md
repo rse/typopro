@@ -12,7 +12,7 @@ CHANGES
 
 - added the Liberation font family.
 
-- added awesome Overlock font family.
+- added the Overlock font family.
 
 - extended and polished some of blurb.txt files.
 
