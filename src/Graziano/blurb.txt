@@ -2,7 +2,7 @@ Name:       Graziano
 Homepage:   http://openfontlibrary.org/en/font/graziano
 Download:   http://openfontlibrary.org/en/font/graziano
 Version:    1.000
-License:    Open Font License
+License:    Open Font License 1.1
 Publisher:  Open Font Library
 Designer:   Graziano Capelli
 Designed:   2011
