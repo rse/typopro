@@ -2,6 +2,21 @@
 CHANGES
 =======
 
+2.0.4
+-----
+
+- disable auto-hinting on some fonts to avoid trouble with
+  ttfautohint(1) version 1.1 and because it is unnecessary anyway.
+
+- added awesome Overlock font family.
+
+- extended and polished some of blurb.txt files.
+
+2.0.3
+-----
+
+- polish README
+
 2.0.2
 -----
 

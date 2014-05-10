@@ -75,15 +75,24 @@ for line in `cat etc/manifest.txt`; do
     style=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*style="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
     stretch=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*stretch="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
     variant=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*variant="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
+    noautohint=`echo "$line" | sed -e 's;^;X;' -e 's;^X.*noautohint="\([^"]*\)".*;\1;' -e 's;^X.*;;'`
     name=`echo "$font" | sed -e 's;/.*;;'`
     echo "++ converting: $font ($family)"
 
     #   create font-specific target area
-    mkdir web/$prefix-$name dtp/$prefix-$name
+    if [ ! -d "web/$prefix-$name" ]; then
+        mkdir web/$prefix-$name
+    fi
+    if [ ! -d "dtp/$prefix-$name" ]; then
+        mkdir dtp/$prefix-$name
+    fi
 
     #   determine font conversion command (common part)
     cmd="fontface"
-    cmd="$cmd -l -h"
+    cmd="$cmd -l"
+    if [ ".$noautohint" != .yes ]; then
+        cmd="$cmd -h"
+    fi
     cmd="$cmd -p \"$prefix\""
     cmd="$cmd -f \"$family\""
     if [ ".$weight" != . ]; then
