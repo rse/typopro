@@ -8,6 +8,8 @@ CHANGES
 - disable auto-hinting on some fonts to avoid trouble with
   ttfautohint(1) version 1.1 and because it is unnecessary anyway.
 
+- added the Liberation font family.
+
 - added awesome Overlock font family.
 
 - extended and polished some of blurb.txt files.
