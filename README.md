@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 504 individual fonts of 70 font families. The
+**TypoPRO** consists of 523 individual fonts of 72 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -135,6 +135,7 @@ Fira&nbsp;Sans            |  8  |     |    | X  |    |    |  X    |  X   |    | 
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Liberation                | 12  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Libre&nbsp;Baskerville    |  3  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -143,6 +144,7 @@ Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | 
 Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Open&nbsp;Sans            | 13  |     |    | X  |    |    |  X    |  X   | X  |    |  X   |  X   | X  | X
 Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Raleway                   | 18  |  X  |    |    |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Roboto                    | 12  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
