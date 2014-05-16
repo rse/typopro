@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.0.5
+-----
+
+- add the brand-new Adobe Source Serif Pro font
+
 2.0.4
 -----
 
