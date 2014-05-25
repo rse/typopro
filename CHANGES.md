@@ -2,6 +2,15 @@
 CHANGES
 =======
 
+2.0.6
+-----
+
+- updated Fira Sans from version 2.x to 3.105 and this way
+  it now provides 16(!) font weights (we even had to workaround
+  the fact that we have just 10 distinct weights in CSS).
+
+- updated Fira Mono from version 2.x to 3.105.
+
 2.0.5
 -----
 

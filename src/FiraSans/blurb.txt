@@ -1,7 +1,9 @@
 Name:       Fira Sans
+Homepage:   http://mozilla.github.io/Fira/
 Homepage:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
 Download:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
-Version:    2.001
+Download:   http://dev.carrois.com/wordpress/wp-content/uploads/downloads/fira_3105/FiraSans3105.zip
+Version:    3.105
 License:    Open Font License 1.1
 Publisher:  Mozilla
 Designer:   Erik Spiekermann & Ralph du Carrois (Carrois Type Design)
