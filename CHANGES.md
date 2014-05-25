@@ -11,6 +11,8 @@ CHANGES
 
 - updated Fira Mono from version 2.x to 3.105.
 
+- added Sinkin Sans font
+
 2.0.5
 -----
 
