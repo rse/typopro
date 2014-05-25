@@ -22,10 +22,12 @@
 ##  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ##
 
+PATTERN =
+
 all: convert manifest
 
 convert:
-	sh etc/convert.sh
+	sh etc/convert.sh '$(PATTERN)'
 manifest:
 	perl etc/manifest.pl
 

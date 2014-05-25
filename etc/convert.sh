@@ -49,6 +49,16 @@
 #   --------------
 #   U+A720..U+A7FF  Latin Extended-D                           224
 
+#   argument
+pattern="$1"
+if [ ".$pattern" = . ]; then
+    pattern=".*"
+
+    #   start with fresh output areas
+    rm -rf web dtp
+    mkdir web dtp
+fi
+
 #   configuration
 prefix="TypoPRO"
 
@@ -58,14 +68,10 @@ if [ ! -f etc/manifest.txt ]; then
     exit 1
 fi
 
-#   start with fresh output areas
-rm -rf web dtp
-mkdir web dtp
-
 #   iterate over all fonts
 OIFS="$IFS"; IFS="
 "
-for line in `cat etc/manifest.txt`; do
+for line in `cat etc/manifest.txt | egrep "$pattern"`; do
     IFS="$OIFS"
 
     #   parse font information
