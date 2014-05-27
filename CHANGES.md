@@ -5,6 +5,11 @@ CHANGES
 2.1.0
 -----
 
+- rerendered all fonts with the latest fontface(1) utility
+  which now sets the OS/2 FSType field to 0 to explicitly allow all
+  fonts (in the DTP case) to be embedded into documents. For
+  the WEB cases it does not matter, of course.
+
 - added Signika font
 
 2.0.6
