@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.1.0
+-----
+
+- added Signika font
+
 2.0.6
 -----
 
