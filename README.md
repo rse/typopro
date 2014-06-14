@@ -238,10 +238,12 @@ Alternatives
 
 Nowadays, most of the fonts can also be individually
 downloaded for free from online font libraries like
-[Font Squirrel](http://www.fontsquirrel.com/) or
-[DaFont](http://www.dafont.com/) or even on-the-fly used from font
+[Font Squirrel](http://www.fontsquirrel.com/),
+[DaFont](http://www.dafont.com/) or
+[Fonts2U](http://www.fonts2u.com) or even on-the-fly used from font
 cloud services like [Google Fonts](http://www.google.com/fonts),
 [Open Font Library](http://openfontlibrary.org/),
+[Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/),
 [Adobe Typekit](https://typekit.com/),
 [FontDeck](http://fontdeck.com/) or
 [Brick](http://brick.im/). The purpose of **TypoPRO** is just
