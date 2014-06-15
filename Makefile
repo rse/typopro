@@ -27,7 +27,7 @@ PATTERN =
 all: convert manifest
 
 convert:
-	sh etc/convert.sh '$(PATTERN)'
+	@sh etc/convert.sh '$(PATTERN)'
 manifest:
-	perl etc/manifest.pl
+	@perl etc/manifest.pl
 

@@ -2,6 +2,13 @@
 CHANGES
 =======
 
+2.1.1
+-----
+
+- added font face Rosario
+
+- added font face Sansita One
+
 2.1.0
 -----
 
