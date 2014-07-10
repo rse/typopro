@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.1.2
+-----
+
+- updated Source Sans Pro to new version 2.010
+
 2.1.1
 -----
 
