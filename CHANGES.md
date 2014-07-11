@@ -7,6 +7,8 @@ CHANGES
 
 - updated Source Sans Pro to new version 2.010
 
+- updated Roboto new version of 2014
+
 2.1.1
 -----
 

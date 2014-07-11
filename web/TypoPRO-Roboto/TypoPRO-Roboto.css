@@ -1,4 +1,34 @@
 
+/* TypoPRO Roboto Black */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-Roboto-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Roboto-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Roboto-Black.woff') format('woff'),
+                  url('TypoPRO-Roboto-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Black Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-Roboto-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Roboto-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Roboto-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Roboto Bold */
 @font-face {
     font-family:  'TypoPRO Roboto';
@@ -69,6 +99,36 @@
                   url('TypoPRO-Roboto-LightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Medium */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-Roboto-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Roboto-Medium.woff') format('woff'),
+                  url('TypoPRO-Roboto-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-Roboto-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Roboto-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Roboto-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Roboto-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -159,6 +219,36 @@
                   url('TypoPRO-RobotoCondensed-Italic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-RobotoCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-RobotoCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Condensed Light Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-RobotoCondensed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoCondensed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-RobotoCondensed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
     font-stretch: condensed;
     font-variant: normal;
 }
