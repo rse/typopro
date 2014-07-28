@@ -2,6 +2,21 @@
 CHANGES
 =======
 
+2.2.0
+-----
+
+- added font Kaushan Script
+
+- added font Lekton
+
+- added font Noto Sans
+
+- added font Noto Serif
+
+- added font Ek Mukta
+
+- added font Kalam
+
 2.1.2
 -----
 
