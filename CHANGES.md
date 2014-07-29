@@ -2,6 +2,12 @@
 CHANGES
 =======
 
+2.2.1
+-----
+
+- fixed packaging (the output files corresponding to all new fonts were
+  not committed to Git and this way missing from the Bower deployment unit)
+
 2.2.0
 -----
 
