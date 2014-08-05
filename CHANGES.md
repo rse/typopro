@@ -2,6 +2,17 @@
 CHANGES
 =======
 
+2.2.2
+-----
+
+- added font Bellota
+
+- added font Damion
+
+- added font FantasqueSansMono
+
+- added font Satisfy
+
 2.2.1
 -----
 
