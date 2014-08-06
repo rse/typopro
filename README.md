@@ -375,12 +375,12 @@ distinct glyph outlines), beauty (because of very harmonic glyph curves)
 and versatility (because of their different available stroke widths and
 optional italic variants).
 
-Sans Serif:    |Slab Serif:  |Serif:       |Monospaced:         |Script:            |Display:
----------------|-------------|-------------|--------------------|-------------------|---------
-Fira Sans      |Roboto Slab  |Droid Serif  |DejaVu Sans Mono    |Journal            |Overlock
-Roboto         |Aleo         |Merriweather |Anonymous Pro       |Delius             |Yanone Kaffesatz
-Source Sans Pro|Bitter       |Lora         |Latin Modern Mono   |Kalam              |Poetsen One
-Open Sans      |             |             |                    |Nautilius Pompilius|
+Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:       |Monospaced:         |Script:            |Display:
+----------------|----------------|-------------|--------------------|-------------------|---------
+Fira Sans       |Roboto Slab     |Droid Serif  |DejaVu Sans Mono    |Journal            |Overlock
+Roboto          |Aleo            |Merriweather |Anonymous Pro       |Delius             |Yanone Kaffesatz
+Source Sans Pro |Bitter          |Lora         |Latin Modern Mono   |Kalam              |Poetsen One
+Open Sans       |                |             |                    |Nautilius Pompilius|
 
 Manifest
 --------
