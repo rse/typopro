@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.2.3
+-----
+
+- updated and cleaned up README
+
 2.2.2
 -----
 
