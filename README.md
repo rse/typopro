@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 579 individual fonts of 78 font families. The
+**TypoPRO** consists of 619 individual fonts of 87 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -130,11 +130,14 @@ DejaVu                    | 21  |  X  |    | X  | X  |    |  X    |  X   | X  | 
 Dosis                     |  7  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Droid                     |  7  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 EB&nbsp;Garamond          |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Ek&nbsp;Mukta             |  7  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
+Fantasque&nbsp;Sans&nbsp;Mono|4 |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Sans            | 32  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Lekton                    |  3  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Liberation                | 12  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Libre&nbsp;Baskerville    |  3  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -142,6 +145,8 @@ Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | 
 Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Noto&nbsp;Sans            |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
+Noto&nbsp;Serif           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Open&nbsp;Sans            | 13  |     |    | X  |    |    |  X    |  X   | X  |    |  X   |  X   | X  | X
 Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -150,7 +155,7 @@ Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    | 
 Raleway                   | 18  |  X  |    |    |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Roboto                    | 12  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |  
+Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Code&nbsp;Pro |  7  |     |    |    | X  |    |  X    |      |    | X  |  X   |  X   | X  | X
 Source&nbsp;Sans&nbsp;Pro | 12  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -172,10 +177,12 @@ Unicode characters.
 Name                      |Fonts|Serif|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 --------------------------|----:|:---:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
+Bellota                   |  6  |     |    |    |    |  X    |  X   |    |    |  X   |      | X  |
 Chawp                     |  1  |     |    |    | X  |       |      |    |    |      |      | X  |
 Comic&nbsp;Neue           | 12  |     | X  |    | X  |  X    |  X   |    | X  |      |  X   | X  |
 Comic&nbsp;Relief         |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
 Courgette                 |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+Damion                    |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 DancingScript             |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
 Delius                    |  4  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
 Grand&nbsp;Hotel          |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
@@ -183,7 +190,9 @@ Graziano                  |  1  |     |    |    | X  |       |  X   |    |    | 
 Great&nbsp;Vibes          |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 HH&nbsp;Samuel            |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Journal                   |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Junction                  |  3  |     | X  |    |    |  X    |      |    |    |  X   |  X   |  X |
+Junction                  |  3  |     | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
+Kalam                     |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   | X  |
+Kaushan Script            |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  |      |  X   |    |
 Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
@@ -195,6 +204,7 @@ Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    | 
 Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
 Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    |      |      | X  |
+Satisfy                   |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 To&nbsp;Be&nbsp;Continued |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
 Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
@@ -396,8 +406,8 @@ Licensing
 All included font families are distributed under very liberal Open
 Source licenses, either MIT License, Apache License, Open Font License
 or Public Domain. For particular license details on each individual
-font family, please see the files `src/*/license.txt` and the meta
-information in the files `src/*/blurb.txt`.
+font family, please see the files `src/\*/license.txt` and the meta
+information in the files `src/\*/blurb.txt`.
 
 Author
 ------
