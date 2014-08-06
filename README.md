@@ -238,8 +238,8 @@ browsers the optimized WOFF format would be both sufficient and
 preferred. But for backward compatibility to older browser versions, the
 EOT and TTF formats are still provided, too.
 
-Notice: The font are intentionally not (or more precise: no longer since
-TypoPRO 2.0) provided in the additionally browser-supported SVG font
+Notice: The fonts are intentionally not (or more precise: no longer since
+TypoPRO 2.0) provided in the additional browser-supported SVG font
 format. The reason simply is that since a longer time this gives not
 really any additional effective cross-browser compatibility and just
 unnecessarily increases the (already rather large) TypoPRO distribution
@@ -249,16 +249,17 @@ Alternatives
 ------------
 
 Nowadays, most of the fonts can also be individually
-downloaded for free from online font libraries like
+downloaded for free from _online_ font libraries like
 [Font Squirrel](http://www.fontsquirrel.com/),
-[DaFont](http://www.dafont.com/) or
-[Fonts2U](http://www.fonts2u.com) or even on-the-fly used from font
-cloud services like [Google Fonts](http://www.google.com/fonts),
+[DaFont](http://www.dafont.com/),
+[Fonts2U](http://www.fonts2u.com) or
+[fontsc](http://www.fontsc.com) or even _on-the-fly_ used from font
+Cloud services like [Google Fonts](http://www.google.com/fonts),
 [Open Font Library](http://openfontlibrary.org/),
 [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/),
 [Adobe Typekit](https://typekit.com/),
 [FontDeck](http://fontdeck.com/) or
-[Brick](http://brick.im/). The purpose of **TypoPRO** is just
+[Brick](http://brick.im/). But the purpose of **TypoPRO** is just
 different: it provides an _offline_ solution and it intentionally
 is a very opinionated pre-selection of reasonable (meaning
 high-quality) fonts.
