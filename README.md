@@ -368,14 +368,19 @@ Recommendation
 
 For general purpose typography, I can recommend you all of the above 55
 General Purpose fonts, of course. But my personal preference most of
-the times is towards *Open Sans* for headlines, *Droid Serif* for body
-text and *DejaVu Sans Mono* for code. There are many reasons for this,
-but mainly all those three, each in their class, in my humble opinion,
-provide the best balance of legibility (because of very distinct
-glyph outlines), beauty (because of very harmonic glyph curves) and
-versatility (because of their different available stroke widths and
-optional italic variants). My second choice would be *Source Sans Pro*
-for headlines, *Neuton* for body text and *Anonymous Pro* for code.
+the times is towards the fonts in the following table. There are many
+reasons for this, but mainly all those fonts, each in their class, in my
+humble opinion, provide the best balance of legibility (because of very
+distinct glyph outlines), beauty (because of very harmonic glyph curves)
+and versatility (because of their different available stroke widths and
+optional italic variants).
+
+Headlines:     |Body Text:   |Source Code:        |Scripting:
+---------------|-------------|--------------------|---------------
+Fira Sans      |Droid Serif  |DejaVu Sans Mono    |Journal
+Roboto         |Merriweather |Anonymous Pro       |Delius
+Source Sans Pro|Lora         |Latin Modern Mono   |Kalam
+Open Sans      |             |                    |
 
 Manifest
 --------
