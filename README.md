@@ -366,7 +366,7 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 42
+For general purpose typography, I can recommend you all of the above 55
 General Purpose fonts, of course. But my personal preference most of
 the times is towards *Open Sans* for headlines, *Droid Serif* for body
 text and *DejaVu Sans Mono* for code. There are many reasons for this,
