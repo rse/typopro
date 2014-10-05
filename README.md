@@ -1,7 +1,7 @@
 
 ![TypoPRO](etc/logo.jpg "TypoPRO")
 
-TypoPRO 2.2.3
+TypoPRO 2.2.4
 =============
 
 http://typopro.org/
@@ -271,15 +271,15 @@ You can conveniently download snapshots or particular versions of **TypoPRO** in
 
 - Bower: install as client component via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install typopro#2.2.3`
+  `$ bower install typopro#2.2.4`
 
 - NPM: install as server component via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@2.2.3`
+  `$ npm install typopro@2.2.4`
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro/archive/2.2.3.zip`
+  `$ curl -O https://github.com/rse/typopro/archive/2.2.4.zip`
 
 Alternatively, you can use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
