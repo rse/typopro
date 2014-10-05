@@ -1,0 +1,15 @@
+
+/* TypoPRO Quattrocento Sans Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Quattrocento Sans';
+    src:          url('TypoPRO-QuattrocentoSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-QuattrocentoSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-QuattrocentoSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-QuattrocentoSans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

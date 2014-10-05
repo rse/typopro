@@ -1,0 +1,90 @@
+
+/* TypoPRO Quattrocento Bold */
+@font-face {
+    font-family:  'TypoPRO Quattrocento';
+    src:          url('TypoPRO-Quattrocento-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Quattrocento-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Quattrocento-Bold.woff') format('woff'),
+                  url('TypoPRO-Quattrocento-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Quattrocento */
+@font-face {
+    font-family:  'TypoPRO Quattrocento';
+    src:          url('TypoPRO-Quattrocento-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Quattrocento-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Quattrocento-Regular.woff') format('woff'),
+                  url('TypoPRO-Quattrocento-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Quattrocento Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Quattrocento Sans';
+    src:          url('TypoPRO-QuattrocentoSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-QuattrocentoSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-QuattrocentoSans-Bold.woff') format('woff'),
+                  url('TypoPRO-QuattrocentoSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Quattrocento Sans Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Quattrocento Sans';
+    src:          url('TypoPRO-QuattrocentoSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-QuattrocentoSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-QuattrocentoSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-QuattrocentoSans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Quattrocento Sans Italic */
+@font-face {
+    font-family:  'TypoPRO Quattrocento Sans';
+    src:          url('TypoPRO-QuattrocentoSans-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-QuattrocentoSans-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-QuattrocentoSans-Italic.woff') format('woff'),
+                  url('TypoPRO-QuattrocentoSans-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Quattrocento Sans */
+@font-face {
+    font-family:  'TypoPRO Quattrocento Sans';
+    src:          url('TypoPRO-QuattrocentoSans-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-QuattrocentoSans-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-QuattrocentoSans-Regular.woff') format('woff'),
+                  url('TypoPRO-QuattrocentoSans-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
