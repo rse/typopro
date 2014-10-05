@@ -1,0 +1,20 @@
+Name:       Quattrocento
+Homepage:   http://www.impallari.com/quattrocentro
+Homepage:   http://www.impallari.com/quattrocentosans
+Download:   http://www.impallari.com/media/releases/quattrocento-v1.1.zip
+Download:   http://www.impallari.com/media/releases/quattrocento-sans-v2.0.zip
+Download:   https://www.google.com/fonts#UsePlace:use/Collection:Quattrocento
+Version:    2.0/2.0 (2014/2012)
+License:    Open Font License 1.1
+Publisher:  Pablo Impallari
+Designer:   Pablo Impallari
+Designed:   2011
+Derivation: none
+
+Quattrocento Roman is a Classic, Elegant, Sober and Strong typeface.
+Their wide and open letterforms, and great x-height, make it very
+legible for body text at small sizes. And their tiny details that
+only shows up at bigger sizes make it also great for display use.
+Quattrocento Sans is a Classic, Elegant & Sober typeface. Warm,
+readable and not intrusive. It's the perfect sans-serif companion for
+Quattrocento.

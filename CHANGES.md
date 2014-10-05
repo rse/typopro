@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.2.4
+-----
+
+- added Quattrocento and Quattrocentro Sans font families
+
 2.2.3
 -----
 
