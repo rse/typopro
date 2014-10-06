@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 625 individual fonts of 89 font families. The
+**TypoPRO** consists of 626 individual fonts of 89 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -152,6 +152,7 @@ Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | 
 Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
+Quattrocento              |  6  |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Raleway                   | 18  |  X  |    |    |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Roboto                    | 12  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
