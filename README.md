@@ -367,7 +367,7 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 55
+For general purpose typography, I can recommend you all of the above 56
 General Purpose fonts, of course. But my personal preference most of
 the times is towards the fonts in the following table. There are many
 reasons for this, but mainly all those fonts, each in their class, in my
