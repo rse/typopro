@@ -5,6 +5,10 @@ CHANGES
 2.2.5
 -----
 
+- added Cooper Hewitt font family
+
+- added Bree Serif font
+
 - updated Fira Sans and Fira Mono to latest version 3.111
   (includes a new font Fira Mono medium width)
 

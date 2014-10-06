@@ -1,0 +1,15 @@
+
+/* TypoPRO Bree Serif */
+@font-face {
+    font-family:  'TypoPRO Bree Serif';
+    src:          url('TypoPRO-BreeSerif-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-BreeSerif-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BreeSerif-Regular.woff') format('woff'),
+                  url('TypoPRO-BreeSerif-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Cooper Hewitt */
+@font-face {
+    font-family:  'TypoPRO Cooper Hewitt';
+    src:          url('TypoPRO-CooperHewitt-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CooperHewitt-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CooperHewitt-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-CooperHewitt-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

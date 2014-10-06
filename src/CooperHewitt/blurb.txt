@@ -1,0 +1,20 @@
+Name:       Cooper Hewitt
+Homepage:   http://www.cooperhewitt.org/colophon/cooper-hewitt-the-typeface-by-chester-jenkins/
+Homepage:   https://github.com/cooperhewitt/cooperhewitt-typeface
+Download:   http://uh8yh30l48rpize52xh0q1o6i.wpengine.netdna-cdn.com/wp-content/uploads/fonts/CooperHewitt-OTF-public.zip
+Version:    1.000 (2014)
+License:    Open Font License 1.1
+Publisher:  Cooper Hewitt
+Designer:   Ches†er Jenkins
+Designed:   2014
+Derivation: Polaris Condensed
+
+Cooper Hewitt, is a contemporary sans serif, with characters composed
+of modified-geometric curves and arches. Initially commissioned by
+Pentagram to evolve his Polaris Condensed typeface, Chester Jenkins
+created a new digital form to support the newly transformed museum.
+"Developing this typeface specifically for Cooper Hewitt has been
+enormously gratifying," said Jenkins. "Instead of building on the
+Polaris structures, I drew everything from scratch, using the existing
+forms as a rough guide for letter widths and master-stroke thicknesses."
+

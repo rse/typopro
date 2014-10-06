@@ -1,0 +1,15 @@
+
+/* TypoPRO Cooper Hewitt */
+@font-face {
+    font-family:  'TypoPRO Cooper Hewitt';
+    src:          url('TypoPRO-CooperHewitt-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CooperHewitt-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CooperHewitt-Semibold.woff') format('woff'),
+                  url('TypoPRO-CooperHewitt-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
