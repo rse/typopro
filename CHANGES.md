@@ -2,6 +2,12 @@
 CHANGES
 =======
 
+2.2.5
+-----
+
+- updated Fira Sans and Fira Mono to latest version 3.111
+  (includes a new font Fira Mono medium width)
+
 2.2.4
 -----
 

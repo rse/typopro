@@ -216,6 +216,7 @@ TypoPRO_Manifest = [
     { "name": "TypoPRO Fira Sans Ultra", "family": "TypoPRO Fira Sans 950", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-FiraSans/TypoPRO-FiraSans-Ultra.css" },
     { "name": "TypoPRO Fira Sans Ultra Italic", "family": "TypoPRO Fira Sans 950", "style": "italic", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-FiraSans/TypoPRO-FiraSans-UltraItalic.css" },
     { "name": "TypoPRO Fira Mono", "family": "TypoPRO Fira Mono", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-FiraMono/TypoPRO-FiraMono-Regular.css" },
+    { "name": "TypoPRO Fira Mono Medium", "family": "TypoPRO Fira Mono", "style": "normal", "weight": "500", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-FiraMono/TypoPRO-FiraMono-Medium.css" },
     { "name": "TypoPRO Fira Mono Bold", "family": "TypoPRO Fira Mono", "style": "normal", "weight": "bold", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-FiraMono/TypoPRO-FiraMono-Bold.css" },
     { "name": "TypoPRO Gentium Basic", "family": "TypoPRO Gentium Basic", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-Gentium/TypoPRO-GentiumBasic-Regular.css" },
     { "name": "TypoPRO Gentium Basic Italic", "family": "TypoPRO Gentium Basic", "style": "italic", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-Gentium/TypoPRO-GentiumBasic-Italic.css" },
