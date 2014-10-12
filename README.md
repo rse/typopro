@@ -380,10 +380,10 @@ optional italic variants).
 
 Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:       |Monospaced:         |Script:            |Display:
 ----------------|----------------|-------------|--------------------|-------------------|---------
-Fira Sans       |Roboto Slab     |Droid Serif  |DejaVu Sans Mono    |Journal            |Overlock
-Roboto          |Aleo            |Merriweather |Anonymous Pro       |Delius             |Yanone Kaffesatz
-Source Sans Pro |Bitter          |Lora         |Latin Modern Mono   |Kalam              |Poetsen One
-Open Sans       |                |             |                    |Nautilius Pompilius|
+Fira Sans       |Roboto Slab     |Droid Serif  |DejaVu Sans Mono    |Journal            |Bebas Neue
+Roboto          |Aleo            |Merriweather |Anonymous Pro       |Delius             |Overlock
+Source Sans Pro |Bitter          |Lora         |Latin Modern Mono   |Kalam              |Yanone Kaffesatz
+Open Sans       |                |             |                    |Nautilius Pompilius|Poetsen
 
 Manifest
 --------
