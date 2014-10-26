@@ -1,0 +1,15 @@
+
+/* TypoPRO Asap Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-Asap-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Asap-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Asap-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Asap-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

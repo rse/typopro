@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 641 individual fonts of 91 font families. The
+**TypoPRO** consists of 645 individual fonts of 92 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -116,6 +116,7 @@ Alegreya                  | 40  |  X  |    | X  |    |    |  X    |  X   |    | 
 Aleo                      |  6  |     | X  |    |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Amble                     |  8  |     |    | X  |    |    |  X    |  X   | X  | X  |      |  X   | X  |
 Anonymous&nbsp;Pro        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Asap                      |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Bitter                    |  4  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Cabin                     | 14  |     |    | X  |    | X  |  X    |  X   | X  |    |  X   |  X   | X  |
 Charis&nbsp;SIL           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -369,7 +370,7 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 57
+For general purpose typography, I can recommend you all of the above 58
 General Purpose fonts, of course. But my personal preference most of
 the times is towards the fonts in the following table. There are many
 reasons for this, but mainly all those fonts, each in their class, in my

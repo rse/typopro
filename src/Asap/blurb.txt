@@ -1,0 +1,17 @@
+Name:       Asap
+Homepage:   http://omnibus-type.com/
+Download:   http://www.fontsquirrel.com/fonts/asap
+Version:    1.001
+License:    Open Font License
+Publisher:  Omnibus-Type
+Designer:   Pablo Cosgaya & Andrés Torresi
+Designed:   2011
+Derivation: Ancha
+
+Asap ("as soon as possible") is a contemporary sans-serif family with
+subtle rounded corners. There are 4 styles: Regular, Italic, Bold and
+Bold Italic. This family, specially developed for screen and desktop
+use, offers a standarised character width on all styles, which means
+lines of text remain the same length. This useful feature allows users
+to change type styles on-the-go without reflowing a text body.
+

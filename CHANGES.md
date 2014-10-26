@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.2.6
+-----
+
+- added font family Asap (4 fonts)
+
 2.2.5
 -----
 
