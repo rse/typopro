@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.2.7
+-----
+
+- added font Quando (1 font)
+
 2.2.6
 -----
 
