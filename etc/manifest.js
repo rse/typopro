@@ -571,6 +571,7 @@ TypoPRO_Manifest = [
     { "name": "TypoPRO Bebas Neue Book", "family": "TypoPRO Bebas Neue", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-BebasNeue/TypoPRO-BebasNeue-Book.css" },
     { "name": "TypoPRO Bebas Neue Bold", "family": "TypoPRO Bebas Neue", "style": "normal", "weight": "bold", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-BebasNeue/TypoPRO-BebasNeue-Bold.css" },
     { "name": "TypoPRO H.H. Samuel", "family": "TypoPRO H.H. Samuel", "style": "normal", "weight": "900", "stretch": "condensed", "variant": "normal", "css": "web/TypoPRO-HHSamuel/TypoPRO-HHSamuel-Regular.css" },
+    { "name": "TypoPRO Quando-Regular", "family": "TypoPRO Quando", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-Quando/TypoPRO-Quando-Regular.css" },
     { "name": "TypoPRO Bree Serif", "family": "TypoPRO Bree Serif", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-BreeSerif/TypoPRO-BreeSerif-Regular.css" },
     { "name": "TypoPRO Patua One", "family": "TypoPRO Patua One", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-PatuaOne/TypoPRO-PatuaOne-Regular.css" },
     { "name": "TypoPRO Poetsen One", "family": "TypoPRO Poetsen", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "web/TypoPRO-Poetsen/TypoPRO-Poetsen-Regular.css" },

@@ -1,0 +1,18 @@
+Name:       Quando
+Homepage:   http://www.google.com/fonts/specimen/Quando
+Download:   http://www.google.com/fonts#UsePlace:use/Collection:Quando
+Version:    1.002 (2011)
+License:    Open Font License 1.1
+Publisher:  Sorkin Type Co
+Designer:   Joana Correia da Silva
+Designed:   2011
+Derivation: none
+
+Quando is a serifed text typeface inspired by brushy handwritten letters
+seen on an italian poster from the second world war. Quando is a
+flexible text typeface made for the web whose personality consistently
+shows in both small and large sizes. Quando's low contrast design helps
+it work better on screens and smaller sizes. Especially distinctive
+letterforms include letters like the a, g, x and Q. Quando's friendly
+feeling along with its clarity and familiarity makes it suitable for a
+broad range of uses.

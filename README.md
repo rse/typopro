@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 645 individual fonts of 92 font families. The
+**TypoPRO** consists of 646 individual fonts of 93 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -207,6 +207,7 @@ Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  | 
 Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
 Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Quando                    |  1  |     | X  |    |    |  X    |      |    |    |      |  X   |    |
 Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    |      |      | X  |
 Satisfy                   |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 To&nbsp;Be&nbsp;Continued |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
