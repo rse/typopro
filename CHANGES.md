@@ -2,10 +2,10 @@
 CHANGES
 =======
 
-2.2.7
+2.2.8
 -----
 
-- added font Quando (1 font)
+- added font family Quicksand (6 fonts)
 
 2.2.6
 -----

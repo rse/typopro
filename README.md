@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 646 individual fonts of 93 font families. The
+**TypoPRO** consists of 652 individual fonts of 94 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -155,6 +155,7 @@ Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    | 
 Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
 Quattrocento              |  6  |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Quicksand                 |  6  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Raleway                   | 18  |  X  |    |    |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Roboto                    | 12  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -371,7 +372,7 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 58
+For general purpose typography, I can recommend you all of the above 59
 General Purpose fonts, of course. But my personal preference most of
 the times is towards the fonts in the following table. There are many
 reasons for this, but mainly all those fonts, each in their class, in my

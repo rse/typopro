@@ -1,0 +1,16 @@
+Name:       Quicksand
+Homepage:   http://andrewpaglinawan.com/#quicksand
+Download:   http://www.fontsquirrel.com/fonts/download/quicksand
+Version:    2011
+License:    Open Font License
+Publisher:  FontSquirrel
+Designer:   Andrew Paglinawan
+Designed:   2011
+Derivation: none
+
+Quicksand is a sans serif type family of three weights plus matching
+obliques and a dash version for display and headings. Influenced by the
+geometric-style sans serif faces that were popular during the 1920s and
+30s, the fonts are based on geometric forms that have been optically
+corrected for better legibility.
+
