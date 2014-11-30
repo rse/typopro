@@ -1,0 +1,15 @@
+
+/* TypoPRO Quicksand-Light */
+@font-face {
+    font-family:  'TypoPRO Quicksand';
+    src:          url('TypoPRO-Quicksand-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Quicksand-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Quicksand-Light.woff') format('woff'),
+                  url('TypoPRO-Quicksand-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Quicksand-LightItalic */
+@font-face {
+    font-family:  'TypoPRO Quicksand';
+    src:          url('TypoPRO-Quicksand-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Quicksand-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Quicksand-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Quicksand-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
