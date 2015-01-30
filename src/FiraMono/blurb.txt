@@ -3,6 +3,7 @@ Homepage:   http://mozilla.github.io/Fira/
 Homepage:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
 Download:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
 Download:   http://www.carrois.com/wordpress/downloads/fira_3_1/FiraFonts3111.zip
+Download:   https://github.com/mozilla/Fira/archive/master.zip
 Version:    3.111
 License:    Open Font License 1.1
 Publisher:  Mozilla
