@@ -1,0 +1,15 @@
+
+/* TypoPRO TitilliumMaps29L-1wt */
+@font-face {
+    font-family:  'TypoPRO Titillium Maps';
+    src:          url('TypoPRO-TitilliumMaps-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-TitilliumMaps-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TitilliumMaps-Thin.woff') format('woff'),
+                  url('TypoPRO-TitilliumMaps-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

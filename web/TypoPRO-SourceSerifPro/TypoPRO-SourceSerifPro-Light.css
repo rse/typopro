@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Serif Pro Light */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-Light.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

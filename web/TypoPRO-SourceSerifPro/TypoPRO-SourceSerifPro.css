@@ -1,4 +1,19 @@
 
+/* TypoPRO Source Serif Pro Black */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-Black.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Source Serif Pro Bold */
 @font-face {
     font-family:  'TypoPRO Source Serif Pro';
@@ -14,7 +29,37 @@
 }
 
 
-/* TypoPRO Source Serif Pro Regular */
+/* TypoPRO Source Serif Pro ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Serif Pro Light */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-Light.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Serif Pro */
 @font-face {
     font-family:  'TypoPRO Source Serif Pro';
     src:          url('TypoPRO-SourceSerifPro-Regular.eot');
@@ -29,7 +74,7 @@
 }
 
 
-/* TypoPRO Source Serif Pro Semibold Regular */
+/* TypoPRO Source Serif Pro Semibold */
 @font-face {
     font-family:  'TypoPRO Source Serif Pro';
     src:          url('TypoPRO-SourceSerifPro-Semibold.eot');

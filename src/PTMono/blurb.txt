@@ -1,0 +1,17 @@
+Name:       PT Mono
+Homepage:   http://www.paratype.com/public/
+Download:   http://www.paratype.com/uni/public/PTMono.zip
+Version:    1.003 (2014-06)
+License:    ParaType Free Font Licensing Agreement
+Publisher:  ParaType
+Designer:   ParaType
+Designed:   2009
+Derivation: none
+
+PT Mono was developed for the special needs — for use in forms,
+tables, work sheets etc. Equal widths of characters are very helpful
+in setting complex documents, with such font you may easily calculate
+size of entry fields, column widths in tables and so on. One of the
+most important area of use is Web sites of “electronic governments“
+where visitors have to fill different request forms. Currently PT Mono
+consists of Regular and Bold styles.

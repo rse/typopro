@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Code Pro Light Italic */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-LightIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-LightIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-LightIt.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-LightIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

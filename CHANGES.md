@@ -2,6 +2,21 @@
 CHANGES
 =======
 
+2.3.0
+-----
+
+- added Italic version of Source Code Pro
+
+- added additional weights for Source Serif Pro
+
+- added font Titillium
+
+- added font PT Sans
+
+- added font PT Serif
+
+- added font PT Mono
+
 2.2.8
 -----
 

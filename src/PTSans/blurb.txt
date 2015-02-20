@@ -1,0 +1,15 @@
+Name:       PT Sans
+Homepage:   http://www.paratype.com/public/
+Download:   http://www.paratype.com/uni/public/PTSans.zip
+Version:    2.005 (2014-05)
+License:    ParaType Free Font Licensing Agreement
+Publisher:  ParaType
+Designer:   ParaType
+Designed:   2009
+Derivation: Russian Sans Serif Types
+
+PT Sans is based on Russian sans serif types of the second part of
+the XX century, but at the same time has a very distinctive features
+of modern humanistic design. The family consists of 8 styles: 4 basic
+styles; 2 captions styles for small sizes and 2 narrows styles for
+economic setting.

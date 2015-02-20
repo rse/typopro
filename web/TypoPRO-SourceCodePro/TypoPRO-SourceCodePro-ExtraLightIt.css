@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Code Pro ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-ExtraLightIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-ExtraLightIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-ExtraLightIt.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-ExtraLightIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

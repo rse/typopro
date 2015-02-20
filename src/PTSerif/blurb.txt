@@ -1,0 +1,16 @@
+Name:       PT Serif
+Homepage:   http://www.paratype.com/public/
+Download:   http://www.paratype.com/uni/public/PTSerif.zip
+Version:    1.002 (2014-06)
+License:    ParaType Free Font Licensing Agreement
+Publisher:  ParaType
+Designer:   ParaType
+Designed:   2009
+Derivation: none
+
+PT Serif is a transitional serif face with humanistic terminals designed
+for use together with PT Sans and harmonized with PT Sans on metrics,
+proportions, weights and design. PT Serif consists of six styles:
+regular and bold weights with corresponding italics form a standard
+computer font family for basic text setting; two caption styles (regular
+and italic) are for texts of small point sizes.

@@ -1,0 +1,15 @@
+
+/* TypoPRO TitilliumText25L-800wt */
+@font-face {
+    font-family:  'TypoPRO Titillium Text';
+    src:          url('TypoPRO-TitilliumText-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-TitilliumText-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TitilliumText-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-TitilliumText-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  700;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

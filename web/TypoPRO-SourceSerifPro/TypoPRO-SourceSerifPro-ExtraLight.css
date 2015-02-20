@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Serif Pro ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
