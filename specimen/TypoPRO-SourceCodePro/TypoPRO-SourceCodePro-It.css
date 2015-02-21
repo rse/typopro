@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Code Pro Italic */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-It.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-It.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-It.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-It.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

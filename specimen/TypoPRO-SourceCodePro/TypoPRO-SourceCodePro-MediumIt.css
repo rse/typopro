@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Code Pro Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-MediumIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-MediumIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-MediumIt.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-MediumIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

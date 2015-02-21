@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Code Pro Black Italic */
+@font-face {
+    font-family:  'TypoPRO Source Code Pro';
+    src:          url('TypoPRO-SourceCodePro-BlackIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceCodePro-BlackIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceCodePro-BlackIt.woff') format('woff'),
+                  url('TypoPRO-SourceCodePro-BlackIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

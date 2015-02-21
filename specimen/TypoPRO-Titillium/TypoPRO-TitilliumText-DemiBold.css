@@ -1,0 +1,15 @@
+
+/* TypoPRO TitilliumText25L-600wt */
+@font-face {
+    font-family:  'TypoPRO Titillium Text';
+    src:          url('TypoPRO-TitilliumText-DemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-TitilliumText-DemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TitilliumText-DemiBold.woff') format('woff'),
+                  url('TypoPRO-TitilliumText-DemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

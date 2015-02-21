@@ -1,0 +1,15 @@
+
+/* TypoPRO TitilliumMaps29L-800wt */
+@font-face {
+    font-family:  'TypoPRO Titillium Maps';
+    src:          url('TypoPRO-TitilliumMaps-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-TitilliumMaps-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TitilliumMaps-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-TitilliumMaps-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  700;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

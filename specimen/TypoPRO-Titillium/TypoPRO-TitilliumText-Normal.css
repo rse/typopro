@@ -1,0 +1,15 @@
+
+/* TypoPRO TitilliumText25L-400wt */
+@font-face {
+    font-family:  'TypoPRO Titillium Text';
+    src:          url('TypoPRO-TitilliumText-Normal.eot');
+    src:          local('*'),
+                  url('TypoPRO-TitilliumText-Normal.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-TitilliumText-Normal.woff') format('woff'),
+                  url('TypoPRO-TitilliumText-Normal.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  400;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

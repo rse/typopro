@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Serif Pro Black */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-Black.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
