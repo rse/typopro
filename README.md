@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 652 individual fonts of 94 font families. The
+**TypoPRO** consists of 689 individual fonts of 95 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -161,10 +161,11 @@ Roboto                    | 12  |     |    | X  |    |    |  X    |  X   | X  | 
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Source&nbsp;Code&nbsp;Pro |  7  |     |    |    | X  |    |  X    |      |    | X  |  X   |  X   | X  | X
+Source&nbsp;Code&nbsp;Pro |  7  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Sans&nbsp;Pro | 12  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Source&nbsp;Serif&nbsp;Pro|  3  |  X  |    |    |    |    |  X    |      |    |    |  X   |  X   | X  |
+Source&nbsp;Serif&nbsp;Pro|  3  |  X  |    |    |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 TeX&nbsp;Gyre             | 33  |  X  |    | X  | X  | X  |  X    |  X   | X  | X  |  X   |  X   | X  |
+Titillium                 | 11  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Ubuntu                    | 13  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Vegur                     |  3  |     |    | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
 Vollkorn                  |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -372,7 +373,7 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 59
+For general purpose typography, I can recommend you all of the above 60
 General Purpose fonts, of course. But my personal preference most of
 the times is towards the fonts in the following table. There are many
 reasons for this, but mainly all those fonts, each in their class, in my
@@ -381,12 +382,12 @@ distinct glyph outlines), beauty (because of very harmonic glyph curves)
 and versatility (because of their different available stroke widths and
 optional italic variants).
 
-Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:       |Monospaced:         |Script:            |Display:
-----------------|----------------|-------------|--------------------|-------------------|---------
-Fira Sans       |Roboto Slab     |Droid Serif  |DejaVu Sans Mono    |Journal            |Bebas Neue
-Roboto          |Aleo            |Merriweather |Anonymous Pro       |Delius             |Overlock
-Source Sans Pro |Bitter          |Lora         |Latin Modern Mono   |Kalam              |Yanone Kaffesatz
-Open Sans       |                |             |                    |Nautilius Pompilius|Poetsen
+Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:          |Monospaced:         |Script:            |Display:
+----------------|----------------|----------------|--------------------|-------------------|---------
+Fira Sans       |Roboto Slab     |Droid Serif     |DejaVu Sans Mono    |Journal            |Bebas Neue
+Roboto          |Aleo            |Merriweather    |Anonymous Pro       |Delius             |Overlock
+Source Sans Pro |Bitter          |Lora            |Latin Modern Mono   |Kalam              |Yanone Kaffesatz
+Open Sans       |                |Source Serif Pro|Source Code Pro     |Nautilius Pompilius|Poetsen
 
 Manifest
 --------
