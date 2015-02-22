@@ -279,7 +279,7 @@ You can conveniently download snapshots or particular versions of **TypoPRO** in
 
 - Bower: install as client component via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install typopro#2.3.0`
+  `$ bower install "typopro#2.3.0"`
 
 - NPM: install as server component via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
