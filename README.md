@@ -82,15 +82,16 @@ Features
 
 - **Font Renaming**:
   To circumvent license restrictions related to font format conversions
-  and to avoid confusion with the original font formats, all Web font
+  and to avoid confusion with the original font formats, all Web and DTP font
   format variants were renamed to consistently carry the `TypoPRO `
   prefix.
 
 - **Font Parameters**:
-  All font families consistently use a common font family name (CSS
-  `font-family` attribute) and all fonts within the same font family
-  are consistently distinguished via CSS parameters `font-weight`,
-  `font-style`, `font-stretch` and `font-variant`.
+  In the Web font format variants, all font families consistently use
+  a common font family name (CSS `font-family` attribute) and all
+  fonts within the same font family are consistently distinguished
+  via CSS parameters `font-weight`, `font-style`, `font-stretch` and
+  `font-variant`.
 
 - **Specimen**:
   For the Web font variants, a specimen in HTML format was generated to
