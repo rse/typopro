@@ -70,7 +70,7 @@ Features
   web. For this reason, although it reduces the fonts to be used for
   the main Latin based languages (English, German, etc), we reduce the
   fonts in web formats to the smaller Unicode range 0000-00FF (Basic
-  Latin, Latin-1 Supplement). The DTP formats of all fonts we reduce
+  Latin, Latin-1 Supplement). For the DTP formats of all fonts we reduce
   to the larger (but still reduced for some very large fonts) Unicode
   range set 0000-036F,1DC0-1EFF,2000-20FF,2150-218F,2C60-2C7F,A720-A7FF
   (Basic Latin, Latin-1 Supplement, Latin Extended-A, Latin Extended-B,
