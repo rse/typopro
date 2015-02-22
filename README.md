@@ -417,6 +417,8 @@ On installing the OpenPKG `fontface` package, the dependencies are installed aut
 Licensing
 ---------
 
+Copyright (c) 2013-2015 Ralf S. Engelschall &lt;rse@engelschall.com&gt;
+
 All included font families are distributed under very liberal Open
 Source licenses, either MIT License, Apache License, Open Font License
 or Public Domain. For particular license details on each individual
