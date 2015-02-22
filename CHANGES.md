@@ -2,6 +2,13 @@
 CHANGES
 =======
 
+2.3.1
+-----
+
+- updated word cloud
+
+- updated description
+
 2.3.0
 -----
 
