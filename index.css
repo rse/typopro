@@ -102,3 +102,17 @@ body {
     color: #cc3333;
 }
 
+#button_gh {
+    position: absolute;
+    top: 20px;
+    right: 100px;
+    display: block;
+}
+
+#button_tw {
+    position: absolute;
+    top: 20px;
+    right: 260px;
+    display: block;
+}
+
