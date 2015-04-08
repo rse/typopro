@@ -2,6 +2,12 @@
 CHANGES
 =======
 
+2.3.2
+-----
+
+- upgraded Lato to latest version
+  (which has more fonts and dramatically more glyphs)
+
 2.3.1
 -----
 

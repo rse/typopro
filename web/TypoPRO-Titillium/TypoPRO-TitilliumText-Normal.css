@@ -8,7 +8,7 @@
                   url('TypoPRO-TitilliumText-Normal.woff') format('woff'),
                   url('TypoPRO-TitilliumText-Normal.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  400;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }

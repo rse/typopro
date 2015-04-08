@@ -8,7 +8,7 @@
                   url('TypoPRO-TitilliumText-ExtraBold.woff') format('woff'),
                   url('TypoPRO-TitilliumText-ExtraBold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  700;
+    font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
 }

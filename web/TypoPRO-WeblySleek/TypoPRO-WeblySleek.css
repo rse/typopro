@@ -38,7 +38,7 @@
                   url('TypoPRO-WeblySleek-SemiBold.woff') format('woff'),
                   url('TypoPRO-WeblySleek-SemiBold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  700;
+    font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -53,7 +53,7 @@
                   url('TypoPRO-WeblySleek-SemiBoldItalic.woff') format('woff'),
                   url('TypoPRO-WeblySleek-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  700;
+    font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -68,7 +68,7 @@
                   url('TypoPRO-WeblySleek-SemiLight.woff') format('woff'),
                   url('TypoPRO-WeblySleek-SemiLight.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  400;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -83,7 +83,7 @@
                   url('TypoPRO-WeblySleek-SemiLightItalic.woff') format('woff'),
                   url('TypoPRO-WeblySleek-SemiLightItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  400;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }

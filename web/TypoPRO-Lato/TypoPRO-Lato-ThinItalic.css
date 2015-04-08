@@ -1,0 +1,15 @@
+
+/* TypoPRO Lato Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
