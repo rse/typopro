@@ -38,7 +38,7 @@
                   url('TypoPRO-TitilliumMaps-Normal.woff') format('woff'),
                   url('TypoPRO-TitilliumMaps-Normal.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  400;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -83,7 +83,7 @@
                   url('TypoPRO-TitilliumText-ExtraBold.woff') format('woff'),
                   url('TypoPRO-TitilliumText-ExtraBold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  700;
+    font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -128,7 +128,7 @@
                   url('TypoPRO-TitilliumText-Normal.woff') format('woff'),
                   url('TypoPRO-TitilliumText-Normal.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  400;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -158,7 +158,7 @@
                   url('TypoPRO-TitilliumTitle-Normal.woff') format('woff'),
                   url('TypoPRO-TitilliumTitle-Normal.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  400;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }

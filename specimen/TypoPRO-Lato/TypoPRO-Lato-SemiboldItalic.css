@@ -1,0 +1,15 @@
+
+/* TypoPRO Lato Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-SemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-SemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-Lato-SemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

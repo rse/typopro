@@ -1,0 +1,15 @@
+
+/* TypoPRO Lato Hairline */
+@font-face {
+    font-family:  'TypoPRO Lato';
+    src:          url('TypoPRO-Lato-Hairline.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lato-Hairline.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lato-Hairline.woff') format('woff'),
+                  url('TypoPRO-Lato-Hairline.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

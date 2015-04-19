@@ -8,7 +8,7 @@
                   url('TypoPRO-WeblySleek-SemiBoldItalic.woff') format('woff'),
                   url('TypoPRO-WeblySleek-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  700;
+    font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
 }

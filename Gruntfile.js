@@ -17,9 +17,9 @@ module.exports = function (grunt) {
             }
         },
         copy: {
-            "sanitize": {
-                src: [ "bower_components/sanitize.css/dist/sanitize.css" ],
-                dest: "lib/sanitize/sanitize.css"
+            "normalize": {
+                src: [ "bower_components/normalize.css/normalize.css" ],
+                dest: "lib/normalize/normalize.css"
             },
             "jquery": {
                 src: [ "bower_components/jquery/dist/jquery.js" ],

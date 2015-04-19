@@ -8,7 +8,7 @@
                   url('TypoPRO-FiraSans-Italic.woff') format('woff'),
                   url('TypoPRO-FiraSans-Italic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  400;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }

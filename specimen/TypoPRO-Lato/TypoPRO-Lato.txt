@@ -1,14 +1,14 @@
 Name:       Lato
 Homepage:   http://www.latofonts.com/
 Download:   http://www.latofonts.com/
-Version:    1.105 (2013-06)
+Version:    2.010 (2014-09)
 License:    Open Font License 1.1
 Publisher:  Łukasz Dziedzic
 Designer:   Łukasz Dziedzic
 Designed:   2010
 Derivation: none
 
-Copyright (c) 2010, Łukasz Dziedzic (dziedzic@typoland.com),
+Copyright (c) 2010-2014, Łukasz Dziedzic (dziedzic@typoland.com),
 with Reserved Font Name Lato.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

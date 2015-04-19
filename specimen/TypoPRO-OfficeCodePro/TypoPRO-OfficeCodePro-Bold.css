@@ -1,0 +1,15 @@
+
+/* TypoPRO Office Code Pro Bold */
+@font-face {
+    font-family:  'TypoPRO Office Code Pro';
+    src:          url('TypoPRO-OfficeCodePro-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OfficeCodePro-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OfficeCodePro-Bold.woff') format('woff'),
+                  url('TypoPRO-OfficeCodePro-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
