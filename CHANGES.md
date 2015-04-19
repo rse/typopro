@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+2.3.3
+-----
+
+- added Source Code Pro variant Office Code Pro
+
 2.3.2
 -----
 

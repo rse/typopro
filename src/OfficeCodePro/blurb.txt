@@ -1,0 +1,14 @@
+Name:       Office Code Pro
+Homepage:   https://github.com/nathco/Office-Code-Pro
+Download:   https://github.com/nathco/Office-Code-Pro
+Version:    1.017 (2015-01)
+License:    Open Font License 1.1
+Publisher:  Nathan Rutzky
+Designer:   Nathan Rutzky
+Designed:   2015
+Derivation: Source Code Pro
+
+Office Code Pro is a customized version of the Source Code Pro type
+family, originally created for Adobe Systems Incorporated by Paul D.
+Hunt. The customizations were made specifically for text editors and
+coding environments, but are still very usable in other applications.

@@ -1,0 +1,15 @@
+
+/* TypoPRO Office Code Pro Light */
+@font-face {
+    font-family:  'TypoPRO Office Code Pro';
+    src:          url('TypoPRO-OfficeCodePro-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-OfficeCodePro-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OfficeCodePro-Light.woff') format('woff'),
+                  url('TypoPRO-OfficeCodePro-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
