@@ -1,0 +1,15 @@
+
+/* TypoPRO Neuton Extralight Italic */
+@font-face {
+    font-family:  'TypoPRO Neuton';
+    src:          url('TypoPRO-Neuton-ExtralightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Neuton-ExtralightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Neuton-ExtralightItalic.woff') format('woff'),
+                  url('TypoPRO-Neuton-ExtralightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

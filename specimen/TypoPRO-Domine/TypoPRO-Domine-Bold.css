@@ -1,0 +1,15 @@
+
+/* TypoPRO Domine Bold */
+@font-face {
+    font-family:  'TypoPRO Domine';
+    src:          url('TypoPRO-Domine-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Domine-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Domine-Bold.woff') format('woff'),
+                  url('TypoPRO-Domine-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

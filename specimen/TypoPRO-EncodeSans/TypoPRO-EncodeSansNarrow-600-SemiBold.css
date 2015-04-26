@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Narrow SemiBold */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Narrow';
+    src:          url('TypoPRO-EncodeSansNarrow-600-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansNarrow-600-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansNarrow-600-SemiBold.woff') format('woff'),
+                  url('TypoPRO-EncodeSansNarrow-600-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

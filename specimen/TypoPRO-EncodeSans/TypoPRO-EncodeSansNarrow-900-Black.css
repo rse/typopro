@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Narrow Black */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Narrow';
+    src:          url('TypoPRO-EncodeSansNarrow-900-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansNarrow-900-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansNarrow-900-Black.woff') format('woff'),
+                  url('TypoPRO-EncodeSansNarrow-900-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

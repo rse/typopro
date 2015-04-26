@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Compressed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Compressed';
+    src:          url('TypoPRO-EncodeSansCompressed-800-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansCompressed-800-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansCompressed-800-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-EncodeSansCompressed-800-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

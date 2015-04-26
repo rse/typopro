@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Alternates */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Bold.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Compressed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Compressed';
+    src:          url('TypoPRO-EncodeSansCompressed-600-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansCompressed-600-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansCompressed-600-SemiBold.woff') format('woff'),
+                  url('TypoPRO-EncodeSansCompressed-600-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

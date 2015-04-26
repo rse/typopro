@@ -1,0 +1,60 @@
+
+/* TypoPRO Libre Caslon Display */
+@font-face {
+    font-family:  'TypoPRO Libre Caslon Display';
+    src:          url('TypoPRO-LibreCaslonDisplay-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreCaslonDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreCaslonDisplay-Regular.woff') format('woff'),
+                  url('TypoPRO-LibreCaslonDisplay-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Caslon Text Bold */
+@font-face {
+    font-family:  'TypoPRO Libre Caslon Text';
+    src:          url('TypoPRO-LibreCaslonText-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreCaslonText-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreCaslonText-Bold.woff') format('woff'),
+                  url('TypoPRO-LibreCaslonText-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Caslon Text Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Caslon Text';
+    src:          url('TypoPRO-LibreCaslonText-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreCaslonText-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreCaslonText-Italic.woff') format('woff'),
+                  url('TypoPRO-LibreCaslonText-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Caslon Text */
+@font-face {
+    font-family:  'TypoPRO Libre Caslon Text';
+    src:          url('TypoPRO-LibreCaslonText-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreCaslonText-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreCaslonText-Regular.woff') format('woff'),
+                  url('TypoPRO-LibreCaslonText-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Libre Caslon Display */
+@font-face {
+    font-family:  'TypoPRO Libre Caslon Display';
+    src:          url('TypoPRO-LibreCaslonDisplay-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreCaslonDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreCaslonDisplay-Regular.woff') format('woff'),
+                  url('TypoPRO-LibreCaslonDisplay-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

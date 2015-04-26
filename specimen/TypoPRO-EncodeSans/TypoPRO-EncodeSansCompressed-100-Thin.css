@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Compressed Thin */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Compressed';
+    src:          url('TypoPRO-EncodeSansCompressed-100-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansCompressed-100-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansCompressed-100-Thin.woff') format('woff'),
+                  url('TypoPRO-EncodeSansCompressed-100-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

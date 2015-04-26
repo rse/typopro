@@ -1,0 +1,60 @@
+
+/* TypoPRO Montserrat-Bold */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Bold.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat-Regular */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Regular.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Bold.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Regular.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
