@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 689 individual fonts of 95 font families. The
+**TypoPRO** consists of 766 individual fonts of 104 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -123,17 +123,19 @@ Cabin                     | 14  |     |    | X  |    | X  |  X    |  X   | X  | 
 Charis&nbsp;SIL           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Clear&nbsp;Sans           |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
 Comme                     | 10  |     |    | X  | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Cooper&nbsp;Hewitt        | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Courier&nbsp;Prime        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Cousine                   |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Crete&nbsp;Round          |  2  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   |    |
-Cooper&nbsp;Hewitt        | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Crimson                   |  6  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Cuprum                    |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 DejaVu                    | 21  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |      |  X   | X  |
+Domine                    |  2  |  X  |    |    |    |    |  X    |      |    |    |      |  X   | X  |
 Dosis                     |  7  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Droid                     |  7  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 EB&nbsp;Garamond          |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Ek&nbsp;Mukta             |  7  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
+Encode&nbsp;Sans          | 45  |     |    | X  |    |    |  X    |      | X  | X  |  X   |  X   | X  | X
 Fantasque&nbsp;Sans&nbsp;Mono|4 |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Sans            | 32  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -143,9 +145,11 @@ Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | 
 Lekton                    |  3  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Liberation                | 12  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Libre&nbsp;Baskerville    |  3  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Libre&nbsp;Caslon         |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Montserrat                |  4  |  X  |    |    |    |    |  X    |      |    |    |      |  X   | X  |
 Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Noto&nbsp;Sans            |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -204,7 +208,9 @@ Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  | 
 Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
+Life Savers               |  3  |     |    |    | X  |       |  X   |    |    |      |  X   | X  | X
 Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
+Milonga                   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
