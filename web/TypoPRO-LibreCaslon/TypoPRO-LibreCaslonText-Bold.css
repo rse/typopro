@@ -1,0 +1,15 @@
+
+/* TypoPRO Libre Caslon Text Bold */
+@font-face {
+    font-family:  'TypoPRO Libre Caslon Text';
+    src:          url('TypoPRO-LibreCaslonText-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreCaslonText-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreCaslonText-Bold.woff') format('woff'),
+                  url('TypoPRO-LibreCaslonText-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

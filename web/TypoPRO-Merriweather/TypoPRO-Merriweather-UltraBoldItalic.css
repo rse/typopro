@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather UltraBold Italic  */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-UltraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-UltraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-UltraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-UltraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

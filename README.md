@@ -386,9 +386,9 @@ optional italic variants).
 Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:          |Monospaced:         |Script:            |Display:
 ----------------|----------------|----------------|--------------------|-------------------|---------
 Fira Sans       |Roboto Slab     |Droid Serif     |DejaVu Sans Mono    |Journal            |Bebas Neue
-Roboto          |Aleo            |Merriweather    |Anonymous Pro       |Delius             |Overlock
-Source Sans Pro |Bitter          |Lora            |Latin Modern Mono   |Kalam              |Yanone Kaffesatz
-Open Sans       |                |Source Serif Pro|Source Code Pro     |Nautilius Pompilius|Poetsen
+Roboto          |Aleo            |Merriweather    |Source Code Pro     |Delius             |Overlock
+Source Sans Pro |Bitter          |Lora            |Anonymous Pro       |Kalam              |Yanone Kaffesatz
+Open Sans       |                |Source Serif Pro|Latin Modern Mono   |Nautilius Pompilius|Poetsen
 
 Manifest
 --------

@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Narrow Bold */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Narrow';
+    src:          url('TypoPRO-EncodeSansNarrow-700-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansNarrow-700-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansNarrow-700-Bold.woff') format('woff'),
+                  url('TypoPRO-EncodeSansNarrow-700-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

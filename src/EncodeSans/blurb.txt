@@ -1,0 +1,13 @@
+Name:       Encode Sans
+Homepage:   http://www.impallari.com/projects/overview/encode
+Download:   http://www.impallari.com/projects/update/106
+Version:    106 (2014-03)
+License:    Bitstream Vera Fonts Copyright, Arev Fonts Copyright, Public Domain
+Publisher:  Pablo Impallari
+Designer:   Pablo Impallari
+Designed:   2012
+Derivation: none
+
+Some letters have abrupt asymmetrical curves, while other are soft
+and fluid. This contrasting combination allows for a pleasant modern
+feeling, without being squarish, boring or repetitive.

@@ -1,0 +1,19 @@
+Name:       Milonga
+Homepage:   http://www.impallari.com/projects/overview/milonga
+Download:   http://www.impallari.com/projects/overview/milonga
+Version:    1.0 (2012)
+License:    Open Font License 1.1
+Publisher:  Pablo Impallari
+Designer:   Pablo Impallari, Brenda Gallo, Rodrigo Fuenzalida
+Designed:   2011
+Derivation: none
+
+This is a tribute to the "rioplatense" culture, so colored, full of
+love and hate, family, friends and enemies stories told in countless
+Tangos and Milongas (folk music genre from Argentina). This graceful,
+flowing and rhythmic font is conformed by graphic elements from a kind
+of classic painting from this area called “fileteado porteño”;
+with terminations involving petals, round and pointy details. Milonga
+is useful for headlines, where the characteristics of the font are
+highlighted.
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Condensed';
+    src:          url('TypoPRO-EncodeSansCondensed-300-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansCondensed-300-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansCondensed-300-Light.woff') format('woff'),
+                  url('TypoPRO-EncodeSansCondensed-300-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

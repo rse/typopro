@@ -1,0 +1,19 @@
+Name:       Domine
+Homepage:   http://www.impallari.com/projects/overview/domine
+Download:   http://www.impallari.com/projects/overview/domine
+Version:    1.0 (2012-11)
+License:    Open Font License 1.1
+Publisher:  Pablo Impallari
+Designer:   Pablo Impallari, Brenda Gallo, Rodrigo Fuenzalida
+Designed:   2012
+Derivation: none
+
+From the very first steps in the design process 'Domine' was designed,
+tested and optimized for body text on the web. It shines at 14 and 16
+px. And can even be used as small as 11, 12 or 13px. Harmless to the
+eyes when reading long texts. Domine is a perfect choice for newspapers
+or blogs where text is the main focus. It's is friendly in appearance
+because it combines the classic elements of familiar typefaces that have
+been in use from more than 100 years like Clarendon, Century, Cheltenham
+and Clearface.
+

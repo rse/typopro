@@ -1,9 +1,10 @@
 Name:       Neuton
+Homepage:   http://www.impallari.com/projects/overview/neuton-serif-family
 Homepage:   http://luc.devroye.org/zick.html
 Download:   http://luc.devroye.org/zick-fonts.zip
-Version:    1.43
+Version:    1.46 (2012)
 License:    Open Font License 1.1
-Publisher:  Brian M. Zick
+Publisher:  Brian M. Zick, Pablo Impallari
 Designer:   Brian M. Zick
 Designed:   2010
 Derivation: none

@@ -2,9 +2,9 @@ Name:       Fira Mono
 Homepage:   http://mozilla.github.io/Fira/
 Homepage:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
 Download:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
-Download:   http://www.carrois.com/wordpress/downloads/fira_3_1/FiraFonts3111.zip
+Download:   http://www.carrois.com/downloads/fira_mono_3_2/FiraMonoFonts3200.zip
 Download:   https://github.com/mozilla/Fira/archive/master.zip
-Version:    3.111
+Version:    3.200 (2015-04)
 License:    Open Font License 1.1
 Publisher:  Mozilla
 Designer:   Erik Spiekermann & Ralph du Carrois (Carrois Type Design)
@@ -15,10 +15,12 @@ Designed to integrate with the character of the Firefox OS, the Fira
 Sans typeface also aims to cover the legibility needs for a large range
 of handsets varying in screen quality and rendering.
 
+Digitized data copyright (c) 2012-2014, The Mozilla Foundation and Telefonica S.A.
+with Reserved Font Name < Fira >, 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-
-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------

@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Narrow Light */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Narrow';
+    src:          url('TypoPRO-EncodeSansNarrow-300-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansNarrow-300-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansNarrow-300-Light.woff') format('woff'),
+                  url('TypoPRO-EncodeSansNarrow-300-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

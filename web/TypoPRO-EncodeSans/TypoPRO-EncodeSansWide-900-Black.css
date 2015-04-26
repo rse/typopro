@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Wide Black */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Wide';
+    src:          url('TypoPRO-EncodeSansWide-900-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansWide-900-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansWide-900-Black.woff') format('woff'),
+                  url('TypoPRO-EncodeSansWide-900-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

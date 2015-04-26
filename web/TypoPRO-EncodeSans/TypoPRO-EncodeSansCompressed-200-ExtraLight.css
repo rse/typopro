@@ -1,0 +1,15 @@
+
+/* TypoPRO Encode Sans Compressed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Encode Sans Compressed';
+    src:          url('TypoPRO-EncodeSansCompressed-200-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-EncodeSansCompressed-200-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-EncodeSansCompressed-200-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-EncodeSansCompressed-200-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

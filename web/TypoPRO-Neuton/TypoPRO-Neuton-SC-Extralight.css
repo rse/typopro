@@ -1,0 +1,15 @@
+
+/* TypoPRO Neuton SC Extralight */
+@font-face {
+    font-family:  'TypoPRO Neuton SC';
+    src:          url('TypoPRO-Neuton-SC-Extralight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Neuton-SC-Extralight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Neuton-SC-Extralight.woff') format('woff'),
+                  url('TypoPRO-Neuton-SC-Extralight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

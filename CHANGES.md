@@ -2,6 +2,29 @@
 CHANGES
 =======
 
+2.4.0
+-----
+
+- upgraded Fira Mono to version 3.200
+
+- upgraded Fira Sans to version 4.100
+
+- upgraded Roboto Sans to latest version
+
+- upgraded Merriweather to latest version
+
+- added fonts Montserrat and Montserrat Alteratives
+
+- added font Domine
+
+- added font Encode Sans
+
+- added font Libre Caslon
+
+- added font Life Savers
+
+- added font Milonga
+
 2.3.3
 -----
 

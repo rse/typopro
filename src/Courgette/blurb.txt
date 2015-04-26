@@ -4,7 +4,7 @@ Download:   http://code.google.com/p/googlefontdirectory/source/browse/courgette
 Version:    1.002 (2012)
 License:    Open Font License 1.1
 Publisher:  Sorkin Type Co
-Designer:   Karolina Lach  
+Designer:   Karolina Lach
 Designed:   2012
 Derivation: none
 
