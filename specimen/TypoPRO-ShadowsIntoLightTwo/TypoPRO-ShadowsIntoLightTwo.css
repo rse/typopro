@@ -1,0 +1,15 @@
+
+/* TypoPRO Shadows Into Light Two */
+@font-face {
+    font-family:  'TypoPRO Shadows Into Light Two';
+    src:          url('TypoPRO-ShadowsIntoLightTwo-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShadowsIntoLightTwo-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShadowsIntoLightTwo-Regular.woff') format('woff'),
+                  url('TypoPRO-ShadowsIntoLightTwo-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
