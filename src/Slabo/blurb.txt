@@ -1,0 +1,10 @@
+Name:       Slabo
+Homepage:   http://www.fontsquirrel.com/fonts/slabo
+Download:   http://www.fontsquirrel.com/fonts/slabo
+Version:    1.02 (2013)
+License:    Open Font License
+Publisher:  Tiro Typeworks
+Designer:   Tiro Typeworks
+Designed:   2013
+Derivation: none
+

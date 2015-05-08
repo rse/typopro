@@ -1,0 +1,9 @@
+Name:       Amatic
+Homepage:   http://www.fontsquirrel.com/fonts/amatic
+Download:   http://www.fontsquirrel.com/fonts/download/amatic
+Version:    1.001 (2011)
+License:    Open Font License
+Publisher:  FontSquirrel
+Designer:   Vernon Adams
+Designed:   2011
+Derivation: none

@@ -1,0 +1,15 @@
+
+/* TypoPRO Indie Flower */
+@font-face {
+    font-family:  'TypoPRO Indie Flower';
+    src:          url('TypoPRO-IndieFlower-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-IndieFlower-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IndieFlower-Regular.woff') format('woff'),
+                  url('TypoPRO-IndieFlower-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

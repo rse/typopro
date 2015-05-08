@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 766 individual fonts of 104 font families. The
+**TypoPRO** consists of 773 individual fonts of 109 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -186,9 +186,10 @@ Unicode characters.
 
 Name                      |Fonts|Serif|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 --------------------------|----:|:---:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
+Amatic&nbsp;SC                 |  2  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Bellota                   |  6  |     |    |    |    |  X    |  X   |    |    |  X   |      | X  |
-Bree&nbsp;Serif           |  1  |     | X  |    |    |       |  X   |    |    |      |      | X  |
+Bree&nbsp;Serif           |  1  |  X  |    |    |    |       |  X   |    |    |      |      | X  |
 Chawp                     |  1  |     |    |    | X  |       |      |    |    |      |      | X  |
 Comic&nbsp;Neue           | 12  |     | X  |    | X  |  X    |  X   |    | X  |      |  X   | X  |
 Comic&nbsp;Relief         |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
@@ -200,6 +201,7 @@ Grand&nbsp;Hotel          |  1  |     |    |    | X  |  X    |      |    |    | 
 Graziano                  |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Great&nbsp;Vibes          |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 HH&nbsp;Samuel            |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
+Indie&nbsp;Flower              |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Journal                   |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Junction                  |  3  |     | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
 Kalam                     |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   | X  |
@@ -219,6 +221,8 @@ Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    | 
 Quando                    |  1  |     | X  |    |    |  X    |      |    |    |      |  X   |    |
 Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    |      |      | X  |
 Satisfy                   |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
+Shadows&nbsp;Into&nbsp;Light&nbsp;Two    |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Slabo                     |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
 To&nbsp;Be&nbsp;Continued |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
 Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
@@ -391,10 +395,10 @@ optional italic variants).
 
 Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:          |Monospaced:         |Script:            |Display:
 ----------------|----------------|----------------|--------------------|-------------------|---------
-Fira Sans       |Roboto Slab     |Droid Serif     |DejaVu Sans Mono    |Journal            |Bebas Neue
-Roboto          |Aleo            |Merriweather    |Source Code Pro     |Delius             |Overlock
-Source Sans Pro |Bitter          |Lora            |Anonymous Pro       |Kalam              |Yanone Kaffesatz
-Open Sans       |                |Source Serif Pro|Latin Modern Mono   |Nautilius Pompilius|Poetsen
+Fira Sans       |Roboto Slab     |Droid Serif     |DejaVu Sans Mono    |Handlee            |Bebas Neue
+Roboto          |Aleo            |Merriweather    |Source Code Pro     |Journal            |Overlock
+Source Sans Pro |Bitter          |Lora            |Anonymous Pro       |Delius             |Yanone Kaffesatz
+Open Sans       |                |Source Serif Pro|Latin Modern Mono   |Kalam              |Poetsen
 
 Manifest
 --------

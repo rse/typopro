@@ -1,0 +1,14 @@
+Name:       Indie Flower
+Homepage:   https://www.google.com/fonts/specimen/Indie+Flower
+Download:   https://www.google.com/fonts/specimen/Indie+Flower
+Version:    1.001 (2010)
+License:    Open Font License
+Publisher:  Kimberly Geswein
+Designer:   Kimberly Geswein
+Designed:   2010
+Derivation: none
+
+This handwriting font feels carefree and open to me with the bubbly,
+rounded edges. It is easy to read and a bit bolder than some of my other
+fonts.
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Amatic Bold */
+@font-face {
+    font-family:  'TypoPRO Amatic SC';
+    src:          url('TypoPRO-AmaticSC-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-AmaticSC-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AmaticSC-Bold.woff') format('woff'),
+                  url('TypoPRO-AmaticSC-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

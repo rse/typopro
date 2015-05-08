@@ -2,6 +2,17 @@
 CHANGES
 =======
 
+2.4.1
+-----
+
+- added font Slabo 13px/27px
+
+- added font Shadows Into Light Two
+
+- added font Indie Flower
+
+- added font Amatic SC
+
 2.4.0
 -----
 

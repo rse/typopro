@@ -1,0 +1,15 @@
+
+/* TypoPRO Handlee Regular */
+@font-face {
+    font-family:  'TypoPRO Handlee';
+    src:          url('TypoPRO-Handlee-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Handlee-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Handlee-Regular.woff') format('woff'),
+                  url('TypoPRO-Handlee-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,30 @@
+
+/* TypoPRO Slabo 13px */
+@font-face {
+    font-family:  'TypoPRO Slabo 13px';
+    src:          url('TypoPRO-Slabo13px-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Slabo13px-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Slabo13px-Regular.woff') format('woff'),
+                  url('TypoPRO-Slabo13px-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Slabo 27px */
+@font-face {
+    font-family:  'TypoPRO Slabo 27px';
+    src:          url('TypoPRO-Slabo27px-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Slabo27px-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Slabo27px-Regular.woff') format('woff'),
+                  url('TypoPRO-Slabo27px-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
