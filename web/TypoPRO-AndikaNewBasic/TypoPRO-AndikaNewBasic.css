@@ -1,0 +1,60 @@
+
+/* TypoPRO Andika New Basic Bold */
+@font-face {
+    font-family:  'TypoPRO Andika New Basic';
+    src:          url('TypoPRO-AndikaNewBasic-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndikaNewBasic-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndikaNewBasic-Bold.woff') format('woff'),
+                  url('TypoPRO-AndikaNewBasic-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andika New Basic Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Andika New Basic';
+    src:          url('TypoPRO-AndikaNewBasic-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndikaNewBasic-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndikaNewBasic-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-AndikaNewBasic-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andika New Basic Italic */
+@font-face {
+    font-family:  'TypoPRO Andika New Basic';
+    src:          url('TypoPRO-AndikaNewBasic-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndikaNewBasic-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndikaNewBasic-Italic.woff') format('woff'),
+                  url('TypoPRO-AndikaNewBasic-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andika New Basic */
+@font-face {
+    font-family:  'TypoPRO Andika New Basic';
+    src:          url('TypoPRO-AndikaNewBasic-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndikaNewBasic-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndikaNewBasic-Regular.woff') format('woff'),
+                  url('TypoPRO-AndikaNewBasic-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

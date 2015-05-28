@@ -1,0 +1,15 @@
+
+/* TypoPRO Andika New Basic Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Andika New Basic';
+    src:          url('TypoPRO-AndikaNewBasic-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndikaNewBasic-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndikaNewBasic-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-AndikaNewBasic-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

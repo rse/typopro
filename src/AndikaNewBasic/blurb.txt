@@ -1,0 +1,14 @@
+Name:       Andika New Basic
+Homepage:   http://scripts.sil.org/cms/scripts/page.php?item_id=Andika_New_Basic
+Download:   http://scripts.sil.org/cms/scripts/page.php?item_id=Andika_New_Basic
+Version:    5.500 (2015-04)
+License:    Open Font License 1.1
+Publisher:  SIL International
+Designer:   SIL International
+Designed:   2009
+Derivation: Andika Basic
+
+Andika New Basic is a limited-character-set (no extended IPA or
+Cyrillic) version of Andika that includes regular, bold, italic and
+bold-italic faces. Andika New Basic gives a preview of what a whole
+range of new weights will eventually look like.
