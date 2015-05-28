@@ -2,6 +2,13 @@
 CHANGES
 =======
 
+2.4.2
+-----
+
+- added Bukhari Script
+
+- updated Robot font family to latest open source version from Google
+
 2.4.1
 -----
 
