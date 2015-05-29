@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 1c medium */
+@font-face {
+    font-family:  'TypoPRO Mplus 1C';
+    src:          url('TypoPRO-Mplus1c-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus1c-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus1c-Medium.woff') format('woff'),
+                  url('TypoPRO-Mplus1c-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

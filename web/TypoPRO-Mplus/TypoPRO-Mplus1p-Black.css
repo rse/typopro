@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 1p black */
+@font-face {
+    font-family:  'TypoPRO Mplus 1P';
+    src:          url('TypoPRO-Mplus1p-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus1p-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus1p-Black.woff') format('woff'),
+                  url('TypoPRO-Mplus1p-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

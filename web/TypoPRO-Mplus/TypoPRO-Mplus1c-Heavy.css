@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 1c heavy */
+@font-face {
+    font-family:  'TypoPRO Mplus 1C';
+    src:          url('TypoPRO-Mplus1c-Heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus1c-Heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus1c-Heavy.woff') format('woff'),
+                  url('TypoPRO-Mplus1c-Heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

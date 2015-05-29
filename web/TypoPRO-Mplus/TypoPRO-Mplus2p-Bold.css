@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 2p bold */
+@font-face {
+    font-family:  'TypoPRO Mplus 2P';
+    src:          url('TypoPRO-Mplus2p-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus2p-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus2p-Bold.woff') format('woff'),
+                  url('TypoPRO-Mplus2p-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

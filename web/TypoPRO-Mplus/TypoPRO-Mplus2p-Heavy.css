@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 2p heavy */
+@font-face {
+    font-family:  'TypoPRO Mplus 2P';
+    src:          url('TypoPRO-Mplus2p-Heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus2p-Heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus2p-Heavy.woff') format('woff'),
+                  url('TypoPRO-Mplus2p-Heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

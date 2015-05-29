@@ -2,12 +2,24 @@
 CHANGES
 =======
 
-2.4.2
+2.5.0
 -----
+
+- added M+ font families
+
+- added Inconsolata font
+
+- added Andika New Basic font family
 
 - added Bukhari Script
 
-- updated Robot font family to latest open source version from Google
+- added Roboto Mono font family
+
+- updated Roboto font family to latest open source version from Google
+
+- updated Aileron font family to latest version
+
+- updated Charis SIL font family to latest version
 
 2.4.1
 -----

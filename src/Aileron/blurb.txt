@@ -1,7 +1,7 @@
 Name:       Aileron
 Homepage:   http://dotcolon.net/font/aileron/
 Download:   http://dotcolon.net/font/aileron/
-Version:    0.100 (2014-03)
+Version:    0.102 (2015-05)
 License:    Public Domain
 Publisher:  dot colon
 Designer:   Sora Sagano

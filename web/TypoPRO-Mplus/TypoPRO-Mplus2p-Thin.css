@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 2p thin */
+@font-face {
+    font-family:  'TypoPRO Mplus 2P';
+    src:          url('TypoPRO-Mplus2p-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus2p-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus2p-Thin.woff') format('woff'),
+                  url('TypoPRO-Mplus2p-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
