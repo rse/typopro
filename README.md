@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 773 individual fonts of 109 font families. The
+**TypoPRO** consists of 834 individual fonts of 114 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -116,6 +116,7 @@ Aileron                   | 16  |     |    | X  |    |    |  X    |  X   |    | 
 Alegreya                  | 40  |  X  |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Aleo                      |  6  |     | X  |    |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Amble                     |  8  |     |    | X  |    |    |  X    |  X   | X  | X  |      |  X   | X  |
+Andika&nbsp;New&nbsp;Basic|  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Anonymous&nbsp;Pro        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Asap                      |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Bitter                    |  4  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -140,6 +141,7 @@ Fantasque&nbsp;Sans&nbsp;Mono|4 |  X  |    |    | X  |    |  X    |  X   |    | 
 Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Sans            | 32  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Inconsolata               |  1  |     |    |    | X  |    |  X    |      |    |    |      |      | X  |
 Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Lekton                    |  3  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
@@ -150,6 +152,7 @@ Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    | 
 Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Montserrat                |  4  |  X  |    |    |    |    |  X    |      |    |    |      |  X   | X  |
+Mplus                     | 43  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Noto&nbsp;Sans            |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -162,7 +165,7 @@ Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    | 
 Quattrocento              |  6  |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Quicksand                 |  6  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Raleway                   | 18  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Roboto                    | 12  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
+Roboto                    | 16  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -214,6 +217,7 @@ Life Savers               |  3  |     |    |    | X  |       |  X   |    |    | 
 Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Milonga                   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Bukhari&nbsp;Script       |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
