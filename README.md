@@ -438,8 +438,8 @@ Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:           |Monospaced:         |Script:
 Fira Sans       |Roboto Slab     |Merriweather     |DejaVu Sans Mono    |Handlee            |Bebas Neue
 Roboto          |Aleo            |Droid Serif      |Source Code Pro     |Journal            |Overlock
 Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffesatz
-Open Sans       |                |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
-Lato            |                |Libre Baskerville|                    |                   |
+Open Sans       |Slabo           |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
+Lato            |                |Libre Baskerville|Fira Mono           |Nautilus Pompilius |Quando
 
 Manifest
 --------
