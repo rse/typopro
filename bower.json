@@ -1,9 +1,9 @@
 {
     "name":        "typopro",
-    "version":     "2.5.0",
+    "version":     "3.0.0",
     "description": "Fonts for Professional Typography",
     "homepage":    "https://github.com/rse/typopro",
-    "license":     "MIT+Apache+OFL+PD",
+    "license":     "MIT AND Apache AND OFL AND CC0",
     "authors": [
         "Ralf S. Engelschall <rse@engelschall.com>"
     ],
@@ -11,6 +11,8 @@
         "font", "typography", "ttf", "otf", "woff", "eot"
     ],
     "dependencies": {
+        "typopro-web": "3.0.0",
+        "typopro-dtp": "3.0.0"
     },
     "ignore": [
         "**/.*"

@@ -1,8 +1,8 @@
 
-![TypoPRO](etc/logo.jpg "TypoPRO")
+![TypoPRO](logo.jpg "TypoPRO")
 
-TypoPRO 2.5.0
-=============
+TypoPRO
+=======
 
 http://typopro.org/
 
@@ -11,10 +11,20 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 834 individual fonts of 114 font families. The
+**TypoPRO** consists of 840 individual fonts of 116 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
+
+ATTENTION
+---------
+
+The **TypoPRO** project is split into four packages/repositories:
+
+1. [`typopro`](https://github.com/rse/typopro) -- the meta package
+2. [`typopro-web`](https://github.com/rse/typopro-web) -- the Web format package
+3. [`typopro-dtp`](https://github.com/rse/typopro-dtp) -- the DTP format package
+4. [`typopro-src`](https://github.com/rse/typopro-src) -- the source format package
 
 Features
 --------
@@ -101,7 +111,7 @@ Features
 Font Overview
 -------------
 
-![The TypoPRO Font Cloud Image](etc/cloud.png "The TypoPRO Font Cloud Image")
+![The TypoPRO Font Cloud Image](cloud.png "The TypoPRO Font Cloud Image")
 
 #### General Purpose Fonts
 
@@ -189,10 +199,11 @@ Unicode characters.
 
 Name                      |Fonts|Serif|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 --------------------------|----:|:---:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Amatic&nbsp;SC                 |  2  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Amatic&nbsp;SC            |  2  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Bellota                   |  6  |     |    |    |    |  X    |  X   |    |    |  X   |      | X  |
 Bree&nbsp;Serif           |  1  |  X  |    |    |    |       |  X   |    |    |      |      | X  |
+Bukhari&nbsp;Script       |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Chawp                     |  1  |     |    |    | X  |       |      |    |    |      |      | X  |
 Comic&nbsp;Neue           | 12  |     | X  |    | X  |  X    |  X   |    | X  |      |  X   | X  |
 Comic&nbsp;Relief         |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
@@ -200,11 +211,12 @@ Courgette                 |  1  |     |    |    | X  |       |  X   |    |    | 
 Damion                    |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 DancingScript             |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
 Delius                    |  4  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
+Gidole                    |  2  |     | X  |    |    |       |      |    |    |      |  X   |    |
 Grand&nbsp;Hotel          |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Graziano                  |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Great&nbsp;Vibes          |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 HH&nbsp;Samuel            |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
-Indie&nbsp;Flower              |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Indie&nbsp;Flower         |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Journal                   |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Junction                  |  3  |     | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
 Kalam                     |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   | X  |
@@ -212,12 +224,12 @@ Kaushan Script            |  1  |     |    |    | X  |  X    |      |    |    | 
 Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  |      |  X   |    |
 Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
+League&nbsp;Gothic        |  4  |     | X  |    |    |       |      |  X |    |      |  X   |  X |
 Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
 Life Savers               |  3  |     |    |    | X  |       |  X   |    |    |      |  X   | X  | X
 Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Milonga                   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Bukhari&nbsp;Script       |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
@@ -236,7 +248,7 @@ Browser Support
 ---------------
 
 All major browsers are fully supported by TypoPRO due to the fact
-that each font is provided in multiple formats. The actual minimum
+that each font is provided in multiple Web formats. The actual minimum
 browser version which supports a particular format follows (for latest
 information see [1](http://caniuse.com/eot) [2](http://caniuse.com/ttf)
 [3](http://caniuse.com/woff)):
@@ -260,12 +272,16 @@ browsers the optimized WOFF format would be both sufficient and
 preferred. But for backward compatibility to older browser versions, the
 EOT and TTF formats are still provided, too.
 
-Notice: The fonts are intentionally not (or more precise: no longer since
-TypoPRO 2.0) provided in the additional browser-supported SVG font
-format. The reason simply is that since a longer time this gives not
-really any additional effective cross-browser compatibility and just
-unnecessarily increases the (already rather large) TypoPRO distribution
-size.
+Notice: The fonts are intentionally not provided in the additional
+browser-supported SVG font format. The reason simply is that since a
+longer time this gives not really any additional effective cross-browser
+compatibility and just unnecessarily increases the (already rather
+large) TypoPRO distribution size.
+
+Notice: The fonts are intentionally still not provided in the newer
+WOFF2 format as support for this format is still limited and although
+WOFF2 fonts are better compressed, this is no great advantage as long as
+we still have to ship WOFF format, too.
 
 Alternatives
 ------------
@@ -291,27 +307,54 @@ Download
 
 You can conveniently download snapshots or particular versions of **TypoPRO** in various ways:
 
-- Bower: install as client component via the Bower component manager:<br/>
-  `$ bower install typopro`<br/>
-  `$ bower install "typopro#2.5.0"`
-
-- NPM: install as server component via the Node Package Manager:<br/>
+- NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@2.5.0`
+  `$ npm install typopro@3.0.0`
+
+- Bower: install via the Bower component manager:<br/>
+  `$ bower install typopro`<br/>
+  `$ bower install "typopro#3.0.0"`
+
+Both automatically install the peer packages `typopro-web` and `typopro-dtp`.
+As you usually need only the Web formats, you can install just this package:
+
+- NPM: install via the Node Package Manager:<br/>
+  `$ npm install typopro-web`<br/>
+  `$ npm install typopro-web@3.0.0`
+
+- Bower: install via the Bower component manager:<br/>
+  `$ bower install typopro-web`<br/>
+  `$ bower install "typopro-web#3.0.0"`
+
+Alternatively, install just the DTP formats:
+
+- NPM: install via the Node Package Manager:<br/>
+  `$ npm install typopro-dtp`<br/>
+  `$ npm install typopro-dtp@3.0.0`
+
+- Bower: install via the Bower component manager:<br/>
+  `$ bower install typopro-dtp`<br/>
+  `$ bower install "typopro-dtp#3.0.0"`
+
+Finally, you can also download both Web and DTP formats manually:
 
 - cURL: download directly from the Github repository:<br/>
-  `$ curl -O https://github.com/rse/typopro/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro/archive/2.5.0.zip`
+  `$ curl -O https://github.com/rse/typopro-web/archive/master.zip`<br/>
+  `$ curl -O https://github.com/rse/typopro-web/archive/3.0.0.zip`
 
-Alternatively, you can use [Grunt](http://gruntjs.com/) and
+- cURL: download directly from the Github repository:<br/>
+  `$ curl -O https://github.com/rse/typopro-dtp/archive/master.zip`<br/>
+  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.0.0.zip`
+
+Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
 task for conveniently installing **TypoPRO** font families.
 
 Desktop Usage
 -------------
 
-The DTP variants of all fonts you can find under `dtp/`. Just
-install those files into your system:
+The DTP variants of all fonts you can find under `dtp/` in the
+`typopro-dtp` package. Just install those files into your system:
 
 - For Windows: For single and bulk installs, right-click one or more `*.ttf` files and choose "Install"
   from the context menu.
@@ -329,6 +372,9 @@ install those files into your system:
 
 Web Usage
 ---------
+
+The Web variants of all fonts you can find under `web/` in the
+`typopro-web` package.
 
 It is important that the font files are delivered to the browser with
 the correct MIME content-types. You can use the following Apache
@@ -388,30 +434,31 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above 60
-General Purpose fonts, of course. But my personal preference most of
-the times is towards the fonts in the following table. There are many
-reasons for this, but mainly all those fonts, each in their class, in my
-humble opinion, provide the best balance of legibility (because of very
-distinct glyph outlines), beauty (because of very harmonic glyph curves)
-and versatility (because of their different available stroke widths and
-optional italic variants).
+For general purpose typography, I can recommend you all of the above
+General Purpose fonts of TypoPRO, of course. But my personal preference
+most of the times is towards the fonts in the following table. There are
+many reasons for this, but mainly all those fonts, each in their class,
+in my humble opinion, provide the best balance of legibility (because of
+very distinct glyph outlines), beauty (because of very harmonic glyph
+curves) and versatility (because of their different available stroke
+widths and optional italic variants).
 
-Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:          |Monospaced:         |Script:            |Display:
-----------------|----------------|----------------|--------------------|-------------------|---------
-Fira Sans       |Roboto Slab     |Droid Serif     |DejaVu Sans Mono    |Handlee            |Bebas Neue
-Roboto          |Aleo            |Merriweather    |Source Code Pro     |Journal            |Overlock
-Source Sans Pro |Bitter          |Lora            |Anonymous Pro       |Delius             |Yanone Kaffesatz
-Open Sans       |                |Source Serif Pro|Latin Modern Mono   |Kalam              |Poetsen
+Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:           |Monospaced:         |Script:            |Display:
+----------------|----------------|-----------------|--------------------|-------------------|---------
+Fira Sans       |Roboto Slab     |Merriweather     |DejaVu Sans Mono    |Handlee            |Bebas Neue
+Roboto          |Aleo            |Droid Serif      |Source Code Pro     |Journal            |Overlock
+Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffesatz
+Open Sans       |                |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
+Lato            |                |Libre Baskerville|                    |                   |
 
 Manifest
 --------
 
 The **TypoPRO** distribution consists primarily of three content areas:
 
-- `src/`: all font source files (formats: TTF, OTF)
-- `dtp/`: all font target files for DTP (Desktop Publishing) usage (formats: TTF)
-- `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF)
+- package `typopro-src`, folder `src/`: all font source files (formats: TTF, OTF)
+- package `typopro-dtp`, folder `dtp/`: all font target files for DTP (Desktop Publishing) usage (formats: TTF)
+- package `typopro-web`, folder `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF)
 
 All source files are as provided by the upstream font vendor, just with
 filenames aligned to the usual **TypoPRO** conventions. For the DTP and Web
@@ -421,12 +468,15 @@ above), renamed and format converted.
 Rebuilding
 ----------
 
-In order to rebuild the `web/` and `dtp/` files from the `src/` files,
-you have to use the `etc/convert.sh` script. It needs Ralf S. Engelschall's **fontface**
+Rebuilding the Web and DTP format files is not easy, because in
+order to rebuild the `web/` and `dtp/` files from the `src/` files,
+you have to use the `etc/convert.sh` script, which needs Ralf S. Engelschall's **fontface**
 utility, as provided by the [OpenPKG](http://www.openpkg.org/) package `fontface`,
 and a magnitude of backend programs for font conversion: [FontForge](http://fontforge.org/),
 [font-optimizer](http://bitbucket.org/philip/font-optimizer/) and [ttf2eot](http://ttf2eot.googlecode.com/).
 On installing the OpenPKG `fontface` package, the dependencies are installed automatically.
+If you want to rebuild without using OpenPKG, you have to fiddle around with
+all dependencies yourself, of course.
 
 Licensing
 ---------
@@ -437,7 +487,7 @@ All included font families are distributed under very liberal Open
 Source licenses, either MIT License, Apache License, Open Font License
 or Public Domain. For particular license details on each individual
 font family, please see the files `src/*/license.txt` and the meta
-information in the files `src/*/blurb.txt`.
+information in the files `src/*/blurb.txt` in the `typopro-src` package.
 
 Author
 ------
