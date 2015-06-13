@@ -1,5 +1,4 @@
 
-<div style="background-color: #f0f8ff; padding: 10px;">
 ATTENTION
 ---------
 
@@ -9,7 +8,6 @@ The **TypoPRO** project is split into four packages/repositories:
 2. [`typopro-web`](https://github.com/rse/typopro-web) &mdash; the Web format package
 3. [`typopro-dtp`](https://github.com/rse/typopro-dtp) &mdash; the DTP format package
 4. [`typopro-src`](https://github.com/rse/typopro-src) &mdash; the source format package
-</div>
 
 ![TypoPRO](logo.jpg "TypoPRO")
 
