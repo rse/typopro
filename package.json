@@ -1,6 +1,6 @@
 {
     "name":        "typopro",
-    "version":     "3.0.0",
+    "version":     "3.0.1",
     "description": "Fonts for Professional Typography (META)",
     "homepage":    "https://github.com/rse/typopro",
     "license":     "MIT AND Apache AND OFL AND CC0",
@@ -20,13 +20,13 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "devDependencies" : {
-        "typopro-src": "3.0.0"
+        "typopro-src": "3.0.1"
     },
     "dependencies" : {
-        "typopro-web": "3.0.0",
-        "typopro-dtp": "3.0.0"
+        "typopro-web": "3.0.1",
+        "typopro-dtp": "3.0.1"
     },
     "engines": {
-        "node":    ">=0.8.0"
+        "node":        ">=0.8.0"
     }
 }
