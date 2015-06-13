@@ -439,7 +439,7 @@ Fira Sans       |Roboto Slab     |Merriweather     |DejaVu Sans Mono    |Handlee
 Roboto          |Aleo            |Droid Serif      |Source Code Pro     |Journal            |Overlock
 Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffesatz
 Open Sans       |Slabo           |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
-Lato            |                |Libre Baskerville|Fira Mono           |Nautilus Pompilius |Quando
+Lato            |Crete Round     |Libre Baskerville|Fira Mono           |Nautilus Pompilius |Quando
 
 Manifest
 --------
