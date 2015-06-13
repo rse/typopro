@@ -1,4 +1,14 @@
 
+ATTENTION
+---------
+
+The **TypoPRO** project is split into four packages/repositories:
+
+1. [`typopro`](https://github.com/rse/typopro) -- the meta package (this one)
+2. [`typopro-web`](https://github.com/rse/typopro-web) -- the Web format package
+3. [`typopro-dtp`](https://github.com/rse/typopro-dtp) -- the DTP format package
+4. [`typopro-src`](https://github.com/rse/typopro-src) -- the source format package
+
 ![TypoPRO](logo.jpg "TypoPRO")
 
 TypoPRO
@@ -15,16 +25,6 @@ especially inside Web-based Desktop or Mobile Applications. Currently,
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
-
-ATTENTION
----------
-
-The **TypoPRO** project is split into four packages/repositories:
-
-1. [`typopro`](https://github.com/rse/typopro) -- the meta package
-2. [`typopro-web`](https://github.com/rse/typopro-web) -- the Web format package
-3. [`typopro-dtp`](https://github.com/rse/typopro-dtp) -- the DTP format package
-4. [`typopro-src`](https://github.com/rse/typopro-src) -- the source format package
 
 Features
 --------
