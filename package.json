@@ -1,7 +1,7 @@
 {
     "name":        "typopro",
     "version":     "3.0.0",
-    "description": "Fonts for Professional Typography",
+    "description": "Fonts for Professional Typography (META)",
     "homepage":    "https://github.com/rse/typopro",
     "license":     "MIT AND Apache AND OFL AND CC0",
     "author": {
