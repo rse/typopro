@@ -1,13 +1,15 @@
 
+<div style="background-color: #f0f8ff; padding: 10px;">
 ATTENTION
 ---------
 
 The **TypoPRO** project is split into four packages/repositories:
 
-1. [`typopro`](https://github.com/rse/typopro) -- the meta package (this one)
-2. [`typopro-web`](https://github.com/rse/typopro-web) -- the Web format package
-3. [`typopro-dtp`](https://github.com/rse/typopro-dtp) -- the DTP format package
-4. [`typopro-src`](https://github.com/rse/typopro-src) -- the source format package
+1. [`typopro`](https://github.com/rse/typopro) &mdash; the meta package (this one)
+2. [`typopro-web`](https://github.com/rse/typopro-web) &mdash; the Web format package
+3. [`typopro-dtp`](https://github.com/rse/typopro-dtp) &mdash; the DTP format package
+4. [`typopro-src`](https://github.com/rse/typopro-src) &mdash; the source format package
+</div>
 
 ![TypoPRO](logo.jpg "TypoPRO")
 
