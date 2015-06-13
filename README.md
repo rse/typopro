@@ -1,14 +1,4 @@
 
-ATTENTION
----------
-
-The **TypoPRO** project is split into four packages/repositories:
-
-1. [`typopro`](https://github.com/rse/typopro) &mdash; the meta package (this one)
-2. [`typopro-web`](https://github.com/rse/typopro-web) &mdash; the Web format package
-3. [`typopro-dtp`](https://github.com/rse/typopro-dtp) &mdash; the DTP format package
-4. [`typopro-src`](https://github.com/rse/typopro-src) &mdash; the source format package
-
 ![TypoPRO](logo.jpg "TypoPRO")
 
 TypoPRO
@@ -456,9 +446,10 @@ Manifest
 
 The **TypoPRO** distribution consists primarily of three content areas:
 
-- package `typopro-src`, folder `src/`: all font source files (formats: TTF, OTF)
-- package `typopro-dtp`, folder `dtp/`: all font target files for DTP (Desktop Publishing) usage (formats: TTF)
-- package `typopro-web`, folder `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF)
+- package [`typopro`](https://github.com/rse/typopro): the meta information
+- package [`typopro-web`](https://github.com/rse/typopro-web), folder `web/`: all font target files for Web (World Wide Web) usage (formats: TTF, EOT, WOFF)
+- package [`typopro-dtp`](https://github.com/rse/typopro-dtp), folder `dtp/`: all font target files for DTP (Desktop Publishing) usage (formats: TTF)
+- package [`typopro-src`](https://github.com/rse/typopro-src), folder `src/`: all font source files (formats: TTF, OTF)
 
 All source files are as provided by the upstream font vendor, just with
 filenames aligned to the usual **TypoPRO** conventions. For the DTP and Web
