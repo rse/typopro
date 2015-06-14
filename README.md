@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 840 individual fonts of 116 font families. The
+**TypoPRO** consists of 851 individual fonts of 118 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -116,6 +116,7 @@ Aileron                   | 16  |     |    | X  |    |    |  X    |  X   |    | 
 Alegreya                  | 40  |  X  |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Aleo                      |  6  |     | X  |    |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Amble                     |  8  |     |    | X  |    |    |  X    |  X   | X  | X  |      |  X   | X  |
+Andada                    |  8  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Andika&nbsp;New&nbsp;Basic|  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Anonymous&nbsp;Pro        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Asap                      |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -142,6 +143,7 @@ Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    | 
 Fira&nbsp;Sans            | 32  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Inconsolata               |  1  |     |    |    | X  |    |  X    |      |    |    |      |      | X  |
+Kreon                     |  3  |     | X  |    |    |    |  X    |      |    | X  |      |  X   | X  |
 Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Lekton                    |  3  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
@@ -295,46 +297,46 @@ high-quality) fonts.
 Download
 --------
 
-You can conveniently download snapshots or particular versions of **TypoPRO** in various ways:
+You can conveniently download latest snapshot or particular versions of **TypoPRO** in various ways:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@3.0.0`
+  `$ npm install typopro@3.1.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install "typopro#3.0.0"`
+  `$ bower install "typopro#3.1.0"`
 
 Both automatically install the peer packages `typopro-web` and `typopro-dtp`.
 As you usually need only the Web formats, you can install just this package:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-web`<br/>
-  `$ npm install typopro-web@3.0.0`
+  `$ npm install typopro-web@3.1.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-web`<br/>
-  `$ bower install "typopro-web#3.0.0"`
+  `$ bower install "typopro-web#3.1.0"`
 
 Alternatively, install just the DTP formats:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-dtp`<br/>
-  `$ npm install typopro-dtp@3.0.0`
+  `$ npm install typopro-dtp@3.1.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-dtp`<br/>
-  `$ bower install "typopro-dtp#3.0.0"`
+  `$ bower install "typopro-dtp#3.1.0"`
 
 Finally, you can also download both Web and DTP formats manually:
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-web/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-web/archive/3.0.0.zip`
+  `$ curl -O https://github.com/rse/typopro-web/archive/3.1.0.zip`
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-dtp/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.0.0.zip`
+  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.1.0.zip`
 
 Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
@@ -438,7 +440,7 @@ Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:           |Monospaced:         |Script:
 Fira Sans       |Roboto Slab     |Merriweather     |DejaVu Sans Mono    |Handlee            |Bebas Neue
 Roboto          |Aleo            |Droid Serif      |Source Code Pro     |Journal            |Overlock
 Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffesatz
-Open Sans       |Slabo           |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
+Open Sans       |Andada          |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
 Lato            |Crete Round     |Libre Baskerville|Fira Mono           |Nautilus Pompilius |Quando
 
 Manifest
