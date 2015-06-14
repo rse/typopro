@@ -4,6 +4,7 @@ body {
     font-size: 11pt;
     background-color: #ffffff;
     color: #000000;
+    position: relative;
 }
 
 .canvas {
@@ -106,12 +107,14 @@ body {
     top: 20px;
     right: 100px;
     display: block;
+    z-index: 100;
 }
 
 #button_tw {
-    position: absolute;
+    position: absolute !important;
     top: 20px;
-    right: 260px;
+    right: 300px;
     display: block;
+    z-index: 100;
 }
 
