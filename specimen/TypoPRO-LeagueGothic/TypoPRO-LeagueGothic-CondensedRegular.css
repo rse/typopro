@@ -1,0 +1,15 @@
+
+/* TypoPRO League Gothic Condensed */
+@font-face {
+    font-family:  'TypoPRO League Gothic';
+    src:          url('TypoPRO-LeagueGothic-CondensedRegular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueGothic-CondensedRegular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueGothic-CondensedRegular.woff') format('woff'),
+                  url('TypoPRO-LeagueGothic-CondensedRegular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

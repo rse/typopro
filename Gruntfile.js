@@ -27,25 +27,20 @@ module.exports = function (grunt) {
             },
             "typopro": {
                 files: [
-                    { expand: true, flatten: false, cwd: "bower_components/typopro/web",
+                    { expand: true, flatten: false, cwd: "bower_components/typopro-web/web",
                       src: "TypoPRO-OpenSans/**", dest: "lib/typopro/" },
-                    { expand: true, flatten: false, cwd: "bower_components/typopro/web",
+                    { expand: true, flatten: false, cwd: "bower_components/typopro-web/web",
                       src: "TypoPRO-DejaVu/**", dest: "lib/typopro/" },
-                    { expand: true, flatten: false, cwd: "bower_components/typopro/web",
+                    { expand: true, flatten: false, cwd: "bower_components/typopro-web/web",
                       src: "**", dest: "specimen/" },
                 ]
             },
             "typopro-index": {
                 files: [
-                    { dest: "specimen/index.html",    src: [ "bower_components/typopro/index.html" ] },
-                    { dest: "specimen/specimen.html", src: [ "bower_components/typopro/specimen.html" ] },
-                    { dest: "specimen/manifest.js",   src: [ "bower_components/typopro/etc/manifest.js" ] }
-                ],
-                options: {
-                    process: function (content, srcpath) {
-                        return content.replace(/web\//g, "").replace(/etc\/manifest\.js/g, "manifest.js");
-                    }
-                }
+                    { dest: "specimen/index.html",    src: [ "bower_components/typopro-web/index.html" ] },
+                    { dest: "specimen/specimen.html", src: [ "bower_components/typopro-web/specimen.html" ] },
+                    { dest: "specimen/manifest.js",   src: [ "bower_components/typopro-web/manifest.js" ] }
+                ]
             },
         },
         clean: {

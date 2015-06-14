@@ -1,0 +1,15 @@
+
+/* TypoPRO Roboto Mono Bold */
+@font-face {
+    font-family:  'TypoPRO Roboto Mono';
+    src:          url('TypoPRO-RobotoMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoMono-Bold.woff') format('woff'),
+                  url('TypoPRO-RobotoMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

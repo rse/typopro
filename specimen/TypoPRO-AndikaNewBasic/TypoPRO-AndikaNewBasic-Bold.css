@@ -1,0 +1,15 @@
+
+/* TypoPRO Andika New Basic Bold */
+@font-face {
+    font-family:  'TypoPRO Andika New Basic';
+    src:          url('TypoPRO-AndikaNewBasic-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndikaNewBasic-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndikaNewBasic-Bold.woff') format('woff'),
+                  url('TypoPRO-AndikaNewBasic-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

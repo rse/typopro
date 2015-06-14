@@ -4,7 +4,6 @@ body {
     font-size: 11pt;
     background-color: #ffffff;
     color: #000000;
-    // text-shadow: 0px 1px 2px rgba(0, 0, 0, 1.0);
 }
 
 .canvas {
@@ -24,7 +23,7 @@ body {
     left: 520px;
 }
 .canvas .install {
-    width: 430px;
+    width: 440px;
     padding: 5px 10px 5px 10px;
     font-family: "TypoPRO DejaVu Sans Mono";
     font-size: 9pt;

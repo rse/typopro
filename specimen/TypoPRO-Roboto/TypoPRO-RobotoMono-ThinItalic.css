@@ -1,0 +1,15 @@
+
+/* TypoPRO Roboto Mono Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto Mono';
+    src:          url('TypoPRO-RobotoMono-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoMono-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoMono-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-RobotoMono-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

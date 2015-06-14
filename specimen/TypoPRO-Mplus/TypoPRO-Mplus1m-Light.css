@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 1m light */
+@font-face {
+    font-family:  'TypoPRO Mplus 1M';
+    src:          url('TypoPRO-Mplus1m-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus1m-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus1m-Light.woff') format('woff'),
+                  url('TypoPRO-Mplus1m-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

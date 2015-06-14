@@ -1,44 +1,53 @@
 <!DOCTYPE html>
-<!--
-
-  TypoPRO ~ Fonts for Professional Typography
-  Copyright (c) 2013-2015 Ralf S. Engelschall <rse@engelschall.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining
-  a copy of this software and associated documentation files (the
-  "Software"), to deal in the Software without restriction, including
-  without limitation the rights to use, copy, modify, merge, publish,
-  distribute, sublicense, and/or sell copies of the Software, and to
-  permit persons to whom the Software is furnished to do so, subject to
-  the following conditions:
-
-  The above copyright notice and this permission notice shall be included
-  in all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-  CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
--->
 <html>
     <head id="typopro_head">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <!--
+
+          TypoPRO ~ Fonts for Professional Typography
+          Copyright (c) 2013-2015 Ralf S. Engelschall <rse@engelschall.com>
+
+          Permission is hereby granted, free of charge, to any person obtaining
+          a copy of this software and associated documentation files (the
+          "Software"), to deal in the Software without restriction, including
+          without limitation the rights to use, copy, modify, merge, publish,
+          distribute, sublicense, and/or sell copies of the Software, and to
+          permit persons to whom the Software is furnished to do so, subject to
+          the following conditions:
+
+          The above copyright notice and this permission notice shall be included
+          in all copies or substantial portions of the Software.
+
+          THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+          EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+          MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+          IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+          CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+          TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+          SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+        -->
         <style type="text/css">
-            html {
-                background-color: #dcdcdc;
+            @media screen {
+                html {
+                    background-color: #dcdcdc;
+                }
+                body {
+                    background-color: #ffffff;
+                    width: 865px;
+                    font-size: 14pt;
+                    margin: auto;
+                    margin-top: 0px;
+                    font-family: sans-serif;
+                    margin-bottom: 40px;
+                }
             }
-            body {
-                background-color: #ffffff;
-                width: 865px;
-                font-size: 14pt;
-                margin: auto;
-                margin-top: 0px;
-                font-family: sans-serif;
-                margin-bottom: 40px;
+            @media print {
+                body {
+                    font-size: 14pt;
+                    margin: 0px;
+                    font-family: sans-serif;
+                }
             }
             .title {
                 background-color: #000000;
@@ -82,15 +91,15 @@
                 color: #000000;
             }
         </style>
-        <title>TypoPRO Font Overview</title>
-    </head>
-    <body id="typopro_body">
-        <div class="title">TypoPRO Font Overview</div>
         <script type="text/javascript" src="manifest.js"></script>
         <script type="text/javascript">
+            myRender = function () {
             /*  fetch some elements beforehand  */
-            var head = document.getElementById("typopro_head");
-            var body = document.getElementById("typopro_body");
+            var head      = document.getElementById("typopro_head");
+            var body      = document.getElementById("typopro_body");
+
+            /*  determine whether we are in print mode  */
+            var printed = typeof Prince !== "undefined";
 
             /*  marker for General/Special Purpose title generation  */
             var title = 0;
@@ -143,7 +152,8 @@
                 div = document.createElement("div");
                 div.setAttribute("class", "sample");
                 div.innerHTML =
-                   "    <a target=\"TypoPRO_specimen\" href=\"specimen.html#" + id + "\">\n" +
+                   (printed ? "" :
+                   "    <a target=\"TypoPRO_specimen\" href=\"specimen.html#" + id + "\">\n") +
                    "    <div class=\"info\">\n" +
                    "        <span class=\"family\">" + font_family + "</span>&nbsp;&nbsp;\n" +
                    "        <span class=\"param\">" + font_style + "-" + font_weight + "-" + font_stretch + "-" + font_variant + "</span>\n" +
@@ -151,7 +161,8 @@
                    "    <div class=\"text " + id + "\">\n" +
                    "        Penultimate: The Quick Brown Fox Jumps Over The Lazy Dog\n" +
                    "    </div>\n" +
-                   "    </a>\n";
+                   (printed ? "" :
+                   "    </a>\n");
                 body.appendChild(div);
             };
 
@@ -168,6 +179,11 @@
                     TypoPRO_Manifest[i].css
                 );
             }
+            }
         </script>
+        <title>TypoPRO Font Overview</title>
+    </head>
+    <body id="typopro_body" onload="myRender()">
+        <div class="title">TypoPRO Font Overview</div>
     </body>
 </html>

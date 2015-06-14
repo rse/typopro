@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 1mn regular */
+@font-face {
+    font-family:  'TypoPRO Mplus 1MN';
+    src:          url('TypoPRO-Mplus1mn-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus1mn-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus1mn-Regular.woff') format('woff'),
+                  url('TypoPRO-Mplus1mn-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

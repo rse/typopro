@@ -1,0 +1,30 @@
+
+/* TypoPRO Gidole Regular */
+@font-face {
+    font-family:  'TypoPRO Gidole';
+    src:          url('TypoPRO-Gidole-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gidole-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gidole-Regular.woff') format('woff'),
+                  url('TypoPRO-Gidole-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gidolinya Regular */
+@font-face {
+    font-family:  'TypoPRO Gidole Gidolinya';
+    src:          url('TypoPRO-Gidolinya-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gidolinya-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gidolinya-Regular.woff') format('woff'),
+                  url('TypoPRO-Gidolinya-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

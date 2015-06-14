@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 2p medium */
+@font-face {
+    font-family:  'TypoPRO Mplus 2P';
+    src:          url('TypoPRO-Mplus2p-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus2p-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus2p-Medium.woff') format('woff'),
+                  url('TypoPRO-Mplus2p-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

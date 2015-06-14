@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 1mn bold */
+@font-face {
+    font-family:  'TypoPRO Mplus 1MN';
+    src:          url('TypoPRO-Mplus1mn-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus1mn-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus1mn-Bold.woff') format('woff'),
+                  url('TypoPRO-Mplus1mn-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

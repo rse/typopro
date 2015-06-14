@@ -1,7 +1,7 @@
 Name:       Aileron
 Homepage:   http://dotcolon.net/font/aileron/
 Download:   http://dotcolon.net/font/aileron/
-Version:    0.100 (2014-03)
+Version:    0.102 (2015-05)
 License:    Public Domain
 Publisher:  dot colon
 Designer:   Sora Sagano
@@ -14,4 +14,4 @@ touch to the design to make it more curvy and elegant. According to him,
 the design was close to Helvetica, but closer to Univers in terms of
 concept.
 
-Public Domain
+CC0 / Public Domain

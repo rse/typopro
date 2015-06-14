@@ -1,0 +1,15 @@
+
+/* TypoPRO Roboto Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto Mono';
+    src:          url('TypoPRO-RobotoMono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoMono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-RobotoMono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

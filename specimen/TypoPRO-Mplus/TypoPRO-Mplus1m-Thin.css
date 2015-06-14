@@ -1,0 +1,15 @@
+
+/* TypoPRO M+ 1m thin */
+@font-face {
+    font-family:  'TypoPRO Mplus 1M';
+    src:          url('TypoPRO-Mplus1m-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mplus1m-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mplus1m-Thin.woff') format('woff'),
+                  url('TypoPRO-Mplus1m-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

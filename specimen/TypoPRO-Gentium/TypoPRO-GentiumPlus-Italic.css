@@ -1,0 +1,15 @@
+
+/* TypoPRO Gentium Plus Italic */
+@font-face {
+    font-family:  'TypoPRO Gentium Plus';
+    src:          url('TypoPRO-GentiumPlus-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumPlus-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumPlus-Italic.woff') format('woff'),
+                  url('TypoPRO-GentiumPlus-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
