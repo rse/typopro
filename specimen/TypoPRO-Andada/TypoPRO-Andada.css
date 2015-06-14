@@ -1,0 +1,120 @@
+
+/* TypoPRO Andada Bold */
+@font-face {
+    font-family:  'TypoPRO Andada';
+    src:          url('TypoPRO-Andada-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andada-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andada-Bold.woff') format('woff'),
+                  url('TypoPRO-Andada-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andada Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Andada';
+    src:          url('TypoPRO-Andada-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andada-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andada-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Andada-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andada Italic */
+@font-face {
+    font-family:  'TypoPRO Andada';
+    src:          url('TypoPRO-Andada-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andada-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andada-Italic.woff') format('woff'),
+                  url('TypoPRO-Andada-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andada */
+@font-face {
+    font-family:  'TypoPRO Andada';
+    src:          url('TypoPRO-Andada-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andada-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andada-Regular.woff') format('woff'),
+                  url('TypoPRO-Andada-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andada SC Bold */
+@font-face {
+    font-family:  'TypoPRO Andada SC';
+    src:          url('TypoPRO-AndadaSC-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndadaSC-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndadaSC-Bold.woff') format('woff'),
+                  url('TypoPRO-AndadaSC-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andada SC Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Andada SC';
+    src:          url('TypoPRO-AndadaSC-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndadaSC-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndadaSC-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-AndadaSC-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andada SC Italic */
+@font-face {
+    font-family:  'TypoPRO Andada SC';
+    src:          url('TypoPRO-AndadaSC-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndadaSC-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndadaSC-Italic.woff') format('woff'),
+                  url('TypoPRO-AndadaSC-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andada SC */
+@font-face {
+    font-family:  'TypoPRO Andada SC';
+    src:          url('TypoPRO-AndadaSC-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndadaSC-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndadaSC-Regular.woff') format('woff'),
+                  url('TypoPRO-AndadaSC-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

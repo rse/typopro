@@ -1,0 +1,15 @@
+
+/* TypoPRO Kreon Light */
+@font-face {
+    font-family:  'TypoPRO Kreon';
+    src:          url('TypoPRO-Kreon-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Kreon-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Kreon-Light.woff') format('woff'),
+                  url('TypoPRO-Kreon-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Andada SC Italic */
+@font-face {
+    font-family:  'TypoPRO Andada SC';
+    src:          url('TypoPRO-AndadaSC-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndadaSC-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndadaSC-Italic.woff') format('woff'),
+                  url('TypoPRO-AndadaSC-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

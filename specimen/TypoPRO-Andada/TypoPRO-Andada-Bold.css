@@ -1,0 +1,15 @@
+
+/* TypoPRO Andada Bold */
+@font-face {
+    font-family:  'TypoPRO Andada';
+    src:          url('TypoPRO-Andada-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andada-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andada-Bold.woff') format('woff'),
+                  url('TypoPRO-Andada-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Andada SC Bold */
+@font-face {
+    font-family:  'TypoPRO Andada SC';
+    src:          url('TypoPRO-AndadaSC-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-AndadaSC-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AndadaSC-Bold.woff') format('woff'),
+                  url('TypoPRO-AndadaSC-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

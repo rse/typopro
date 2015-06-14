@@ -1,0 +1,15 @@
+
+/* TypoPRO Andada */
+@font-face {
+    font-family:  'TypoPRO Andada';
+    src:          url('TypoPRO-Andada-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andada-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andada-Regular.woff') format('woff'),
+                  url('TypoPRO-Andada-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
