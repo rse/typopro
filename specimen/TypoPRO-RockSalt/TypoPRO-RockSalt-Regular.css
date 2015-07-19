@@ -1,0 +1,15 @@
+
+/* TypoPRO Rock Salt */
+@font-face {
+    font-family:  'TypoPRO Rock Salt';
+    src:          url('TypoPRO-RockSalt-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-RockSalt-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RockSalt-Regular.woff') format('woff'),
+                  url('TypoPRO-RockSalt-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

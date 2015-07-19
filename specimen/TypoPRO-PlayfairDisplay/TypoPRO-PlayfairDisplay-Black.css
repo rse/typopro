@@ -1,0 +1,15 @@
+
+/* TypoPRO Playfair Display Black */
+@font-face {
+    font-family:  'TypoPRO Playfair Display';
+    src:          url('TypoPRO-PlayfairDisplay-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplay-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplay-Black.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplay-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

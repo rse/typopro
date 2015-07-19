@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Bold.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

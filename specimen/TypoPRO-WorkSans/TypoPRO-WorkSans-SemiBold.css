@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans SemiBold */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-SemiBold.woff') format('woff'),
+                  url('TypoPRO-WorkSans-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

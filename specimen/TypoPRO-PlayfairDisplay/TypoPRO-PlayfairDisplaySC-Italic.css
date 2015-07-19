@@ -1,0 +1,15 @@
+
+/* TypoPRO Playfair Display SC Italic */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-Italic.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

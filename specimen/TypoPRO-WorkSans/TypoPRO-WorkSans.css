@@ -1,0 +1,150 @@
+
+/* TypoPRO Work Sans Black */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Black.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Bold.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Hairline */
+@font-face {
+    font-family:  'TypoPRO Work Sans 100';
+    src:          url('TypoPRO-WorkSans-Hairline.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Hairline.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Hairline.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Hairline.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Light */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Light.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Medium */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Medium.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Regular.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans SemiBold */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-SemiBold.woff') format('woff'),
+                  url('TypoPRO-WorkSans-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Thin */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Thin.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

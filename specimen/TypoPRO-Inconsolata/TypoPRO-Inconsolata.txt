@@ -1,7 +1,7 @@
 Name:       Inconsolata
 Homepage:   http://levien.com/type/myfonts/inconsolata.html
 Download:   http://levien.com/type/myfonts/inconsolata.html
-Version:    1.010 (2006)
+Version:    1.013/1.015 (2012)
 License:    Open Font License 1.1
 Publisher:  Ralf Levien
 Designer:   Ralf Levien

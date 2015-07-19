@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

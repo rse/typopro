@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Regular.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

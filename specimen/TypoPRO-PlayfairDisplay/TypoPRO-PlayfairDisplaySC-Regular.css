@@ -1,0 +1,15 @@
+
+/* TypoPRO Playfair Display SC */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-Regular.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Permanent Marker */
+@font-face {
+    font-family:  'TypoPRO Permanent Marker';
+    src:          url('TypoPRO-PermanentMarker-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-PermanentMarker-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PermanentMarker-Regular.woff') format('woff'),
+                  url('TypoPRO-PermanentMarker-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

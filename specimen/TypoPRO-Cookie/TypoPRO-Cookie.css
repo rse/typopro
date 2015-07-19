@@ -1,0 +1,15 @@
+
+/* TypoPRO Cookie-Regular */
+@font-face {
+    font-family:  'TypoPRO Cookie';
+    src:          url('TypoPRO-Cookie-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cookie-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cookie-Regular.woff') format('woff'),
+                  url('TypoPRO-Cookie-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

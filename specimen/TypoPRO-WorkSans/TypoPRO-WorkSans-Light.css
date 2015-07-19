@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans Light */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Light.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

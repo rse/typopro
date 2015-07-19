@@ -1,0 +1,15 @@
+
+/* TypoPRO Coustard-Black */
+@font-face {
+    font-family:  'TypoPRO Coustard';
+    src:          url('TypoPRO-Coustard-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Coustard-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Coustard-Black.woff') format('woff'),
+                  url('TypoPRO-Coustard-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

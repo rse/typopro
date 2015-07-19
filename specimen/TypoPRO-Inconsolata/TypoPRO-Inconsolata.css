@@ -1,4 +1,19 @@
 
+/* TypoPRO Inconsolata Bold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-Bold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Inconsolata */
 @font-face {
     font-family:  'TypoPRO Inconsolata';
@@ -8,7 +23,7 @@
                   url('TypoPRO-Inconsolata-Regular.woff') format('woff'),
                   url('TypoPRO-Inconsolata-Regular.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }

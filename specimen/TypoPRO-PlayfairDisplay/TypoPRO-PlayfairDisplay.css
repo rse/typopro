@@ -1,0 +1,180 @@
+
+/* TypoPRO Playfair Display Black */
+@font-face {
+    font-family:  'TypoPRO Playfair Display';
+    src:          url('TypoPRO-PlayfairDisplay-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplay-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplay-Black.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplay-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display Black Italic */
+@font-face {
+    font-family:  'TypoPRO Playfair Display';
+    src:          url('TypoPRO-PlayfairDisplay-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplay-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplay-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplay-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display Bold */
+@font-face {
+    font-family:  'TypoPRO Playfair Display';
+    src:          url('TypoPRO-PlayfairDisplay-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplay-Bold.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplay-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Playfair Display';
+    src:          url('TypoPRO-PlayfairDisplay-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplay-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplay-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display Italic */
+@font-face {
+    font-family:  'TypoPRO Playfair Display';
+    src:          url('TypoPRO-PlayfairDisplay-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplay-Italic.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplay-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display */
+@font-face {
+    font-family:  'TypoPRO Playfair Display';
+    src:          url('TypoPRO-PlayfairDisplay-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplay-Regular.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplay-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display SC Black */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-Black.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display SC Black Italic */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display SC Bold */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-Bold.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display SC Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display SC Italic */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-Italic.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Playfair Display SC */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-Regular.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

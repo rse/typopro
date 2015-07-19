@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans Black */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Black.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

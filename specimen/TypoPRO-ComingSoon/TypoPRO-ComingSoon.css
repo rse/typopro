@@ -1,0 +1,15 @@
+
+/* TypoPRO Coming Soon */
+@font-face {
+    font-family:  'TypoPRO Coming Soon';
+    src:          url('TypoPRO-ComingSoon-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ComingSoon-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ComingSoon-Regular.woff') format('woff'),
+                  url('TypoPRO-ComingSoon-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

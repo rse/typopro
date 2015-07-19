@@ -1,0 +1,15 @@
+
+/* TypoPRO Playfair Display SC Black */
+@font-face {
+    font-family:  'TypoPRO Playfair Display SC';
+    src:          url('TypoPRO-PlayfairDisplaySC-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-PlayfairDisplaySC-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PlayfairDisplaySC-Black.woff') format('woff'),
+                  url('TypoPRO-PlayfairDisplaySC-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
