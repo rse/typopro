@@ -38,10 +38,18 @@ module.exports = function (grunt) {
             "typopro-index": {
                 files: [
                     { dest: "specimen/index.html",    src: [ "bower_components/typopro-web/index.html" ] },
-                    { dest: "specimen/specimen.html", src: [ "bower_components/typopro-web/specimen.html" ] },
-                    { dest: "specimen/manifest.js",   src: [ "bower_components/typopro-web/manifest.js" ] }
+                    { dest: "specimen/specimen.html", src: [ "bower_components/typopro-web/specimen.html" ] }
                 ]
             },
+            "typopro-index-manifest": {
+                src: [ "bower_components/typopro-web/manifest.js" ],
+                dest: "specimen/manifest.js",
+                options: {
+                    process: function (content, srcpath) {
+                        return content.replace(/web\//g, "");
+                    }
+                }
+            }
         },
         clean: {
             clean:     [ "lib" ],
