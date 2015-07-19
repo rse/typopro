@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 859 individual fonts of 124 font families. The
+**TypoPRO** consists of 881 individual fonts of 126 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -163,6 +163,7 @@ Open&nbsp;Sans            | 13  |     |    | X  |    |    |  X    |  X   | X  | 
 Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Playfair&nbsp;Display     | 12  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
 Quattrocento              |  6  |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Quicksand                 |  6  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -180,6 +181,7 @@ Ubuntu                    | 13  |     |    | X  | X  |    |  X    |  X   | X  | 
 Vegur                     |  3  |     |    | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
 Vollkorn                  |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Webly&nbsp;Sleek          |  6  |     |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
+Work&nbsp;Sans            | 10  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Yanone&nbsp;Kaffeesatz    |  4  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts
