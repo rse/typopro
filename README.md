@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 881 individual fonts of 126 font families. The
+**TypoPRO** consists of 885 individual fonts of 126 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -159,6 +159,7 @@ Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | 
 Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Noto&nbsp;Sans            |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Noto&nbsp;Serif           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Office&nbsp;Code&nbsp;Pro |  8  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Open&nbsp;Sans            | 13  |     |    | X  |    |    |  X    |  X   | X  |    |  X   |  X   | X  | X
 Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -172,7 +173,7 @@ Roboto                    | 16  |     |    | X  | X  |    |  X    |  X   | X  | 
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Source&nbsp;Code&nbsp;Pro |  7  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Source&nbsp;Code&nbsp;Pro | 14  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Sans&nbsp;Pro | 12  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Serif&nbsp;Pro|  3  |  X  |    |    |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 TeX&nbsp;Gyre             | 33  |  X  |    | X  | X  | X  |  X    |  X   | X  | X  |  X   |  X   | X  |
