@@ -3,6 +3,6 @@
     "dependencies": {
         "normalize.css":      "3.0.3",
         "jquery":             "2.1.4",
-        "typopro-web":        "3.2.2"
+        "typopro-web":        "3.2.3"
     }
 }

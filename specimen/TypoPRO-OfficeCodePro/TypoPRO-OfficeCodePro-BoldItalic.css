@@ -1,0 +1,15 @@
+
+/* TypoPRO Office Code Pro Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Office Code Pro';
+    src:          url('TypoPRO-OfficeCodePro-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OfficeCodePro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OfficeCodePro-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-OfficeCodePro-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

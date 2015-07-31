@@ -1,0 +1,15 @@
+
+/* TypoPRO Office Code Pro Light Italic */
+@font-face {
+    font-family:  'TypoPRO Office Code Pro';
+    src:          url('TypoPRO-OfficeCodePro-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OfficeCodePro-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OfficeCodePro-LightItalic.woff') format('woff'),
+                  url('TypoPRO-OfficeCodePro-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

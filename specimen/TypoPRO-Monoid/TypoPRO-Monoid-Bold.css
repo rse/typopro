@@ -1,0 +1,15 @@
+
+/* TypoPRO Monoid Bold */
+@font-face {
+    font-family:  'TypoPRO Monoid';
+    src:          url('TypoPRO-Monoid-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Monoid-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Monoid-Bold.woff') format('woff'),
+                  url('TypoPRO-Monoid-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

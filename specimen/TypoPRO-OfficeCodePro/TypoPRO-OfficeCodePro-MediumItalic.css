@@ -1,0 +1,15 @@
+
+/* TypoPRO Office Code Pro Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Office Code Pro';
+    src:          url('TypoPRO-OfficeCodePro-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OfficeCodePro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OfficeCodePro-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-OfficeCodePro-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
