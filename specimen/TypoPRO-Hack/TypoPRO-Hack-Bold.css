@@ -1,0 +1,15 @@
+
+/* TypoPRO Hack-Bold */
+@font-face {
+    font-family:  'TypoPRO Hack';
+    src:          url('TypoPRO-Hack-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Hack-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-Bold.woff') format('woff'),
+                  url('TypoPRO-Hack-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

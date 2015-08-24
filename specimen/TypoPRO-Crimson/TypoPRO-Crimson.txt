@@ -1,7 +1,7 @@
 Name:       Crimson
 Homepage:   http://www.aldusleaf.org/0-crimson.html
 Download:   https://github.com/skosch/Crimson.git
-Version:    0.8 (2014-03-16)
+Version:    0.8 (2014-10-11)
 License:    Open Font License 1.1
 Publisher:  Sebastian Kosch
 Designer:   Sebastian Kosch

@@ -1,0 +1,60 @@
+
+/* TypoPRO Hack-Bold */
+@font-face {
+    font-family:  'TypoPRO Hack';
+    src:          url('TypoPRO-Hack-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Hack-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-Bold.woff') format('woff'),
+                  url('TypoPRO-Hack-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Hack-BoldOblique */
+@font-face {
+    font-family:  'TypoPRO Hack';
+    src:          url('TypoPRO-Hack-BoldOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-Hack-BoldOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-BoldOblique.woff') format('woff'),
+                  url('TypoPRO-Hack-BoldOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Hack */
+@font-face {
+    font-family:  'TypoPRO Hack';
+    src:          url('TypoPRO-Hack-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Hack-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-Regular.woff') format('woff'),
+                  url('TypoPRO-Hack-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Hack-Oblique */
+@font-face {
+    font-family:  'TypoPRO Hack';
+    src:          url('TypoPRO-Hack-RegularOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-Hack-RegularOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-RegularOblique.woff') format('woff'),
+                  url('TypoPRO-Hack-RegularOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
