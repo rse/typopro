@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 888 individual fonts of 127 font families. The
+**TypoPRO** consists of 892 individual fonts of 128 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -142,6 +142,7 @@ Fantasque&nbsp;Sans&nbsp;Mono|4 |  X  |    |    | X  |    |  X    |  X   |    | 
 Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Sans            | 32  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Hack                      |  4  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Inconsolata               |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Kreon                     |  3  |     | X  |    |    |    |  X    |      |    | X  |      |  X   | X  |
 Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
