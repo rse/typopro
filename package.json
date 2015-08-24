@@ -1,6 +1,6 @@
 {
     "name":        "typopro",
-    "version":     "3.2.4",
+    "version":     "3.2.5",
     "description": "Fonts for Professional Typography (META)",
     "homepage":    "https://github.com/rse/typopro",
     "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
@@ -20,7 +20,7 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies" : {
-        "typopro-web": "3.2.4",
-        "typopro-dtp": "3.2.4"
+        "typopro-web": "3.2.5",
+        "typopro-dtp": "3.2.5"
     }
 }
