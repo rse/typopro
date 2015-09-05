@@ -1,7 +1,7 @@
 Name:       Lato
 Homepage:   http://www.latofonts.com/
 Download:   http://www.latofonts.com/
-Version:    2.010 (2014-09)
+Version:    2.015 (2015-08)
 License:    Open Font License 1.1
 Publisher:  Łukasz Dziedzic
 Designer:   Łukasz Dziedzic

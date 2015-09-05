@@ -752,7 +752,6 @@ TypoPRO_Manifest = [
     { "name": "TypoPRO WeblySleek UI Semilight Italic", "family": "TypoPRO Webly Sleek", "style": "italic", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "TypoPRO-WeblySleek/TypoPRO-WeblySleek-SemiLightItalic.css" },
     { "name": "TypoPRO WeblySleek UI Semibold", "family": "TypoPRO Webly Sleek", "style": "normal", "weight": "bold", "stretch": "normal", "variant": "normal", "css": "TypoPRO-WeblySleek/TypoPRO-WeblySleek-SemiBold.css" },
     { "name": "TypoPRO WeblySleek UI Semibold Italic", "family": "TypoPRO Webly Sleek", "style": "italic", "weight": "bold", "stretch": "normal", "variant": "normal", "css": "TypoPRO-WeblySleek/TypoPRO-WeblySleek-SemiBoldItalic.css" },
-    { "name": "TypoPRO Work Sans Hairline", "family": "TypoPRO Work Sans 100", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "TypoPRO-WorkSans/TypoPRO-WorkSans-Hairline.css" },
     { "name": "TypoPRO Work Sans Thin", "family": "TypoPRO Work Sans", "style": "normal", "weight": "100", "stretch": "normal", "variant": "normal", "css": "TypoPRO-WorkSans/TypoPRO-WorkSans-Thin.css" },
     { "name": "TypoPRO Work Sans ExtraLight", "family": "TypoPRO Work Sans", "style": "normal", "weight": "200", "stretch": "normal", "variant": "normal", "css": "TypoPRO-WorkSans/TypoPRO-WorkSans-ExtraLight.css" },
     { "name": "TypoPRO Work Sans Light", "family": "TypoPRO Work Sans", "style": "normal", "weight": "300", "stretch": "normal", "variant": "normal", "css": "TypoPRO-WorkSans/TypoPRO-WorkSans-Light.css" },
