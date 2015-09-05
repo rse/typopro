@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 892 individual fonts of 128 font families. The
+**TypoPRO** consists of 891 individual fonts of 128 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -184,7 +184,7 @@ Ubuntu                    | 13  |     |    | X  | X  |    |  X    |  X   | X  | 
 Vegur                     |  3  |     |    | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
 Vollkorn                  |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Webly&nbsp;Sleek          |  6  |     |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
-Work&nbsp;Sans            | 10  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
+Work&nbsp;Sans            |  9  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Yanone&nbsp;Kaffeesatz    |  4  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  |
 
 #### Special Purpose Fonts
@@ -311,42 +311,42 @@ You can conveniently download latest snapshot or particular versions of **TypoPR
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@3.1.0`
+  `$ npm install typopro@3.3.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install "typopro#3.1.0"`
+  `$ bower install "typopro#3.3.0"`
 
 Both automatically install the peer packages `typopro-web` and `typopro-dtp`.
 As you usually need only the Web formats, you can install just this package:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-web`<br/>
-  `$ npm install typopro-web@3.1.0`
+  `$ npm install typopro-web@3.3.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-web`<br/>
-  `$ bower install "typopro-web#3.1.0"`
+  `$ bower install "typopro-web#3.3.0"`
 
 Alternatively, install just the DTP formats:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-dtp`<br/>
-  `$ npm install typopro-dtp@3.1.0`
+  `$ npm install typopro-dtp@3.3.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-dtp`<br/>
-  `$ bower install "typopro-dtp#3.1.0"`
+  `$ bower install "typopro-dtp#3.3.0"`
 
 Finally, you can also download both Web and DTP formats manually:
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-web/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-web/archive/3.1.0.zip`
+  `$ curl -O https://github.com/rse/typopro-web/archive/3.3.0.zip`
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-dtp/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.1.0.zip`
+  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.3.0.zip`
 
 Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
