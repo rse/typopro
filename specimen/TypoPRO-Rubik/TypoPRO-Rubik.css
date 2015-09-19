@@ -1,0 +1,150 @@
+
+/* TypoPRO Rubik Black */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Black.woff') format('woff'),
+                  url('TypoPRO-Rubik-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Black Italic */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Rubik-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Bold */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Bold.woff') format('woff'),
+                  url('TypoPRO-Rubik-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Rubik-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Italic */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Italic.woff') format('woff'),
+                  url('TypoPRO-Rubik-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Light */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Light.woff') format('woff'),
+                  url('TypoPRO-Rubik-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Light Italic */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Rubik-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Medium */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Medium.woff') format('woff'),
+                  url('TypoPRO-Rubik-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Rubik-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rubik */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Regular.woff') format('woff'),
+                  url('TypoPRO-Rubik-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

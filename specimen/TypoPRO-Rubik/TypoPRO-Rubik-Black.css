@@ -1,0 +1,15 @@
+
+/* TypoPRO Rubik Black */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Black.woff') format('woff'),
+                  url('TypoPRO-Rubik-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

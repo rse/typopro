@@ -1,0 +1,15 @@
+
+/* TypoPRO Rubik Bold */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Bold.woff') format('woff'),
+                  url('TypoPRO-Rubik-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

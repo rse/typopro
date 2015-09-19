@@ -1,0 +1,15 @@
+
+/* TypoPRO Nickainley */
+@font-face {
+    font-family:  'TypoPRO Nickainley';
+    src:          url('TypoPRO-Nickainley-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Nickainley-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Nickainley-Regular.woff') format('woff'),
+                  url('TypoPRO-Nickainley-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

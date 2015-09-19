@@ -1,0 +1,15 @@
+
+/* TypoPRO Rubik Italic */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Italic.woff') format('woff'),
+                  url('TypoPRO-Rubik-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

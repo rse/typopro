@@ -1,0 +1,15 @@
+
+/* TypoPRO Hack Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Hack';
+    src:          url('TypoPRO-Hack-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Hack-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Hack-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,5 +1,5 @@
 
-/* TypoPRO Hack-Bold */
+/* TypoPRO Hack Bold */
 @font-face {
     font-family:  'TypoPRO Hack';
     src:          url('TypoPRO-Hack-Bold.eot');
@@ -14,22 +14,37 @@
 }
 
 
-/* TypoPRO Hack-BoldOblique */
+/* TypoPRO Hack Bold Italic */
 @font-face {
     font-family:  'TypoPRO Hack';
-    src:          url('TypoPRO-Hack-BoldOblique.eot');
+    src:          url('TypoPRO-Hack-BoldItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-Hack-BoldOblique.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Hack-BoldOblique.woff') format('woff'),
-                  url('TypoPRO-Hack-BoldOblique.ttf') format('truetype');
-    font-style:   oblique;
+                  url('TypoPRO-Hack-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Hack-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
 }
 
 
-/* TypoPRO Hack */
+/* TypoPRO Hack Italic */
+@font-face {
+    font-family:  'TypoPRO Hack';
+    src:          url('TypoPRO-Hack-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Hack-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Hack-Italic.woff') format('woff'),
+                  url('TypoPRO-Hack-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Hack Regular */
 @font-face {
     font-family:  'TypoPRO Hack';
     src:          url('TypoPRO-Hack-Regular.eot');
@@ -38,21 +53,6 @@
                   url('TypoPRO-Hack-Regular.woff') format('woff'),
                   url('TypoPRO-Hack-Regular.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  normal;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Hack-Oblique */
-@font-face {
-    font-family:  'TypoPRO Hack';
-    src:          url('TypoPRO-Hack-RegularOblique.eot');
-    src:          local('*'),
-                  url('TypoPRO-Hack-RegularOblique.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Hack-RegularOblique.woff') format('woff'),
-                  url('TypoPRO-Hack-RegularOblique.ttf') format('truetype');
-    font-style:   oblique;
     font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;

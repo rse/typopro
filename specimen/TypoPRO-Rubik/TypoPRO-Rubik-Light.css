@@ -1,0 +1,15 @@
+
+/* TypoPRO Rubik Light */
+@font-face {
+    font-family:  'TypoPRO Rubik';
+    src:          url('TypoPRO-Rubik-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rubik-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rubik-Light.woff') format('woff'),
+                  url('TypoPRO-Rubik-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
