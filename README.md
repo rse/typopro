@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 902 individual fonts of 130 font families. The
+**TypoPRO** consists of 903 individual fonts of 130 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -173,7 +173,7 @@ Quicksand                 |  6  |     |    | X  |    |    |  X    |  X   |    | 
 Raleway                   | 18  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Roboto                    | 16  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Rubik                     | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Rubik                     | 11  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Code&nbsp;Pro | 14  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
