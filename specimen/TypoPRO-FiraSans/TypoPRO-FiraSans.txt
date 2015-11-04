@@ -3,7 +3,7 @@ Homepage:   http://mozilla.github.io/Fira/
 Homepage:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
 Download:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
 Download:   http://www.carrois.com/fira-4-1/#download
-Version:    4.100 (2015-04)
+Version:    4.106 (2015-10)
 License:    Open Font License 1.1
 Publisher:  Mozilla
 Designer:   Erik Spiekermann & Ralph du Carrois (Carrois Type Design)

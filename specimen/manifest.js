@@ -639,6 +639,7 @@ TypoPRO_Manifest = [
     { "name": "TypoPRO Rubik Bold Italic", "family": "TypoPRO Rubik", "style": "italic", "weight": "bold", "stretch": "normal", "variant": "normal", "css": "TypoPRO-Rubik/TypoPRO-Rubik-BoldItalic.css" },
     { "name": "TypoPRO Rubik Black", "family": "TypoPRO Rubik", "style": "normal", "weight": "900", "stretch": "normal", "variant": "normal", "css": "TypoPRO-Rubik/TypoPRO-Rubik-Black.css" },
     { "name": "TypoPRO Rubik Black Italic", "family": "TypoPRO Rubik", "style": "italic", "weight": "900", "stretch": "normal", "variant": "normal", "css": "TypoPRO-Rubik/TypoPRO-Rubik-BlackItalic.css" },
+    { "name": "TypoPRO Rubik Mono One Regular", "family": "TypoPRO Rubik Mono", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "TypoPRO-Rubik/TypoPRO-RubikMonoOne-Regular.css" },
     { "name": "TypoPRO Signika-Light", "family": "TypoPRO Signika", "style": "normal", "weight": "300", "stretch": "normal", "variant": "normal", "css": "TypoPRO-Signika/TypoPRO-Signika-Light.css" },
     { "name": "TypoPRO Signika", "family": "TypoPRO Signika", "style": "normal", "weight": "normal", "stretch": "normal", "variant": "normal", "css": "TypoPRO-Signika/TypoPRO-Signika-Regular.css" },
     { "name": "TypoPRO Signika-Semibold", "family": "TypoPRO Signika", "style": "normal", "weight": "600", "stretch": "normal", "variant": "normal", "css": "TypoPRO-Signika/TypoPRO-Signika-Semibold.css" },
