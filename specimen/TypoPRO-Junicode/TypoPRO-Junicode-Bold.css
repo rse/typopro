@@ -1,0 +1,15 @@
+
+/* TypoPRO Junicode Bold */
+@font-face {
+    font-family:  'TypoPRO Junicode';
+    src:          url('TypoPRO-Junicode-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-Bold.woff') format('woff'),
+                  url('TypoPRO-Junicode-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

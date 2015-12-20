@@ -1,0 +1,120 @@
+
+/* TypoPRO Junicode Bold */
+@font-face {
+    font-family:  'TypoPRO Junicode';
+    src:          url('TypoPRO-Junicode-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-Bold.woff') format('woff'),
+                  url('TypoPRO-Junicode-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Junicode-Bold */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-BoldCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-BoldCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-BoldCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-BoldCondensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Junicode Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Junicode';
+    src:          url('TypoPRO-Junicode-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Junicode-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Junicode-BoldItalic */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-BoldItalicCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-BoldItalicCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-BoldItalicCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-BoldItalicCondensed.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Junicode Italic */
+@font-face {
+    font-family:  'TypoPRO Junicode';
+    src:          url('TypoPRO-Junicode-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-Italic.woff') format('woff'),
+                  url('TypoPRO-Junicode-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Junicode-Italic */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-ItalicCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-ItalicCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-ItalicCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-ItalicCondensed.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Junicode */
+@font-face {
+    font-family:  'TypoPRO Junicode';
+    src:          url('TypoPRO-Junicode-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-Regular.woff') format('woff'),
+                  url('TypoPRO-Junicode-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Junicode-Regular */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-RegularCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-RegularCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-RegularCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-RegularCondensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

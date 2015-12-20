@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed';
+    src:          url('TypoPRO-FiraSansCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

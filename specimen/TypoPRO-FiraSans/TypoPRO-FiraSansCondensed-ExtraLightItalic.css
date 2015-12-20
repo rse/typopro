@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed 250';
+    src:          url('TypoPRO-FiraSansCondensed-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

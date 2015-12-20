@@ -1,0 +1,15 @@
+
+/* TypoPRO Junicode-BoldItalic */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-BoldItalicCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-BoldItalicCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-BoldItalicCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-BoldItalicCondensed.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

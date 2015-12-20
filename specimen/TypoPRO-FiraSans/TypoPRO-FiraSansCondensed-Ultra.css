@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Ultra */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed 950';
+    src:          url('TypoPRO-FiraSansCondensed-Ultra.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-Ultra.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-Ultra.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-Ultra.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

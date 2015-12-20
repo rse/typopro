@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed 150';
+    src:          url('TypoPRO-FiraSansCondensed-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

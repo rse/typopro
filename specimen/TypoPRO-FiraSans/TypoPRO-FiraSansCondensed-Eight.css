@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Eight */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed 75';
+    src:          url('TypoPRO-FiraSansCondensed-Eight.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-Eight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-Eight.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-Eight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

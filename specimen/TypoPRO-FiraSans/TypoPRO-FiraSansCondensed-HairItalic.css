@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Hair Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed';
+    src:          url('TypoPRO-FiraSansCondensed-HairItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-HairItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-HairItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-HairItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

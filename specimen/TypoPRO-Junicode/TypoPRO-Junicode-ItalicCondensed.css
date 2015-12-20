@@ -1,0 +1,15 @@
+
+/* TypoPRO Junicode-Italic */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-ItalicCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-ItalicCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-ItalicCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-ItalicCondensed.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

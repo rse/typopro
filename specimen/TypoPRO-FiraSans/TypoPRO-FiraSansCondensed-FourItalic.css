@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Four Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed 50';
+    src:          url('TypoPRO-FiraSansCondensed-FourItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-FourItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-FourItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-FourItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

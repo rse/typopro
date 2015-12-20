@@ -2,9 +2,9 @@ Name:       Fira Mono
 Homepage:   http://mozilla.github.io/Fira/
 Homepage:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
 Download:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
-Download:   http://www.carrois.com/downloads/fira_mono_3_2/FiraMonoFonts3200.zip
+Download:   http://www.carrois.com/downloads/
 Download:   https://github.com/mozilla/Fira/archive/master.zip
-Version:    3.200 (2015-04)
+Version:    3.206 (2015-10)
 License:    Open Font License 1.1
 Publisher:  Mozilla
 Designer:   Erik Spiekermann & Ralph du Carrois (Carrois Type Design)

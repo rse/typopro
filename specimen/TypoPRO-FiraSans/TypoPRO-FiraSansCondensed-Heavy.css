@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Heavy */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed';
+    src:          url('TypoPRO-FiraSansCondensed-Heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-Heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-Heavy.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-Heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed';
+    src:          url('TypoPRO-FiraSansCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

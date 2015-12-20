@@ -1,0 +1,15 @@
+
+/* TypoPRO Junicode-Regular */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-RegularCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-RegularCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-RegularCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-RegularCondensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

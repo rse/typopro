@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Four */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed 50';
+    src:          url('TypoPRO-FiraSansCondensed-Four.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-Four.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-Four.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-Four.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

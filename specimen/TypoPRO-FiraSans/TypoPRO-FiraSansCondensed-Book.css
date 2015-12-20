@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Condensed Book */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed 350';
+    src:          url('TypoPRO-FiraSansCondensed-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-Book.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

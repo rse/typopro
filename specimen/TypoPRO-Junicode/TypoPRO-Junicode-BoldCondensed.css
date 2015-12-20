@@ -1,0 +1,15 @@
+
+/* TypoPRO Junicode-Bold */
+@font-face {
+    font-family:  'TypoPRO Junicode Condensed';
+    src:          url('TypoPRO-Junicode-BoldCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-Junicode-BoldCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Junicode-BoldCondensed.woff') format('woff'),
+                  url('TypoPRO-Junicode-BoldCondensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
