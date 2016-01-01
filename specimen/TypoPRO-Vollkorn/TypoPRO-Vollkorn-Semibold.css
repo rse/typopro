@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn Semibold */
+@font-face {
+    font-family:  'TypoPRO Vollkorn';
+    src:          url('TypoPRO-Vollkorn-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vollkorn-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vollkorn-Semibold.woff') format('woff'),
+                  url('TypoPRO-Vollkorn-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
