@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing, on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 947 individual fonts of 131 font families. The
+**TypoPRO** consists of 998 individual fonts of 135 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -126,6 +126,7 @@ Charis&nbsp;SIL           |  4  |  X  |    |    |    |    |  X    |  X   |    | 
 Clear&nbsp;Sans           |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
 Comme                     | 10  |     |    | X  | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Cooper&nbsp;Hewitt        | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Cormorant                 | 45  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
 Courier&nbsp;Prime        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Cousine                   |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Crete&nbsp;Round          |  2  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   |    |
@@ -199,6 +200,7 @@ Unicode characters.
 Name                      |Fonts|Serif|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 --------------------------|----:|:---:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Amatic&nbsp;SC            |  2  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Astloch                   |  2  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
 Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Bellota                   |  6  |     |    |    |    |  X    |  X   |    |    |  X   |      | X  |
 Bree&nbsp;Serif           |  1  |  X  |    |    |    |       |  X   |    |    |      |      | X  |
@@ -214,6 +216,7 @@ Damion                    |  1  |     |    |    | X  |       |      |    |    | 
 DancingScript             |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
 Delius                    |  4  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
 Gidole                    |  2  |     | X  |    |    |       |      |    |    |      |  X   |    |
+Give&nbsp;You&nbsp;Glory  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Grand&nbsp;Hotel          |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Graziano                  |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Great&nbsp;Vibes          |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
@@ -227,12 +230,12 @@ Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  | 
 Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 League&nbsp;Gothic        |  4  |     | X  |    |    |       |      |  X |    |      |  X   |  X |
-Nickainley                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
 Life Savers               |  3  |     |    |    | X  |       |  X   |    |    |      |  X   | X  | X
 Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Milonga                   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Nickainley                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Permanent&nbsp;Marker     |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
@@ -246,6 +249,7 @@ Shadows&nbsp;Into&nbsp;Light&nbsp;Two    |  1  |     |    |    | X  |  X    |   
 Slabo                     |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
 To&nbsp;Be&nbsp;Continued |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
 Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
+Unifraktur                |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   |    |
 Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
 Yellowtail                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 
@@ -487,7 +491,7 @@ all dependencies yourself, of course.
 Licensing
 ---------
 
-Copyright (c) 2013-2015 Ralf S. Engelschall &lt;rse@engelschall.com&gt;
+Copyright (c) 2013-2016 Ralf S. Engelschall &lt;rse@engelschall.com&gt;
 
 All included font families are distributed under very liberal Open
 Source licenses, either MIT License, Apache License, Open Font License
