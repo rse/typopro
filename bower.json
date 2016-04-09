@@ -1,8 +1,8 @@
 {
     "name": "typopro",
     "dependencies": {
-        "normalize.css":      "3.0.3",
-        "jquery":             "2.1.4",
-        "typopro-web":        "3.4.3"
+        "normalize.css":      "4.0.0",
+        "jquery":             "2.2.3",
+        "typopro-web":        "3.4.4"
     }
 }

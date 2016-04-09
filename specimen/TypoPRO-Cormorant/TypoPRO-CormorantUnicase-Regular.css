@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Unicase */
+@font-face {
+    font-family:  'TypoPRO Cormorant Unicase';
+    src:          url('TypoPRO-CormorantUnicase-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantUnicase-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUnicase-Regular.woff') format('woff'),
+                  url('TypoPRO-CormorantUnicase-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

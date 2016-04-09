@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Cormorant';
+    src:          url('TypoPRO-Cormorant-SemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cormorant-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cormorant-SemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-Cormorant-SemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

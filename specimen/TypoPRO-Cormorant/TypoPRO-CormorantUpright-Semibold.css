@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Upright Semibold */
+@font-face {
+    font-family:  'TypoPRO Cormorant Upright';
+    src:          url('TypoPRO-CormorantUpright-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantUpright-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUpright-Semibold.woff') format('woff'),
+                  url('TypoPRO-CormorantUpright-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

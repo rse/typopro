@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Upright */
+@font-face {
+    font-family:  'TypoPRO Cormorant Upright';
+    src:          url('TypoPRO-CormorantUpright-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantUpright-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUpright-Regular.woff') format('woff'),
+                  url('TypoPRO-CormorantUpright-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

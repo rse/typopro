@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant SC Bold */
+@font-face {
+    font-family:  'TypoPRO Cormorant SC';
+    src:          url('TypoPRO-CormorantSC-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantSC-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantSC-Bold.woff') format('woff'),
+                  url('TypoPRO-CormorantSC-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

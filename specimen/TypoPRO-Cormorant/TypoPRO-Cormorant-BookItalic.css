@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Book Italic */
+@font-face {
+    font-family:  'TypoPRO Cormorant';
+    src:          url('TypoPRO-Cormorant-BookItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cormorant-BookItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cormorant-BookItalic.woff') format('woff'),
+                  url('TypoPRO-Cormorant-BookItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

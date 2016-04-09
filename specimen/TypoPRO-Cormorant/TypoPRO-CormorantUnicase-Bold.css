@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Unicase Bold */
+@font-face {
+    font-family:  'TypoPRO Cormorant Unicase';
+    src:          url('TypoPRO-CormorantUnicase-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantUnicase-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUnicase-Bold.woff') format('woff'),
+                  url('TypoPRO-CormorantUnicase-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

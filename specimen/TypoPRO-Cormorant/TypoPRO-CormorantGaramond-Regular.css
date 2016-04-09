@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Garamond */
+@font-face {
+    font-family:  'TypoPRO Cormorant Garamond';
+    src:          url('TypoPRO-CormorantGaramond-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantGaramond-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantGaramond-Regular.woff') format('woff'),
+                  url('TypoPRO-CormorantGaramond-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

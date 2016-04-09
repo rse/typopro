@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Light */
+@font-face {
+    font-family:  'TypoPRO Cormorant';
+    src:          url('TypoPRO-Cormorant-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cormorant-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cormorant-Light.woff') format('woff'),
+                  url('TypoPRO-Cormorant-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

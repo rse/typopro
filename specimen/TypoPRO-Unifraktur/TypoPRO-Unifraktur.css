@@ -1,0 +1,45 @@
+
+/* TypoPRO UnifrakturCook-Regular */
+@font-face {
+    font-family:  'TypoPRO Unifraktur Cook';
+    src:          url('TypoPRO-UnifrakturCook-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-UnifrakturCook-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UnifrakturCook-Light.woff') format('woff'),
+                  url('TypoPRO-UnifrakturCook-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO UnifrakturCook */
+@font-face {
+    font-family:  'TypoPRO Unifraktur Cook';
+    src:          url('TypoPRO-UnifrakturCook-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-UnifrakturCook-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UnifrakturCook-Regular.woff') format('woff'),
+                  url('TypoPRO-UnifrakturCook-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO UnifrakturMaguntia */
+@font-face {
+    font-family:  'TypoPRO Unifraktur Maguntia';
+    src:          url('TypoPRO-UnifrakturMaguntia-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-UnifrakturMaguntia-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UnifrakturMaguntia-Regular.woff') format('woff'),
+                  url('TypoPRO-UnifrakturMaguntia-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

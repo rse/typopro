@@ -1,0 +1,15 @@
+
+/* TypoPRO UnifrakturMaguntia */
+@font-face {
+    font-family:  'TypoPRO Unifraktur Maguntia';
+    src:          url('TypoPRO-UnifrakturMaguntia-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-UnifrakturMaguntia-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UnifrakturMaguntia-Regular.woff') format('woff'),
+                  url('TypoPRO-UnifrakturMaguntia-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

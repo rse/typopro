@@ -1,0 +1,15 @@
+
+/* TypoPRO Give You Glory */
+@font-face {
+    font-family:  'TypoPRO Give You Glory';
+    src:          url('TypoPRO-GiveYouGlory-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-GiveYouGlory-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GiveYouGlory-Regular.woff') format('woff'),
+                  url('TypoPRO-GiveYouGlory-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

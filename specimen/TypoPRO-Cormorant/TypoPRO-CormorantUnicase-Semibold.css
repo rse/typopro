@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Unicase Semibold */
+@font-face {
+    font-family:  'TypoPRO Cormorant Unicase';
+    src:          url('TypoPRO-CormorantUnicase-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantUnicase-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUnicase-Semibold.woff') format('woff'),
+                  url('TypoPRO-CormorantUnicase-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

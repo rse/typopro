@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Infant Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Cormorant Infant';
+    src:          url('TypoPRO-CormorantInfant-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantInfant-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantInfant-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-CormorantInfant-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

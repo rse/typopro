@@ -1,0 +1,15 @@
+
+/* TypoPRO UnifrakturCook-Regular */
+@font-face {
+    font-family:  'TypoPRO Unifraktur Cook';
+    src:          url('TypoPRO-UnifrakturCook-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-UnifrakturCook-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UnifrakturCook-Light.woff') format('woff'),
+                  url('TypoPRO-UnifrakturCook-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

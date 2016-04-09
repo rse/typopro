@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Garamond Semibold */
+@font-face {
+    font-family:  'TypoPRO Cormorant Garamond';
+    src:          url('TypoPRO-CormorantGaramond-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantGaramond-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantGaramond-Semibold.woff') format('woff'),
+                  url('TypoPRO-CormorantGaramond-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
