@@ -9,7 +9,7 @@ http://typopro.org/
 *Fonts for Professional Typography &mdash; The Non-Cloud Way!*
 
 **TypoPRO** is a carefully hand-selected collection of freely usable
-professional fonts for use in Desktop Publishing, on Websites and
+professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
 **TypoPRO** consists of 1004 individual fonts of 137 font families. The
 fonts in total span a very wide range of font types, font styles, font
