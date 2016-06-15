@@ -324,42 +324,42 @@ You can conveniently download latest snapshot or particular versions of **TypoPR
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@3.4.5`
+  `$ npm install typopro@3.4.6`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install "typopro#3.4.5"`
+  `$ bower install "typopro#3.4.6"`
 
 Both automatically install the peer packages `typopro-web` and `typopro-dtp`.
 As you usually need only the Web formats, you can install just this package:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-web`<br/>
-  `$ npm install typopro-web@3.4.5`
+  `$ npm install typopro-web@3.4.6`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-web`<br/>
-  `$ bower install "typopro-web#3.4.5"`
+  `$ bower install "typopro-web#3.4.6"`
 
 Alternatively, install just the DTP formats:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-dtp`<br/>
-  `$ npm install typopro-dtp@3.4.5`
+  `$ npm install typopro-dtp@3.4.6`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-dtp`<br/>
-  `$ bower install "typopro-dtp#3.4.5"`
+  `$ bower install "typopro-dtp#3.4.6"`
 
 Finally, you can also download both Web and DTP formats manually:
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-web/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-web/archive/3.4.5.zip`
+  `$ curl -O https://github.com/rse/typopro-web/archive/3.4.6.zip`
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-dtp/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.4.5.zip`
+  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.4.6.zip`
 
 Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
