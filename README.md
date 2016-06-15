@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1004 individual fonts of 137 font families. The
+**TypoPRO** consists of 1038 individual fonts of 141 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -155,10 +155,12 @@ Lekton                    |  3  |     |    | X  | X  |    |  X    |  X   |    | 
 Liberation                | 12  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Libre&nbsp;Baskerville    |  3  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Libre&nbsp;Caslon         |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Libre&nbsp;Franklin       | 18  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Monoid                    |  3  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Mononoki                  |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Montserrat                |  4  |  X  |    |    |    |    |  X    |      |    |    |      |  X   | X  |
 Mplus                     | 43  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -254,6 +256,8 @@ Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    | 
 Unifraktur                |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   |    |
 Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
 Yellowtail                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+Lemonada                  |  4  |     |    |    | X  |       |  X   |    |    |      |  X   | X  |
+Arima&nbsp;Madurai        |  8  |     |    |    | X  |       |  X   |    | X  |      |  X   | X  |
 
 Browser Support
 ---------------
