@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1038 individual fonts of 141 font families. The
+**TypoPRO** consists of 1042 individual fonts of 142 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -161,7 +161,7 @@ Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | 
 Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Monoid                    |  3  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Mononoki                  |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Montserrat                |  4  |  X  |    |    |    |    |  X    |      |    |    |      |  X   | X  |
+Montserrat                |  7  |  X  |    |    |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Mplus                     | 43  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -180,6 +180,7 @@ Raleway                   | 18  |     |    | X  |    |    |  X    |  X   | X  | 
 Roboto                    | 16  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Rubik                     | 11  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Secular&nbsp;One          |  1  |     |    | X  |    |    |  X    |      |    |    |      |      | X  |
 Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Code&nbsp;Pro | 14  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
@@ -324,42 +325,42 @@ You can conveniently download latest snapshot or particular versions of **TypoPR
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@3.4.6`
+  `$ npm install typopro@3.4.8`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install "typopro#3.4.6"`
+  `$ bower install "typopro#3.4.8"`
 
 Both automatically install the peer packages `typopro-web` and `typopro-dtp`.
 As you usually need only the Web formats, you can install just this package:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-web`<br/>
-  `$ npm install typopro-web@3.4.6`
+  `$ npm install typopro-web@3.4.8`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-web`<br/>
-  `$ bower install "typopro-web#3.4.6"`
+  `$ bower install "typopro-web#3.4.8"`
 
 Alternatively, install just the DTP formats:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-dtp`<br/>
-  `$ npm install typopro-dtp@3.4.6`
+  `$ npm install typopro-dtp@3.4.8`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-dtp`<br/>
-  `$ bower install "typopro-dtp#3.4.6"`
+  `$ bower install "typopro-dtp#3.4.8"`
 
 Finally, you can also download both Web and DTP formats manually:
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-web/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-web/archive/3.4.6.zip`
+  `$ curl -O https://github.com/rse/typopro-web/archive/3.4.8.zip`
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-dtp/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.4.6.zip`
+  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.4.8.zip`
 
 Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
