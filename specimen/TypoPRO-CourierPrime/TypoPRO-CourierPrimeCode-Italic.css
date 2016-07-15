@@ -1,0 +1,15 @@
+
+/* TypoPRO Courier Prime Code Italic */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Code';
+    src:          url('TypoPRO-CourierPrimeCode-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeCode-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeCode-Italic.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeCode-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

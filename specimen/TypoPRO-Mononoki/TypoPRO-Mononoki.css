@@ -1,0 +1,60 @@
+
+/* TypoPRO mononoki Bold */
+@font-face {
+    font-family:  'TypoPRO Mononoki';
+    src:          url('TypoPRO-Mononoki-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mononoki-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mononoki-Bold.woff') format('woff'),
+                  url('TypoPRO-Mononoki-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO mononoki Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Mononoki';
+    src:          url('TypoPRO-Mononoki-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mononoki-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mononoki-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Mononoki-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO mononoki Italic */
+@font-face {
+    font-family:  'TypoPRO Mononoki';
+    src:          url('TypoPRO-Mononoki-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mononoki-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mononoki-Italic.woff') format('woff'),
+                  url('TypoPRO-Mononoki-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO mononoki */
+@font-face {
+    font-family:  'TypoPRO Mononoki';
+    src:          url('TypoPRO-Mononoki-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mononoki-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mononoki-Regular.woff') format('woff'),
+                  url('TypoPRO-Mononoki-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

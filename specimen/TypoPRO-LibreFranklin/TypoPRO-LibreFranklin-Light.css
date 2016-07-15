@@ -1,0 +1,15 @@
+
+/* TypoPRO Libre Franklin Light */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Light.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

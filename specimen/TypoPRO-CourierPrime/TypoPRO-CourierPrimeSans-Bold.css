@@ -1,0 +1,15 @@
+
+/* TypoPRO Courier Prime Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Sans';
+    src:          url('TypoPRO-CourierPrimeSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeSans-Bold.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

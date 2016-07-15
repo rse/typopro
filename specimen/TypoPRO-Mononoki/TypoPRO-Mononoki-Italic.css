@@ -1,0 +1,15 @@
+
+/* TypoPRO mononoki Italic */
+@font-face {
+    font-family:  'TypoPRO Mononoki';
+    src:          url('TypoPRO-Mononoki-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mononoki-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mononoki-Italic.woff') format('woff'),
+                  url('TypoPRO-Mononoki-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

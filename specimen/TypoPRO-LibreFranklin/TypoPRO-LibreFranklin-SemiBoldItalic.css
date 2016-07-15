@@ -1,0 +1,15 @@
+
+/* TypoPRO Libre Franklin SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

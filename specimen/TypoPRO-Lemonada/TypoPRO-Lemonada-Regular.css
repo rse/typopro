@@ -1,0 +1,15 @@
+
+/* TypoPRO Lemonada-Regular */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-Regular.woff') format('woff'),
+                  url('TypoPRO-Lemonada-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Arima Madurai ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

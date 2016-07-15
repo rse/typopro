@@ -58,3 +58,93 @@
     font-variant: normal;
 }
 
+
+/* TypoPRO Courier Prime Code Italic */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Code';
+    src:          url('TypoPRO-CourierPrimeCode-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeCode-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeCode-Italic.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeCode-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Courier Prime Code */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Code';
+    src:          url('TypoPRO-CourierPrimeCode-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeCode-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeCode-Regular.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeCode-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Courier Prime Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Sans';
+    src:          url('TypoPRO-CourierPrimeSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeSans-Bold.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Courier Prime Sans Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Sans';
+    src:          url('TypoPRO-CourierPrimeSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeSans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Courier Prime Sans Italic */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Sans';
+    src:          url('TypoPRO-CourierPrimeSans-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeSans-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeSans-Italic.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeSans-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Courier Prime Sans */
+@font-face {
+    font-family:  'TypoPRO Courier Prime Sans';
+    src:          url('TypoPRO-CourierPrimeSans-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrimeSans-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrimeSans-Regular.woff') format('woff'),
+                  url('TypoPRO-CourierPrimeSans-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

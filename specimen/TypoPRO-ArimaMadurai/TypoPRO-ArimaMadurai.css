@@ -1,0 +1,120 @@
+
+/* TypoPRO Arima Madurai Bold */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Bold.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Arima Madurai Black */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Arima Madurai ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Arima Madurai Light */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Light.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Arima Madurai Medium */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Medium.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Arima Madurai */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Regular.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Arima Madurai Semi Bold Bold */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-SemiBold.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Arima Madurai Thin */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Thin.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

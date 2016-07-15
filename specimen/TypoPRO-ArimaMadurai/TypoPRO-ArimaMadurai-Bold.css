@@ -1,0 +1,15 @@
+
+/* TypoPRO Arima Madurai Bold */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Bold.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

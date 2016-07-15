@@ -1,0 +1,15 @@
+
+/* TypoPRO Libre Franklin Light Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-LightItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

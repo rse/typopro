@@ -1,0 +1,15 @@
+
+/* TypoPRO Arima Madurai Black */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

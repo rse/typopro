@@ -1,0 +1,15 @@
+
+/* TypoPRO Lemonada Bold */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-Bold.woff') format('woff'),
+                  url('TypoPRO-Lemonada-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

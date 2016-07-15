@@ -1,0 +1,15 @@
+
+/* TypoPRO Arima Madurai Medium */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Medium.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

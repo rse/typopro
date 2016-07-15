@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Hairline */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Thin.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

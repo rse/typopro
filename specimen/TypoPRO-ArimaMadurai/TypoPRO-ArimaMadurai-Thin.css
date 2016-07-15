@@ -1,0 +1,15 @@
+
+/* TypoPRO Arima Madurai Thin */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-Thin.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

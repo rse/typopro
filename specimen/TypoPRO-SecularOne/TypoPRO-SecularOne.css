@@ -1,0 +1,15 @@
+
+/* TypoPRO Secular One */
+@font-face {
+    font-family:  'TypoPRO Secular One';
+    src:          url('TypoPRO-SecularOne-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-SecularOne-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SecularOne-Regular.woff') format('woff'),
+                  url('TypoPRO-SecularOne-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

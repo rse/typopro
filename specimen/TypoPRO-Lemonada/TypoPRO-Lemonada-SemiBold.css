@@ -1,0 +1,15 @@
+
+/* TypoPRO Lemonada SemiBold */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Lemonada-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

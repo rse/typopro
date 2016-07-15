@@ -1,0 +1,15 @@
+
+/* TypoPRO Lemonada Light */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-Light.woff') format('woff'),
+                  url('TypoPRO-Lemonada-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

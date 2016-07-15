@@ -1,0 +1,15 @@
+
+/* TypoPRO mononoki */
+@font-face {
+    font-family:  'TypoPRO Mononoki';
+    src:          url('TypoPRO-Mononoki-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mononoki-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mononoki-Regular.woff') format('woff'),
+                  url('TypoPRO-Mononoki-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

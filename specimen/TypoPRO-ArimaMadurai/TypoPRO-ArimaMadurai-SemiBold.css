@@ -1,0 +1,15 @@
+
+/* TypoPRO Arima Madurai Semi Bold Bold */
+@font-face {
+    font-family:  'TypoPRO Arima Madurai';
+    src:          url('TypoPRO-ArimaMadurai-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ArimaMadurai-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ArimaMadurai-SemiBold.woff') format('woff'),
+                  url('TypoPRO-ArimaMadurai-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

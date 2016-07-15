@@ -1,0 +1,15 @@
+
+/* TypoPRO mononoki Bold */
+@font-face {
+    font-family:  'TypoPRO Mononoki';
+    src:          url('TypoPRO-Mononoki-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mononoki-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mononoki-Bold.woff') format('woff'),
+                  url('TypoPRO-Mononoki-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

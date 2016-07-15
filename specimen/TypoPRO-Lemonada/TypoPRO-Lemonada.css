@@ -1,0 +1,60 @@
+
+/* TypoPRO Lemonada Bold */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-Bold.woff') format('woff'),
+                  url('TypoPRO-Lemonada-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lemonada Light */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-Light.woff') format('woff'),
+                  url('TypoPRO-Lemonada-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lemonada-Regular */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-Regular.woff') format('woff'),
+                  url('TypoPRO-Lemonada-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lemonada SemiBold */
+@font-face {
+    font-family:  'TypoPRO Lemonada';
+    src:          url('TypoPRO-Lemonada-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lemonada-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lemonada-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Lemonada-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

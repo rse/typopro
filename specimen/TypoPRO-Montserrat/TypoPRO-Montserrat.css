@@ -1,5 +1,20 @@
 
-/* TypoPRO Montserrat-Bold */
+/* TypoPRO Montserrat Black */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Black.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Bold */
 @font-face {
     font-family:  'TypoPRO Montserrat';
     src:          url('TypoPRO-Montserrat-Bold.eot');
@@ -14,7 +29,22 @@
 }
 
 
-/* TypoPRO Montserrat-Regular */
+/* TypoPRO Montserrat Light */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Light.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat */
 @font-face {
     font-family:  'TypoPRO Montserrat';
     src:          url('TypoPRO-Montserrat-Regular.eot');
@@ -24,6 +54,21 @@
                   url('TypoPRO-Montserrat-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Hairline */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Thin.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
     font-stretch: normal;
     font-variant: normal;
 }

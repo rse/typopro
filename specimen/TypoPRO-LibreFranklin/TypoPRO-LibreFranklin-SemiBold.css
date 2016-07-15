@@ -1,0 +1,15 @@
+
+/* TypoPRO Libre Franklin SemiBold */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-SemiBold.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

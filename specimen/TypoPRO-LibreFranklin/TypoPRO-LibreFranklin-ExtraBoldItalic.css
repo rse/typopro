@@ -1,0 +1,15 @@
+
+/* TypoPRO Libre Franklin ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,6 +1,8 @@
 Name:       Courier Prime
 Homepage:   http://quoteunquoteapps.com/courierprime/
 Download:   http://quoteunquoteapps.com/downloads/courier-prime.zip
+Download:   http://quoteunquoteapps.com/downloads/courier-sans.zip
+Download:   http://quoteunquoteapps.com/downloads/courier-code.zip
 Version:    1.203
 License:    Open Font License 1.1
 Publisher:  Quote-Unquote Apps

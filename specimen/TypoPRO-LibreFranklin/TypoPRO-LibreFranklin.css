@@ -1,0 +1,270 @@
+
+/* TypoPRO Libre Franklin Black */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Black.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Black Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Bold */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Bold.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Italic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Light */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Light.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Light Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-LightItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Medium */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Medium.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Regular.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin SemiBold */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-SemiBold.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Thin */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-Thin.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Libre Franklin Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Libre Franklin';
+    src:          url('TypoPRO-LibreFranklin-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibreFranklin-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibreFranklin-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-LibreFranklin-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
