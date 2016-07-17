@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1042 individual fonts of 142 font families. The
+**TypoPRO** consists of 1051 individual fonts of 144 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -186,6 +186,7 @@ Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | 
 Source&nbsp;Code&nbsp;Pro | 14  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Sans&nbsp;Pro | 12  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Source&nbsp;Serif&nbsp;Pro|  3  |  X  |    |    |    |    |  X    |      |    | X  |  X   |  X   | X  | X
+Space&nbsp;Mono           |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 TeX&nbsp;Gyre             | 33  |  X  |    | X  | X  | X  |  X    |  X   | X  | X  |  X   |  X   | X  |
 Titillium                 | 11  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Ubuntu                    | 13  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
@@ -252,6 +253,7 @@ Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    | 
 Satisfy                   |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 Shadows&nbsp;Into&nbsp;Light&nbsp;Two    |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Slabo                     |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
+Tillana                   |  5  |     |    |    | X  |  X    |      |    | X  |  X   |  X   | X  |
 To&nbsp;Be&nbsp;Continued |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
 Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Unifraktur                |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   |    |
