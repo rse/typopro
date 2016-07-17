@@ -1,0 +1,15 @@
+
+/* TypoPRO Tillana Bold */
+@font-face {
+    font-family:  'TypoPRO Tillana';
+    src:          url('TypoPRO-Tillana-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Tillana-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Tillana-Bold.woff') format('woff'),
+                  url('TypoPRO-Tillana-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

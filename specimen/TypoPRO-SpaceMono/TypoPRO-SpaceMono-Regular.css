@@ -1,0 +1,15 @@
+
+/* TypoPRO Space Mono */
+@font-face {
+    font-family:  'TypoPRO Space Mono';
+    src:          url('TypoPRO-SpaceMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-SpaceMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SpaceMono-Regular.woff') format('woff'),
+                  url('TypoPRO-SpaceMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

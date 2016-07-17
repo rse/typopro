@@ -1,0 +1,75 @@
+
+/* TypoPRO Tillana Bold */
+@font-face {
+    font-family:  'TypoPRO Tillana';
+    src:          url('TypoPRO-Tillana-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Tillana-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Tillana-Bold.woff') format('woff'),
+                  url('TypoPRO-Tillana-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Tillana ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Tillana';
+    src:          url('TypoPRO-Tillana-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Tillana-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Tillana-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Tillana-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Tillana Medium */
+@font-face {
+    font-family:  'TypoPRO Tillana';
+    src:          url('TypoPRO-Tillana-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Tillana-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Tillana-Medium.woff') format('woff'),
+                  url('TypoPRO-Tillana-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Tillana */
+@font-face {
+    font-family:  'TypoPRO Tillana';
+    src:          url('TypoPRO-Tillana-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Tillana-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Tillana-Regular.woff') format('woff'),
+                  url('TypoPRO-Tillana-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Tillana SemiBold */
+@font-face {
+    font-family:  'TypoPRO Tillana';
+    src:          url('TypoPRO-Tillana-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Tillana-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Tillana-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Tillana-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

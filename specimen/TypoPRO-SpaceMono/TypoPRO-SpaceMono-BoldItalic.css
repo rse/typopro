@@ -1,0 +1,15 @@
+
+/* TypoPRO Space Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Space Mono';
+    src:          url('TypoPRO-SpaceMono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-SpaceMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SpaceMono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-SpaceMono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

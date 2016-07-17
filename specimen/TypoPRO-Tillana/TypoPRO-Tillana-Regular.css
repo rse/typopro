@@ -1,0 +1,15 @@
+
+/* TypoPRO Tillana */
+@font-face {
+    font-family:  'TypoPRO Tillana';
+    src:          url('TypoPRO-Tillana-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Tillana-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Tillana-Regular.woff') format('woff'),
+                  url('TypoPRO-Tillana-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
