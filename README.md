@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1051 individual fonts of 144 font families. The
+**TypoPRO** consists of 1086 individual fonts of 146 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -141,7 +141,9 @@ Droid                     |  7  |  X  |    | X  | X  |    |  X    |  X   |    | 
 EB&nbsp;Garamond          |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Ek&nbsp;Mukta             |  7  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Encode&nbsp;Sans          | 45  |     |    | X  |    |    |  X    |      | X  | X  |  X   |  X   | X  | X
+ET&nbsp;Book              |  5  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Fantasque&nbsp;Sans&nbsp;Mono|4 |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Fira&nbsp;Code            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Sans            | 64  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -327,42 +329,42 @@ You can conveniently download latest snapshot or particular versions of **TypoPR
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro`<br/>
-  `$ npm install typopro@3.4.8`
+  `$ npm install typopro@3.5.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro`<br/>
-  `$ bower install "typopro#3.4.8"`
+  `$ bower install "typopro#3.5.0"`
 
 Both automatically install the peer packages `typopro-web` and `typopro-dtp`.
 As you usually need only the Web formats, you can install just this package:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-web`<br/>
-  `$ npm install typopro-web@3.4.8`
+  `$ npm install typopro-web@3.5.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-web`<br/>
-  `$ bower install "typopro-web#3.4.8"`
+  `$ bower install "typopro-web#3.5.0"`
 
 Alternatively, install just the DTP formats:
 
 - NPM: install via the Node Package Manager:<br/>
   `$ npm install typopro-dtp`<br/>
-  `$ npm install typopro-dtp@3.4.8`
+  `$ npm install typopro-dtp@3.5.0`
 
 - Bower: install via the Bower component manager:<br/>
   `$ bower install typopro-dtp`<br/>
-  `$ bower install "typopro-dtp#3.4.8"`
+  `$ bower install "typopro-dtp#3.5.0"`
 
 Finally, you can also download both Web and DTP formats manually:
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-web/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-web/archive/3.4.8.zip`
+  `$ curl -O https://github.com/rse/typopro-web/archive/3.5.0.zip`
 
 - cURL: download directly from the Github repository:<br/>
   `$ curl -O https://github.com/rse/typopro-dtp/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.4.8.zip`
+  `$ curl -O https://github.com/rse/typopro-dtp/archive/3.5.0.zip`
 
 Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
