@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1086 individual fonts of 146 font families. The
+**TypoPRO** consists of 1226 individual fonts of 150 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -139,16 +139,18 @@ Domine                    |  2  |  X  |    |    |    |    |  X    |      |    | 
 Dosis                     |  7  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Droid                     |  7  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 EB&nbsp;Garamond          |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+ET&nbsp;Book              |  5  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Ek&nbsp;Mukta             |  7  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Encode&nbsp;Sans          | 45  |     |    | X  |    |    |  X    |      | X  | X  |  X   |  X   | X  | X
-ET&nbsp;Book              |  5  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Fantasque&nbsp;Sans&nbsp;Mono|4 |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Fira&nbsp;Code            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
 Fira&nbsp;Sans            | 64  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+Go                        | 10  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Hack                      |  4  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Inconsolata               |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
+Iosevka                   | 42  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Junicode                  |  8  |  X  |    |    |    |    |  X    |  X   | X  |    |      |  X   | X  |
 Kreon                     |  3  |     | X  |    |    |    |  X    |      |    | X  |      |  X   | X  |
 Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
@@ -173,6 +175,8 @@ Office&nbsp;Code&nbsp;Pro |  8  |     |    |    | X  |    |  X    |  X   |    | 
 Open&nbsp;Sans            | 13  |     |    | X  |    |    |  X    |  X   | X  |    |  X   |  X   | X  | X
 Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
+Overpass                  | 20  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
+Overpass                  | 20  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Playfair&nbsp;Display     | 12  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
@@ -208,6 +212,7 @@ Unicode characters.
 Name                      |Fonts|Serif|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
 --------------------------|----:|:---:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
 Amatic&nbsp;SC            |  2  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Arima&nbsp;Madurai        |  8  |     |    |    | X  |       |  X   |    | X  |      |  X   | X  |
 Astloch                   |  2  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
 Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
 Bellota                   |  6  |     |    |    |    |  X    |  X   |    |    |  X   |      | X  |
@@ -239,8 +244,10 @@ Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    | 
 Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 League&nbsp;Gothic        |  4  |     | X  |    |    |       |      |  X |    |      |  X   |  X |
 Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
+Lemonada                  |  4  |     |    |    | X  |       |  X   |    |    |      |  X   | X  |
 Life Savers               |  3  |     |    |    | X  |       |  X   |    |    |      |  X   | X  | X
 Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
+Macondo                   |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
 Milonga                   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nickainley                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
@@ -252,6 +259,7 @@ Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    | 
 Quando                    |  1  |     | X  |    |    |  X    |      |    |    |      |  X   |    |
 Rock&nbsp;Salt            |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    |      |      | X  |
+Sasla                     |  1  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
 Satisfy                   |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 Shadows&nbsp;Into&nbsp;Light&nbsp;Two    |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Slabo                     |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
@@ -261,8 +269,6 @@ Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    | 
 Unifraktur                |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   |    |
 Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
 Yellowtail                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Lemonada                  |  4  |     |    |    | X  |       |  X   |    |    |      |  X   | X  |
-Arima&nbsp;Madurai        |  8  |     |    |    | X  |       |  X   |    | X  |      |  X   | X  |
 
 Browser Support
 ---------------
