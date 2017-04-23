@@ -1,0 +1,184 @@
+
+# QUICK General GitIgnore Notes
+# **************************************************
+# "#" = Comment Line NOTE: You Cannot Put a Comment in the Same Line as a Rule to Be Used
+#							For Example this is BAD: 'ignoreFileName          # Description Comment'
+#
+# Git Ignores are Unrooted. Patterns will match anything at or below a rule's declaration location.
+#
+# "!" may be used to undo a more broad match as long as the containing directory is not entirely ignored.
+#
+# Note on Mac icon files for folders with custom icons: Apple decided that the file name should
+# contain an actual CRLF! The trick is to use the literal ^M control character in the name. But
+# there’s a trick to this trick: you need two ^M characters.
+#
+# **************************************************
+
+
+
+#     Ignore Anywhere Files
+#     ----------------------------
+
+# -------------[ OS Generated ]------------------------ #
+
+._.DS_Store
+.DS_Store
+.DS_Store?
+.icon
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon^M^M
+[Tt]humbs.db
+
+
+
+# -------------[ Adobe Dreamweaver Generated ]------------------------ #
+
+dwsync.xml
+
+# -------------[ Adobe Flash Generated ]------------------------ #
+
+RECOVER_*
+
+# -------------[ Bower ]------------------------ #
+
+**/bower_components/
+
+
+
+# -------------[ Eclipse ]------------------------ #
+
+*.pydevproject
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# -- External tool builders
+.externalToolBuilders/
+
+# -- Locally stored "Eclipse launch configurations"
+*.launch
+
+# -- CDT-specific
+.cproject
+
+# -- PDT-specific
+.buildpath
+
+# -------------[ Flash Builder / Flex Generated ]------------------------ #
+
+.settings/openInBuilder
+
+# -------------[ FlashBuildMachine Generated ]------------------------ #
+
+FBM_LastBuildLog.txt
+Fail_Log.txt
+
+
+# -------------[ JetBrains Apps - IntelliJ IDEA, WebStorm, etc. ]------------------------ #
+
+*.iws
+**/.idea/dictionaries
+**/.idea/jsLibraryMappings.xml
+**/.idea/tasks.xml
+**/.idea/vcs.xml
+**/.idea/workspace.xml
+
+# ___Gradle Support___
+**/.idea/gradle.xml
+**/.idea/libraries
+
+# ___Mongo Explorer plugin___
+**/.idea/mongoSettings.xml
+
+# ___mpeltonen/sbt-idea plugin___
+**/.idea_modules/
+
+# ___JIRA plugin___
+atlassian-ide-plugin.xml
+
+# ___Crashlytics plugin (for Android Studio and IntelliJ)___
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# ___Sensitive or high-churn files___
+**/.idea/dataSources.ids
+**/.idea/dataSources.xml
+**/.idea/dataSources.local.xml
+**/.idea/sqlDataSources.xml
+**/.idea/dynamic.xml
+**/.idea/uiDesigner.xml
+
+
+# -------------[ NodeJS NPM ]------------------------ #
+
+**/node_modules/
+
+
+# -------------[ SASS/SCSS ]------------------------ #
+.sass-cache/
+*.css.map
+
+# ----[ Visual Studio / MonoDevelop Generated ]------- #
+
+*.pidb
+*.suo
+*.svd
+*.user
+*.userprefs
+*.userosscache
+*.sln.docstates
+.vs/
+
+# ----[ Visual Studio Code ]------- #
+
+.vscode/
+
+
+#     Ignore Anywhere Folders -- Keep in mind, these will keep the folder’s out of the repo as well as their content
+#     ----------------------------
+
+.svn
+_[Bb]uilds
+__[Bb]uilds
+__[Bb]uildLogs
+_[Ss]taging
+__[Tt]emp
+_notes
+[Bb]in
+[Cc]ache
+[Oo]bj
+[Ll]ogs
+[Tt]mp
+[Tt]emp
+
+
+#     Targeted Folder Ignores -- Keep in mind, these will keep the folder’s out of the repo as well as their content
+#     ----------------------------
+
+
+
+#     Targeted File Ignores -- Containing Folders will Still be Included in the Repo as Long as One File in them is Included
+#     ----------------------------
+
+
+
+
+#     Maintained Folder Ignores -- Ignore All Content in These Folders, Except the Directory Maintaining Text File
+#     ----------------------------
+
+__Build/*
+!__Build/__BuildDirectory.txt
+
+configs/*
+!configs/__DirectoryInfo.txt
