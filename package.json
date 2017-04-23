@@ -1,26 +1,37 @@
 {
-    "name":        "typopro",
-    "version":     "3.6.0",
-    "description": "Fonts for Professional Typography (META)",
-    "homepage":    "https://github.com/rse/typopro",
-    "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
-    "author": {
-        "name":    "Ralf S. Engelschall",
-        "email":   "rse@engelschall.com",
-        "url":     "http://engelschall.com"
-    },
-    "keywords": [
-        "font", "typography", "ttf", "otf", "woff", "eot"
-    ],
-    "repository": {
-        "type":    "git",
-        "url":     "git://github.com/rse/typopro.git"
-    },
-    "bugs": {
-        "url":     "http://github.com/rse/typopro/issues"
-    },
-    "dependencies" : {
-        "typopro-web": "3.6.0",
-        "typopro-dtp": "3.6.0"
-    }
+  "name": "typopro",
+  "version": "3.6.0",
+  "description": "Fonts for Professional Typography (META)",
+  "homepage": "https://github.com/rse/typopro",
+  "license": "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
+  "author": {
+    "name": "Ralf S. Engelschall",
+    "email": "rse@engelschall.com",
+    "url": "http://engelschall.com"
+  },
+  "keywords": [
+    "font",
+    "typography",
+    "ttf",
+    "otf",
+    "woff",
+    "eot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rse/typopro.git"
+  },
+  "bugs": {
+    "url": "http://github.com/rse/typopro/issues"
+  },
+  "dependencies": {
+    "typopro-web": "3.6.0",
+    "typopro-dtp": "3.6.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-typopro": "^1.0.0",
+    "matchdep": "^1.0.1"
+  }
 }
