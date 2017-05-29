@@ -1,7 +1,7 @@
 Name:       Source Code Pro
 Homepage:   https://github.com/adobe-fonts/source-code-pro
 Download:   https://github.com/adobe-fonts/source-code-pro
-Version:    2.010/1.030 (2015-07)
+Version:    2.030/1.050 (2016-07)
 License:    Open Font License 1.1
 Publisher:  Adobe
 Designer:   Paul D. Hunt

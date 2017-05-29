@@ -1,7 +1,7 @@
 Name:       Cormorant
 Homepage:   https://github.com/CatharsisFonts/Cormorant
 Download:   https://github.com/CatharsisFonts/Cormorant
-Version:    2.1 (2015-11)
+Version:    3.3 (2017-01)
 License:    Open Font License 1.1
 Publisher:  Christian Thalmann
 Designer:   Christian Thalmann
@@ -15,12 +15,11 @@ Garamond Italic, Upright Cursive, Small Caps, Unicase) and 5 weights
 (Light, Regular, Medium, Semibold, Bold).
 
 
-Copyright (c) 2015, Christian Thalmann (christian.d.thalmann@gmail.com).
+Copyright (c) 2015, Christian Thalmann and the Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
-
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007

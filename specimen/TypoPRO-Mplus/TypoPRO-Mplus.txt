@@ -1,7 +1,7 @@
 Name:       DejaVu
 Homepage:   http://mplus-fonts.osdn.jp/mplus-outline-fonts/index-en.html
 Download:   http://mplus-fonts.osdn.jp/mplus-outline-fonts/index-en.html
-Version:    TESTFLIGHT-059 (2014-11)
+Version:    TESTFLIGHT-062 (2016-10)
 License:    Freely Usable
 Publisher:  M+ Fonts Project
 Designer:   M+ Fonts Project

@@ -14,6 +14,21 @@
 }
 
 
+/* TypoPRO Montserrat Black Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Montserrat Bold */
 @font-face {
     font-family:  'TypoPRO Montserrat';
@@ -24,6 +39,96 @@
                   url('TypoPRO-Montserrat-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Italic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -44,7 +149,52 @@
 }
 
 
-/* TypoPRO Montserrat */
+/* TypoPRO Montserrat Light Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Medium */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Medium.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Regular */
 @font-face {
     font-family:  'TypoPRO Montserrat';
     src:          url('TypoPRO-Montserrat-Regular.eot');
@@ -59,7 +209,37 @@
 }
 
 
-/* TypoPRO Montserrat Hairline */
+/* TypoPRO Montserrat SemiBold */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Montserrat-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Thin */
 @font-face {
     font-family:  'TypoPRO Montserrat';
     src:          url('TypoPRO-Montserrat-Thin.eot');
@@ -74,7 +254,52 @@
 }
 
 
-/* TypoPRO Montserrat Alternates */
+/* TypoPRO Montserrat Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Black */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Black.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Black Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Bold */
 @font-face {
     font-family:  'TypoPRO Montserrat Alternates';
     src:          url('TypoPRO-MontserratAlternates-Bold.eot');
@@ -89,7 +314,157 @@
 }
 
 
-/* TypoPRO Montserrat Alternates */
+/* TypoPRO Montserrat Alternates Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates ExLight */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates ExLight */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Italic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Light */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Light.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Light Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-LightItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Medium */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Medium.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Regular */
 @font-face {
     font-family:  'TypoPRO Montserrat Alternates';
     src:          url('TypoPRO-MontserratAlternates-Regular.eot');
@@ -99,6 +474,66 @@
                   url('TypoPRO-MontserratAlternates-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates SemiBold */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-SemiBold.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Thin */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-Thin.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Montserrat Alternates Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
     font-stretch: normal;
     font-variant: normal;
 }

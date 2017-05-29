@@ -1,7 +1,7 @@
 Name:       Montserrat
 Homepage:   http://www.google.com/fonts/specimen/Montserrat
 Download:   http://www.google.com/fonts/specimen/Montserrat
-Version:    2.001 (2012)
+Version:    6.001 (2017-01)
 License:    Open Font License 1.1
 Publisher:  Julieta Ulanovsky
 Designer:   Julieta Ulanovsky

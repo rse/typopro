@@ -29,36 +29,6 @@
 }
 
 
-/* TypoPRO Cormorant Book */
-@font-face {
-    font-family:  'TypoPRO Cormorant';
-    src:          url('TypoPRO-Cormorant-Book.eot');
-    src:          local('*'),
-                  url('TypoPRO-Cormorant-Book.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Cormorant-Book.woff') format('woff'),
-                  url('TypoPRO-Cormorant-Book.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Cormorant Book Italic */
-@font-face {
-    font-family:  'TypoPRO Cormorant';
-    src:          url('TypoPRO-Cormorant-BookItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-Cormorant-BookItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Cormorant-BookItalic.woff') format('woff'),
-                  url('TypoPRO-Cormorant-BookItalic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
 /* TypoPRO Cormorant Italic */
 @font-face {
     font-family:  'TypoPRO Cormorant';
@@ -104,7 +74,37 @@
 }
 
 
-/* TypoPRO Cormorant-Regular */
+/* TypoPRO Cormorant Medium */
+@font-face {
+    font-family:  'TypoPRO Cormorant';
+    src:          url('TypoPRO-Cormorant-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cormorant-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cormorant-Medium.woff') format('woff'),
+                  url('TypoPRO-Cormorant-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Cormorant';
+    src:          url('TypoPRO-Cormorant-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cormorant-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cormorant-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Cormorant-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Regular */
 @font-face {
     font-family:  'TypoPRO Cormorant';
     src:          url('TypoPRO-Cormorant-Regular.eot');
@@ -119,14 +119,14 @@
 }
 
 
-/* TypoPRO Cormorant Semibold */
+/* TypoPRO Cormorant SemiBold */
 @font-face {
     font-family:  'TypoPRO Cormorant';
-    src:          url('TypoPRO-Cormorant-Semibold.eot');
+    src:          url('TypoPRO-Cormorant-SemiBold.eot');
     src:          local('*'),
-                  url('TypoPRO-Cormorant-Semibold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Cormorant-Semibold.woff') format('woff'),
-                  url('TypoPRO-Cormorant-Semibold.ttf') format('truetype');
+                  url('TypoPRO-Cormorant-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cormorant-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Cormorant-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -134,14 +134,14 @@
 }
 
 
-/* TypoPRO Cormorant Semibold Italic */
+/* TypoPRO Cormorant SemiBold Italic */
 @font-face {
     font-family:  'TypoPRO Cormorant';
-    src:          url('TypoPRO-Cormorant-SemiboldItalic.eot');
+    src:          url('TypoPRO-Cormorant-SemiBoldItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-Cormorant-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Cormorant-SemiboldItalic.woff') format('woff'),
-                  url('TypoPRO-Cormorant-SemiboldItalic.ttf') format('truetype');
+                  url('TypoPRO-Cormorant-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cormorant-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cormorant-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  600;
     font-stretch: normal;
@@ -174,36 +174,6 @@
                   url('TypoPRO-CormorantGaramond-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Cormorant Garamond Book */
-@font-face {
-    font-family:  'TypoPRO Cormorant Garamond';
-    src:          url('TypoPRO-CormorantGaramond-Book.eot');
-    src:          local('*'),
-                  url('TypoPRO-CormorantGaramond-Book.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantGaramond-Book.woff') format('woff'),
-                  url('TypoPRO-CormorantGaramond-Book.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Cormorant Garamond Book Italic */
-@font-face {
-    font-family:  'TypoPRO Cormorant Garamond';
-    src:          url('TypoPRO-CormorantGaramond-BookItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-CormorantGaramond-BookItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantGaramond-BookItalic.woff') format('woff'),
-                  url('TypoPRO-CormorantGaramond-BookItalic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -254,7 +224,37 @@
 }
 
 
-/* TypoPRO Cormorant Garamond */
+/* TypoPRO Cormorant Garamond Medium */
+@font-face {
+    font-family:  'TypoPRO Cormorant Garamond';
+    src:          url('TypoPRO-CormorantGaramond-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantGaramond-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantGaramond-Medium.woff') format('woff'),
+                  url('TypoPRO-CormorantGaramond-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Garamond Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Cormorant Garamond';
+    src:          url('TypoPRO-CormorantGaramond-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantGaramond-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantGaramond-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-CormorantGaramond-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Garamond Regular */
 @font-face {
     font-family:  'TypoPRO Cormorant Garamond';
     src:          url('TypoPRO-CormorantGaramond-Regular.eot');
@@ -269,14 +269,14 @@
 }
 
 
-/* TypoPRO Cormorant Garamond Semibold */
+/* TypoPRO Cormorant Garamond SemiBold */
 @font-face {
     font-family:  'TypoPRO Cormorant Garamond';
-    src:          url('TypoPRO-CormorantGaramond-Semibold.eot');
+    src:          url('TypoPRO-CormorantGaramond-SemiBold.eot');
     src:          local('*'),
-                  url('TypoPRO-CormorantGaramond-Semibold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantGaramond-Semibold.woff') format('woff'),
-                  url('TypoPRO-CormorantGaramond-Semibold.ttf') format('truetype');
+                  url('TypoPRO-CormorantGaramond-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantGaramond-SemiBold.woff') format('woff'),
+                  url('TypoPRO-CormorantGaramond-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -284,14 +284,14 @@
 }
 
 
-/* TypoPRO Cormorant Garamond Semibold Italic */
+/* TypoPRO Cormorant Garamond SemiBold Italic */
 @font-face {
     font-family:  'TypoPRO Cormorant Garamond';
-    src:          url('TypoPRO-CormorantGaramond-SemiboldItalic.eot');
+    src:          url('TypoPRO-CormorantGaramond-SemiBoldItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-CormorantGaramond-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantGaramond-SemiboldItalic.woff') format('woff'),
-                  url('TypoPRO-CormorantGaramond-SemiboldItalic.ttf') format('truetype');
+                  url('TypoPRO-CormorantGaramond-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantGaramond-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-CormorantGaramond-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  600;
     font-stretch: normal;
@@ -324,36 +324,6 @@
                   url('TypoPRO-CormorantInfant-BoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Cormorant Infant Book */
-@font-face {
-    font-family:  'TypoPRO Cormorant Infant';
-    src:          url('TypoPRO-CormorantInfant-Book.eot');
-    src:          local('*'),
-                  url('TypoPRO-CormorantInfant-Book.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantInfant-Book.woff') format('woff'),
-                  url('TypoPRO-CormorantInfant-Book.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Cormorant Infant Book Italic */
-@font-face {
-    font-family:  'TypoPRO Cormorant Infant';
-    src:          url('TypoPRO-CormorantInfant-BookItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-CormorantInfant-BookItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantInfant-BookItalic.woff') format('woff'),
-                  url('TypoPRO-CormorantInfant-BookItalic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -404,7 +374,37 @@
 }
 
 
-/* TypoPRO Cormorant Infant */
+/* TypoPRO Cormorant Infant Medium */
+@font-face {
+    font-family:  'TypoPRO Cormorant Infant';
+    src:          url('TypoPRO-CormorantInfant-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantInfant-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantInfant-Medium.woff') format('woff'),
+                  url('TypoPRO-CormorantInfant-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Infant Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Cormorant Infant';
+    src:          url('TypoPRO-CormorantInfant-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantInfant-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantInfant-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-CormorantInfant-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Infant Regular */
 @font-face {
     font-family:  'TypoPRO Cormorant Infant';
     src:          url('TypoPRO-CormorantInfant-Regular.eot');
@@ -419,14 +419,14 @@
 }
 
 
-/* TypoPRO Cormorant Infant Semibold */
+/* TypoPRO Cormorant Infant SemiBold */
 @font-face {
     font-family:  'TypoPRO Cormorant Infant';
-    src:          url('TypoPRO-CormorantInfant-Semibold.eot');
+    src:          url('TypoPRO-CormorantInfant-SemiBold.eot');
     src:          local('*'),
-                  url('TypoPRO-CormorantInfant-Semibold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantInfant-Semibold.woff') format('woff'),
-                  url('TypoPRO-CormorantInfant-Semibold.ttf') format('truetype');
+                  url('TypoPRO-CormorantInfant-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantInfant-SemiBold.woff') format('woff'),
+                  url('TypoPRO-CormorantInfant-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -434,14 +434,14 @@
 }
 
 
-/* TypoPRO Cormorant Infant Semibold Italic */
+/* TypoPRO Cormorant Infant SemiBold Italic */
 @font-face {
     font-family:  'TypoPRO Cormorant Infant';
-    src:          url('TypoPRO-CormorantInfant-SemiboldItalic.eot');
+    src:          url('TypoPRO-CormorantInfant-SemiBoldItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-CormorantInfant-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantInfant-SemiboldItalic.woff') format('woff'),
-                  url('TypoPRO-CormorantInfant-SemiboldItalic.ttf') format('truetype');
+                  url('TypoPRO-CormorantInfant-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantInfant-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-CormorantInfant-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  600;
     font-stretch: normal;
@@ -464,21 +464,6 @@
 }
 
 
-/* TypoPRO Cormorant SC Book */
-@font-face {
-    font-family:  'TypoPRO Cormorant SC';
-    src:          url('TypoPRO-CormorantSC-Book.eot');
-    src:          local('*'),
-                  url('TypoPRO-CormorantSC-Book.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantSC-Book.woff') format('woff'),
-                  url('TypoPRO-CormorantSC-Book.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
 /* TypoPRO Cormorant SC Light */
 @font-face {
     font-family:  'TypoPRO Cormorant SC';
@@ -494,7 +479,22 @@
 }
 
 
-/* TypoPRO Cormorant SC */
+/* TypoPRO Cormorant SC Medium */
+@font-face {
+    font-family:  'TypoPRO Cormorant SC';
+    src:          url('TypoPRO-CormorantSC-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantSC-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantSC-Medium.woff') format('woff'),
+                  url('TypoPRO-CormorantSC-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant SC Regular */
 @font-face {
     font-family:  'TypoPRO Cormorant SC';
     src:          url('TypoPRO-CormorantSC-Regular.eot');
@@ -509,14 +509,14 @@
 }
 
 
-/* TypoPRO Cormorant SC Semibold */
+/* TypoPRO Cormorant SC SemiBold */
 @font-face {
     font-family:  'TypoPRO Cormorant SC';
-    src:          url('TypoPRO-CormorantSC-Semibold.eot');
+    src:          url('TypoPRO-CormorantSC-SemiBold.eot');
     src:          local('*'),
-                  url('TypoPRO-CormorantSC-Semibold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantSC-Semibold.woff') format('woff'),
-                  url('TypoPRO-CormorantSC-Semibold.ttf') format('truetype');
+                  url('TypoPRO-CormorantSC-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantSC-SemiBold.woff') format('woff'),
+                  url('TypoPRO-CormorantSC-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -539,21 +539,6 @@
 }
 
 
-/* TypoPRO Cormorant Unicase Book */
-@font-face {
-    font-family:  'TypoPRO Cormorant Unicase';
-    src:          url('TypoPRO-CormorantUnicase-Book.eot');
-    src:          local('*'),
-                  url('TypoPRO-CormorantUnicase-Book.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantUnicase-Book.woff') format('woff'),
-                  url('TypoPRO-CormorantUnicase-Book.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
 /* TypoPRO Cormorant Unicase Light */
 @font-face {
     font-family:  'TypoPRO Cormorant Unicase';
@@ -569,7 +554,22 @@
 }
 
 
-/* TypoPRO Cormorant Unicase */
+/* TypoPRO Cormorant Unicase Medium */
+@font-face {
+    font-family:  'TypoPRO Cormorant Unicase';
+    src:          url('TypoPRO-CormorantUnicase-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantUnicase-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUnicase-Medium.woff') format('woff'),
+                  url('TypoPRO-CormorantUnicase-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Unicase Regular */
 @font-face {
     font-family:  'TypoPRO Cormorant Unicase';
     src:          url('TypoPRO-CormorantUnicase-Regular.eot');
@@ -584,14 +584,14 @@
 }
 
 
-/* TypoPRO Cormorant Unicase Semibold */
+/* TypoPRO Cormorant Unicase SemiBold */
 @font-face {
     font-family:  'TypoPRO Cormorant Unicase';
-    src:          url('TypoPRO-CormorantUnicase-Semibold.eot');
+    src:          url('TypoPRO-CormorantUnicase-SemiBold.eot');
     src:          local('*'),
-                  url('TypoPRO-CormorantUnicase-Semibold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantUnicase-Semibold.woff') format('woff'),
-                  url('TypoPRO-CormorantUnicase-Semibold.ttf') format('truetype');
+                  url('TypoPRO-CormorantUnicase-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUnicase-SemiBold.woff') format('woff'),
+                  url('TypoPRO-CormorantUnicase-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;
@@ -614,21 +614,6 @@
 }
 
 
-/* TypoPRO Cormorant Upright Book */
-@font-face {
-    font-family:  'TypoPRO Cormorant Upright';
-    src:          url('TypoPRO-CormorantUpright-Book.eot');
-    src:          local('*'),
-                  url('TypoPRO-CormorantUpright-Book.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantUpright-Book.woff') format('woff'),
-                  url('TypoPRO-CormorantUpright-Book.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
 /* TypoPRO Cormorant Upright Light */
 @font-face {
     font-family:  'TypoPRO Cormorant Upright';
@@ -639,6 +624,21 @@
                   url('TypoPRO-CormorantUpright-Light.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cormorant Upright Medium */
+@font-face {
+    font-family:  'TypoPRO Cormorant Upright';
+    src:          url('TypoPRO-CormorantUpright-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantUpright-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUpright-Medium.woff') format('woff'),
+                  url('TypoPRO-CormorantUpright-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -659,14 +659,14 @@
 }
 
 
-/* TypoPRO Cormorant Upright Semibold */
+/* TypoPRO Cormorant Upright SemiBold */
 @font-face {
     font-family:  'TypoPRO Cormorant Upright';
-    src:          url('TypoPRO-CormorantUpright-Semibold.eot');
+    src:          url('TypoPRO-CormorantUpright-SemiBold.eot');
     src:          local('*'),
-                  url('TypoPRO-CormorantUpright-Semibold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-CormorantUpright-Semibold.woff') format('woff'),
-                  url('TypoPRO-CormorantUpright-Semibold.ttf') format('truetype');
+                  url('TypoPRO-CormorantUpright-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantUpright-SemiBold.woff') format('woff'),
+                  url('TypoPRO-CormorantUpright-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;

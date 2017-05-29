@@ -14,6 +14,21 @@
 }
 
 
+/* TypoPRO Yanone Kaffeesatz ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Yanone Kaffeesatz';
+    src:          url('TypoPRO-YanoneKaffeesatz-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-YanoneKaffeesatz-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-YanoneKaffeesatz-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-YanoneKaffeesatz-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Yanone Kaffeesatz Light */
 @font-face {
     font-family:  'TypoPRO Yanone Kaffeesatz';
@@ -23,7 +38,7 @@
                   url('TypoPRO-YanoneKaffeesatz-Light.woff') format('woff'),
                   url('TypoPRO-YanoneKaffeesatz-Light.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  300;
+    font-weight:  200;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -39,21 +54,6 @@
                   url('TypoPRO-YanoneKaffeesatz-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Yanone Kaffeesatz Thin */
-@font-face {
-    font-family:  'TypoPRO Yanone Kaffeesatz';
-    src:          url('TypoPRO-YanoneKaffeesatz-Thin.eot');
-    src:          local('*'),
-                  url('TypoPRO-YanoneKaffeesatz-Thin.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-YanoneKaffeesatz-Thin.woff') format('woff'),
-                  url('TypoPRO-YanoneKaffeesatz-Thin.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  200;
     font-stretch: normal;
     font-variant: normal;
 }

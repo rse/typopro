@@ -1,7 +1,7 @@
 Name:       Noto
 Homepage:   http://www.google.com/get/noto/
 Download:   http://www.google.com/get/noto/
-Version:    2015-09-19
+Version:    2016-10-07
 License:    Apache License 2.0
 Publisher:  Open Handset Alliance, Google
 Designer:   Steve Metteson (Ascender)

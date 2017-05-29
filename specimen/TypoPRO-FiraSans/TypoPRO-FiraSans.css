@@ -314,7 +314,7 @@
 }
 
 
-/* TypoPRO Fira Sans */
+/* TypoPRO Fira Sans Regular */
 @font-face {
     font-family:  'TypoPRO Fira Sans';
     src:          url('TypoPRO-FiraSans-Regular.eot');
@@ -419,36 +419,6 @@
 }
 
 
-/* TypoPRO Fira Sans Ultra */
-@font-face {
-    font-family:  'TypoPRO Fira Sans 950';
-    src:          url('TypoPRO-FiraSans-Ultra.eot');
-    src:          local('*'),
-                  url('TypoPRO-FiraSans-Ultra.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-FiraSans-Ultra.woff') format('woff'),
-                  url('TypoPRO-FiraSans-Ultra.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  normal;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Fira Sans Ultra Italic */
-@font-face {
-    font-family:  'TypoPRO Fira Sans 950';
-    src:          url('TypoPRO-FiraSans-UltraItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-FiraSans-UltraItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-FiraSans-UltraItalic.woff') format('woff'),
-                  url('TypoPRO-FiraSans-UltraItalic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  normal;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
 /* TypoPRO Fira Sans UltraLight */
 @font-face {
     font-family:  'TypoPRO Fira Sans';
@@ -479,6 +449,456 @@
 }
 
 
+/* TypoPRO Fira Sans Compressed Bold */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Bold.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Book */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 350';
+    src:          url('TypoPRO-FiraSansCompressed-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Book.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Book Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 350';
+    src:          url('TypoPRO-FiraSansCompressed-BookItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-BookItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-BookItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-BookItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Eight */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 75';
+    src:          url('TypoPRO-FiraSansCompressed-Eight.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Eight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Eight.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Eight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Eight Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 75';
+    src:          url('TypoPRO-FiraSansCompressed-EightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-EightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-EightItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-EightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 250';
+    src:          url('TypoPRO-FiraSansCompressed-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 250';
+    src:          url('TypoPRO-FiraSansCompressed-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Four */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 50';
+    src:          url('TypoPRO-FiraSansCompressed-Four.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Four.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Four.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Four.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Four Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 50';
+    src:          url('TypoPRO-FiraSansCompressed-FourItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-FourItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-FourItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-FourItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Hair */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Hair.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Hair.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Hair.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Hair.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Hair Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-HairItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-HairItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-HairItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-HairItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Heavy */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Heavy.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Heavy Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-HeavyItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-HeavyItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-HeavyItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Italic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Light */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Light.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Light Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Medium */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Medium.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Regular */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Regular.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Thin */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 150';
+    src:          url('TypoPRO-FiraSansCompressed-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Thin.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 150';
+    src:          url('TypoPRO-FiraSansCompressed-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Two */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 25';
+    src:          url('TypoPRO-FiraSansCompressed-Two.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Two.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Two.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Two.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed Two Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 25';
+    src:          url('TypoPRO-FiraSansCompressed-TwoItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-TwoItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-TwoItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-TwoItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed UltraLight */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-UltraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-UltraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-UltraLight.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-UltraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Sans Compressed UltraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-UltraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-UltraLightItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-UltraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Fira Sans Condensed Bold */
 @font-face {
     font-family:  'TypoPRO Fira Sans Condensed';
@@ -488,7 +908,7 @@
                   url('TypoPRO-FiraSansCondensed-Bold.woff') format('woff'),
                   url('TypoPRO-FiraSansCondensed-Bold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  600;
+    font-weight:  bold;
     font-stretch: condensed;
     font-variant: normal;
 }
@@ -503,7 +923,7 @@
                   url('TypoPRO-FiraSansCondensed-BoldItalic.woff') format('woff'),
                   url('TypoPRO-FiraSansCondensed-BoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  600;
+    font-weight:  bold;
     font-stretch: condensed;
     font-variant: normal;
 }
@@ -584,6 +1004,21 @@
 }
 
 
+/* TypoPRO Fira Sans Condensed ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Condensed';
+    src:          url('TypoPRO-FiraSansCondensed-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Fira Sans Condensed ExtraLight */
 @font-face {
     font-family:  'TypoPRO Fira Sans Condensed 250';
@@ -609,21 +1044,6 @@
                   url('TypoPRO-FiraSansCondensed-ExtraLightItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
-    font-stretch: condensed;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Fira Sans Condensed ExtraBold Italic */
-@font-face {
-    font-family:  'TypoPRO Fira Sans Condensed';
-    src:          url('TypoPRO-FiraSansCondensed-ExtraboldItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-FiraSansCondensed-ExtraboldItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-FiraSansCondensed-ExtraboldItalic.woff') format('woff'),
-                  url('TypoPRO-FiraSansCondensed-ExtraboldItalic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  800;
     font-stretch: condensed;
     font-variant: normal;
 }
@@ -794,7 +1214,7 @@
 }
 
 
-/* TypoPRO Fira Sans Condensed */
+/* TypoPRO Fira Sans Condensed Regular */
 @font-face {
     font-family:  'TypoPRO Fira Sans Condensed';
     src:          url('TypoPRO-FiraSansCondensed-Regular.eot');
@@ -818,7 +1238,7 @@
                   url('TypoPRO-FiraSansCondensed-SemiBold.woff') format('woff'),
                   url('TypoPRO-FiraSansCondensed-SemiBold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: condensed;
     font-variant: normal;
 }
@@ -827,13 +1247,13 @@
 /* TypoPRO Fira Sans Condensed SemiBold Italic */
 @font-face {
     font-family:  'TypoPRO Fira Sans Condensed';
-    src:          url('TypoPRO-FiraSansCondensed-SemiboldItalic.eot');
+    src:          url('TypoPRO-FiraSansCondensed-SemiBoldItalic.eot');
     src:          local('*'),
-                  url('TypoPRO-FiraSansCondensed-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-FiraSansCondensed-SemiboldItalic.woff') format('woff'),
-                  url('TypoPRO-FiraSansCondensed-SemiboldItalic.ttf') format('truetype');
+                  url('TypoPRO-FiraSansCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCondensed-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: condensed;
     font-variant: normal;
 }
@@ -892,36 +1312,6 @@
                   url('TypoPRO-FiraSansCondensed-TwoItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-FiraSansCondensed-TwoItalic.woff') format('woff'),
                   url('TypoPRO-FiraSansCondensed-TwoItalic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  normal;
-    font-stretch: condensed;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Fira Sans Condensed Ultra */
-@font-face {
-    font-family:  'TypoPRO Fira Sans Condensed 950';
-    src:          url('TypoPRO-FiraSansCondensed-Ultra.eot');
-    src:          local('*'),
-                  url('TypoPRO-FiraSansCondensed-Ultra.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-FiraSansCondensed-Ultra.woff') format('woff'),
-                  url('TypoPRO-FiraSansCondensed-Ultra.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  normal;
-    font-stretch: condensed;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Fira Sans Condensed Ultra Italic */
-@font-face {
-    font-family:  'TypoPRO Fira Sans Condensed 950';
-    src:          url('TypoPRO-FiraSansCondensed-UltraItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-FiraSansCondensed-UltraItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-FiraSansCondensed-UltraItalic.woff') format('woff'),
-                  url('TypoPRO-FiraSansCondensed-UltraItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: condensed;

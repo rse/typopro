@@ -8,7 +8,7 @@
                   url('TypoPRO-FiraSansCondensed-Bold.woff') format('woff'),
                   url('TypoPRO-FiraSansCondensed-Bold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  600;
+    font-weight:  bold;
     font-stretch: condensed;
     font-variant: normal;
 }

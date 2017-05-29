@@ -1,12 +1,27 @@
 Name:       Yanone Kaffeesatz
-Homepage:   http://www.yanone.de/typedesign/kaffeesatz/
-Download:   http://www.yanone.de/typedesign/kaffeesatz/YanoneKaffeesatz.zip
-Version:    1.002 (2010)
+Homepage:   http://yanone.de/fonts/kaffeesatz/
+Download:   https://github.com/alexeiva/yanone-kaffeesatz
+Version:    2.000 (2016-12)
 License:    Open Font License 1.1
 Publisher:  Jan Gerner (Yanone)
 Designer:   Jan Gerner (Yanone)
 Designed:   2004
 Derivation: none
+
+Yanone Kaffeesatz was first published in 2004 and is Yanone’s first
+ever finished typeface. Its Bold is reminiscent of 1920s coffee house
+typography, while the rather thin fonts bridge the gap to present
+times. Lacking self confidence and knowledge about the type scene,
+Yanone decided to publish the family for free under a Creative Commons
+License. A decision that should turn out one of the best he ever made.
+It has been downloaded over 100,000 times to date, and you can witness
+Kaffeesatz use on German fresh-water gyms, Dubai mall promos and New
+Zealand McDonalds ads. And of course on coffee and foodstuff packaging
+and café design around the globe.
+
+In 2009 he reworked much of the typeface and it got published in
+FontShop’s FontFont Library under the new name FF Kava. You can read
+more about it in an extensive article by Yves Peters on FontFeed.
 
 SIL OPEN FONT LICENSE
 
