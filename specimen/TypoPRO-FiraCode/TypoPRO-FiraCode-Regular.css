@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Code Regular */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Regular.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

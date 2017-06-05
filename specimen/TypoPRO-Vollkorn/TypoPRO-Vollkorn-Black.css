@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn Black */
+@font-face {
+    font-family:  'TypoPRO Vollkorn';
+    src:          url('TypoPRO-Vollkorn-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vollkorn-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vollkorn-Black.woff') format('woff'),
+                  url('TypoPRO-Vollkorn-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira SemiCondensed Medium */
+@font-face {
+    font-family:  'TypoPRO Saira SemiCondensed';
+    src:          url('TypoPRO-SairaSemiCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-SairaSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SairaSemiCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-SairaSemiCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

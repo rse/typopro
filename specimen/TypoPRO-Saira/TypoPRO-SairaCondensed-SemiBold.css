@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Saira Condensed';
+    src:          url('TypoPRO-SairaCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SairaCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SairaCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-SairaCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira Light */
+@font-face {
+    font-family:  'TypoPRO Saira';
+    src:          url('TypoPRO-Saira-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Saira-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Saira-Light.woff') format('woff'),
+                  url('TypoPRO-Saira-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

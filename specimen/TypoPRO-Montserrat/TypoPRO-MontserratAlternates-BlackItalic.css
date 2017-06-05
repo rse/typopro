@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Alternates Black Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Heavy Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-heavyoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-heavyoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-heavyoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-heavyoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

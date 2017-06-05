@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Slab Thin Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-thinoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-thinoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-thinoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-thinoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

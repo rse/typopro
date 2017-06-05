@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

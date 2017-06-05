@@ -1,0 +1,15 @@
+
+/* TypoPRO Go Mono Bold */
+@font-face {
+    font-family:  'TypoPRO Go Mono';
+    src:          url('TypoPRO-Go-Mono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Go-Mono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Go-Mono-Bold.woff') format('woff'),
+                  url('TypoPRO-Go-Mono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

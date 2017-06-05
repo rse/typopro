@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Overpass';
+    src:          url('TypoPRO-Overpass-SemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-SemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-Overpass-SemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

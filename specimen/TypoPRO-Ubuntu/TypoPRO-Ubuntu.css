@@ -29,17 +29,17 @@
 }
 
 
-/* TypoPRO Ubuntu Condensed */
+/* TypoPRO Ubuntu Italic */
 @font-face {
     font-family:  'TypoPRO Ubuntu';
-    src:          url('TypoPRO-Ubuntu-Condensed.eot');
+    src:          url('TypoPRO-Ubuntu-Italic.eot');
     src:          local('*'),
-                  url('TypoPRO-Ubuntu-Condensed.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Ubuntu-Condensed.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-Condensed.ttf') format('truetype');
-    font-style:   normal;
+                  url('TypoPRO-Ubuntu-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Ubuntu-Italic.woff') format('woff'),
+                  url('TypoPRO-Ubuntu-Italic.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  normal;
-    font-stretch: condensed;
+    font-stretch: normal;
     font-variant: normal;
 }
 
@@ -74,7 +74,7 @@
 }
 
 
-/* TypoPRO Ubuntu Light */
+/* TypoPRO Ubuntu Medium */
 @font-face {
     font-family:  'TypoPRO Ubuntu';
     src:          url('TypoPRO-Ubuntu-Medium.eot');
@@ -89,7 +89,7 @@
 }
 
 
-/* TypoPRO Ubuntu Light */
+/* TypoPRO Ubuntu Medium Italic */
 @font-face {
     font-family:  'TypoPRO Ubuntu';
     src:          url('TypoPRO-Ubuntu-MediumItalic.eot');
@@ -104,7 +104,7 @@
 }
 
 
-/* TypoPRO Ubuntu */
+/* TypoPRO Ubuntu Regular */
 @font-face {
     font-family:  'TypoPRO Ubuntu';
     src:          url('TypoPRO-Ubuntu-Regular.eot');
@@ -119,15 +119,15 @@
 }
 
 
-/* TypoPRO Ubuntu Italic */
+/* TypoPRO Ubuntu Condensed */
 @font-face {
-    font-family:  'TypoPRO Ubuntu';
-    src:          url('TypoPRO-Ubuntu-RegularItalic.eot');
+    font-family:  'TypoPRO Ubuntu Condensed';
+    src:          url('TypoPRO-UbuntuCondensed-Regular.eot');
     src:          local('*'),
-                  url('TypoPRO-Ubuntu-RegularItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Ubuntu-RegularItalic.woff') format('woff'),
-                  url('TypoPRO-Ubuntu-RegularItalic.ttf') format('truetype');
-    font-style:   italic;
+                  url('TypoPRO-UbuntuCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UbuntuCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-UbuntuCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
@@ -164,6 +164,21 @@
 }
 
 
+/* TypoPRO Ubuntu Mono Italic */
+@font-face {
+    font-family:  'TypoPRO Ubuntu Mono';
+    src:          url('TypoPRO-UbuntuMono-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-UbuntuMono-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UbuntuMono-Italic.woff') format('woff'),
+                  url('TypoPRO-UbuntuMono-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Ubuntu Mono */
 @font-face {
     font-family:  'TypoPRO Ubuntu Mono';
@@ -173,21 +188,6 @@
                   url('TypoPRO-UbuntuMono-Regular.woff') format('woff'),
                   url('TypoPRO-UbuntuMono-Regular.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  normal;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Ubuntu Mono Italic */
-@font-face {
-    font-family:  'TypoPRO Ubuntu Mono';
-    src:          url('TypoPRO-UbuntuMono-RegularItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-UbuntuMono-RegularItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-UbuntuMono-RegularItalic.woff') format('woff'),
-                  url('TypoPRO-UbuntuMono-RegularItalic.ttf') format('truetype');
-    font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;

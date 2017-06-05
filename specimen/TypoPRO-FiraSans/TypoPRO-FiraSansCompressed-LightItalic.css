@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed Light Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

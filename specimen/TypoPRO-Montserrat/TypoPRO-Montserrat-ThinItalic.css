@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

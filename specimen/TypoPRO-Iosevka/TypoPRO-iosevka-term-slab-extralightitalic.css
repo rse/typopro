@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Slab Extralight Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-extralightitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-extralightitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-extralightitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-extralightitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

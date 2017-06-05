@@ -1,0 +1,15 @@
+
+/* TypoPRO ETBembo DisplayItalic */
+@font-face {
+    font-family:  'TypoPRO ET Book OF';
+    src:          url('TypoPRO-ETBookOF-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookOF-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookOF-Italic.woff') format('woff'),
+                  url('TypoPRO-ETBookOF-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

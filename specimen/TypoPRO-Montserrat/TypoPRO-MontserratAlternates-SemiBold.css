@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Alternates SemiBold */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-SemiBold.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

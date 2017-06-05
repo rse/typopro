@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed Eight Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 75';
+    src:          url('TypoPRO-FiraSansCompressed-EightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-EightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-EightItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-EightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

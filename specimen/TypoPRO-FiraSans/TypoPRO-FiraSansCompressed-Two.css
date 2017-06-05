@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed Two */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 25';
+    src:          url('TypoPRO-FiraSansCompressed-Two.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Two.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Two.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Two.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass Heavy */
+@font-face {
+    font-family:  'TypoPRO Overpass';
+    src:          url('TypoPRO-Overpass-Heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-Heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-Heavy.woff') format('woff'),
+                  url('TypoPRO-Overpass-Heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

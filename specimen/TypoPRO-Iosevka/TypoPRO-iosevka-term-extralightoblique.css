@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Extralight Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-extralightoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-extralightoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-extralightoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-extralightoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

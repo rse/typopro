@@ -1,0 +1,15 @@
+
+/* TypoPRO Macondo Swash Caps */
+@font-face {
+    font-family:  'TypoPRO Macondo Swash Caps';
+    src:          url('TypoPRO-MacondoSwashCaps-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-MacondoSwashCaps-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MacondoSwashCaps-Regular.woff') format('woff'),
+                  url('TypoPRO-MacondoSwashCaps-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

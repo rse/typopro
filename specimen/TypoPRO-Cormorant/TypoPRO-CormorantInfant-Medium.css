@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Infant Medium */
+@font-face {
+    font-family:  'TypoPRO Cormorant Infant';
+    src:          url('TypoPRO-CormorantInfant-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantInfant-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantInfant-Medium.woff') format('woff'),
+                  url('TypoPRO-CormorantInfant-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

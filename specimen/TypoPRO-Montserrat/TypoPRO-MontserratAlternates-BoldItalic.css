@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Alternates Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

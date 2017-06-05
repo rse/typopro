@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

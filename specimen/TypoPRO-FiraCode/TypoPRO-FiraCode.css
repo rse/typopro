@@ -1,0 +1,45 @@
+
+/* TypoPRO Fira Code Bold */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Bold.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Code Medium */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Medium.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Code Regular */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Regular.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

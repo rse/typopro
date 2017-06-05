@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Infant SemiBold */
+@font-face {
+    font-family:  'TypoPRO Cormorant Infant';
+    src:          url('TypoPRO-CormorantInfant-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantInfant-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantInfant-SemiBold.woff') format('woff'),
+                  url('TypoPRO-CormorantInfant-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

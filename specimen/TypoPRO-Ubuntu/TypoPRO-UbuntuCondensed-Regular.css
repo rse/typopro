@@ -1,0 +1,15 @@
+
+/* TypoPRO Ubuntu Condensed */
+@font-face {
+    font-family:  'TypoPRO Ubuntu Condensed';
+    src:          url('TypoPRO-UbuntuCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-UbuntuCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-UbuntuCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-UbuntuCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

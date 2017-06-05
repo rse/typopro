@@ -1,0 +1,15 @@
+
+/* TypoPRO Go Bold */
+@font-face {
+    font-family:  'TypoPRO Go Sans';
+    src:          url('TypoPRO-Go-Sans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Go-Sans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Go-Sans-Bold.woff') format('woff'),
+                  url('TypoPRO-Go-Sans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

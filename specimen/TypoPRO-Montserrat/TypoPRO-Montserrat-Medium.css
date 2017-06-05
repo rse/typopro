@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Medium */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-Medium.woff') format('woff'),
+                  url('TypoPRO-Montserrat-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

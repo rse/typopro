@@ -1,7 +1,7 @@
 Name:       Sansita One
 Homepage:   http://omnibus-type.com/
 Download:   http://www.google.com/fonts/download?kit=cZwCY69NTf4wdp7LLVbtOIfD-WQWLbF4rYwcBGowFYY
-Version:    1.001
+Version:    1.002
 License:    Open Font License
 Publisher:  Omnibus-Type
 Designer:   Omnibus-Type

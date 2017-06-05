@@ -1,0 +1,15 @@
+
+/* TypoPRO Mukta ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Mukta-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

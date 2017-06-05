@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira Black */
+@font-face {
+    font-family:  'TypoPRO Saira';
+    src:          url('TypoPRO-Saira-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Saira-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Saira-Black.woff') format('woff'),
+                  url('TypoPRO-Saira-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

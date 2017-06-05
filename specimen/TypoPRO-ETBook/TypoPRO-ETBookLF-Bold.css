@@ -1,0 +1,15 @@
+
+/* TypoPRO ETBembo BoldLF */
+@font-face {
+    font-family:  'TypoPRO ET Book LF';
+    src:          url('TypoPRO-ETBookLF-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookLF-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookLF-Bold.woff') format('woff'),
+                  url('TypoPRO-ETBookLF-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

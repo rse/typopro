@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Montserrat-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Bold */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-bold.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

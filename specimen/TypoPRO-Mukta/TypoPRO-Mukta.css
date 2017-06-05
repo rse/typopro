@@ -1,0 +1,105 @@
+
+/* TypoPRO Mukta Bold */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-Bold.woff') format('woff'),
+                  url('TypoPRO-Mukta-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Mukta ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Mukta-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Mukta ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Mukta-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Mukta Light */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-Light.woff') format('woff'),
+                  url('TypoPRO-Mukta-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Mukta Medium */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-Medium.woff') format('woff'),
+                  url('TypoPRO-Mukta-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Mukta Regular */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-Regular.woff') format('woff'),
+                  url('TypoPRO-Mukta-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Mukta SemiBold */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Mukta-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

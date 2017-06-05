@@ -1,0 +1,15 @@
+
+/* TypoPRO Mukta Bold */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-Bold.woff') format('woff'),
+                  url('TypoPRO-Mukta-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

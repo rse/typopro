@@ -1,0 +1,15 @@
+
+/* TypoPRO Mukta Medium */
+@font-face {
+    font-family:  'TypoPRO Mukta';
+    src:          url('TypoPRO-Mukta-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Mukta-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Mukta-Medium.woff') format('woff'),
+                  url('TypoPRO-Mukta-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

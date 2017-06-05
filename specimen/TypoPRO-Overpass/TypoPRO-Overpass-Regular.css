@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass Regular */
+@font-face {
+    font-family:  'TypoPRO Overpass';
+    src:          url('TypoPRO-Overpass-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-Regular.woff') format('woff'),
+                  url('TypoPRO-Overpass-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

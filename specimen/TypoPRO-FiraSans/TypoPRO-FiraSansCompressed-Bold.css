@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed Bold */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Bold.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+

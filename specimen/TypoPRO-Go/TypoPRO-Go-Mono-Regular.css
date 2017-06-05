@@ -1,0 +1,15 @@
+
+/* TypoPRO Go Mono */
+@font-face {
+    font-family:  'TypoPRO Go Mono';
+    src:          url('TypoPRO-Go-Mono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Go-Mono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Go-Mono-Regular.woff') format('woff'),
+                  url('TypoPRO-Go-Mono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Go Medium */
+@font-face {
+    font-family:  'TypoPRO Go Sans';
+    src:          url('TypoPRO-Go-Sans-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Go-Sans-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Go-Sans-Medium.woff') format('woff'),
+                  url('TypoPRO-Go-Sans-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

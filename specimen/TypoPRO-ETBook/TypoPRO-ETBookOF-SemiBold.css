@@ -1,0 +1,15 @@
+
+/* TypoPRO ETBembo SemiBoldOSF */
+@font-face {
+    font-family:  'TypoPRO ET Book OF';
+    src:          url('TypoPRO-ETBookOF-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookOF-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookOF-SemiBold.woff') format('woff'),
+                  url('TypoPRO-ETBookOF-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

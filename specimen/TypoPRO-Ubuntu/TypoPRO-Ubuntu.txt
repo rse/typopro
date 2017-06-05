@@ -1,7 +1,7 @@
 Name:       Ubuntu
 Homepage:   http://font.ubuntu.com/
 Download:   http://font.ubuntu.com/
-Version:    0.80
+Version:    0.83
 License:    Ubuntu Font License
 Publisher:  Canonical
 Designer:   Dalton Maag

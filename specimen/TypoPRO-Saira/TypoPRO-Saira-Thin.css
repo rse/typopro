@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira Thin */
+@font-face {
+    font-family:  'TypoPRO Saira';
+    src:          url('TypoPRO-Saira-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Saira-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Saira-Thin.woff') format('woff'),
+                  url('TypoPRO-Saira-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

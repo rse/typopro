@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Alternates Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

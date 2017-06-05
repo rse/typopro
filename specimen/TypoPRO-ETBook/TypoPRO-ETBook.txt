@@ -1,0 +1,50 @@
+Name:       ET Book
+Homepage:   http://edwardtufte.github.io/et-book/
+Download:   https://github.com/edwardtufte/et-book
+Version:    2.34 (2013-08)
+License:    MIT
+Publisher:  Dmitry Krasny, Bonnie Scranton, Edward Tufte
+Designer:   Dmitry Krasny, Bonnie Scranton, Edward Tufte
+Designed:   2015
+Derivation: Bembo
+
+ET Book is a Bembo-like font for the computer designed by Dmitry Krasny,
+Bonnie Scranton, and Edward Tufte. It was used in Beautiful Evidence,
+and some of his other digitally released books. Tufte’s earlier
+books on analytical design were set in real lead in Monotype Bembo.
+While Monotype Bembo was an excellent book font, when converted to an
+electronic font, it became thin and spindly (the computer people ignored
+“squeeze”, the slight spreading of ink when the lead type hits the
+paper). So he, Krasny, and Scranton made their own computer version and
+also made some design changes (ligatures, several problems with the pi
+font, some letterforms, creation of a semibold). Adam Schwartz converted
+the digital font into a webfont.
+
+ET Book consists of 5 fonts:
+- Roman (lining figures)
+- Roman (oldstyle figures)
+- Semi-bold (oldstyle figures)
+- Bold (lining figures)
+- Display Italic (oldstyle figures)
+
+
+Copyright (c) 2015 Dmitry Krasny, Bonnie Scranton, Edward Tufte.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

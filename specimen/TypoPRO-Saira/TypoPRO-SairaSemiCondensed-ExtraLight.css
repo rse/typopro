@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira SemiCondensed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Saira SemiCondensed';
+    src:          url('TypoPRO-SairaSemiCondensed-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-SairaSemiCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SairaSemiCondensed-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-SairaSemiCondensed-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

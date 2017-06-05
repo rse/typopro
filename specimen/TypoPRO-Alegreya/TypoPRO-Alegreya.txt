@@ -2,7 +2,7 @@ Name:       Alegreya
 Homepage:   http://www.huertatipografica.com/fonts/alegreya-ht-pro
 Download:   http://www.fontsquirrel.com/fonts/download/alegreya
 Download:   http://www.fontsquirrel.com/fonts/download/alegreya-sans
-Version:    1.003 (2011)
+Version:    1.004 (2017)
 License:    Open Font License 1.1
 Publisher:  Huerta Tipográfica
 Designer:   Juan Pablo del Peral

@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-regular.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

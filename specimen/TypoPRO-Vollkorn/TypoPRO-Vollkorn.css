@@ -1,4 +1,34 @@
 
+/* TypoPRO Vollkorn Black */
+@font-face {
+    font-family:  'TypoPRO Vollkorn';
+    src:          url('TypoPRO-Vollkorn-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vollkorn-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vollkorn-Black.woff') format('woff'),
+                  url('TypoPRO-Vollkorn-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Vollkorn Black Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn';
+    src:          url('TypoPRO-Vollkorn-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Vollkorn-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Vollkorn-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Vollkorn-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Vollkorn Bold */
 @font-face {
     font-family:  'TypoPRO Vollkorn';
@@ -44,37 +74,7 @@
 }
 
 
-/* TypoPRO Vollkorn Medium */
-@font-face {
-    font-family:  'TypoPRO Vollkorn';
-    src:          url('TypoPRO-Vollkorn-Medium.eot');
-    src:          local('*'),
-                  url('TypoPRO-Vollkorn-Medium.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Vollkorn-Medium.woff') format('woff'),
-                  url('TypoPRO-Vollkorn-Medium.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Vollkorn Medium Italic */
-@font-face {
-    font-family:  'TypoPRO Vollkorn';
-    src:          url('TypoPRO-Vollkorn-MediumItalic.eot');
-    src:          local('*'),
-                  url('TypoPRO-Vollkorn-MediumItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Vollkorn-MediumItalic.woff') format('woff'),
-                  url('TypoPRO-Vollkorn-MediumItalic.ttf') format('truetype');
-    font-style:   italic;
-    font-weight:  500;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO Vollkorn */
+/* TypoPRO Vollkorn Regular */
 @font-face {
     font-family:  'TypoPRO Vollkorn';
     src:          url('TypoPRO-Vollkorn-Regular.eot');

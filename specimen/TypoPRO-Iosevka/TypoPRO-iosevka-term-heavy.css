@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Heavy */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-heavy.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

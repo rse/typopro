@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira SemiCondensed Thin */
+@font-face {
+    font-family:  'TypoPRO Saira SemiCondensed';
+    src:          url('TypoPRO-SairaSemiCondensed-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-SairaSemiCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SairaSemiCondensed-Thin.woff') format('woff'),
+                  url('TypoPRO-SairaSemiCondensed-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira Regular */
+@font-face {
+    font-family:  'TypoPRO Saira';
+    src:          url('TypoPRO-Saira-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Saira-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Saira-Regular.woff') format('woff'),
+                  url('TypoPRO-Saira-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed Regular */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-Regular.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+

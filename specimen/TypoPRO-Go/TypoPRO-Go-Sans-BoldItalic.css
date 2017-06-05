@@ -1,0 +1,15 @@
+
+/* TypoPRO Go Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Go Sans';
+    src:          url('TypoPRO-Go-Sans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Go-Sans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Go-Sans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Go-Sans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

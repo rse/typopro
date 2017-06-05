@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Overpass';
+    src:          url('TypoPRO-Overpass-Extralight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-Extralight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-Extralight.woff') format('woff'),
+                  url('TypoPRO-Overpass-Extralight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Cormorant Garamond Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Cormorant Garamond';
+    src:          url('TypoPRO-CormorantGaramond-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CormorantGaramond-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CormorantGaramond-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-CormorantGaramond-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

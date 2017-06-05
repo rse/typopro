@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Overpass';
+    src:          url('TypoPRO-Overpass-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Overpass-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

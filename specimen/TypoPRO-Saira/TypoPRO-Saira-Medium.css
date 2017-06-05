@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira Medium */
+@font-face {
+    font-family:  'TypoPRO Saira';
+    src:          url('TypoPRO-Saira-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Saira-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Saira-Medium.woff') format('woff'),
+                  url('TypoPRO-Saira-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

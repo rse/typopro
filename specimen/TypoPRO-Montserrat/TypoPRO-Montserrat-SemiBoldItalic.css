@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Montserrat';
+    src:          url('TypoPRO-Montserrat-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Montserrat-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Montserrat-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Montserrat-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

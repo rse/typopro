@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Slab Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-mediumitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-mediumitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-mediumitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-mediumitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,630 @@
+
+/* TypoPRO Iosevka Term Bold */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-bold.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-bolditalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-bolditalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-bolditalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-bolditalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Bold Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-boldoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-boldoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-boldoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-boldoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Extralight */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-extralight.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-extralight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-extralight.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-extralight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Extralight Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-extralightitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-extralightitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-extralightitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-extralightitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Extralight Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-extralightoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-extralightoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-extralightoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-extralightoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Heavy */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-heavy.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Heavy Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-heavyitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-heavyitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-heavyitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-heavyitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Heavy Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-heavyoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-heavyoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-heavyoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-heavyoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-italic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Light */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-light.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-light.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Light Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-lightitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-lightitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-lightitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-lightitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Light Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-lightoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-lightoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-lightoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-lightoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Medium */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-medium.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-mediumitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-mediumitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-mediumitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-mediumitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Medium Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-mediumoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-mediumoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-mediumoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-mediumoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-oblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-oblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-oblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-oblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-regular.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Bold */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-bold.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-bolditalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-bolditalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-bolditalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-bolditalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Bold Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-boldoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-boldoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-boldoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-boldoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Extralight */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-extralight.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-extralight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-extralight.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-extralight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Extralight Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-extralightitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-extralightitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-extralightitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-extralightitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Extralight Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-extralightoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-extralightoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-extralightoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-extralightoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Heavy */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-heavy.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Heavy Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-heavyitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-heavyitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-heavyitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-heavyitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Heavy Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-heavyoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-heavyoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-heavyoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-heavyoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-italic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Light */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-light.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-light.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Light Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-lightitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-lightitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-lightitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-lightitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Light Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-lightoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-lightoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-lightoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-lightoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Medium */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-medium.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-mediumitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-mediumitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-mediumitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-mediumitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Medium Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-mediumoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-mediumoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-mediumoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-mediumoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-oblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-oblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-oblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-oblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-regular.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Thin */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-thin.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-thinitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-thinitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-thinitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-thinitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Slab Thin Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-thinoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-thinoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-thinoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-thinoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Thin */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-thin.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-thinitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-thinitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-thinitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-thinitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Iosevka Term Thin Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-thinoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-thinoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-thinoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-thinoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

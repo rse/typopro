@@ -1,5 +1,5 @@
 
-/* TypoPRO Signika-Bold */
+/* TypoPRO Signika Bold */
 @font-face {
     font-family:  'TypoPRO Signika';
     src:          url('TypoPRO-Signika-Bold.eot');
@@ -14,7 +14,7 @@
 }
 
 
-/* TypoPRO Signika-Light */
+/* TypoPRO Signika Light */
 @font-face {
     font-family:  'TypoPRO Signika';
     src:          url('TypoPRO-Signika-Light.eot');
@@ -29,7 +29,7 @@
 }
 
 
-/* TypoPRO Signika */
+/* TypoPRO Signika Regular */
 @font-face {
     font-family:  'TypoPRO Signika';
     src:          url('TypoPRO-Signika-Regular.eot');
@@ -44,14 +44,14 @@
 }
 
 
-/* TypoPRO Signika-Semibold */
+/* TypoPRO Signika SemiBold */
 @font-face {
     font-family:  'TypoPRO Signika';
-    src:          url('TypoPRO-Signika-Semibold.eot');
+    src:          url('TypoPRO-Signika-SemiBold.eot');
     src:          local('*'),
-                  url('TypoPRO-Signika-Semibold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-Signika-Semibold.woff') format('woff'),
-                  url('TypoPRO-Signika-Semibold.ttf') format('truetype');
+                  url('TypoPRO-Signika-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Signika-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Signika-SemiBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  600;
     font-stretch: normal;

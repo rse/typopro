@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Bold Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-boldoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-boldoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-boldoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-boldoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

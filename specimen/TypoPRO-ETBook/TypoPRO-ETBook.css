@@ -1,0 +1,75 @@
+
+/* TypoPRO ETBembo BoldLF */
+@font-face {
+    font-family:  'TypoPRO ET Book LF';
+    src:          url('TypoPRO-ETBookLF-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookLF-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookLF-Bold.woff') format('woff'),
+                  url('TypoPRO-ETBookLF-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO ETBembo RomanLF */
+@font-face {
+    font-family:  'TypoPRO ET Book LF';
+    src:          url('TypoPRO-ETBookLF-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookLF-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookLF-Regular.woff') format('woff'),
+                  url('TypoPRO-ETBookLF-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO ETBembo DisplayItalic */
+@font-face {
+    font-family:  'TypoPRO ET Book OF';
+    src:          url('TypoPRO-ETBookOF-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookOF-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookOF-Italic.woff') format('woff'),
+                  url('TypoPRO-ETBookOF-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO ETBembo RomanOSF */
+@font-face {
+    font-family:  'TypoPRO ET Book OF';
+    src:          url('TypoPRO-ETBookOF-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookOF-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookOF-Regular.woff') format('woff'),
+                  url('TypoPRO-ETBookOF-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO ETBembo SemiBoldOSF */
+@font-face {
+    font-family:  'TypoPRO ET Book OF';
+    src:          url('TypoPRO-ETBookOF-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ETBookOF-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ETBookOF-SemiBold.woff') format('woff'),
+                  url('TypoPRO-ETBookOF-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

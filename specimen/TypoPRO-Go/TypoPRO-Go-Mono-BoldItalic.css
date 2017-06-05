@@ -1,0 +1,15 @@
+
+/* TypoPRO Go Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Go Mono';
+    src:          url('TypoPRO-Go-Mono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Go-Mono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Go-Mono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Go-Mono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

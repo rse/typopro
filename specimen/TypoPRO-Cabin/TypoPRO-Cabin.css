@@ -1,5 +1,5 @@
 
-/* TypoPRO Cabin-Bold */
+/* TypoPRO Cabin Bold */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-Bold.eot');
@@ -14,7 +14,7 @@
 }
 
 
-/* TypoPRO Cabin-BoldItalic */
+/* TypoPRO Cabin Bold Italic */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-BoldItalic.eot');
@@ -29,7 +29,7 @@
 }
 
 
-/* TypoPRO Cabin-Italic */
+/* TypoPRO Cabin Italic */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-Italic.eot');
@@ -44,7 +44,7 @@
 }
 
 
-/* TypoPRO Cabin-Medium */
+/* TypoPRO Cabin Medium */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-Medium.eot');
@@ -59,7 +59,7 @@
 }
 
 
-/* TypoPRO Cabin-MediumItalic */
+/* TypoPRO Cabin Medium Italic */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-MediumItalic.eot');
@@ -74,7 +74,7 @@
 }
 
 
-/* TypoPRO Cabin-Regular */
+/* TypoPRO Cabin Regular */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-Regular.eot');
@@ -89,7 +89,7 @@
 }
 
 
-/* TypoPRO Cabin-SemiBold */
+/* TypoPRO Cabin SemiBold */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-SemiBold.eot');
@@ -104,7 +104,7 @@
 }
 
 
-/* TypoPRO Cabin-SemiBoldItalic */
+/* TypoPRO Cabin SemiBold Italic */
 @font-face {
     font-family:  'TypoPRO Cabin';
     src:          url('TypoPRO-Cabin-SemiBoldItalic.eot');
@@ -121,7 +121,7 @@
 
 /* TypoPRO Cabin Condensed Bold */
 @font-face {
-    font-family:  'TypoPRO Cabin';
+    font-family:  'TypoPRO Cabin Condensed';
     src:          url('TypoPRO-CabinCondensed-Bold.eot');
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-Bold.eot?#iefix') format('embedded-opentype'),
@@ -136,7 +136,7 @@
 
 /* TypoPRO Cabin Condensed Medium */
 @font-face {
-    font-family:  'TypoPRO Cabin';
+    font-family:  'TypoPRO Cabin Condensed';
     src:          url('TypoPRO-CabinCondensed-Medium.eot');
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-Medium.eot?#iefix') format('embedded-opentype'),
@@ -149,9 +149,9 @@
 }
 
 
-/* TypoPRO Cabin Condensed */
+/* TypoPRO Cabin Condensed Regular */
 @font-face {
-    font-family:  'TypoPRO Cabin';
+    font-family:  'TypoPRO Cabin Condensed';
     src:          url('TypoPRO-CabinCondensed-Regular.eot');
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-Regular.eot?#iefix') format('embedded-opentype'),
@@ -166,7 +166,7 @@
 
 /* TypoPRO Cabin Condensed SemiBold */
 @font-face {
-    font-family:  'TypoPRO Cabin';
+    font-family:  'TypoPRO Cabin Condensed';
     src:          url('TypoPRO-CabinCondensed-SemiBold.eot');
     src:          local('*'),
                   url('TypoPRO-CabinCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
@@ -179,7 +179,7 @@
 }
 
 
-/* TypoPRO CabinSketch Bold */
+/* TypoPRO Cabin Sketch Bold */
 @font-face {
     font-family:  'TypoPRO Cabin Sketch';
     src:          url('TypoPRO-CabinSketch-Bold.eot');

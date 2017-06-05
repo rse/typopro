@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass Mono Light */
+@font-face {
+    font-family:  'TypoPRO Overpass Mono';
+    src:          url('TypoPRO-Overpass-Mono-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-Mono-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-Mono-Semibold.woff') format('woff'),
+                  url('TypoPRO-Overpass-Mono-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

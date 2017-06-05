@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira SemiBold */
+@font-face {
+    font-family:  'TypoPRO Saira';
+    src:          url('TypoPRO-Saira-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Saira-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Saira-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Saira-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

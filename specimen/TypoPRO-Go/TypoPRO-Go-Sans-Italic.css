@@ -1,0 +1,15 @@
+
+/* TypoPRO Go Italic */
+@font-face {
+    font-family:  'TypoPRO Go Sans';
+    src:          url('TypoPRO-Go-Sans-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Go-Sans-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Go-Sans-Italic.woff') format('woff'),
+                  url('TypoPRO-Go-Sans-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

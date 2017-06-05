@@ -1,0 +1,15 @@
+
+/* TypoPRO Saira Condensed Condensed */
+@font-face {
+    font-family:  'TypoPRO Saira Condensed';
+    src:          url('TypoPRO-SairaCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SairaCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SairaCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-SairaCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

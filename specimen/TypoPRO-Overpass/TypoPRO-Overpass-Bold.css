@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass Bold */
+@font-face {
+    font-family:  'TypoPRO Overpass';
+    src:          url('TypoPRO-Overpass-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-Bold.woff') format('woff'),
+                  url('TypoPRO-Overpass-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

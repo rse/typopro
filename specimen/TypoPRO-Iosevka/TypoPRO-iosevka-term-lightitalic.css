@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Light Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-lightitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-lightitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-lightitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-lightitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

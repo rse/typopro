@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed';
+    src:          url('TypoPRO-FiraSansCompressed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Thin */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-thin.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

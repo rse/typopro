@@ -1,0 +1,15 @@
+
+/* TypoPRO Salsa-Regular */
+@font-face {
+    font-family:  'TypoPRO Salsa';
+    src:          url('TypoPRO-Salsa-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Salsa-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Salsa-Regular.woff') format('woff'),
+                  url('TypoPRO-Salsa-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Yanone Kaffeesatz ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Yanone Kaffeesatz';
+    src:          url('TypoPRO-YanoneKaffeesatz-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-YanoneKaffeesatz-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-YanoneKaffeesatz-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-YanoneKaffeesatz-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

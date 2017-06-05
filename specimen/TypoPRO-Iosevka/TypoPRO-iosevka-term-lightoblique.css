@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Light Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term';
+    src:          url('TypoPRO-iosevka-term-lightoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-lightoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-lightoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-lightoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

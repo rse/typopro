@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Slab Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-thinitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-thinitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-thinitalic.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-thinitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

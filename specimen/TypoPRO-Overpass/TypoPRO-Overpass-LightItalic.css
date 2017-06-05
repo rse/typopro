@@ -1,0 +1,15 @@
+
+/* TypoPRO Overpass Light Italic */
+@font-face {
+    font-family:  'TypoPRO Overpass';
+    src:          url('TypoPRO-Overpass-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Overpass-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Overpass-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Overpass-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

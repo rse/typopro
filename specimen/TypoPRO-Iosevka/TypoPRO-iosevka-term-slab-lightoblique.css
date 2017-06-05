@@ -1,0 +1,15 @@
+
+/* TypoPRO Iosevka Term Slab Light Oblique */
+@font-face {
+    font-family:  'TypoPRO Iosevka Term Slab';
+    src:          url('TypoPRO-iosevka-term-slab-lightoblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-iosevka-term-slab-lightoblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iosevka-term-slab-lightoblique.woff') format('woff'),
+                  url('TypoPRO-iosevka-term-slab-lightoblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

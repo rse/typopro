@@ -1,0 +1,15 @@
+
+/* TypoPRO Montserrat Alternates ExLight */
+@font-face {
+    font-family:  'TypoPRO Montserrat Alternates';
+    src:          url('TypoPRO-MontserratAlternates-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-MontserratAlternates-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MontserratAlternates-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-MontserratAlternates-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

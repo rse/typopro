@@ -1,0 +1,15 @@
+
+/* TypoPRO Rancho */
+@font-face {
+    font-family:  'TypoPRO Rancho';
+    src:          url('TypoPRO-Rancho-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rancho-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rancho-Regular.woff') format('woff'),
+                  url('TypoPRO-Rancho-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

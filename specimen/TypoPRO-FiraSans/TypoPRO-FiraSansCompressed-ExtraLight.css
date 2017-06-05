@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Sans Compressed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Fira Sans Compressed 250';
+    src:          url('TypoPRO-FiraSansCompressed-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-FiraSansCompressed-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+}
+

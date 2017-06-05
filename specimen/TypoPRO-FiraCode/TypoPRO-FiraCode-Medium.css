@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Code Medium */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Medium.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
