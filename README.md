@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1226 individual fonts of 150 font families. The
+**TypoPRO** consists of 1227 individual fonts of 151 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -257,6 +257,7 @@ Permanent&nbsp;Marker     |  1  |     |    |    | X  |       |      |    |    | 
 Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
 Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Quando                    |  1  |     | X  |    |    |  X    |      |    |    |      |  X   |    |
+Rancho                    |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 Rock&nbsp;Salt            |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    |      |      | X  |
 Sasla                     |  1  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
