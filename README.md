@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1227 individual fonts of 151 font families. The
+**TypoPRO** consists of 1233 individual fonts of 153 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -155,6 +155,8 @@ Junicode                  |  8  |  X  |    |    |    |    |  X    |  X   | X  | 
 Kreon                     |  3  |     | X  |    |    |    |  X    |      |    | X  |      |  X   | X  |
 Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+League&nbsp;Gothic        |  4  |     | X  |    |    |    |       |      |    | X  |  X   |  X   | X  |
+League&nbsp;Mono          |  4  |     |    |    | X  |    |       |      |    |    |      |  X   | X  |
 Lekton                    |  3  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Liberation                | 12  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Libre&nbsp;Baskerville    |  3  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -242,7 +244,6 @@ Kaushan Script            |  1  |     |    |    | X  |  X    |      |    |    | 
 Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  |      |  X   |    |
 Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
-League&nbsp;Gothic        |  4  |     | X  |    |    |       |      |  X |    |      |  X   |  X |
 Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
 Lemonada                  |  4  |     |    |    | X  |       |  X   |    |    |      |  X   | X  |
 Life Savers               |  3  |     |    |    | X  |       |  X   |    |    |      |  X   | X  | X
@@ -252,6 +253,7 @@ Milonga                   |  1  |     |    |    | X  |  X    |      |    |    | 
 Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nickainley                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
+Paprika                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    |
 Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Permanent&nbsp;Marker     |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
