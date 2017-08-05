@@ -1,6 +1,6 @@
 {
     "name":        "typopro",
-    "version":     "3.7.4",
+    "version":     "3.7.5",
     "description": "Fonts for Professional Typography (META)",
     "homepage":    "https://github.com/rse/typopro",
     "license":     "MIT AND Apache AND OFL AND CC0",
@@ -11,8 +11,8 @@
         "font", "typography", "ttf", "otf", "woff", "eot"
     ],
     "dependencies": {
-        "typopro-web": "3.7.4",
-        "typopro-dtp": "3.7.4"
+        "typopro-web": "3.7.5",
+        "typopro-dtp": "3.7.5"
     },
     "ignore": [
         "**/.*"
