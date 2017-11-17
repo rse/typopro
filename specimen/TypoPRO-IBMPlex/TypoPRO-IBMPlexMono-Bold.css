@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Mono Bold */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Mono';
+    src:          url('TypoPRO-IBMPlexMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexMono-Bold.woff') format('woff'),
+                  url('TypoPRO-IBMPlexMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

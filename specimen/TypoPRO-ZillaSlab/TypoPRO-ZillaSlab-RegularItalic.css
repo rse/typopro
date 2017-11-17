@@ -1,0 +1,15 @@
+
+/* TypoPRO Zilla Slab Regular Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

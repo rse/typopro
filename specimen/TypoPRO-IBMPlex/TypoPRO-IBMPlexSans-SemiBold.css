@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Sans SemiBold */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Sans';
+    src:          url('TypoPRO-IBMPlexSans-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSans-SemiBold.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSans-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

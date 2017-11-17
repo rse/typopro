@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

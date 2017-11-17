@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Libertine O Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularBoldItalic.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

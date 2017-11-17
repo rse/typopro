@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Mono Thin */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Mono';
+    src:          url('TypoPRO-IBMPlexMono-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexMono-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexMono-Thin.woff') format('woff'),
+                  url('TypoPRO-IBMPlexMono-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

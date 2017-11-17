@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Barlow-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

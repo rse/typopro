@@ -1,0 +1,135 @@
+
+/* TypoPRO Linux Libertine O */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine O Bold */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularBold.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine O Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularBoldItalic.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine O Italic */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine O Semibold */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularSemibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularSemibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularSemibold.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularSemibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine O Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine Display O */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine Display';
+    src:          url('TypoPRO-LinuxLibertineDisplay-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertineDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertineDisplay-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertineDisplay-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine Initials O */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine Initials';
+    src:          url('TypoPRO-LinuxLibertineInitials-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertineInitials-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertineInitials-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertineInitials-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Libertine Mono O */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine Mono';
+    src:          url('TypoPRO-LinuxLibertineMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertineMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertineMono-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertineMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

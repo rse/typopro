@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Semi Condensed Black Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

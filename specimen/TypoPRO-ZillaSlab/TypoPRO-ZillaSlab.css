@@ -1,0 +1,180 @@
+
+/* TypoPRO Zilla Slab Bold Bold */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-Bold.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Bold Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Light */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-Light.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Light Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-LightItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Medium */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-Medium.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Regular */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-Regular.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Regular Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab SemiBold */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-SemiBold.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Highlight Bold Bold */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab Highlight';
+    src:          url('TypoPRO-ZillaSlabHighlight-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlabHighlight-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlabHighlight-Bold.woff') format('woff'),
+                  url('TypoPRO-ZillaSlabHighlight-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Zilla Slab Highlight Regular */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab Highlight';
+    src:          url('TypoPRO-ZillaSlabHighlight-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlabHighlight-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlabHighlight-Regular.woff') format('woff'),
+                  url('TypoPRO-ZillaSlabHighlight-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Libertine Mono O */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine Mono';
+    src:          url('TypoPRO-LinuxLibertineMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertineMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertineMono-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertineMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

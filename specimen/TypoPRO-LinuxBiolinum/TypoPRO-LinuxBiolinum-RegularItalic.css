@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Biolinum O Italic */
+@font-face {
+    font-family:  'TypoPRO Linux Biolinum';
+    src:          url('TypoPRO-LinuxBiolinum-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxBiolinum-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxBiolinum-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-LinuxBiolinum-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

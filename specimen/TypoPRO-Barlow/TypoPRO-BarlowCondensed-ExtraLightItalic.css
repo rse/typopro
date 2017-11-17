@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Condensed ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

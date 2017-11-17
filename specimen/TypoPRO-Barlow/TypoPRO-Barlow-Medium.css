@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Medium */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Medium.woff') format('woff'),
+                  url('TypoPRO-Barlow-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

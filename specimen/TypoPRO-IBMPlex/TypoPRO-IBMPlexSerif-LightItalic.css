@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Serif Light Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Serif';
+    src:          url('TypoPRO-IBMPlexSerif-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSerif-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSerif-LightItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSerif-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

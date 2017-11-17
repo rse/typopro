@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Biolinum O Bold */
+@font-face {
+    font-family:  'TypoPRO Linux Biolinum';
+    src:          url('TypoPRO-LinuxBiolinum-RegularBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxBiolinum-RegularBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxBiolinum-RegularBold.woff') format('woff'),
+                  url('TypoPRO-LinuxBiolinum-RegularBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

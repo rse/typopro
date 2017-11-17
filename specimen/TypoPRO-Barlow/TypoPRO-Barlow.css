@@ -1,0 +1,810 @@
+
+/* TypoPRO Barlow Black */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Black.woff') format('woff'),
+                  url('TypoPRO-Barlow-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Black Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Bold */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Bold.woff') format('woff'),
+                  url('TypoPRO-Barlow-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Barlow-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Barlow-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Italic.woff') format('woff'),
+                  url('TypoPRO-Barlow-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Light */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Light.woff') format('woff'),
+                  url('TypoPRO-Barlow-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Light Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Medium */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Medium.woff') format('woff'),
+                  url('TypoPRO-Barlow-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Regular */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Regular.woff') format('woff'),
+                  url('TypoPRO-Barlow-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow SemiBold */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Barlow-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Thin */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Thin.woff') format('woff'),
+                  url('TypoPRO-Barlow-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Black */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Black.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Black Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Italic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Light Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Thin */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Thin.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Condensed Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Black */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Black.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Black Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed ExLight */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed ExLight */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Italic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Light Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Thin */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Thin.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Barlow Semi Condensed Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

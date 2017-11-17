@@ -1,7 +1,7 @@
 Name:       Hack
 Homepage:   http://sourcefoundry.org/hack/
 Download:   https://github.com/chrissimpkins/Hack/releases
-Version:    2.020 (2016-04)
+Version:    3.000 (2017-10)
 License:    SIL, Bitstream Vera License, Public Domain
 Publisher:  Chris Simkins
 Designer:   Chris Simkins, Jim Lyles (Bitstream)

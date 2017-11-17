@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

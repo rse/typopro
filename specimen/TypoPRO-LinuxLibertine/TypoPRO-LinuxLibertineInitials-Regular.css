@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Libertine Initials O */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine Initials';
+    src:          url('TypoPRO-LinuxLibertineInitials-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertineInitials-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertineInitials-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertineInitials-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

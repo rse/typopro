@@ -1,0 +1,15 @@
+
+/* TypoPRO Zilla Slab Highlight Regular */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab Highlight';
+    src:          url('TypoPRO-ZillaSlabHighlight-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlabHighlight-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlabHighlight-Regular.woff') format('woff'),
+                  url('TypoPRO-ZillaSlabHighlight-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

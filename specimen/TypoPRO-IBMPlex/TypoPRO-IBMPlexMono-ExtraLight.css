@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Mono';
+    src:          url('TypoPRO-IBMPlexMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-IBMPlexMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

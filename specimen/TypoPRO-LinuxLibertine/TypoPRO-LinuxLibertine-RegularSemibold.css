@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Libertine O Semibold */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularSemibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularSemibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularSemibold.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularSemibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

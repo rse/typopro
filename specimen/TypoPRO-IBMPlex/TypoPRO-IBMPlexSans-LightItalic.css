@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Sans Light Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Sans';
+    src:          url('TypoPRO-IBMPlexSans-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSans-LightItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSans-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

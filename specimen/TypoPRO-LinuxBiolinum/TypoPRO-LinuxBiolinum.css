@@ -1,0 +1,60 @@
+
+/* TypoPRO Linux Biolinum O */
+@font-face {
+    font-family:  'TypoPRO Linux Biolinum';
+    src:          url('TypoPRO-LinuxBiolinum-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxBiolinum-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxBiolinum-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxBiolinum-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Biolinum O Bold */
+@font-face {
+    font-family:  'TypoPRO Linux Biolinum';
+    src:          url('TypoPRO-LinuxBiolinum-RegularBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxBiolinum-RegularBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxBiolinum-RegularBold.woff') format('woff'),
+                  url('TypoPRO-LinuxBiolinum-RegularBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Biolinum O Italic */
+@font-face {
+    font-family:  'TypoPRO Linux Biolinum';
+    src:          url('TypoPRO-LinuxBiolinum-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxBiolinum-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxBiolinum-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-LinuxBiolinum-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Linux Biolinum Keyboard O */
+@font-face {
+    font-family:  'TypoPRO Linux Biolinum Keyboard';
+    src:          url('TypoPRO-LinuxBiolinumKeyboard-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxBiolinumKeyboard-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxBiolinumKeyboard-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxBiolinumKeyboard-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

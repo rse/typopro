@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Semi Condensed Black */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-Black.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter UI Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Inter UI';
+    src:          url('TypoPRO-Inter-UI-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-UI-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-UI-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Inter-UI-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

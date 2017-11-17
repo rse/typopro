@@ -1,0 +1,15 @@
+
+/* TypoPRO League Mono Light */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-Light.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

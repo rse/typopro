@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Condensed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

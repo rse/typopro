@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Sans Thin */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Sans';
+    src:          url('TypoPRO-IBMPlexSans-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSans-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSans-Thin.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSans-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

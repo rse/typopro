@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Condensed Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

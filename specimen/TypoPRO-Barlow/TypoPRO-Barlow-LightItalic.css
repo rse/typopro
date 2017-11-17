@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Light Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Bold */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-Bold.woff') format('woff'),
+                  url('TypoPRO-Barlow-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

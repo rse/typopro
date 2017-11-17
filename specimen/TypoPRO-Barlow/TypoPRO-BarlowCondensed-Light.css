@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Barlow Condensed';
+    src:          url('TypoPRO-BarlowCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-BarlowCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

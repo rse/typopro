@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Semi Condensed ExLight */
+@font-face {
+    font-family:  'TypoPRO Barlow SemiCondensed';
+    src:          url('TypoPRO-BarlowSemiCondensed-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-BarlowSemiCondensed-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

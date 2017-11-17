@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Serif Bold */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Serif';
+    src:          url('TypoPRO-IBMPlexSerif-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSerif-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSerif-Bold.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSerif-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,75 @@
+
+/* TypoPRO League Mono Bold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-Bold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Light */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-Light.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Regular */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-Regular.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono UltraLight */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-UltraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-UltraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-UltraLight.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-UltraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

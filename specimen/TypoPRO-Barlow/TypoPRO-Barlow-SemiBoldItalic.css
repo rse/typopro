@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

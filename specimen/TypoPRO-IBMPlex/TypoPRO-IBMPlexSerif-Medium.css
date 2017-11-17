@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Serif Medium */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Serif';
+    src:          url('TypoPRO-IBMPlexSerif-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSerif-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSerif-Medium.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSerif-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

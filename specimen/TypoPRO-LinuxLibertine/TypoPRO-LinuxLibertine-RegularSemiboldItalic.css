@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Libertine O Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine';
+    src:          url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertine-RegularSemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

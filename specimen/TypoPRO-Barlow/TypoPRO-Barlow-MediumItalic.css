@@ -1,0 +1,15 @@
+
+/* TypoPRO Barlow Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Barlow';
+    src:          url('TypoPRO-Barlow-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Barlow-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Barlow-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Barlow-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

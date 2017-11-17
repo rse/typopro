@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Mono SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Mono';
+    src:          url('TypoPRO-IBMPlexMono-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexMono-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexMono-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

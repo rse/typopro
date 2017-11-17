@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter UI Bold Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Inter UI';
+    src:          url('TypoPRO-Inter-UI-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-UI-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-UI-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Inter-UI-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

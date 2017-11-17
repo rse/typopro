@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Mono Medium Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Mono';
+    src:          url('TypoPRO-IBMPlexMono-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexMono-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexMono-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

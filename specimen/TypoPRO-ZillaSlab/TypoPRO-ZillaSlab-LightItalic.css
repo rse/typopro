@@ -1,0 +1,15 @@
+
+/* TypoPRO Zilla Slab Light Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-LightItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

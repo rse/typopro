@@ -1,7 +1,7 @@
 Name:       Office Code Pro
 Homepage:   https://github.com/nathco/Office-Code-Pro
 Download:   https://github.com/nathco/Office-Code-Pro
-Version:    1.017 (2015-01)
+Version:    1.004 (2015-05)
 License:    Open Font License 1.1
 Publisher:  Nathan Rutzky
 Designer:   Nathan Rutzky

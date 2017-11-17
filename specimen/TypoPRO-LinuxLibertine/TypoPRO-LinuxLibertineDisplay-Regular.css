@@ -1,0 +1,15 @@
+
+/* TypoPRO Linux Libertine Display O */
+@font-face {
+    font-family:  'TypoPRO Linux Libertine Display';
+    src:          url('TypoPRO-LinuxLibertineDisplay-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LinuxLibertineDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LinuxLibertineDisplay-Regular.woff') format('woff'),
+                  url('TypoPRO-LinuxLibertineDisplay-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

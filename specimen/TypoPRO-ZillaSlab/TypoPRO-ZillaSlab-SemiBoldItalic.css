@@ -1,0 +1,15 @@
+
+/* TypoPRO Zilla Slab SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

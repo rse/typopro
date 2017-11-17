@@ -1,0 +1,15 @@
+
+/* TypoPRO Zilla Slab Bold Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Zilla Slab';
+    src:          url('TypoPRO-ZillaSlab-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ZillaSlab-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ZillaSlab-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-ZillaSlab-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
