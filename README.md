@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1259 individual fonts of 156 font families. The
+**TypoPRO** consists of 1369 individual fonts of 159 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -120,6 +120,7 @@ Andada                    |  8  |     | X  |    |    |    |  X    |  X   |    | 
 Andika&nbsp;New&nbsp;Basic|  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Anonymous&nbsp;Pro        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Asap                      |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
+Barlow                    | 54  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Bitter                    |  4  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Cabin                     | 14  |     |    | X  |    | X  |  X    |  X   | X  |    |  X   |  X   | X  |
 Charis&nbsp;SIL           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -149,7 +150,9 @@ Fira&nbsp;Sans            | 64  |     |    | X  |    |    |  X    |  X   | X  | 
 Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Go                        | 10  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Hack                      |  4  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
+IBM&nbsp;Plex             | 48  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Inconsolata               |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
+Inter&nbsp;UI             |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
 Iosevka                   | 42  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Junicode                  |  8  |  X  |    |    |    |    |  X    |  X   | X  |    |      |  X   | X  |
 Kreon                     |  3  |     | X  |    |    |    |  X    |      |    | X  |      |  X   | X  |
