@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1369 individual fonts of 159 font families. The
+**TypoPRO** consists of 1389 individual fonts of 164 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -170,6 +170,7 @@ Linux&nbsp;Libertine      |  9  |  X  |    |    |    |    |  X    |  X   |    | 
 Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
+Miriam&nbsp;Libre         |  2  |     |    | X  |    |    |  X    |      |    |    |      |  X   | X  |
 Monoid                    |  3  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Mononoki                  |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Montserrat                |  7  |  X  |    |    |    |    |  X    |      |    | X  |  X   |  X   | X  | X
@@ -204,11 +205,12 @@ TeX&nbsp;Gyre             | 33  |  X  |    | X  | X  | X  |  X    |  X   | X  | 
 Titillium                 | 11  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Ubuntu                    | 13  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
 Vegur                     |  3  |     |    | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
-Vollkorn                  |  8  |  X  |    |    |    |    |  X    |  X   |    |    |  X   |  X   | X  |
+Vollkorn                  | 12  |  X  |    |    |    |    |  X    |  X   |    |    |  X   |  X   | X  |
 Webly&nbsp;Sleek          |  6  |     |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Work&nbsp;Sans            |  9  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Yanone&nbsp;Kaffeesatz    |  4  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  |
 Zilla&nbsp;Slab           | 12  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
+iA&nbsp;Writer&nbsp;Duospace |  4  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 
 #### Special Purpose Fonts
 
@@ -278,6 +280,7 @@ Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    | 
 Unifraktur                |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   |    |
 Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
 Yellowtail                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
+Ranga                     |  2  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 
 Browser Support
 ---------------
