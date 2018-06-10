@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1407 individual fonts of 164 font families. The
+**TypoPRO** consists of 1426 individual fonts of 166 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -188,6 +188,7 @@ Overpass                  | 20  |     |    | X  | X  |    |  X    |  X   | X  | 
 Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Playfair&nbsp;Display     | 12  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
+Poppins                   | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Quattrocento              |  6  |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
 Quicksand                 |  6  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Raleway                   | 18  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
@@ -209,6 +210,7 @@ Vollkorn                  | 12  |  X  |    |    |    |    |  X    |  X   |    | 
 Webly&nbsp;Sleek          |  6  |     |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Work&nbsp;Sans            |  9  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
 Yanone&nbsp;Kaffeesatz    |  4  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  |
+YoungSerif                |  1  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
 Zilla&nbsp;Slab           | 12  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 iA&nbsp;Writer&nbsp;Duospace |  4  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
 
