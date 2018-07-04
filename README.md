@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1426 individual fonts of 166 font families. The
+**TypoPRO** consists of 1442 individual fonts of 171 font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -115,10 +115,12 @@ Name                      |Fonts|Serif|Slab|Sans|Mono|Hand|Regular|Italic|Cond|T
 Aileron                   | 16  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
 Alegreya                  | 40  |  X  |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Aleo                      |  6  |     | X  |    |    |    |  X    |  X   |    | X  |      |  X   | X  |
+Amaranth                  |  4  |     |    |  X |    |    |  X    |  X   |    |    |      |  X   |    |
 Amble                     |  8  |     |    | X  |    |    |  X    |  X   | X  | X  |      |  X   | X  |
 Andada                    |  8  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Andika&nbsp;New&nbsp;Basic|  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
 Anonymous&nbsp;Pro        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
+Antonio                   |  3  |     |    |  X |    |    |  X    |  X   |    |    |      |  X   |    |
 Asap                      |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
 Barlow                    | 54  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
 Bitter                    |  4  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
@@ -230,6 +232,7 @@ Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    | 
 Bellota                   |  6  |     |    |    |    |  X    |  X   |    |    |  X   |      | X  |
 Bree&nbsp;Serif           |  1  |  X  |    |    |    |       |  X   |    |    |      |      | X  |
 Bukhari&nbsp;Script       |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
+Caveat                    |  2  |     |    |    | X  |  X    |      |    |    |      |      | X  |
 Chawp                     |  1  |     |    |    | X  |       |      |    |    |      |      | X  |
 Comic&nbsp;Neue           | 12  |     | X  |    | X  |  X    |  X   |    | X  |      |  X   | X  |
 Comic&nbsp;Relief         |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
@@ -255,10 +258,12 @@ Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  | 
 Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
 Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
+Leckerli                  |  1  |     |    |    | X  |  X    |      |    |    |      |      |    |
 Lemonada                  |  4  |     |    |    | X  |       |  X   |    |    |      |  X   | X  |
 Life Savers               |  3  |     |    |    | X  |       |  X   |    |    |      |  X   | X  | X
 Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
 Macondo                   |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
+Merienda                  |  2  |     |    |    | X  |  X    |      |    |    |      |      | X  |
 Milonga                   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Nickainley                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
@@ -270,6 +275,7 @@ Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    | 
 Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
 Quando                    |  1  |     | X  |    |    |  X    |      |    |    |      |  X   |    |
 Rancho                    |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
+Ranga                     |  2  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 Rock&nbsp;Salt            |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
 Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    |      |      | X  |
 Sasla                     |  1  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
@@ -282,7 +288,6 @@ Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    | 
 Unifraktur                |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   |    |
 Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
 Yellowtail                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Ranga                     |  2  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 
 Browser Support
 ---------------
