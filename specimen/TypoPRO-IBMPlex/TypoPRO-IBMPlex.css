@@ -113,7 +113,7 @@
                   url('TypoPRO-IBMPlexMono-Medium.woff') format('woff'),
                   url('TypoPRO-IBMPlexMono-Medium.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  600;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -128,7 +128,7 @@
                   url('TypoPRO-IBMPlexMono-MediumItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexMono-MediumItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  600;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -158,7 +158,7 @@
                   url('TypoPRO-IBMPlexMono-SemiBold.woff') format('woff'),
                   url('TypoPRO-IBMPlexMono-SemiBold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -173,7 +173,7 @@
                   url('TypoPRO-IBMPlexMono-SemiBoldItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexMono-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -188,7 +188,7 @@
                   url('TypoPRO-IBMPlexMono-Text.woff') format('woff'),
                   url('TypoPRO-IBMPlexMono-Text.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -203,7 +203,7 @@
                   url('TypoPRO-IBMPlexMono-TextItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexMono-TextItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -353,7 +353,7 @@
                   url('TypoPRO-IBMPlexSans-Medium.woff') format('woff'),
                   url('TypoPRO-IBMPlexSans-Medium.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  600;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -368,7 +368,7 @@
                   url('TypoPRO-IBMPlexSans-MediumItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexSans-MediumItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  600;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -398,7 +398,7 @@
                   url('TypoPRO-IBMPlexSans-SemiBold.woff') format('woff'),
                   url('TypoPRO-IBMPlexSans-SemiBold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -413,7 +413,7 @@
                   url('TypoPRO-IBMPlexSans-SemiBoldItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexSans-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -428,7 +428,7 @@
                   url('TypoPRO-IBMPlexSans-Text.woff') format('woff'),
                   url('TypoPRO-IBMPlexSans-Text.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -443,7 +443,7 @@
                   url('TypoPRO-IBMPlexSans-TextItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexSans-TextItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -475,6 +475,246 @@
     font-style:   italic;
     font-weight:  100;
     font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Italic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Light */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Light Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Text */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Text.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Text.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Text.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Text.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Text Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-TextItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-TextItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-TextItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-TextItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Thin */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Thin.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IBM Plex Sans Condensed Thin Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: condensed;
     font-variant: normal;
 }
 
@@ -593,7 +833,7 @@
                   url('TypoPRO-IBMPlexSerif-Medium.woff') format('woff'),
                   url('TypoPRO-IBMPlexSerif-Medium.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  600;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -608,7 +848,7 @@
                   url('TypoPRO-IBMPlexSerif-MediumItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexSerif-MediumItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  600;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -638,7 +878,7 @@
                   url('TypoPRO-IBMPlexSerif-SemiBold.woff') format('woff'),
                   url('TypoPRO-IBMPlexSerif-SemiBold.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -653,7 +893,7 @@
                   url('TypoPRO-IBMPlexSerif-SemiBoldItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexSerif-SemiBoldItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  bold;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -668,7 +908,7 @@
                   url('TypoPRO-IBMPlexSerif-Text.woff') format('woff'),
                   url('TypoPRO-IBMPlexSerif-Text.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -683,7 +923,7 @@
                   url('TypoPRO-IBMPlexSerif-TextItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexSerif-TextItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }

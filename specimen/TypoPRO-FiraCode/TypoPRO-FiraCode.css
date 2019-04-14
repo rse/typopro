@@ -14,6 +14,21 @@
 }
 
 
+/* TypoPRO Fira Code Light */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Light.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Fira Code Medium */
 @font-face {
     font-family:  'TypoPRO Fira Code';
@@ -37,6 +52,21 @@
                   url('TypoPRO-FiraCode-Regular.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-FiraCode-Regular.woff') format('woff'),
                   url('TypoPRO-FiraCode-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Fira Code Retina */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Retina.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Retina.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Retina.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Retina.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;

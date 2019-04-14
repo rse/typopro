@@ -44,7 +44,37 @@
 }
 
 
-/* TypoPRO Asap */
+/* TypoPRO Asap Medium */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-Asap-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Asap-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Asap-Medium.woff') format('woff'),
+                  url('TypoPRO-Asap-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Asap Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-Asap-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Asap-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Asap-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Asap-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Asap Regular */
 @font-face {
     font-family:  'TypoPRO Asap';
     src:          url('TypoPRO-Asap-Regular.eot');
@@ -54,6 +84,36 @@
                   url('TypoPRO-Asap-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Asap SemiBold */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-Asap-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Asap-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Asap-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Asap-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Asap SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-Asap-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Asap-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Asap-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Asap-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }

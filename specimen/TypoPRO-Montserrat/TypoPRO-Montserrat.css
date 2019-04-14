@@ -248,7 +248,7 @@
                   url('TypoPRO-Montserrat-Thin.woff') format('woff'),
                   url('TypoPRO-Montserrat-Thin.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  200;
+    font-weight:  100;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -263,7 +263,7 @@
                   url('TypoPRO-Montserrat-ThinItalic.woff') format('woff'),
                   url('TypoPRO-Montserrat-ThinItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  200;
+    font-weight:  100;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -518,7 +518,7 @@
                   url('TypoPRO-MontserratAlternates-Thin.woff') format('woff'),
                   url('TypoPRO-MontserratAlternates-Thin.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  200;
+    font-weight:  100;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -533,7 +533,7 @@
                   url('TypoPRO-MontserratAlternates-ThinItalic.woff') format('woff'),
                   url('TypoPRO-MontserratAlternates-ThinItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  200;
+    font-weight:  100;
     font-stretch: normal;
     font-variant: normal;
 }

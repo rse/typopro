@@ -1,4 +1,4 @@
-Name:       DejaVu
+Name:       Anonymous Pro
 Homepage:   http://www.marksimonson.com/fonts/view/anonymous-pro
 Download:   http://www.marksimonson.com/fonts/view/anonymous-pro
 Version:    1.002 (2010-09)

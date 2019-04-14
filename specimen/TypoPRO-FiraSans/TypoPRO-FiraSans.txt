@@ -1,8 +1,8 @@
 Name:       Fira Sans
 Homepage:   https://carrois.com/typefaces/FiraSans/
 Homepage:   http://mozilla.github.io/Fira/
-Download:   https://github.com/carrois/Fira/
-Version:    4.203 (2016-10)
+Download:   https://github.com/bBoxType/FiraSans
+Version:    4.301 (2018-03)
 License:    Open Font License 1.1
 Publisher:  Mozilla
 Designer:   Erik Spiekermann & Ralph du Carrois (Carrois Type Design)

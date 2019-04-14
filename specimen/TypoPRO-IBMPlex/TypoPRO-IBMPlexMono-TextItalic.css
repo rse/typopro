@@ -8,7 +8,7 @@
                   url('TypoPRO-IBMPlexMono-TextItalic.woff') format('woff'),
                   url('TypoPRO-IBMPlexMono-TextItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  500;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }

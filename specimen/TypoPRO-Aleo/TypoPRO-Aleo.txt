@@ -1,7 +1,7 @@
 Name:       Aleo
 Homepage:   http://fontfabric.com/aleo-free-font/
 Download:   http://fontfabric.com/aleo-free-font/
-Version:    1.000
+Version:    1.2.2 (2015)
 License:    Open Font License 1.1
 Publisher:  Font Fabric
 Designer:   Alessio Laiso

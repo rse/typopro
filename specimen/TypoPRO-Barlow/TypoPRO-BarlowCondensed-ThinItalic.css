@@ -8,7 +8,7 @@
                   url('TypoPRO-BarlowCondensed-ThinItalic.woff') format('woff'),
                   url('TypoPRO-BarlowCondensed-ThinItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: condensed;
     font-variant: normal;
 }

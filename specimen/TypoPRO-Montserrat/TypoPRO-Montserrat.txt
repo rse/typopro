@@ -1,7 +1,7 @@
 Name:       Montserrat
-Homepage:   http://www.google.com/fonts/specimen/Montserrat
-Download:   http://www.google.com/fonts/specimen/Montserrat
-Version:    6.001 (2017-01)
+Homepage:   https://github.com/JulietaUla/Montserrat/
+Download:   https://github.com/JulietaUla/Montserrat/
+Version:    7.200 (2017-11)
 License:    Open Font License 1.1
 Publisher:  Julieta Ulanovsky
 Designer:   Julieta Ulanovsky
@@ -26,7 +26,8 @@ color, contrast, light and life, day and night! These are the types that
 make the city look so beautiful.
 
 
-Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'
+Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL

@@ -8,7 +8,7 @@
                   url('TypoPRO-MontserratAlternates-ThinItalic.woff') format('woff'),
                   url('TypoPRO-MontserratAlternates-ThinItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  200;
+    font-weight:  100;
     font-stretch: normal;
     font-variant: normal;
 }

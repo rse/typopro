@@ -248,7 +248,7 @@
                   url('TypoPRO-Barlow-Thin.woff') format('woff'),
                   url('TypoPRO-Barlow-Thin.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -263,7 +263,7 @@
                   url('TypoPRO-Barlow-ThinItalic.woff') format('woff'),
                   url('TypoPRO-Barlow-ThinItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -518,7 +518,7 @@
                   url('TypoPRO-BarlowCondensed-Thin.woff') format('woff'),
                   url('TypoPRO-BarlowCondensed-Thin.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: condensed;
     font-variant: normal;
 }
@@ -533,7 +533,7 @@
                   url('TypoPRO-BarlowCondensed-ThinItalic.woff') format('woff'),
                   url('TypoPRO-BarlowCondensed-ThinItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: condensed;
     font-variant: normal;
 }
@@ -788,7 +788,7 @@
                   url('TypoPRO-BarlowSemiCondensed-Thin.woff') format('woff'),
                   url('TypoPRO-BarlowSemiCondensed-Thin.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: semi-condensed;
     font-variant: normal;
 }
@@ -803,7 +803,7 @@
                   url('TypoPRO-BarlowSemiCondensed-ThinItalic.woff') format('woff'),
                   url('TypoPRO-BarlowSemiCondensed-ThinItalic.ttf') format('truetype');
     font-style:   italic;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: semi-condensed;
     font-variant: normal;
 }

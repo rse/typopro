@@ -1,11 +1,7 @@
 Name:       Fira Code
-Homepage:   http://mozilla.github.io/Fira/
 Homepage:   https://github.com/tonsky/FiraCode
-Download:   http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/
-Download:   http://www.carrois.com/downloads/
-Download:   https://github.com/mozilla/Fira/archive/master.zip
 Download:   https://github.com/tonsky/FiraCode
-Version:    3.203 (2016-09)
+Version:    1.205 (2018-02)
 License:    Open Font License 1.1
 Publisher:  Mozilla
 Designer:   Erik Spiekermann & Ralph du Carrois (Carrois Type Design)

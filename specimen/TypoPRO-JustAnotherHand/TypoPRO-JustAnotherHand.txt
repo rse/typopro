@@ -1,7 +1,7 @@
 Name:       Just Another Hand
 Homepage:   https://fonts.google.com/specimen/Just+Another+Hand
 Download:   https://fonts.google.com/specimen/Just+Another+Hand
-Version:    1.000
+Version:    1.001
 License:    Apache
 Publisher:  Google Fonts, Astigmatic
 Designer:   Brian J. Bonislawsky
