@@ -1,11 +1,11 @@
 {
     "name":        "typopro",
-    "version":     "4.2.0",
+    "version":     "4.2.1",
     "description": "Fonts for Professional Typography (META)",
     "homepage":    "https://github.com/rse/typopro",
     "license":     "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
     "author": {
-        "name":    "Ralf S. Engelschall",
+        "name":    "Dr. Ralf S. Engelschall",
         "email":   "rse@engelschall.com",
         "url":     "http://engelschall.com"
     },
@@ -20,7 +20,7 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies" : {
-        "typopro-web": "4.2.0",
-        "typopro-dtp": "4.2.0"
+        "typopro-web": "4.2.1",
+        "typopro-dtp": "4.2.1"
     }
 }
