@@ -20,7 +20,7 @@
         "url":     "http://github.com/rse/typopro/issues"
     },
     "dependencies" : {
-        "typopro-web": "4.2.2",
-        "typopro-dtp": "4.2.2"
+        "typopro-web": "4.2.3",
+        "typopro-dtp": "4.2.3"
     }
 }
