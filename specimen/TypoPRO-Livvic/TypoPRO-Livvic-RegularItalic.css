@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

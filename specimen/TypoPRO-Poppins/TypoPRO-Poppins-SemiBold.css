@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins SemiBold */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Poppins-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

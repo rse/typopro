@@ -1,0 +1,15 @@
+
+/* TypoPRO Asap Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-AsapCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-AsapCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AsapCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-AsapCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

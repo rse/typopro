@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Thin BETA */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-Thin.woff') format('woff'),
+                  url('TypoPRO-Inter-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

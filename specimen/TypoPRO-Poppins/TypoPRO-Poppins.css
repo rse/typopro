@@ -1,0 +1,270 @@
+
+/* TypoPRO Poppins Black */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Black.woff') format('woff'),
+                  url('TypoPRO-Poppins-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Black Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Bold */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Bold.woff') format('woff'),
+                  url('TypoPRO-Poppins-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Poppins-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Poppins-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Italic.woff') format('woff'),
+                  url('TypoPRO-Poppins-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Light */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Light.woff') format('woff'),
+                  url('TypoPRO-Poppins-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Light Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Medium */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Medium.woff') format('woff'),
+                  url('TypoPRO-Poppins-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Regular */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Regular.woff') format('woff'),
+                  url('TypoPRO-Poppins-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins SemiBold */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Poppins-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Thin */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Thin.woff') format('woff'),
+                  url('TypoPRO-Poppins-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Poppins Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

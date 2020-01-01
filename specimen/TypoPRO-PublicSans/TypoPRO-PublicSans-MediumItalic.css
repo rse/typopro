@@ -1,0 +1,15 @@
+
+/* TypoPRO Public Sans Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

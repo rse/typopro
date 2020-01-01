@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic Black */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Black.woff') format('woff'),
+                  url('TypoPRO-Livvic-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

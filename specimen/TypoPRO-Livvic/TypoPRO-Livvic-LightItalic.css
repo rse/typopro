@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic Light Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

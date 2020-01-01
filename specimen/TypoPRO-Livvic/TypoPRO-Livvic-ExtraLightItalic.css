@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

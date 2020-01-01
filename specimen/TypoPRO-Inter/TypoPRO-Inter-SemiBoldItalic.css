@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Semi Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Inter-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

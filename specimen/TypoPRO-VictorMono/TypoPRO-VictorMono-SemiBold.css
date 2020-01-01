@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-VictorMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

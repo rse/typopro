@@ -1,0 +1,15 @@
+
+/* TypoPRO Roboto Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-RobotoCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-RobotoCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

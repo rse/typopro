@@ -1,0 +1,15 @@
+
+/* TypoPRO Public Sans ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

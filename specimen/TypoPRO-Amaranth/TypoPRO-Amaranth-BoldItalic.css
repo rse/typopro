@@ -1,0 +1,15 @@
+
+/* TypoPRO Amaranth-BoldItalic */
+@font-face {
+    font-family:  'TypoPRO Amaranth';
+    src:          url('TypoPRO-Amaranth-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Amaranth-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Amaranth-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Amaranth-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

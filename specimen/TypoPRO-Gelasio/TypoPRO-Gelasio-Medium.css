@@ -1,0 +1,15 @@
+
+/* TypoPRO Gelasio Medium */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-Medium.woff') format('woff'),
+                  url('TypoPRO-Gelasio-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

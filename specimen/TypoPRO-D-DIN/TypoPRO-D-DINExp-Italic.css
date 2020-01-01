@@ -1,0 +1,15 @@
+
+/* TypoPRO D-DIN Exp Italic */
+@font-face {
+    font-family:  'TypoPRO D-DIN Expanded';
+    src:          url('TypoPRO-D-DINExp-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-D-DINExp-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-D-DINExp-Italic.woff') format('woff'),
+                  url('TypoPRO-D-DINExp-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: expanded;
+    font-variant: normal;
+}
+

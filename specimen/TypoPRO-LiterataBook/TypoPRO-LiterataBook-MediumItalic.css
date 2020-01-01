@@ -1,0 +1,15 @@
+
+/* TypoPRO Literata Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

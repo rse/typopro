@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

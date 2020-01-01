@@ -1,7 +1,7 @@
 Name:       Asap
 Homepage:   http://omnibus-type.com/
 Download:   https://github.com/Omnibus-Type/Asap
-Version:    1.010 (2018-03)
+Version:    2.000 (2018-09)
 License:    Open Font License
 Publisher:  Omnibus-Type
 Designer:   Pablo Cosgaya & Andrés Torresi

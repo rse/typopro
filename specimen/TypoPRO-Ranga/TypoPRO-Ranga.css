@@ -1,0 +1,30 @@
+
+/* TypoPRO Ranga Bold */
+@font-face {
+    font-family:  'TypoPRO Ranga';
+    src:          url('TypoPRO-Ranga-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Ranga-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Ranga-Bold.woff') format('woff'),
+                  url('TypoPRO-Ranga-Bold.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Ranga Regular */
+@font-face {
+    font-family:  'TypoPRO Ranga';
+    src:          url('TypoPRO-Ranga-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Ranga-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Ranga-Regular.woff') format('woff'),
+                  url('TypoPRO-Ranga-Regular.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Black Italic */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Inter-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

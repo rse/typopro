@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Sans Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

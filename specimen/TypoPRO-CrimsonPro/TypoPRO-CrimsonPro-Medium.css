@@ -1,0 +1,15 @@
+
+/* TypoPRO Crimson Pro Medium */
+@font-face {
+    font-family:  'TypoPRO Crimson Pro';
+    src:          url('TypoPRO-CrimsonPro-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CrimsonPro-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CrimsonPro-Medium.woff') format('woff'),
+                  url('TypoPRO-CrimsonPro-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

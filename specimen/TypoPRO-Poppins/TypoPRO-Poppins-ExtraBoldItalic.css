@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

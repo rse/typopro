@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Mono Regular */
+@font-face {
+    font-family:  'TypoPRO Libertinus Mono';
+    src:          url('TypoPRO-LibertinusMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusMono-Regular.woff') format('woff'),
+                  url('TypoPRO-LibertinusMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

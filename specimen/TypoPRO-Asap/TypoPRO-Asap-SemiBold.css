@@ -1,0 +1,15 @@
+
+/* TypoPRO Asap SemiBold */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-Asap-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Asap-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Asap-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Asap-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

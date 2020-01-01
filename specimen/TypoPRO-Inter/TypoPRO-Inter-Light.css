@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Light BETA */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-Light.woff') format('woff'),
+                  url('TypoPRO-Inter-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

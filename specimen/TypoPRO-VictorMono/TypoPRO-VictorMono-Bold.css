@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono Bold */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Bold.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

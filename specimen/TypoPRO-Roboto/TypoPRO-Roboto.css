@@ -254,6 +254,36 @@
 }
 
 
+/* TypoPRO Roboto Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-RobotoCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-RobotoCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto';
+    src:          url('TypoPRO-RobotoCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-RobotoCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Roboto Condensed */
 @font-face {
     font-family:  'TypoPRO Roboto';
@@ -419,6 +449,21 @@
 }
 
 
+/* TypoPRO Roboto Slab Black */
+@font-face {
+    font-family:  'TypoPRO Roboto Slab';
+    src:          url('TypoPRO-RobotoSlab-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoSlab-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoSlab-Black.woff') format('woff'),
+                  url('TypoPRO-RobotoSlab-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Roboto Slab Bold */
 @font-face {
     font-family:  'TypoPRO Roboto Slab';
@@ -449,6 +494,21 @@
 }
 
 
+/* TypoPRO Roboto Slab Medium */
+@font-face {
+    font-family:  'TypoPRO Roboto Slab';
+    src:          url('TypoPRO-RobotoSlab-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoSlab-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoSlab-Medium.woff') format('woff'),
+                  url('TypoPRO-RobotoSlab-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Roboto Slab Regular */
 @font-face {
     font-family:  'TypoPRO Roboto Slab';
@@ -473,7 +533,7 @@
                   url('TypoPRO-RobotoSlab-Thin.woff') format('woff'),
                   url('TypoPRO-RobotoSlab-Thin.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  200;
+    font-weight:  100;
     font-stretch: normal;
     font-variant: normal;
 }

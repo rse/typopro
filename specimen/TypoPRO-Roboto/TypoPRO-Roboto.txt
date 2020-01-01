@@ -1,7 +1,7 @@
 Name:       Roboto
 Homepage:   https://github.com/google/roboto
 Download:   https://github.com/google/roboto
-Version:    2.136 (2016-12)
+Version:    2.138 (2017-08)
 License:    Apache License 2.0
 Publisher:  Open Handset Alliance, Google
 Designer:   Christian Robertson

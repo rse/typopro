@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-VictorMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

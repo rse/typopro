@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono SemiBold Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-SemiBoldOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-SemiBoldOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-SemiBoldOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-SemiBoldOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

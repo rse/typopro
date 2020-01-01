@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Bold */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-Bold.woff') format('woff'),
+                  url('TypoPRO-Inter-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

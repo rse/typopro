@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Serif Bold */
+@font-face {
+    font-family:  'TypoPRO Libertinus Serif';
+    src:          url('TypoPRO-LibertinusSerif-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusSerif-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusSerif-Bold.woff') format('woff'),
+                  url('TypoPRO-LibertinusSerif-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

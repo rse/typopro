@@ -1,0 +1,15 @@
+
+/* TypoPRO Crimson Pro SemiBold */
+@font-face {
+    font-family:  'TypoPRO Crimson Pro';
+    src:          url('TypoPRO-CrimsonPro-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-CrimsonPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CrimsonPro-SemiBold.woff') format('woff'),
+                  url('TypoPRO-CrimsonPro-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

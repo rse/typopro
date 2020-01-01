@@ -1,0 +1,315 @@
+
+/* TypoPRO Victor Mono Bold */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Bold.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-BoldOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-BoldOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-BoldOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-BoldOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-VictorMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono ExtraLight Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-ExtraLightOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-ExtraLightOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-ExtraLightOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-ExtraLightOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Italic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Light */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Light.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Light Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-LightItalic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Light Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-LightOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-LightOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-LightOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-LightOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Medium */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Medium.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Medium Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Medium Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-MediumOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-MediumOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-MediumOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-MediumOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Oblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Oblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Oblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Oblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Regular */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Regular.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-VictorMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono SemiBold Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-SemiBoldOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-SemiBoldOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-SemiBoldOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-SemiBoldOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Thin */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Thin.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Thin Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Victor Mono Thin Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-ThinOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-ThinOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-ThinOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-ThinOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

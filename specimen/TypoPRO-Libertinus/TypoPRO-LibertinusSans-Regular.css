@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Sans Regular */
+@font-face {
+    font-family:  'TypoPRO Libertinus Sans';
+    src:          url('TypoPRO-LibertinusSans-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusSans-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusSans-Regular.woff') format('woff'),
+                  url('TypoPRO-LibertinusSans-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

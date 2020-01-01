@@ -1,0 +1,15 @@
+
+/* TypoPRO Gelasio Italic */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-Italic.woff') format('woff'),
+                  url('TypoPRO-Gelasio-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Serif Pro Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-SemiboldIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-SemiboldIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-SemiboldIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-SemiboldIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

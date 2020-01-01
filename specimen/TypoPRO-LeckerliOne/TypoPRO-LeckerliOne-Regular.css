@@ -1,0 +1,15 @@
+
+/* TypoPRO LeckerliOne */
+@font-face {
+    font-family:  'TypoPRO Leckerli One';
+    src:          url('TypoPRO-LeckerliOne-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeckerliOne-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeckerliOne-Regular.woff') format('woff'),
+                  url('TypoPRO-LeckerliOne-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

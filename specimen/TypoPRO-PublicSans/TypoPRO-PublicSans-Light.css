@@ -1,0 +1,15 @@
+
+/* TypoPRO Public Sans Light */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Light.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

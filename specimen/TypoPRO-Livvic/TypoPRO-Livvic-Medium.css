@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic Medium */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Medium.woff') format('woff'),
+                  url('TypoPRO-Livvic-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

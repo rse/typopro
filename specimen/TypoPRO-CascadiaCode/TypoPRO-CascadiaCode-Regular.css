@@ -1,0 +1,15 @@
+
+/* TypoPRO Cascadia Code */
+@font-face {
+    font-family:  'TypoPRO Cascadia Code';
+    src:          url('TypoPRO-CascadiaCode-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CascadiaCode-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CascadiaCode-Regular.woff') format('woff'),
+                  url('TypoPRO-CascadiaCode-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

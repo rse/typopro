@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Sans Condensed Text Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-TextItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-TextItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-TextItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-TextItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

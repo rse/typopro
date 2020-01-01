@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Poppins-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

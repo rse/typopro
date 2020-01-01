@@ -1,0 +1,15 @@
+
+/* TypoPRO Public Sans ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-PublicSans-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Miriam Libre */
+@font-face {
+    font-family:  'TypoPRO Miriam Libre';
+    src:          url('TypoPRO-MiriamLibre-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-MiriamLibre-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-MiriamLibre-Regular.woff') format('woff'),
+                  url('TypoPRO-MiriamLibre-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

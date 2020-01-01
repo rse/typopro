@@ -1,0 +1,15 @@
+
+/* TypoPRO Antonio Bold */
+@font-face {
+    font-family:  'TypoPRO Antonio';
+    src:          url('TypoPRO-Antonio-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Antonio-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Antonio-Bold.woff') format('woff'),
+                  url('TypoPRO-Antonio-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

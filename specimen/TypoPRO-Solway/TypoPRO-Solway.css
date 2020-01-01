@@ -1,0 +1,75 @@
+
+/* TypoPRO Solway Bold */
+@font-face {
+    font-family:  'TypoPRO Solway';
+    src:          url('TypoPRO-Solway-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Solway-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Solway-Bold.woff') format('woff'),
+                  url('TypoPRO-Solway-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Solway ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Solway';
+    src:          url('TypoPRO-Solway-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Solway-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Solway-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Solway-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Solway Light */
+@font-face {
+    font-family:  'TypoPRO Solway';
+    src:          url('TypoPRO-Solway-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Solway-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Solway-Light.woff') format('woff'),
+                  url('TypoPRO-Solway-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Solway Medium */
+@font-face {
+    font-family:  'TypoPRO Solway';
+    src:          url('TypoPRO-Solway-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Solway-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Solway-Medium.woff') format('woff'),
+                  url('TypoPRO-Solway-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Solway Regular */
+@font-face {
+    font-family:  'TypoPRO Solway';
+    src:          url('TypoPRO-Solway-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Solway-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Solway-Regular.woff') format('woff'),
+                  url('TypoPRO-Solway-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Carter One */
+@font-face {
+    font-family:  'TypoPRO Carter One';
+    src:          url('TypoPRO-CarterOne-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CarterOne-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CarterOne-Regular.woff') format('woff'),
+                  url('TypoPRO-CarterOne-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

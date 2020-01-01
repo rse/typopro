@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Regular */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-Regular.woff') format('woff'),
+                  url('TypoPRO-Inter-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

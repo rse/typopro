@@ -1,0 +1,15 @@
+
+/* TypoPRO PT Root UI Light */
+@font-face {
+    font-family:  'TypoPRO PT Root UI';
+    src:          url('TypoPRO-PTRootUI-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-PTRootUI-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PTRootUI-Light.woff') format('woff'),
+                  url('TypoPRO-PTRootUI-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

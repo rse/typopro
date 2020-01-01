@@ -1,0 +1,15 @@
+
+/* TypoPRO iA Writer Duospace Regular */
+@font-face {
+    font-family:  'TypoPRO iA Writer Duospace';
+    src:          url('TypoPRO-iAWriterDuospace-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-iAWriterDuospace-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iAWriterDuospace-Regular.woff') format('woff'),
+                  url('TypoPRO-iAWriterDuospace-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,45 @@
+
+/* TypoPRO Antonio Bold */
+@font-face {
+    font-family:  'TypoPRO Antonio';
+    src:          url('TypoPRO-Antonio-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Antonio-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Antonio-Bold.woff') format('woff'),
+                  url('TypoPRO-Antonio-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Antonio Light */
+@font-face {
+    font-family:  'TypoPRO Antonio';
+    src:          url('TypoPRO-Antonio-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Antonio-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Antonio-Light.woff') format('woff'),
+                  url('TypoPRO-Antonio-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Antonio Regular */
+@font-face {
+    font-family:  'TypoPRO Antonio';
+    src:          url('TypoPRO-Antonio-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Antonio-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Antonio-Regular.woff') format('woff'),
+                  url('TypoPRO-Antonio-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

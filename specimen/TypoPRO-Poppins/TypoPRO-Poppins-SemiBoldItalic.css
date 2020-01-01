@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

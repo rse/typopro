@@ -1,0 +1,15 @@
+
+/* TypoPRO Crimson Pro ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Crimson Pro';
+    src:          url('TypoPRO-CrimsonPro-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CrimsonPro-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CrimsonPro-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-CrimsonPro-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

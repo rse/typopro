@@ -1,0 +1,15 @@
+
+/* TypoPRO Bodoni* 16 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

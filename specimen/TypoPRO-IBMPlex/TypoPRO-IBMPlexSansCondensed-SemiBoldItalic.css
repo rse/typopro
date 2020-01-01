@@ -1,0 +1,15 @@
+
+/* TypoPRO IBM Plex Sans Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO IBM Plex Condensed';
+    src:          url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-IBMPlexSansCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

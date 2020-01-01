@@ -1,0 +1,270 @@
+
+/* TypoPRO Public Sans Black */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Black.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Black Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Bold.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-PublicSans-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-PublicSans-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Italic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Light */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Light.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Light Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-LightItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Medium */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Medium.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Regular */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Regular.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans SemiBold */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-SemiBold.woff') format('woff'),
+                  url('TypoPRO-PublicSans-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Thin */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Thin.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Public Sans Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-PublicSans-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

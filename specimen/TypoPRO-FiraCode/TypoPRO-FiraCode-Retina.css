@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Code Retina */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Retina.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Retina.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Retina.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Retina.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

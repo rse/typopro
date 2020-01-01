@@ -1,0 +1,15 @@
+
+/* TypoPRO Caveat Bold */
+@font-face {
+    font-family:  'TypoPRO Caveat';
+    src:          url('TypoPRO-Caveat-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Caveat-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Caveat-Bold.woff') format('woff'),
+                  url('TypoPRO-Caveat-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

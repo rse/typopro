@@ -1,0 +1,15 @@
+
+/* TypoPRO Dekko */
+@font-face {
+    font-family:  'TypoPRO Dekko';
+    src:          url('TypoPRO-Dekko-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Dekko-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Dekko-Regular.woff') format('woff'),
+                  url('TypoPRO-Dekko-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

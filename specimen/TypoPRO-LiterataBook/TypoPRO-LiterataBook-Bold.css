@@ -1,0 +1,15 @@
+
+/* TypoPRO Literata Bold */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-Bold.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Asap Condensed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-AsapCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AsapCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AsapCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-AsapCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

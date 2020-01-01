@@ -1,0 +1,15 @@
+
+/* TypoPRO Public Sans Black */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Black.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

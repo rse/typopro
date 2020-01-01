@@ -1,0 +1,15 @@
+
+/* TypoPRO PT Root UI Medium */
+@font-face {
+    font-family:  'TypoPRO PT Root UI';
+    src:          url('TypoPRO-PTRootUI-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-PTRootUI-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PTRootUI-Medium.woff') format('woff'),
+                  url('TypoPRO-PTRootUI-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

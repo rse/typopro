@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Keyboard Regular */
+@font-face {
+    font-family:  'TypoPRO Libertinus Keyboard';
+    src:          url('TypoPRO-LibertinusKeyboard-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusKeyboard-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusKeyboard-Regular.woff') format('woff'),
+                  url('TypoPRO-LibertinusKeyboard-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins Light */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Light.woff') format('woff'),
+                  url('TypoPRO-Poppins-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

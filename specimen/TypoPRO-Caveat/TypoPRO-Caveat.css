@@ -1,0 +1,45 @@
+
+/* TypoPRO Caveat Bold */
+@font-face {
+    font-family:  'TypoPRO Caveat';
+    src:          url('TypoPRO-Caveat-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Caveat-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Caveat-Bold.woff') format('woff'),
+                  url('TypoPRO-Caveat-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Caveat Regular */
+@font-face {
+    font-family:  'TypoPRO Caveat';
+    src:          url('TypoPRO-Caveat-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Caveat-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Caveat-Regular.woff') format('woff'),
+                  url('TypoPRO-Caveat-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Caveat Brush */
+@font-face {
+    font-family:  'TypoPRO Caveat Brush';
+    src:          url('TypoPRO-CaveatBrush-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CaveatBrush-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CaveatBrush-Regular.woff') format('woff'),
+                  url('TypoPRO-CaveatBrush-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

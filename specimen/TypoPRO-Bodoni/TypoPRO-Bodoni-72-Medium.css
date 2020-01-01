@@ -1,0 +1,15 @@
+
+/* TypoPRO Bodoni* 72 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

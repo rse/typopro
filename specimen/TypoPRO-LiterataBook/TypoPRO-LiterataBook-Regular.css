@@ -1,0 +1,15 @@
+
+/* TypoPRO Literata Regular */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-Regular.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Fira Code Light */
+@font-face {
+    font-family:  'TypoPRO Fira Code';
+    src:          url('TypoPRO-FiraCode-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-FiraCode-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FiraCode-Light.woff') format('woff'),
+                  url('TypoPRO-FiraCode-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

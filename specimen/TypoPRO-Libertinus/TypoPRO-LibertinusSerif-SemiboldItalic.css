@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Serif Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Libertinus Serif';
+    src:          url('TypoPRO-LibertinusSerif-SemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusSerif-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusSerif-SemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-LibertinusSerif-SemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

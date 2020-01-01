@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono Thin */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Thin.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

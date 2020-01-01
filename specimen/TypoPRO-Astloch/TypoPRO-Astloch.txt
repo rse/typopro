@@ -1,7 +1,7 @@
 Name:       Astloch
 Homepage:   http://www.fontsc.com/font/astloch
 Download:   http://www.fontsc.com/font/astloch
-Version:    1.000 (2010)
+Version:    1.002 (2019)
 License:    Open Font License 1.1
 Publisher:  Dan Rhatigan
 Designer:   Dan Rhatigan

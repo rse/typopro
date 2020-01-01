@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn SC Bold */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-Bold.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

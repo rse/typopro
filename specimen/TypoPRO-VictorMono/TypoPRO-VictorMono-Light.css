@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono Light */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Light.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

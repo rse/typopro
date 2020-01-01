@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins Black */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Black.woff') format('woff'),
+                  url('TypoPRO-Poppins-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

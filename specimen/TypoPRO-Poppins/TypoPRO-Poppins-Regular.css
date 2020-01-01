@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins Regular */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Regular.woff') format('woff'),
+                  url('TypoPRO-Poppins-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

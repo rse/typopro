@@ -1,0 +1,15 @@
+
+/* TypoPRO Bodoni* 24 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Asap Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-AsapCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-AsapCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AsapCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-AsapCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

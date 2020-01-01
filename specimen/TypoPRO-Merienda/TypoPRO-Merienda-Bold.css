@@ -1,0 +1,15 @@
+
+/* TypoPRO Merienda Bold */
+@font-face {
+    font-family:  'TypoPRO Merienda';
+    src:          url('TypoPRO-Merienda-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merienda-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merienda-Bold.woff') format('woff'),
+                  url('TypoPRO-Merienda-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

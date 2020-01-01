@@ -1,0 +1,15 @@
+
+/* TypoPRO Farsan Regular */
+@font-face {
+    font-family:  'TypoPRO Farsan';
+    src:          url('TypoPRO-Farsan-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Farsan-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Farsan-Regular.woff') format('woff'),
+                  url('TypoPRO-Farsan-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

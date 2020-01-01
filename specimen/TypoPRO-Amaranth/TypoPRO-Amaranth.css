@@ -1,0 +1,60 @@
+
+/* TypoPRO Amaranth-Bold */
+@font-face {
+    font-family:  'TypoPRO Amaranth';
+    src:          url('TypoPRO-Amaranth-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Amaranth-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Amaranth-Bold.woff') format('woff'),
+                  url('TypoPRO-Amaranth-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Amaranth-BoldItalic */
+@font-face {
+    font-family:  'TypoPRO Amaranth';
+    src:          url('TypoPRO-Amaranth-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Amaranth-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Amaranth-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Amaranth-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Amaranth-Italic */
+@font-face {
+    font-family:  'TypoPRO Amaranth';
+    src:          url('TypoPRO-Amaranth-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Amaranth-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Amaranth-Italic.woff') format('woff'),
+                  url('TypoPRO-Amaranth-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Amaranth-Regular */
+@font-face {
+    font-family:  'TypoPRO Amaranth';
+    src:          url('TypoPRO-Amaranth-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Amaranth-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Amaranth-Regular.woff') format('woff'),
+                  url('TypoPRO-Amaranth-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

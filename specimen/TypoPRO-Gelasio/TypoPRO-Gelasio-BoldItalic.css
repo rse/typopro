@@ -1,0 +1,15 @@
+
+/* TypoPRO Gelasio Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Gelasio-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

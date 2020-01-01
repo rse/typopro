@@ -1,0 +1,15 @@
+
+/* TypoPRO Crimson Pro ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Crimson Pro';
+    src:          url('TypoPRO-CrimsonPro-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-CrimsonPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CrimsonPro-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-CrimsonPro-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

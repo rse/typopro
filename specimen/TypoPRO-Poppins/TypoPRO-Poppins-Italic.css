@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Italic.woff') format('woff'),
+                  url('TypoPRO-Poppins-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

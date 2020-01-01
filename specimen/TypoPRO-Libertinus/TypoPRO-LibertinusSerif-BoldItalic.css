@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Serif Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Libertinus Serif';
+    src:          url('TypoPRO-LibertinusSerif-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusSerif-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusSerif-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-LibertinusSerif-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

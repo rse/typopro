@@ -1,0 +1,15 @@
+
+/* TypoPRO PT Root UI Bold */
+@font-face {
+    font-family:  'TypoPRO PT Root UI';
+    src:          url('TypoPRO-PTRootUI-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-PTRootUI-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PTRootUI-Bold.woff') format('woff'),
+                  url('TypoPRO-PTRootUI-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

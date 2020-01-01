@@ -1,0 +1,15 @@
+
+/* TypoPRO Antonio Light */
+@font-face {
+    font-family:  'TypoPRO Antonio';
+    src:          url('TypoPRO-Antonio-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Antonio-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Antonio-Light.woff') format('woff'),
+                  url('TypoPRO-Antonio-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

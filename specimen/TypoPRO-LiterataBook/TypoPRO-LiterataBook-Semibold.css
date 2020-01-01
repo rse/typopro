@@ -1,0 +1,15 @@
+
+/* TypoPRO Literata Semibold */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-Semibold.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

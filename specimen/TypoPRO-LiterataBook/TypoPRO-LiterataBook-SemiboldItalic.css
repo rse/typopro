@@ -1,0 +1,15 @@
+
+/* TypoPRO Literata Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-SemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-SemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-SemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

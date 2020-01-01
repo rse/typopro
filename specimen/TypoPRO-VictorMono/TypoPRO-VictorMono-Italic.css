@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono Italic */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Italic.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

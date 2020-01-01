@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono Medium Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-MediumOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-MediumOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-MediumOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-MediumOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

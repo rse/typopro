@@ -1,0 +1,15 @@
+
+/* TypoPRO Crimson Pro Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Crimson Pro';
+    src:          url('TypoPRO-CrimsonPro-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CrimsonPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CrimsonPro-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-CrimsonPro-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

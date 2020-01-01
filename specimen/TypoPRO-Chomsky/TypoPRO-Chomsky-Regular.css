@@ -1,0 +1,15 @@
+
+/* TypoPRO Chomsky */
+@font-face {
+    font-family:  'TypoPRO Chomsky';
+    src:          url('TypoPRO-Chomsky-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Chomsky-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Chomsky-Regular.woff') format('woff'),
+                  url('TypoPRO-Chomsky-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

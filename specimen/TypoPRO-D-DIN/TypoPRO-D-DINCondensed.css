@@ -1,0 +1,15 @@
+
+/* TypoPRO D-DIN Condensed */
+@font-face {
+    font-family:  'TypoPRO D-DIN Condensed';
+    src:          url('TypoPRO-D-DINCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-D-DINCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-D-DINCondensed.woff') format('woff'),
+                  url('TypoPRO-D-DINCondensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

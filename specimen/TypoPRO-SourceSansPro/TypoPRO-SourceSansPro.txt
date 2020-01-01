@@ -1,7 +1,7 @@
 Name:       Source Sans Pro
 Homepage:   http://sourcesanspro.com/
 Download:   https://github.com/adobe-fonts/source-sans-pro
-Version:    2.020/1.075 (2015-09)
+Version:    3.006 (2019-09)
 License:    Open Font License 1.1
 Publisher:  Adobe
 Designer:   Paul D. Hunt
@@ -16,7 +16,7 @@ Its intended use is for user interfaces so it renders very well at small
 sizes. The font is available in an impressive 6 weights, making it
 extremely versatile.
 
-Copyright 2010, 2012 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+Copyright 2010-2018 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe in the United States and/or other countries.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 

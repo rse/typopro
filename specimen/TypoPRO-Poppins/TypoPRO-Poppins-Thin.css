@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins Thin */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Thin.woff') format('woff'),
+                  url('TypoPRO-Poppins-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

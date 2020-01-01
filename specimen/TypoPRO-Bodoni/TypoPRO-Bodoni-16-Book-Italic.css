@@ -1,0 +1,15 @@
+
+/* TypoPRO Bodoni* 16 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono Regular */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-Regular.woff') format('woff'),
+                  url('TypoPRO-VictorMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

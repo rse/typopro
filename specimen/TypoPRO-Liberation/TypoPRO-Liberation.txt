@@ -1,7 +1,7 @@
 Name:       Liberation
 Homepage:   https://fedorahosted.org/liberation-fonts/
-Download:   https://fedorahosted.org/liberation-fonts/
-Version:    2.00.1 (2012)
+Download:   https://github.com/liberationfonts/liberation-fonts/
+Version:    2.00.5 (2019)
 License:    Open Font License 1.1
 Publisher:  Fedora Project
 Designer:   Steve Matteson (Ascender Corp.)

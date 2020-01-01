@@ -1,0 +1,15 @@
+
+/* TypoPRO Public Sans Bold */
+@font-face {
+    font-family:  'TypoPRO Public Sans';
+    src:          url('TypoPRO-PublicSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-PublicSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-PublicSans-Bold.woff') format('woff'),
+                  url('TypoPRO-PublicSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

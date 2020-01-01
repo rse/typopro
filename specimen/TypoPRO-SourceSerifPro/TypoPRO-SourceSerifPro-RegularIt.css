@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Serif Pro Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-RegularIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-RegularIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-RegularIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-RegularIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

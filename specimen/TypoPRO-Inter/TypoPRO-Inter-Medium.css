@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Medium */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-Medium.woff') format('woff'),
+                  url('TypoPRO-Inter-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

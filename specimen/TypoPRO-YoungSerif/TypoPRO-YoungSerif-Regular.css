@@ -1,0 +1,15 @@
+
+/* TypoPRO YoungSerif */
+@font-face {
+    font-family:  'TypoPRO YoungSerif';
+    src:          url('TypoPRO-YoungSerif-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-YoungSerif-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-YoungSerif-Regular.woff') format('woff'),
+                  url('TypoPRO-YoungSerif-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

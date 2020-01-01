@@ -1,0 +1,15 @@
+
+/* TypoPRO Crimson Pro Regular */
+@font-face {
+    font-family:  'TypoPRO Crimson Pro';
+    src:          url('TypoPRO-CrimsonPro-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-CrimsonPro-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CrimsonPro-Regular.woff') format('woff'),
+                  url('TypoPRO-CrimsonPro-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

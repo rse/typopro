@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins Light Italic */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Poppins-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

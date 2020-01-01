@@ -1,0 +1,15 @@
+
+/* TypoPRO Gelasio SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Gelasio-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

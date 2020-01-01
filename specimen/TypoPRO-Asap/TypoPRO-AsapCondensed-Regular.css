@@ -1,0 +1,15 @@
+
+/* TypoPRO Asap Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-AsapCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-AsapCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AsapCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-AsapCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

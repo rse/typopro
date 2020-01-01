@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic Regular */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Regular.woff') format('woff'),
+                  url('TypoPRO-Livvic-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

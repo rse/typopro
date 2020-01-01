@@ -1,0 +1,120 @@
+
+/* TypoPRO Literata Bold */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-Bold.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Medium */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-Medium.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Regular */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-Regular.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Italic */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Semibold */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-Semibold.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Literata Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Literata Book';
+    src:          url('TypoPRO-LiterataBook-SemiboldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LiterataBook-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LiterataBook-SemiboldItalic.woff') format('woff'),
+                  url('TypoPRO-LiterataBook-SemiboldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

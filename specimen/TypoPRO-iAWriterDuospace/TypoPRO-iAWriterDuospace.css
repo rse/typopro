@@ -1,0 +1,60 @@
+
+/* TypoPRO iA Writer Duospace Bold */
+@font-face {
+    font-family:  'TypoPRO iA Writer Duospace';
+    src:          url('TypoPRO-iAWriterDuospace-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-iAWriterDuospace-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iAWriterDuospace-Bold.woff') format('woff'),
+                  url('TypoPRO-iAWriterDuospace-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO iA Writer Duospace BoldItalic */
+@font-face {
+    font-family:  'TypoPRO iA Writer Duospace';
+    src:          url('TypoPRO-iAWriterDuospace-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iAWriterDuospace-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iAWriterDuospace-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-iAWriterDuospace-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO iA Writer Duospace Regular */
+@font-face {
+    font-family:  'TypoPRO iA Writer Duospace';
+    src:          url('TypoPRO-iAWriterDuospace-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-iAWriterDuospace-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iAWriterDuospace-Regular.woff') format('woff'),
+                  url('TypoPRO-iAWriterDuospace-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO iA Writer Duospace RegularItalic */
+@font-face {
+    font-family:  'TypoPRO iA Writer Duospace';
+    src:          url('TypoPRO-iAWriterDuospace-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iAWriterDuospace-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iAWriterDuospace-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-iAWriterDuospace-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

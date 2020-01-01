@@ -1,0 +1,15 @@
+
+/* TypoPRO D-DIN Exp */
+@font-face {
+    font-family:  'TypoPRO D-DIN Expanded';
+    src:          url('TypoPRO-D-DINExp.eot');
+    src:          local('*'),
+                  url('TypoPRO-D-DINExp.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-D-DINExp.woff') format('woff'),
+                  url('TypoPRO-D-DINExp.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: expanded;
+    font-variant: normal;
+}
+

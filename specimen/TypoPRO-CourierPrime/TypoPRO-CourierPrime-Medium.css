@@ -1,0 +1,15 @@
+
+/* TypoPRO Courier Prime Medium */
+@font-face {
+    font-family:  'TypoPRO Courier Prime';
+    src:          url('TypoPRO-CourierPrime-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-CourierPrime-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CourierPrime-Medium.woff') format('woff'),
+                  url('TypoPRO-CourierPrime-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

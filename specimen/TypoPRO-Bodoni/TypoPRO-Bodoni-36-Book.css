@@ -1,0 +1,15 @@
+
+/* TypoPRO Bodoni* 36 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

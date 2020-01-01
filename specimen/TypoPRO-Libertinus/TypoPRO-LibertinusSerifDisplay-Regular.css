@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Serif Display Regular */
+@font-face {
+    font-family:  'TypoPRO Libertinus Serif Display';
+    src:          url('TypoPRO-LibertinusSerifDisplay-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusSerifDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusSerifDisplay-Regular.woff') format('woff'),
+                  url('TypoPRO-LibertinusSerifDisplay-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

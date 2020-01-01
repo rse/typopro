@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Poppins-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

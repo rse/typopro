@@ -1,0 +1,15 @@
+
+/* TypoPRO Amaranth-Regular */
+@font-face {
+    font-family:  'TypoPRO Amaranth';
+    src:          url('TypoPRO-Amaranth-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Amaranth-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Amaranth-Regular.woff') format('woff'),
+                  url('TypoPRO-Amaranth-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

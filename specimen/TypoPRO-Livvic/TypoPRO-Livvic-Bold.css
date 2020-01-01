@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic Bold */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Bold.woff') format('woff'),
+                  url('TypoPRO-Livvic-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

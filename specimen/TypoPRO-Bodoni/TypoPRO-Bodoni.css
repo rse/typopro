@@ -1,0 +1,840 @@
+
+/* TypoPRO Bodoni* 11 Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Bold-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Bold-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Bold-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 11 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 11 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 11 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 11 Fatface Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Fatface-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Fatface-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Fatface-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Fatface-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 11 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 11 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Medium-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Medium-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Medium-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 11 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 11';
+    src:          url('TypoPRO-Bodoni-11-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-11-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-11-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-11-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Bold-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Bold-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Bold-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Fatface Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Fatface-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Fatface-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Fatface-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Fatface-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Medium-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Medium-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Medium-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 16 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 16';
+    src:          url('TypoPRO-Bodoni-16-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-16-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-16-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-16-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Bold-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Bold-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Bold-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Fatface Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Fatface-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Fatface-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Fatface-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Fatface-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-24-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Medium-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Medium-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Medium-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 24 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 24';
+    src:          url('TypoPRO-Bodoni-24-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-24-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-24-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-24-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Bold-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Bold-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Bold-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Fatface-Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Fatface-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Fatface-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Fatface-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Fatface-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Medium-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Medium-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Medium-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 36 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 36';
+    src:          url('TypoPRO-Bodoni-36-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-36-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-36-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-36-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Bold-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Bold-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Bold-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Fatface Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Fatface-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Fatface-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Fatface-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Fatface-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Medium-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Medium-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Medium-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 48 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 48';
+    src:          url('TypoPRO-Bodoni-48-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-48-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-48-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-48-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Bold-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Bold-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Bold-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Fatface Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Fatface-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Fatface-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Fatface-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Fatface-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Medium-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Medium-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Medium-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 72 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 72';
+    src:          url('TypoPRO-Bodoni-72-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-72-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-72-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-72-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Bold-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Bold-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Bold-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Bold */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Bold.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Book Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Book-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Book-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Book-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Book-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Book */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Book.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Book.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Book.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Book.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Fatface Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Fatface-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Fatface-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Fatface-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Fatface-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Fatface */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Fatface.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Fatface.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Fatface.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Fatface.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Medium-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Medium-Italic.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Medium-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bodoni* 96 Medium */
+@font-face {
+    font-family:  'TypoPRO Bodoni 96';
+    src:          url('TypoPRO-Bodoni-96-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bodoni-96-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bodoni-96-Medium.woff') format('woff'),
+                  url('TypoPRO-Bodoni-96-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

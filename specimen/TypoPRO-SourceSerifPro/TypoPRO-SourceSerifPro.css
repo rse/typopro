@@ -14,6 +14,21 @@
 }
 
 
+/* TypoPRO Source Serif Pro Black Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-BlackIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-BlackIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-BlackIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-BlackIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Source Serif Pro Bold */
 @font-face {
     font-family:  'TypoPRO Source Serif Pro';
@@ -23,6 +38,21 @@
                   url('TypoPRO-SourceSerifPro-Bold.woff') format('woff'),
                   url('TypoPRO-SourceSerifPro-Bold.ttf') format('truetype');
     font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Serif Pro Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-BoldIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-BoldIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-BoldIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-BoldIt.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
@@ -44,6 +74,21 @@
 }
 
 
+/* TypoPRO Source Serif Pro ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-ExtraLightIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-ExtraLightIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-ExtraLightIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-ExtraLightIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Source Serif Pro Light */
 @font-face {
     font-family:  'TypoPRO Source Serif Pro';
@@ -53,6 +98,21 @@
                   url('TypoPRO-SourceSerifPro-Light.woff') format('woff'),
                   url('TypoPRO-SourceSerifPro-Light.ttf') format('truetype');
     font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Serif Pro Light Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-LightIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-LightIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-LightIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-LightIt.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
     font-variant: normal;
@@ -74,6 +134,21 @@
 }
 
 
+/* TypoPRO Source Serif Pro Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-RegularIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-RegularIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-RegularIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-RegularIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Source Serif Pro Semibold */
 @font-face {
     font-family:  'TypoPRO Source Serif Pro';
@@ -83,6 +158,21 @@
                   url('TypoPRO-SourceSerifPro-Semibold.woff') format('woff'),
                   url('TypoPRO-SourceSerifPro-Semibold.ttf') format('truetype');
     font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Serif Pro Semibold Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-SemiboldIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-SemiboldIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-SemiboldIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-SemiboldIt.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  600;
     font-stretch: normal;
     font-variant: normal;

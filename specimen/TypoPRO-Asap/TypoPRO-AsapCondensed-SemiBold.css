@@ -1,0 +1,15 @@
+
+/* TypoPRO Asap Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Asap';
+    src:          url('TypoPRO-AsapCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-AsapCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-AsapCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-AsapCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

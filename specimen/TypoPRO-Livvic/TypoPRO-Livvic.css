@@ -1,0 +1,240 @@
+
+/* TypoPRO Livvic Black */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Black.woff') format('woff'),
+                  url('TypoPRO-Livvic-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Black Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Bold */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Bold.woff') format('woff'),
+                  url('TypoPRO-Livvic-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Livvic-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Light */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Light.woff') format('woff'),
+                  url('TypoPRO-Livvic-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Light Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Medium */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Medium.woff') format('woff'),
+                  url('TypoPRO-Livvic-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Regular */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Regular.woff') format('woff'),
+                  url('TypoPRO-Livvic-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic SemiBold */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Livvic-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Thin */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-Thin.woff') format('woff'),
+                  url('TypoPRO-Livvic-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Livvic Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

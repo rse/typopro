@@ -1,0 +1,15 @@
+
+/* TypoPRO Source Serif Pro Black Italic */
+@font-face {
+    font-family:  'TypoPRO Source Serif Pro';
+    src:          url('TypoPRO-SourceSerifPro-BlackIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSerifPro-BlackIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSerifPro-BlackIt.woff') format('woff'),
+                  url('TypoPRO-SourceSerifPro-BlackIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,120 @@
+
+/* TypoPRO Gelasio Bold */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-Bold.woff') format('woff'),
+                  url('TypoPRO-Gelasio-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gelasio Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Gelasio-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gelasio Italic */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-Italic.woff') format('woff'),
+                  url('TypoPRO-Gelasio-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gelasio Medium */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-Medium.woff') format('woff'),
+                  url('TypoPRO-Gelasio-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gelasio Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Gelasio-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gelasio Regular */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-Regular.woff') format('woff'),
+                  url('TypoPRO-Gelasio-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gelasio SemiBold */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Gelasio-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gelasio SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Gelasio';
+    src:          url('TypoPRO-Gelasio-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Gelasio-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Gelasio-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Gelasio-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

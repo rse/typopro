@@ -1,0 +1,15 @@
+
+/* TypoPRO Solway Light */
+@font-face {
+    font-family:  'TypoPRO Solway';
+    src:          url('TypoPRO-Solway-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Solway-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Solway-Light.woff') format('woff'),
+                  url('TypoPRO-Solway-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

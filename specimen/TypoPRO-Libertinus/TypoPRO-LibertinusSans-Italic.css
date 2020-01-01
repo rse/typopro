@@ -1,0 +1,15 @@
+
+/* TypoPRO Libertinus Sans Italic */
+@font-face {
+    font-family:  'TypoPRO Libertinus Sans';
+    src:          url('TypoPRO-LibertinusSans-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LibertinusSans-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LibertinusSans-Italic.woff') format('woff'),
+                  url('TypoPRO-LibertinusSans-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

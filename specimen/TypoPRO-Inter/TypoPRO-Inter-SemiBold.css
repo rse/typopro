@@ -1,0 +1,15 @@
+
+/* TypoPRO Inter Semi Bold */
+@font-face {
+    font-family:  'TypoPRO Inter';
+    src:          url('TypoPRO-Inter-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inter-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Inter-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

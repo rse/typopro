@@ -1,0 +1,15 @@
+
+/* TypoPRO Poppins Medium */
+@font-face {
+    font-family:  'TypoPRO Poppins';
+    src:          url('TypoPRO-Poppins-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Poppins-Medium.woff') format('woff'),
+                  url('TypoPRO-Poppins-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

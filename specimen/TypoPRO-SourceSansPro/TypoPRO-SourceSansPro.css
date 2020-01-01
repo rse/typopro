@@ -17,11 +17,11 @@
 /* TypoPRO Source Sans Pro Black Italic */
 @font-face {
     font-family:  'TypoPRO Source Sans Pro';
-    src:          url('TypoPRO-SourceSansPro-BlackItalic.eot');
+    src:          url('TypoPRO-SourceSansPro-BlackIt.eot');
     src:          local('*'),
-                  url('TypoPRO-SourceSansPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-SourceSansPro-BlackItalic.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-BlackItalic.ttf') format('truetype');
+                  url('TypoPRO-SourceSansPro-BlackIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-BlackIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-BlackIt.ttf') format('truetype');
     font-style:   italic;
     font-weight:  900;
     font-stretch: normal;
@@ -47,11 +47,11 @@
 /* TypoPRO Source Sans Pro Bold Italic */
 @font-face {
     font-family:  'TypoPRO Source Sans Pro';
-    src:          url('TypoPRO-SourceSansPro-BoldItalic.eot');
+    src:          url('TypoPRO-SourceSansPro-BoldIt.eot');
     src:          local('*'),
-                  url('TypoPRO-SourceSansPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-SourceSansPro-BoldItalic.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-BoldItalic.ttf') format('truetype');
+                  url('TypoPRO-SourceSansPro-BoldIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-BoldIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-BoldIt.ttf') format('truetype');
     font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
@@ -77,11 +77,11 @@
 /* TypoPRO Source Sans Pro ExtraLight Italic */
 @font-face {
     font-family:  'TypoPRO Source Sans Pro';
-    src:          url('TypoPRO-SourceSansPro-ExtraLightItalic.eot');
+    src:          url('TypoPRO-SourceSansPro-ExtraLightIt.eot');
     src:          local('*'),
-                  url('TypoPRO-SourceSansPro-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-SourceSansPro-ExtraLightItalic.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-ExtraLightItalic.ttf') format('truetype');
+                  url('TypoPRO-SourceSansPro-ExtraLightIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-ExtraLightIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-ExtraLightIt.ttf') format('truetype');
     font-style:   italic;
     font-weight:  200;
     font-stretch: normal;
@@ -107,11 +107,11 @@
 /* TypoPRO Source Sans Pro Light Italic */
 @font-face {
     font-family:  'TypoPRO Source Sans Pro';
-    src:          url('TypoPRO-SourceSansPro-LightItalic.eot');
+    src:          url('TypoPRO-SourceSansPro-LightIt.eot');
     src:          local('*'),
-                  url('TypoPRO-SourceSansPro-LightItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-SourceSansPro-LightItalic.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-LightItalic.ttf') format('truetype');
+                  url('TypoPRO-SourceSansPro-LightIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-LightIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-LightIt.ttf') format('truetype');
     font-style:   italic;
     font-weight:  300;
     font-stretch: normal;
@@ -137,11 +137,11 @@
 /* TypoPRO Source Sans Pro Italic */
 @font-face {
     font-family:  'TypoPRO Source Sans Pro';
-    src:          url('TypoPRO-SourceSansPro-RegularItalic.eot');
+    src:          url('TypoPRO-SourceSansPro-RegularIt.eot');
     src:          local('*'),
-                  url('TypoPRO-SourceSansPro-RegularItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-SourceSansPro-RegularItalic.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-RegularItalic.ttf') format('truetype');
+                  url('TypoPRO-SourceSansPro-RegularIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-RegularIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-RegularIt.ttf') format('truetype');
     font-style:   italic;
     font-weight:  normal;
     font-stretch: normal;
@@ -167,11 +167,11 @@
 /* TypoPRO Source Sans Pro Semibold Italic */
 @font-face {
     font-family:  'TypoPRO Source Sans Pro';
-    src:          url('TypoPRO-SourceSansPro-SemiboldItalic.eot');
+    src:          url('TypoPRO-SourceSansPro-SemiboldIt.eot');
     src:          local('*'),
-                  url('TypoPRO-SourceSansPro-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-SourceSansPro-SemiboldItalic.woff') format('woff'),
-                  url('TypoPRO-SourceSansPro-SemiboldItalic.ttf') format('truetype');
+                  url('TypoPRO-SourceSansPro-SemiboldIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-SemiboldIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-SemiboldIt.ttf') format('truetype');
     font-style:   italic;
     font-weight:  600;
     font-stretch: normal;

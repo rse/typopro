@@ -1,0 +1,15 @@
+
+/* TypoPRO Livvic Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Livvic';
+    src:          url('TypoPRO-Livvic-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Livvic-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Livvic-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Livvic-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Victor Mono Light Oblique */
+@font-face {
+    font-family:  'TypoPRO VictorMono';
+    src:          url('TypoPRO-VictorMono-LightOblique.eot');
+    src:          local('*'),
+                  url('TypoPRO-VictorMono-LightOblique.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VictorMono-LightOblique.woff') format('woff'),
+                  url('TypoPRO-VictorMono-LightOblique.ttf') format('truetype');
+    font-style:   oblique;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

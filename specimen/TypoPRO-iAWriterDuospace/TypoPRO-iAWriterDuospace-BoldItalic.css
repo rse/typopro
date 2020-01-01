@@ -1,0 +1,15 @@
+
+/* TypoPRO iA Writer Duospace BoldItalic */
+@font-face {
+    font-family:  'TypoPRO iA Writer Duospace';
+    src:          url('TypoPRO-iAWriterDuospace-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-iAWriterDuospace-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-iAWriterDuospace-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-iAWriterDuospace-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

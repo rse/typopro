@@ -1,0 +1,15 @@
+
+/* TypoPRO Crimson Pro Black */
+@font-face {
+    font-family:  'TypoPRO Crimson Pro';
+    src:          url('TypoPRO-CrimsonPro-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-CrimsonPro-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CrimsonPro-Black.woff') format('woff'),
+                  url('TypoPRO-CrimsonPro-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

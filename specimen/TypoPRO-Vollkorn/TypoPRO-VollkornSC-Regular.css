@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn SC Regular */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-Regular.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
