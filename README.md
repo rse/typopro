@@ -180,46 +180,32 @@ high-quality) fonts.
 Download
 --------
 
-You can conveniently download latest snapshot or particular versions of **TypoPRO** in various ways:
+You can conveniently download latest snapshot or particular versions of
+**TypoPRO** with the Node Package Manager (NPM):
 
-- NPM: install via the Node Package Manager:<br/>
-  `$ npm install typopro`<br/>
-  `$ npm install typopro@4.0.0`
+    $ npm install typopro             # latest     version
+    $ npm install typopro@4.2.5       # particular version
 
-- Bower: install via the Bower component manager:<br/>
-  `$ bower install typopro`<br/>
-  `$ bower install "typopro#4.0.0"`
+This automatically installs the peer packages `typopro-web` and `typopro-dtp`, too.
+As you usually need only the Web formats, you can install just this NPM package:
 
-Both automatically install the peer packages `typopro-web` and `typopro-dtp`.
-As you usually need only the Web formats, you can install just this package:
-
-- NPM: install via the Node Package Manager:<br/>
-  `$ npm install typopro-web`<br/>
-  `$ npm install typopro-web@4.0.0`
-
-- Bower: install via the Bower component manager:<br/>
-  `$ bower install typopro-web`<br/>
-  `$ bower install "typopro-web#4.0.0"`
+    $ npm install typopro-web         # latest     version
+    $ npm install typopro-web@4.2.5   # particular version
 
 Alternatively, install just the DTP formats:
 
-- NPM: install via the Node Package Manager:<br/>
-  `$ npm install typopro-dtp`<br/>
-  `$ npm install typopro-dtp@4.0.0`
+    $ npm install typopro-dtp         # latest     version
+    $ npm install typopro-dtp@4.2.5   # particular version
 
-- Bower: install via the Bower component manager:<br/>
-  `$ bower install typopro-dtp`<br/>
-  `$ bower install "typopro-dtp#4.0.0"`
+Finally, you can also download both Web and DTP formats manually, with e.g. cURL:
 
-Finally, you can also download both Web and DTP formats manually:
+    # download Web formats in latest or particular version
+    $ curl -O https://github.com/rse/typopro-web/archive/master.zip
+    $ curl -O https://github.com/rse/typopro-web/archive/4.2.5.zip
 
-- cURL: download directly from the Github repository:<br/>
-  `$ curl -O https://github.com/rse/typopro-web/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-web/archive/4.0.0.zip`
-
-- cURL: download directly from the Github repository:<br/>
-  `$ curl -O https://github.com/rse/typopro-dtp/archive/master.zip`<br/>
-  `$ curl -O https://github.com/rse/typopro-dtp/archive/4.0.0.zip`
+    # download DTP formats in latest or particular version
+    $ curl -O https://github.com/rse/typopro-dtp/archive/master.zip
+    $ curl -O https://github.com/rse/typopro-dtp/archive/4.2.5.zip
 
 Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
