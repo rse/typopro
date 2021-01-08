@@ -103,7 +103,7 @@ Font Overview
 
 A [Specimen](http://typopro.org/specimen/) in HTML format allows you to
 conveniently preview all the TypoPRO font in detail. This Specimen
-is grpuped into General Purpose and Special Purpose fonts.
+is grouped into General Purpose and Special Purpose fonts.
 
 #### General Purpose Fonts
 
