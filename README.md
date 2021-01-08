@@ -311,7 +311,8 @@ Roboto          |Aleo            |Droid Serif      |Source Code Pro     |Journal
 Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffesatz
 Open Sans       |Andada          |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
 Lato            |Crete Round     |Libre Baskerville|Fira Mono           |Nautilus Pompilius |Quando
-                |                |Petrona          |Inconsolata         |                   |Sansita
+-               |-               |Petrona          |Inconsolata         |Arima Madurei      |Sansita
+-               |-               |Gelasio          |JetBrains Mono      |-                  |-
 
 Manifest
 --------
