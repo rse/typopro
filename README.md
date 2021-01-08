@@ -308,7 +308,7 @@ Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:           |Monospaced:         |Script:
 ----------------|----------------|-----------------|--------------------|-------------------|---------
 Fira Sans       |Roboto Slab     |Merriweather     |DejaVu Sans Mono    |Handlee            |Bebas Neue
 Roboto          |Aleo            |Droid Serif      |Source Code Pro     |Journal            |Overlock
-Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffesatz
+Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffeesatz
 Open Sans       |Andada          |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
 Lato            |Crete Round     |Libre Baskerville|Fira Mono           |Nautilus Pompilius |Quando
 &nbsp;          |&nbsp;          |Petrona          |Inconsolata         |Arima Madurei      |Sansita
