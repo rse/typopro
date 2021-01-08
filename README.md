@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of 1613 individual fonts of 182 font families. The
+**TypoPRO** consists of **1912** individual fonts of **198** font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -101,194 +101,23 @@ Features
 Font Overview
 -------------
 
-![The TypoPRO Font Cloud Image](cloud.png "The TypoPRO Font Cloud Image")
+A [Specimen](http://typopro.org/specimen/) in HTML format allows you to
+conveniently preview all the TypoPRO font in detail. This Specimen
+is grpuped into General Purpose and Special Purpose fonts.
 
 #### General Purpose Fonts
 
-The fonts in this group are general purpose ones, i.e., they can be used
-equally well for headlines, body text, footnotes, etc. They especially
-are part of whole font families and cover a wide range of Unicode
-characters.
-
-Name                      |Fonts|Serif|Slab|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
---------------------------|----:|:---:|:--:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Aileron                   | 16  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Alegreya                  | 40  |  X  |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
-Aleo                      |  6  |     | X  |    |    |    |  X    |  X   |    | X  |      |  X   | X  |
-Amaranth                  |  4  |     |    |  X |    |    |  X    |  X   |    |    |      |  X   |    |
-Amble                     |  8  |     |    | X  |    |    |  X    |  X   | X  | X  |      |  X   | X  |
-Andada                    |  8  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Andika&nbsp;New&nbsp;Basic|  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Anonymous&nbsp;Pro        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Antonio                   |  3  |     |    |  X |    |    |  X    |  X   |    |    |      |  X   |    |
-Asap                      |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Barlow                    | 54  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Bitter                    |  4  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Cabin                     | 14  |     |    | X  |    | X  |  X    |  X   | X  |    |  X   |  X   | X  |
-Charis&nbsp;SIL           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Clear&nbsp;Sans           |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
-Comme                     | 10  |     |    | X  | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Cooper&nbsp;Hewitt        | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Cormorant                 | 45  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
-Courier&nbsp;Prime        |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Courier&nbsp;Prime&nbsp;Code|2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
-Courier&nbsp;Prime&nbsp;Sans|4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Cousine                   |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Crete&nbsp;Round          |  2  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   |    |
-Crimson                   |  6  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Crimson&nbsp;Pro          | 16  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
-Cuprum                    |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-DejaVu                    | 21  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |      |  X   | X  |
-Domine                    |  2  |  X  |    |    |    |    |  X    |      |    |    |      |  X   | X  |
-Dosis                     |  7  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Droid                     |  7  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
-EB&nbsp;Garamond          |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-ET&nbsp;Book              |  5  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Ek&nbsp;Mukta             |  7  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
-Encode&nbsp;Sans          | 45  |     |    | X  |    |    |  X    |      | X  | X  |  X   |  X   | X  | X
-Fantasque&nbsp;Sans&nbsp;Mono|4 |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Fira&nbsp;Code            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
-Fira&nbsp;Mono            |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
-Fira&nbsp;Sans            | 64  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Gentium                   |  8  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Go                        | 10  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Hack                      |  4  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
-IBM&nbsp;Plex             | 48  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Inconsolata               |  2  |     |    |    | X  |    |  X    |      |    |    |      |  X   | X  |
-Inter&nbsp;UI             |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
-Iosevka                   | 42  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Junicode                  |  8  |  X  |    |    |    |    |  X    |  X   | X  |    |      |  X   | X  |
-Kreon                     |  3  |     | X  |    |    |    |  X    |      |    | X  |      |  X   | X  |
-Latin&nbsp;Modern         | 50  |  X  |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Lato                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-League&nbsp;Gothic        |  4  |     | X  |    |    |    |       |      |    | X  |  X   |  X   | X  |
-League&nbsp;Mono          |  4  |     |    |    | X  |    |       |      |    |    |      |  X   | X  |
-Lekton                    |  3  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Liberation                | 12  |  X  |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Libre&nbsp;Baskerville    |  3  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Libre&nbsp;Caslon         |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Libre&nbsp;Franklin       | 18  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Linux&nbsp;Biolinum       |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Linux&nbsp;Libertine      |  9  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  |
-Lora                      |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Merriweather              |  8  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Merriweather&nbsp;Sans    |  8  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Miriam&nbsp;Libre         |  2  |     |    | X  |    |    |  X    |      |    |    |      |  X   | X  |
-Monoid                    |  3  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Mononoki                  |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Montserrat                |  7  |  X  |    |    |    |    |  X    |      |    | X  |  X   |  X   | X  | X
-Mplus                     | 43  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
-Muli                      | 10  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Neuton                    |  7  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Noto&nbsp;Sans            |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Noto&nbsp;Serif           |  4  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-Office&nbsp;Code&nbsp;Pro |  8  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Open&nbsp;Sans            | 13  |     |    | X  |    |    |  X    |  X   | X  |    |  X   |  X   | X  | X
-Oswald                    | 14  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Overlock                  |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Overpass                  | 20  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  |
-Overpass                  | 20  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Oxygen                    |  5  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Playfair&nbsp;Display     | 12  |  X  |    |    |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Poly                      |  2  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
-Poppins                   | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Quattrocento              |  6  |  X  |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-Quicksand                 |  6  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Raleway                   | 18  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Roboto                    | 16  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
-Rosario                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Rubik                     | 11  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Secular&nbsp;One          |  1  |     |    | X  |    |    |  X    |      |    |    |      |      | X  |
-Signika                   |  4  |     |    | X  |    |    |  X    |  X   |    |    |      |  X   | X  |
-Sinkin&nbsp;Sans          | 18  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Source&nbsp;Code&nbsp;Pro | 14  |     |    |    | X  |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Source&nbsp;Sans&nbsp;Pro | 12  |     |    | X  |    |    |  X    |  X   |    | X  |  X   |  X   | X  | X
-Source&nbsp;Serif&nbsp;Pro|  3  |  X  |    |    |    |    |  X    |      |    | X  |  X   |  X   | X  | X
-Space&nbsp;Mono           |  4  |     |    |    | X  |    |  X    |  X   |    |    |      |  X   | X  |
-TeX&nbsp;Gyre             | 33  |  X  |    | X  | X  | X  |  X    |  X   | X  | X  |  X   |  X   | X  |
-Titillium                 | 11  |     |    | X  |    |    |  X    |  X   | X  | X  |  X   |  X   | X  | X
-Ubuntu                    | 13  |     |    | X  | X  |    |  X    |  X   | X  | X  |  X   |  X   | X  |
-Vegur                     |  3  |     |    | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
-Vollkorn                  | 12  |  X  |    |    |    |    |  X    |  X   |    |    |  X   |  X   | X  |
-Webly&nbsp;Sleek          |  6  |     |    | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
-Work&nbsp;Sans            |  9  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
-Yanone&nbsp;Kaffeesatz    |  4  |     |    | X  |    |    |  X    |      |    | X  |  X   |  X   | X  |
-YoungSerif                |  1  |  X  |    |    |    |    |  X    |  X   |    |    |      |  X   |    |
-Zilla&nbsp;Slab           | 12  |     | X  |    |    |    |  X    |  X   |    |    |      |  X   | X  |
-iA&nbsp;Writer&nbsp;Duospace |  4  |     |    | X  | X  |    |  X    |  X   |    |    |      |  X   | X  |
+The fonts in the General Purpose group are for general uses, i.e., they
+can be used equally well for headlines, body text, footnotes, etc. They
+especially are part of whole font families and cover a wide range of
+Unicode characters.
 
 #### Special Purpose Fonts
 
-The fonts in this group are special purpose ones, i.e., they are usually
+The fonts in the Special Purpose group are for special uses, i.e., they are usually
 used only for particular headlines, subtitles, tags, etc. They are
-usually just stand-alone fonts and cover just a very limited set of
+usually just stand-alone fonts and cover just a very limited range of
 Unicode characters.
-
-Name                      |Fonts|Serif|Sans|Mono|Hand|Regular|Italic|Cond|Thin|Medium|Normal|Bold|Black
---------------------------|----:|:---:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|:----:|:----:|:--:|:---:
-Amatic&nbsp;SC            |  2  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Arima&nbsp;Madurai        |  8  |     |    |    | X  |       |  X   |    | X  |      |  X   | X  |
-Astloch                   |  2  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
-Bebas&nbsp;Neue           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
-Bellota                   |  6  |     |    |    |    |  X    |  X   |    |    |  X   |      | X  |
-Bree&nbsp;Serif           |  1  |  X  |    |    |    |       |  X   |    |    |      |      | X  |
-Bukhari&nbsp;Script       |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Caveat                    |  2  |     |    |    | X  |  X    |      |    |    |      |      | X  |
-Chawp                     |  1  |     |    |    | X  |       |      |    |    |      |      | X  |
-Comic&nbsp;Neue           | 12  |     | X  |    | X  |  X    |  X   |    | X  |      |  X   | X  |
-Comic&nbsp;Relief         |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
-Coming&nbsp;Soon          |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
-Courgette                 |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Coustard                  |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   | X  |
-Crafty&nbsp;Girls         |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
-Damion                    |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
-DancingScript             |  2  |     |    |    | X  |       |      |    |    |      |  X   | X  |
-Delius                    |  4  |     |    |    | X  |  X    |      |    |    |      |  X   | X  |
-Gidole                    |  2  |     | X  |    |    |       |      |    |    |      |  X   |    |
-Give&nbsp;You&nbsp;Glory  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Grand&nbsp;Hotel          |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Graziano                  |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Great&nbsp;Vibes          |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-HH&nbsp;Samuel            |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
-Indie&nbsp;Flower         |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Journal                   |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Junction                  |  3  |     | X  |    |    |  X    |      |    |    |  X   |  X   | X  |
-Kalam                     |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   | X  |
-Kaushan Script            |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Kingthings&nbsp;Petrock   |  2  |     |    |    | X  |  X    |      |    | X  |      |  X   |    |
-Komika&nbsp;Hand          |  4  |     | X  |    | X  |  X    |  X   |    |    |      |  X   | X  |
-Komika&nbsp;Text          | 10  |     | X  |    |    |  X    |  X   |    | X  |      |  X   | X  |
-Learning&nbsp;Curve       |  2  |     |    |    | X  |       |  X   |    | X  |      |  X   |    |
-Leckerli                  |  1  |     |    |    | X  |  X    |      |    |    |      |      |    |
-Lemonada                  |  4  |     |    |    | X  |       |  X   |    |    |      |  X   | X  |
-Life Savers               |  3  |     |    |    | X  |       |  X   |    |    |      |  X   | X  | X
-Lobster&nbsp;Two          |  4  |     |    |    | X  |  X    |  X   |    |    |      |  X   | X  |
-Macondo                   |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
-Merienda                  |  2  |     |    |    | X  |  X    |      |    |    |      |      | X  |
-Milonga                   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Nautilus&nbsp;Pompilius   |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Nickainley                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Ostrich&nbsp;Sans         |  9  |     | X  |    |    |  X    |      |    | X  |  X   |  X   | X  | X
-Paprika                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    |
-Patua&nbsp;One            |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Permanent&nbsp;Marker     |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
-Poetsen                   |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
-Pompiere                  |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Quando                    |  1  |     | X  |    |    |  X    |      |    |    |      |  X   |    |
-Rancho                    |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
-Ranga                     |  2  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
-Rock&nbsp;Salt            |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
-Sansita&nbsp;One          |  1  |     |    |    | X  |       |  X   |    |    |      |      | X  |
-Sasla                     |  1  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
-Satisfy                   |  1  |     |    |    | X  |       |      |    |    |      |  X   |    |
-Shadows&nbsp;Into&nbsp;Light&nbsp;Two    |  1  |     |    |    | X  |  X    |      |    |    |      |  X   |    |
-Slabo                     |  2  |  X  |    |    |    |  X    |      |    |    |      |  X   |    |
-Tillana                   |  5  |     |    |    | X  |  X    |      |    | X  |  X   |  X   | X  |
-To&nbsp;Be&nbsp;Continued |  1  |     |    |    | X  |  X    |      |    |    |      |      |    | X
-Top&nbsp;Secret           |  1  |     | X  |    |    |  X    |      |    |    |      |      |    | X
-Unifraktur                |  3  |     |    |    | X  |  X    |      |    |    |  X   |  X   |    |
-Veteran&nbsp;Typewriter   |  1  |     |    | X  |    |       |      |    |    |      |  X   |    |
-Yellowtail                |  1  |     |    |    | X  |       |  X   |    |    |      |  X   |    |
 
 Browser Support
 ---------------
@@ -480,14 +309,14 @@ two steps:
 Recommendation
 --------------
 
-For general purpose typography, I can recommend you all of the above
-General Purpose fonts of TypoPRO, of course. But my personal preference
-most of the times is towards the fonts in the following table. There are
-many reasons for this, but mainly all those fonts, each in their class,
-in my humble opinion, provide the best balance of legibility (because of
-very distinct glyph outlines), beauty (because of very harmonic glyph
-curves) and versatility (because of their different available stroke
-widths and optional italic variants).
+For general purpose typography, I can recommend you all of the General
+Purpose fonts of TypoPRO, of course. But my personal preference most of
+the times is towards the fonts in the following table. There are many
+reasons for this, but mainly all those fonts, each in their class, in my
+humble opinion, provide the best balance of legibility (because of very
+distinct glyph outlines), beauty (because of very harmonic glyph curves)
+and versatility (because of their different available stroke widths and
+optional italic variants).
 
 Sans&nbsp;Serif:|Slab&nbsp;Serif:|Serif:           |Monospaced:         |Script:            |Display:
 ----------------|----------------|-----------------|--------------------|-------------------|---------
@@ -496,6 +325,7 @@ Roboto          |Aleo            |Droid Serif      |Source Code Pro     |Journal
 Source Sans Pro |Bitter          |Lora             |Anonymous Pro       |Delius             |Yanone Kaffesatz
 Open Sans       |Andada          |Source Serif Pro |Latin Modern Mono   |Kalam              |Poetsen
 Lato            |Crete Round     |Libre Baskerville|Fira Mono           |Nautilus Pompilius |Quando
+                |                |Petrona          |Inconsolata         |                   |Sansita
 
 Manifest
 --------
