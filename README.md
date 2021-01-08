@@ -344,7 +344,7 @@ all dependencies yourself, of course.
 Licensing
 ---------
 
-Copyright (c) 2013-2021 Dr. Ralf S. Engelschall &lt;rse@engelschall.com&gt;
+Copyright &copy; 2013-2021 Dr. Ralf S. Engelschall &lt;rse@engelschall.com&gt;
 
 All included font families are distributed under very liberal Open
 Source licenses, either MIT License, Apache License, Open Font License
