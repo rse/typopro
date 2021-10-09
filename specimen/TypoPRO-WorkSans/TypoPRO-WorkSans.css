@@ -14,6 +14,21 @@
 }
 
 
+/* TypoPRO Work Sans Black Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Work Sans Bold */
 @font-face {
     font-family:  'TypoPRO Work Sans';
@@ -23,6 +38,21 @@
                   url('TypoPRO-WorkSans-Bold.woff') format('woff'),
                   url('TypoPRO-WorkSans-Bold.ttf') format('truetype');
     font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  bold;
     font-stretch: normal;
     font-variant: normal;
@@ -44,6 +74,21 @@
 }
 
 
+/* TypoPRO Work Sans ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Work Sans ExtraLight */
 @font-face {
     font-family:  'TypoPRO Work Sans';
@@ -54,6 +99,36 @@
                   url('TypoPRO-WorkSans-ExtraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-Italic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -74,6 +149,21 @@
 }
 
 
+/* TypoPRO Work Sans Light Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-LightItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Work Sans Medium */
 @font-face {
     font-family:  'TypoPRO Work Sans';
@@ -83,6 +173,21 @@
                   url('TypoPRO-WorkSans-Medium.woff') format('woff'),
                   url('TypoPRO-WorkSans-Medium.ttf') format('truetype');
     font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
@@ -119,6 +224,21 @@
 }
 
 
+/* TypoPRO Work Sans SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Work Sans Thin */
 @font-face {
     font-family:  'TypoPRO Work Sans';
@@ -128,6 +248,21 @@
                   url('TypoPRO-WorkSans-Thin.woff') format('woff'),
                   url('TypoPRO-WorkSans-Thin.ttf') format('truetype');
     font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Work Sans Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  100;
     font-stretch: normal;
     font-variant: normal;

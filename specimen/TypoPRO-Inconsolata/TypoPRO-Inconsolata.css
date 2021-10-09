@@ -1,4 +1,19 @@
 
+/* TypoPRO Inconsolata Black */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-Black.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Inconsolata Bold */
 @font-face {
     font-family:  'TypoPRO Inconsolata';
@@ -9,6 +24,306 @@
                   url('TypoPRO-Inconsolata-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed Black */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedBlack.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedBlack.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedBlack.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedBlack.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedExtraBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedExtraLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedMedium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedMedium.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedMedium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedRegular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedRegular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedRegular.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedRegular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedSemiBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed Black */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedBlack.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBlack.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBlack.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBlack.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed Bold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedExtraBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedExtraLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed Light */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed Medium */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedMedium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedMedium.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedMedium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed Regular */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedRegular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedRegular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedRegular.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedRegular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraCondensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedSemiBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Light */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-Light.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata Medium */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-Medium.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -25,6 +340,141 @@
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed Black */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedBlack.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBlack.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBlack.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBlack.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed Bold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedExtraBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedExtraLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed Light */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed Medium */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedMedium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedMedium.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedMedium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed Regular */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedRegular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedRegular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedRegular.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedRegular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inconsolata SemiCondensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedSemiBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: semi-condensed;
     font-variant: normal;
 }
 

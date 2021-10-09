@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Italic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

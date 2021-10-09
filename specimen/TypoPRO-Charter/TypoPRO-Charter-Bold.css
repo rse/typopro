@@ -1,0 +1,15 @@
+
+/* TypoPRO Charter Bold */
+@font-face {
+    font-family:  'TypoPRO Charter';
+    src:          url('TypoPRO-Charter-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Charter-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Charter-Bold.woff') format('woff'),
+                  url('TypoPRO-Charter-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

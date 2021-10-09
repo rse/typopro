@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Georama-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

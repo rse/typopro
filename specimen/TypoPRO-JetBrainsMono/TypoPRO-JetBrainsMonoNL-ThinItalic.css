@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono NL Thin Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Rosario Light */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-Light.woff') format('woff'),
+                  url('TypoPRO-Rosario-Light.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

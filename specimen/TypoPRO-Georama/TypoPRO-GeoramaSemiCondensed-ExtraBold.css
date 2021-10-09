@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Semi Condensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Georama Semi-Condensed';
+    src:          url('TypoPRO-GeoramaSemiCondensed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaSemiCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaSemiCondensed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-GeoramaSemiCondensed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

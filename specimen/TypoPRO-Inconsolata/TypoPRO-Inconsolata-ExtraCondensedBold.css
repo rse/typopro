@@ -1,0 +1,15 @@
+
+/* TypoPRO Inconsolata ExtraCondensed Bold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-ExtraCondensedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-ExtraCondensedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+

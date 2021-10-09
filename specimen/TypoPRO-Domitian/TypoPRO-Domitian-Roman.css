@@ -1,0 +1,15 @@
+
+/* TypoPRO Domitian-Roman */
+@font-face {
+    font-family:  'TypoPRO Domitian';
+    src:          url('TypoPRO-Domitian-Roman.eot');
+    src:          local('*'),
+                  url('TypoPRO-Domitian-Roman.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Domitian-Roman.woff') format('woff'),
+                  url('TypoPRO-Domitian-Roman.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

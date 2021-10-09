@@ -1,0 +1,15 @@
+
+/* TypoPRO Inconsolata Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedMedium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedMedium.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedMedium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

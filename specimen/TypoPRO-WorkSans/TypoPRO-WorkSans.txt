@@ -1,7 +1,7 @@
 Name:       Work Sans
 Homepage:   http://weiweihuanghuang.github.io/Work-Sans/
 Download:   https://github.com/weiweihuanghuang/Work-Sans/
-Version:    1.060 (2017-11)
+Version:    2.010 (2020-07)
 License:    Open Font License
 Publisher:  Wei Huang
 Designer:   Wei Huang

@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Swashed Bold */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-Bold.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,4 +1,19 @@
 
+/* TypoPRO League Gothic Condensed */
+@font-face {
+    font-family:  'TypoPRO League Gothic';
+    src:          url('TypoPRO-LeagueGothic-Condensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueGothic-Condensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueGothic-Condensed.woff') format('woff'),
+                  url('TypoPRO-LeagueGothic-Condensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
 /* TypoPRO League Gothic Condensed Italic */
 @font-face {
     font-family:  'TypoPRO League Gothic';
@@ -44,7 +59,7 @@
 }
 
 
-/* TypoPRO League Gothic */
+/* TypoPRO League Gothic Regular */
 @font-face {
     font-family:  'TypoPRO League Gothic';
     src:          url('TypoPRO-LeagueGothic-Regular.eot');
@@ -55,6 +70,66 @@
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Gothic SemiCondensed */
+@font-face {
+    font-family:  'TypoPRO League Gothic';
+    src:          url('TypoPRO-LeagueGothic-SemiCondensed.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueGothic-SemiCondensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueGothic-SemiCondensed.woff') format('woff'),
+                  url('TypoPRO-LeagueGothic-SemiCondensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Gothic SemiCondensed Italic */
+@font-face {
+    font-family:  'TypoPRO League Gothic';
+    src:          url('TypoPRO-LeagueGothic-SemiCondensedItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueGothic-SemiCondensedItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueGothic-SemiCondensedItalic.woff') format('woff'),
+                  url('TypoPRO-LeagueGothic-SemiCondensedItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Gothic SemiExpanded */
+@font-face {
+    font-family:  'TypoPRO League Gothic';
+    src:          url('TypoPRO-LeagueGothic-SemiExpanded.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueGothic-SemiExpanded.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueGothic-SemiExpanded.woff') format('woff'),
+                  url('TypoPRO-LeagueGothic-SemiExpanded.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Gothic SemiExpanded Italic */
+@font-face {
+    font-family:  'TypoPRO League Gothic';
+    src:          url('TypoPRO-LeagueGothic-SemiExpandedItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueGothic-SemiExpandedItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueGothic-SemiExpandedItalic.woff') format('woff'),
+                  url('TypoPRO-LeagueGothic-SemiExpandedItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: semi-expanded;
     font-variant: normal;
 }
 

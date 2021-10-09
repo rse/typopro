@@ -1,0 +1,15 @@
+
+/* TypoPRO Calistoga Regular */
+@font-face {
+    font-family:  'TypoPRO Calistoga';
+    src:          url('TypoPRO-Calistoga-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Calistoga-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Calistoga-Regular.woff') format('woff'),
+                  url('TypoPRO-Calistoga-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

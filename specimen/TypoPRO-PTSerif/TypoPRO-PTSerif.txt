@@ -1,6 +1,6 @@
 Name:       PT Serif
-Homepage:   http://www.paratype.com/public/
-Download:   http://www.paratype.com/uni/public/PTSerif.zip
+Homepage:   https://company.paratype.com/pt-sans-pt-serif
+Download:   https://company.paratype.com/system/attachments/634/original/ptserif.zip
 Version:    1.002 (2014-06)
 License:    ParaType Free Font Licensing Agreement
 Publisher:  ParaType

@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

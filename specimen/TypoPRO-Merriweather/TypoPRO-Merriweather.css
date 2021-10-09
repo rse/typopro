@@ -1,5 +1,5 @@
 
-/* TypoPRO Merriweather Black */
+/* TypoPRO Merriweather 12pt Black */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-Black.eot');
@@ -14,7 +14,7 @@
 }
 
 
-/* TypoPRO Merriweather Black Italic */
+/* TypoPRO Merriweather Text Black  */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-BlackItalic.eot');
@@ -29,7 +29,7 @@
 }
 
 
-/* TypoPRO Merriweather Bold */
+/* TypoPRO Merriweather Text Regular */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-Bold.eot');
@@ -44,7 +44,7 @@
 }
 
 
-/* TypoPRO Merriweather Bold Italic */
+/* TypoPRO Merriweather Text Regular */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-BoldItalic.eot');
@@ -59,7 +59,7 @@
 }
 
 
-/* TypoPRO Merriweather Italic */
+/* TypoPRO Merriweather Text Regular */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-Italic.eot');
@@ -74,7 +74,7 @@
 }
 
 
-/* TypoPRO Merriweather Light */
+/* TypoPRO Merriweather 12pt Light */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-Light.eot');
@@ -89,7 +89,7 @@
 }
 
 
-/* TypoPRO Merriweather Light Italic */
+/* TypoPRO Merriweather Text Light */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-LightItalic.eot');
@@ -104,7 +104,7 @@
 }
 
 
-/* TypoPRO Merriweather Regular */
+/* TypoPRO Merriweather 12pt Regular */
 @font-face {
     font-family:  'TypoPRO Merriweather';
     src:          url('TypoPRO-Merriweather-Regular.eot');
@@ -115,6 +115,246 @@
     font-style:   normal;
     font-weight:  normal;
     font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather 12pt SemiCondensed Black */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedBlack.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedBlack.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedBlack.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedBlack.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiCondensed Black */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedBlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedBlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedBlackItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedBlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiCondensed Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedBold.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiCondensed Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiCondensed Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather 12pt SemiCondensed Light */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedLight.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiCondensed Light */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedLightItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather 12pt SemiCondensed Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedRegular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedRegular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedRegular.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedRegular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather 12pt SemiExpanded Black */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedBlack.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlack.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlack.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlack.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiExpanded Black */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedBlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlackItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiExpanded Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedBold.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiExpanded Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiExpanded Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather 12pt SemiExpanded Light */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedLight.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather Text SemiExpanded Light */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedLightItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Merriweather 12pt SemiExpanded Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedRegular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedRegular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedRegular.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedRegular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: semi-expanded;
     font-variant: normal;
 }
 
@@ -224,7 +464,7 @@
 }
 
 
-/* TypoPRO Merriweather Sans */
+/* TypoPRO Merriweather Sans Regular */
 @font-face {
     font-family:  'TypoPRO Merriweather Sans';
     src:          url('TypoPRO-MerriweatherSans-Regular.eot');

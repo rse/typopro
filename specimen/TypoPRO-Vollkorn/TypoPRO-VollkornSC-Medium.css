@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn SC Medium */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-Medium.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

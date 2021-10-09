@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather Text SemiExpanded Regular */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedBold.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+

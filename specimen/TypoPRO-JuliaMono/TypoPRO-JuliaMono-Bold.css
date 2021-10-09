@@ -1,0 +1,15 @@
+
+/* TypoPRO JuliaMono Bold */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Bold.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

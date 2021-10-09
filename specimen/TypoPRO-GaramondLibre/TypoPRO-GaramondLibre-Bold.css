@@ -1,0 +1,15 @@
+
+/* TypoPRO Garamond Libre Bold */
+@font-face {
+    font-family:  'TypoPRO Garamond Libre';
+    src:          url('TypoPRO-GaramondLibre-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GaramondLibre-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GaramondLibre-Bold.woff') format('woff'),
+                  url('TypoPRO-GaramondLibre-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono Regular */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Regular.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

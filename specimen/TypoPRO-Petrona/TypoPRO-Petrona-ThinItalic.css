@@ -1,0 +1,15 @@
+
+/* TypoPRO Petrona Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Petrona';
+    src:          url('TypoPRO-Petrona-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Petrona-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Petrona-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Petrona-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

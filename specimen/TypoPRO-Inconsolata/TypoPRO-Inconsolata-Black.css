@@ -1,0 +1,15 @@
+
+/* TypoPRO Inconsolata Black */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-Black.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

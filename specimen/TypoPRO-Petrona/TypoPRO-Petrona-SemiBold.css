@@ -1,0 +1,15 @@
+
+/* TypoPRO Petrona SemiBold */
+@font-face {
+    font-family:  'TypoPRO Petrona';
+    src:          url('TypoPRO-Petrona-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Petrona-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Petrona-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Petrona-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

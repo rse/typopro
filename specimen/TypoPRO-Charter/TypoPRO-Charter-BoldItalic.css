@@ -1,0 +1,15 @@
+
+/* TypoPRO Charter Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Charter';
+    src:          url('TypoPRO-Charter-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Charter-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Charter-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Charter-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

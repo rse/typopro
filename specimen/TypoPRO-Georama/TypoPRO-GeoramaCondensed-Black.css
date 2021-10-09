@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Condensed Black */
+@font-face {
+    font-family:  'TypoPRO Georama Condensed';
+    src:          url('TypoPRO-GeoramaCondensed-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaCondensed-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaCondensed-Black.woff') format('woff'),
+                  url('TypoPRO-GeoramaCondensed-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

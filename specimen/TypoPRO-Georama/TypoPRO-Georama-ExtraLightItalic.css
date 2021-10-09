@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Georama-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

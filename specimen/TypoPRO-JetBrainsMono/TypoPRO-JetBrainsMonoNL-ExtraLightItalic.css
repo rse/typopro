@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono NL ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,6 +1,6 @@
 Name:       PT Sans
-Homepage:   http://www.paratype.com/public/
-Download:   http://www.paratype.com/uni/public/PTSans.zip
+Homepage:   https://company.paratype.com/pt-sans-pt-serif
+Download:   https://company.paratype.com/system/attachments/629/original/ptsans.zip
 Version:    2.005 (2014-05)
 License:    ParaType Free Font Licensing Agreement
 Publisher:  ParaType

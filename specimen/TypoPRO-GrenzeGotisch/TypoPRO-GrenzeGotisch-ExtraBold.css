@@ -1,0 +1,15 @@
+
+/* TypoPRO Grenze Gotisch ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

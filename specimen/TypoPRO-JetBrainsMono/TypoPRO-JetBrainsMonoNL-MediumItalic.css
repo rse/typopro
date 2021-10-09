@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono NL Medium Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

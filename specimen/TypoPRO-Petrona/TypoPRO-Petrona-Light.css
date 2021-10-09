@@ -1,0 +1,15 @@
+
+/* TypoPRO Petrona Light */
+@font-face {
+    font-family:  'TypoPRO Petrona';
+    src:          url('TypoPRO-Petrona-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Petrona-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Petrona-Light.woff') format('woff'),
+                  url('TypoPRO-Petrona-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

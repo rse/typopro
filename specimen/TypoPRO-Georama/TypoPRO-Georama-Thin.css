@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Thin */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-Thin.woff') format('woff'),
+                  url('TypoPRO-Georama-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

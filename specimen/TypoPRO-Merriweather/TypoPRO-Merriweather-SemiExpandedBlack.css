@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 12pt SemiExpanded Black */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedBlack.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlack.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlack.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedBlack.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+

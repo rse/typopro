@@ -1,0 +1,480 @@
+
+/* TypoPRO JetBrains Mono Bold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Bold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono ExtraBold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Italic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Light */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Light.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Light Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-LightItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Medium */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Medium.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Medium Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Regular */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Regular.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Thin */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Thin.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono Thin Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Bold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-Bold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Bold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL ExtraBold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL ExtraLight */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-Italic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Light */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-Light.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Light Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-LightItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Medium */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-Medium.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Medium Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Regular */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-Regular.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL SemiBold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Thin */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-Thin.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JetBrains Mono NL Thin Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

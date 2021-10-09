@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Extra Condensed Black Italic */
+@font-face {
+    font-family:  'TypoPRO Georama Extra-Condensed';
+    src:          url('TypoPRO-GeoramaExtraCondensed-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaExtraCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaExtraCondensed-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-GeoramaExtraCondensed-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+

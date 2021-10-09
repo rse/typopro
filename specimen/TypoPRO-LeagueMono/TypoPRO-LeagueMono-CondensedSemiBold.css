@@ -1,0 +1,15 @@
+
+/* TypoPRO League Mono Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedSemiBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Petrona SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Petrona';
+    src:          url('TypoPRO-Petrona-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Petrona-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Petrona-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Petrona-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

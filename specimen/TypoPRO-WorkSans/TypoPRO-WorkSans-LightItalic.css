@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans Light Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-LightItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

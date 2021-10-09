@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama SemiBold */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Georama-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

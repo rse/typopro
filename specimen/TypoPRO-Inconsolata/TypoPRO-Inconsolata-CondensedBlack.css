@@ -1,0 +1,15 @@
+
+/* TypoPRO Inconsolata Condensed Black */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedBlack.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedBlack.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedBlack.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedBlack.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

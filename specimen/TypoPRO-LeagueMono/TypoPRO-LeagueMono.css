@@ -1,12 +1,132 @@
 
-/* TypoPRO League Mono Bold */
+/* TypoPRO League Mono Condensed */
 @font-face {
     font-family:  'TypoPRO League Mono';
-    src:          url('TypoPRO-LeagueMono-Bold.eot');
+    src:          url('TypoPRO-LeagueMono-Condensed.eot');
     src:          local('*'),
-                  url('TypoPRO-LeagueMono-Bold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-LeagueMono-Bold.woff') format('woff'),
-                  url('TypoPRO-LeagueMono-Bold.ttf') format('truetype');
+                  url('TypoPRO-LeagueMono-Condensed.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-Condensed.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-Condensed.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Condensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedExtraBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Condensed Light */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedLight.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedMedium.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedMedium.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedMedium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedSemiBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Condensed Thin */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedThin.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedThin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedThin.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedThin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Condensed UltraLight */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedUltraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedUltraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedUltraLight.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedUltraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Narrow Bold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-NarrowBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-NarrowBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowBold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
     font-stretch: normal;
@@ -14,14 +134,29 @@
 }
 
 
-/* TypoPRO League Mono Light */
+/* TypoPRO League Mono Narrow ExtraBold */
 @font-face {
     font-family:  'TypoPRO League Mono';
-    src:          url('TypoPRO-LeagueMono-Light.eot');
+    src:          url('TypoPRO-LeagueMono-NarrowExtraBold.eot');
     src:          local('*'),
-                  url('TypoPRO-LeagueMono-Light.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-LeagueMono-Light.woff') format('woff'),
-                  url('TypoPRO-LeagueMono-Light.ttf') format('truetype');
+                  url('TypoPRO-LeagueMono-NarrowExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowExtraBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Narrow Light */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-NarrowLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-NarrowLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowLight.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  300;
     font-stretch: normal;
@@ -29,29 +164,14 @@
 }
 
 
-/* TypoPRO League Mono Regular */
+/* TypoPRO League Mono Narrow Medium */
 @font-face {
     font-family:  'TypoPRO League Mono';
-    src:          url('TypoPRO-LeagueMono-Regular.eot');
+    src:          url('TypoPRO-LeagueMono-NarrowMedium.eot');
     src:          local('*'),
-                  url('TypoPRO-LeagueMono-Regular.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-LeagueMono-Regular.woff') format('woff'),
-                  url('TypoPRO-LeagueMono-Regular.ttf') format('truetype');
-    font-style:   normal;
-    font-weight:  normal;
-    font-stretch: normal;
-    font-variant: normal;
-}
-
-
-/* TypoPRO League Mono SemiBold */
-@font-face {
-    font-family:  'TypoPRO League Mono';
-    src:          url('TypoPRO-LeagueMono-SemiBold.eot');
-    src:          local('*'),
-                  url('TypoPRO-LeagueMono-SemiBold.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-LeagueMono-SemiBold.woff') format('woff'),
-                  url('TypoPRO-LeagueMono-SemiBold.ttf') format('truetype');
+                  url('TypoPRO-LeagueMono-NarrowMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowMedium.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowMedium.ttf') format('truetype');
     font-style:   normal;
     font-weight:  500;
     font-stretch: normal;
@@ -59,14 +179,59 @@
 }
 
 
-/* TypoPRO League Mono UltraLight */
+/* TypoPRO League Mono Narrow Regular */
 @font-face {
     font-family:  'TypoPRO League Mono';
-    src:          url('TypoPRO-LeagueMono-UltraLight.eot');
+    src:          url('TypoPRO-LeagueMono-NarrowRegular.eot');
     src:          local('*'),
-                  url('TypoPRO-LeagueMono-UltraLight.eot?#iefix') format('embedded-opentype'),
-                  url('TypoPRO-LeagueMono-UltraLight.woff') format('woff'),
-                  url('TypoPRO-LeagueMono-UltraLight.ttf') format('truetype');
+                  url('TypoPRO-LeagueMono-NarrowRegular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowRegular.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowRegular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Narrow SemiBold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-NarrowSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-NarrowSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowSemiBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Narrow Thin */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-NarrowThin.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-NarrowThin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowThin.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowThin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO League Mono Narrow UltraLight */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-NarrowUltraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-NarrowUltraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowUltraLight.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowUltraLight.ttf') format('truetype');
     font-style:   normal;
     font-weight:  200;
     font-stretch: normal;

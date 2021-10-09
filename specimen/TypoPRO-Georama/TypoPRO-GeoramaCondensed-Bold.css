@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Condensed Bold */
+@font-face {
+    font-family:  'TypoPRO Georama Condensed';
+    src:          url('TypoPRO-GeoramaCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-GeoramaCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

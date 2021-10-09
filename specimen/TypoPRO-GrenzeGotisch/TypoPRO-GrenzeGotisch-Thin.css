@@ -1,0 +1,15 @@
+
+/* TypoPRO Grenze Gotisch Thin */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-Thin.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,4 +1,34 @@
 
+/* TypoPRO Bitter Black */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-Black.woff') format('woff'),
+                  url('TypoPRO-Bitter-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter Black Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Bitter Bold */
 @font-face {
     font-family:  'TypoPRO Bitter';
@@ -29,6 +59,66 @@
 }
 
 
+/* TypoPRO Bitter ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Bitter-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Bitter-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Bitter Italic */
 @font-face {
     font-family:  'TypoPRO Bitter';
@@ -44,7 +134,67 @@
 }
 
 
-/* TypoPRO Bitter */
+/* TypoPRO Bitter Light */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-Light.woff') format('woff'),
+                  url('TypoPRO-Bitter-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter Light Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter Medium */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-Medium.woff') format('woff'),
+                  url('TypoPRO-Bitter-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter Regular */
 @font-face {
     font-family:  'TypoPRO Bitter';
     src:          url('TypoPRO-Bitter-Regular.eot');
@@ -54,6 +204,66 @@
                   url('TypoPRO-Bitter-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter SemiBold */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Bitter-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter Thin */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-Thin.woff') format('woff'),
+                  url('TypoPRO-Bitter-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Bitter Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
     font-stretch: normal;
     font-variant: normal;
 }

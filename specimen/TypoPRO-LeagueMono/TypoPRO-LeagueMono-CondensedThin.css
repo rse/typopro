@@ -1,0 +1,15 @@
+
+/* TypoPRO League Mono Condensed Thin */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedThin.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedThin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedThin.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedThin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

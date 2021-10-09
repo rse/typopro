@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather Text SemiExpanded Light */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiExpandedLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiExpandedLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiExpandedLightItalic.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiExpandedLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Swashed Regular */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-Regular.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

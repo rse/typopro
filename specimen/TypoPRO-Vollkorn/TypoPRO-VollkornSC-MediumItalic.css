@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn SC Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

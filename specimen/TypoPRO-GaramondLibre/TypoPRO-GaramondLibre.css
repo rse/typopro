@@ -1,0 +1,60 @@
+
+/* TypoPRO Garamond Libre Bold */
+@font-face {
+    font-family:  'TypoPRO Garamond Libre';
+    src:          url('TypoPRO-GaramondLibre-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GaramondLibre-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GaramondLibre-Bold.woff') format('woff'),
+                  url('TypoPRO-GaramondLibre-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Garamond Libre Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Garamond Libre';
+    src:          url('TypoPRO-GaramondLibre-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GaramondLibre-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GaramondLibre-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-GaramondLibre-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Garamond Libre Italic */
+@font-face {
+    font-family:  'TypoPRO Garamond Libre';
+    src:          url('TypoPRO-GaramondLibre-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GaramondLibre-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GaramondLibre-Italic.woff') format('woff'),
+                  url('TypoPRO-GaramondLibre-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Garamond Libre Regular */
+@font-face {
+    font-family:  'TypoPRO Garamond Libre';
+    src:          url('TypoPRO-GaramondLibre-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-GaramondLibre-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GaramondLibre-Regular.woff') format('woff'),
+                  url('TypoPRO-GaramondLibre-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Bold */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Bold.woff') format('woff'),
+                  url('TypoPRO-Sansita-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

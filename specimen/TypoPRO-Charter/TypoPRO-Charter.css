@@ -1,0 +1,60 @@
+
+/* TypoPRO Charter Bold */
+@font-face {
+    font-family:  'TypoPRO Charter';
+    src:          url('TypoPRO-Charter-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Charter-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Charter-Bold.woff') format('woff'),
+                  url('TypoPRO-Charter-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Charter Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Charter';
+    src:          url('TypoPRO-Charter-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Charter-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Charter-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Charter-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Charter Italic */
+@font-face {
+    font-family:  'TypoPRO Charter';
+    src:          url('TypoPRO-Charter-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Charter-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Charter-Italic.woff') format('woff'),
+                  url('TypoPRO-Charter-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Charter */
+@font-face {
+    font-family:  'TypoPRO Charter';
+    src:          url('TypoPRO-Charter-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Charter-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Charter-Regular.woff') format('woff'),
+                  url('TypoPRO-Charter-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

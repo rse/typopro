@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

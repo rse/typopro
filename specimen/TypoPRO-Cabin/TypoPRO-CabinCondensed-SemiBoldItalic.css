@@ -1,0 +1,15 @@
+
+/* TypoPRO Cabin Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Cabin Condensed';
+    src:          url('TypoPRO-CabinCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CabinCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CabinCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-CabinCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

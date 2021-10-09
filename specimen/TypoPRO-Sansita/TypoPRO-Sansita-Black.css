@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Black */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Black.woff') format('woff'),
+                  url('TypoPRO-Sansita-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

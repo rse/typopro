@@ -1,0 +1,15 @@
+
+/* TypoPRO Petrona ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Petrona';
+    src:          url('TypoPRO-Petrona-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Petrona-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Petrona-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Petrona-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

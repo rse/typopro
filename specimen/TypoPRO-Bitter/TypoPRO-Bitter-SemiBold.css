@@ -1,0 +1,15 @@
+
+/* TypoPRO Bitter SemiBold */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Bitter-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

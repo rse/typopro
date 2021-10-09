@@ -1,0 +1,15 @@
+
+/* TypoPRO League Mono Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-CondensedMedium.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-CondensedMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-CondensedMedium.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-CondensedMedium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

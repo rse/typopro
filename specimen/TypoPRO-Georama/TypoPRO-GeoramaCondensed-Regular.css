@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Georama Condensed';
+    src:          url('TypoPRO-GeoramaCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-GeoramaCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

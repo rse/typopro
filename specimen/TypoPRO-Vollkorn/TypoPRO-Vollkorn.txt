@@ -1,7 +1,7 @@
 Name:       Vollkorn
 Homepage:   http://vollkorn-typeface.com/
-Download:   http://vollkorn-typeface.com/
-Version:    4.015 (2018-05)
+Download:   https://github.com/FAlthausen/Vollkorn-Typeface
+Version:    4.105 (2020-06)
 License:    Open Font License 1.1
 Publisher:  Friedrich Althausen
 Designer:   Friedrich Althausen

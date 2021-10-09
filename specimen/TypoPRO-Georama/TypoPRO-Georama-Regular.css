@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Regular */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-Regular.woff') format('woff'),
+                  url('TypoPRO-Georama-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

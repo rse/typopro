@@ -1,0 +1,60 @@
+
+/* TypoPRO STEP Bold */
+@font-face {
+    font-family:  'TypoPRO STEP';
+    src:          url('TypoPRO-STEP-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-STEP-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-STEP-Bold.woff') format('woff'),
+                  url('TypoPRO-STEP-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO STEP Bold Italic */
+@font-face {
+    font-family:  'TypoPRO STEP';
+    src:          url('TypoPRO-STEP-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-STEP-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-STEP-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-STEP-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO STEP Italic */
+@font-face {
+    font-family:  'TypoPRO STEP';
+    src:          url('TypoPRO-STEP-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-STEP-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-STEP-Italic.woff') format('woff'),
+                  url('TypoPRO-STEP-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO STEP */
+@font-face {
+    font-family:  'TypoPRO STEP';
+    src:          url('TypoPRO-STEP-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-STEP-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-STEP-Regular.woff') format('woff'),
+                  url('TypoPRO-STEP-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

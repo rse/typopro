@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn SC ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Georama Condensed';
+    src:          url('TypoPRO-GeoramaCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-GeoramaCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

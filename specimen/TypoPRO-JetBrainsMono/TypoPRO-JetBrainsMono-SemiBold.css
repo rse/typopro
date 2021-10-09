@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

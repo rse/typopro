@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono NL SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

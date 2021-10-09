@@ -1,0 +1,15 @@
+
+/* TypoPRO Inconsolata Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedSemiBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

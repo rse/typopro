@@ -1,0 +1,15 @@
+
+/* TypoPRO Domitian-Italic */
+@font-face {
+    font-family:  'TypoPRO Domitian';
+    src:          url('TypoPRO-Domitian-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Domitian-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Domitian-Italic.woff') format('woff'),
+                  url('TypoPRO-Domitian-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

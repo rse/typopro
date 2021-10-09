@@ -194,6 +194,21 @@
 }
 
 
+/* TypoPRO Vollkorn SC Black Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
 /* TypoPRO Vollkorn SC Bold */
 @font-face {
     font-family:  'TypoPRO Vollkorn SC';
@@ -204,6 +219,96 @@
                   url('TypoPRO-VollkornSC-Bold.ttf') format('truetype');
     font-style:   normal;
     font-weight:  bold;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
+/* TypoPRO Vollkorn SC Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
+/* TypoPRO Vollkorn SC ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
+/* TypoPRO Vollkorn SC ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
+/* TypoPRO Vollkorn SC Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-Italic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
+/* TypoPRO Vollkorn SC Medium */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-Medium.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
+/* TypoPRO Vollkorn SC Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
     font-stretch: normal;
     font-variant: small-caps;
 }
@@ -233,6 +338,21 @@
                   url('TypoPRO-VollkornSC-SemiBold.woff') format('woff'),
                   url('TypoPRO-VollkornSC-SemiBold.ttf') format('truetype');
     font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+
+
+/* TypoPRO Vollkorn SC SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
     font-weight:  600;
     font-stretch: normal;
     font-variant: small-caps;

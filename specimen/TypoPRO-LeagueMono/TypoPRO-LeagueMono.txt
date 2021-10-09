@@ -1,7 +1,8 @@
 Name:       League Mono
 Homepage:   http://leaguemono.tylerfinck.com/
 Download:   http://www.tylerfinck.com/shop/league-mono/
-Version:    1.000 (2007)
+Download:   https://github.com/theleagueof/league-mono/
+Version:    2.220 (2020)
 License:    Open Font License
 Publisher:  Tyler Finck
 Designer:   Tyler Finck

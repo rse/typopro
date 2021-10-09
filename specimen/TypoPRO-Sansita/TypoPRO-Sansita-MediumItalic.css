@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Sansita-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

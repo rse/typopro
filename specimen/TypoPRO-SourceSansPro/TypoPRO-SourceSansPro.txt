@@ -1,7 +1,7 @@
 Name:       Source Sans Pro
 Homepage:   http://sourcesanspro.com/
 Download:   https://github.com/adobe-fonts/source-sans-pro
-Version:    3.006 (2019-09)
+Version:    3.046 (2021-06)
 License:    Open Font License 1.1
 Publisher:  Adobe
 Designer:   Paul D. Hunt

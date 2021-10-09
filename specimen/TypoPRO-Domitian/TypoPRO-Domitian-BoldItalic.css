@@ -1,0 +1,15 @@
+
+/* TypoPRO Domitian-BoldItalic */
+@font-face {
+    font-family:  'TypoPRO Domitian';
+    src:          url('TypoPRO-Domitian-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Domitian-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Domitian-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Domitian-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

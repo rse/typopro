@@ -1,0 +1,60 @@
+
+/* TypoPRO NX Baskerville Bold */
+@font-face {
+    font-family:  'TypoPRO NX Baskerville';
+    src:          url('TypoPRO-NXBaskerville-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NXBaskerville-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NXBaskerville-Bold.woff') format('woff'),
+                  url('TypoPRO-NXBaskerville-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO NX Baskerville Bold Italic */
+@font-face {
+    font-family:  'TypoPRO NX Baskerville';
+    src:          url('TypoPRO-NXBaskerville-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NXBaskerville-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NXBaskerville-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-NXBaskerville-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO NX Baskerville Italic */
+@font-face {
+    font-family:  'TypoPRO NX Baskerville';
+    src:          url('TypoPRO-NXBaskerville-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NXBaskerville-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NXBaskerville-Italic.woff') format('woff'),
+                  url('TypoPRO-NXBaskerville-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO NX Baskerville Regular */
+@font-face {
+    font-family:  'TypoPRO NX Baskerville';
+    src:          url('TypoPRO-NXBaskerville-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-NXBaskerville-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NXBaskerville-Regular.woff') format('woff'),
+                  url('TypoPRO-NXBaskerville-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

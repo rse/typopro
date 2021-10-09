@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

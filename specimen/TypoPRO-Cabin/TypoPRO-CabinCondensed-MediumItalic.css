@@ -1,0 +1,15 @@
+
+/* TypoPRO Cabin Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Cabin Condensed';
+    src:          url('TypoPRO-CabinCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-CabinCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-CabinCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-CabinCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

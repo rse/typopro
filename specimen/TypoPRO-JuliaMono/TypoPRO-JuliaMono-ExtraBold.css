@@ -1,0 +1,15 @@
+
+/* TypoPRO JuliaMono ExtraBold */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

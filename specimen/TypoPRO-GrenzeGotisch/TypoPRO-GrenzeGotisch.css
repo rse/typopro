@@ -1,0 +1,135 @@
+
+/* TypoPRO Grenze Gotisch Black */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-Black.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch Bold */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-Bold.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  700;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch Light */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-Light.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch Medium */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-Medium.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch Regular */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-Regular.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  400;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch SemiBold */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-SemiBold.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Grenze Gotisch Thin */
+@font-face {
+    font-family:  'TypoPRO Grenze Gotisch';
+    src:          url('TypoPRO-GrenzeGotisch-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-GrenzeGotisch-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GrenzeGotisch-Thin.woff') format('woff'),
+                  url('TypoPRO-GrenzeGotisch-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

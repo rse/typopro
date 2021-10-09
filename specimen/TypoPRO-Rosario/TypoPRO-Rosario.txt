@@ -1,5 +1,5 @@
 Name:       Rosario
-Homepage:   http://omnibus-type.com/
+Homepage:   https://www.omnibus-type.com/fonts/rosario/
 Download:   http://www.google.com/fonts/download?kit=Fl8GJPV1aS2Rzf0v-pFTbqCWcynf_cDxXwCLxiixG1c
 Version:    1.003
 License:    Open Font License
@@ -13,7 +13,8 @@ endings. Produced carefully, nice and elegant, ideal for magazines and
 academic journals. Rosario is the name of the city where the designer
 lives.
 
-Copyright (c) 2011 by Omnibus-Type (www.omnibus-type.com) with Reserved Font Name "Rosario". Copyright (c) 2013 by Adobe Systems Incorporated. All Rights Reserved.
+Copyright 2019 The Rosario Project Authors (https://github.com/Omnibus-Type/Rosario)
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL

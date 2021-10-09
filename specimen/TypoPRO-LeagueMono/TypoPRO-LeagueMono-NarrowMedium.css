@@ -1,0 +1,15 @@
+
+/* TypoPRO League Mono Narrow Medium */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-NarrowMedium.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-NarrowMedium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowMedium.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowMedium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Merriweather 12pt SemiCondensed Light */
+@font-face {
+    font-family:  'TypoPRO Merriweather';
+    src:          url('TypoPRO-Merriweather-SemiCondensedLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Merriweather-SemiCondensedLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Merriweather-SemiCondensedLight.woff') format('woff'),
+                  url('TypoPRO-Merriweather-SemiCondensedLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

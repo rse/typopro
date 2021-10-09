@@ -1,0 +1,15 @@
+
+/* TypoPRO Bitter Black */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-Black.woff') format('woff'),
+                  url('TypoPRO-Bitter-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

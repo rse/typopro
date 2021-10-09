@@ -1,7 +1,7 @@
 Name:       Cascadia Code
 Homepage:   https://github.com/microsoft/cascadia-code
 Download:   https://github.com/microsoft/cascadia-code
-Version:    1909.16 (2019-09)
+Version:    1911.21 (2019-11)
 License:    Open Font License
 Publisher:  Microsoft
 Designer:   Microsoft

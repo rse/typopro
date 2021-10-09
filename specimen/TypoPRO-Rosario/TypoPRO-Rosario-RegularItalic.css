@@ -1,0 +1,15 @@
+
+/* TypoPRO Rosario Italic */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-Rosario-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO STEP Bold */
+@font-face {
+    font-family:  'TypoPRO STEP';
+    src:          url('TypoPRO-STEP-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-STEP-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-STEP-Bold.woff') format('woff'),
+                  url('TypoPRO-STEP-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

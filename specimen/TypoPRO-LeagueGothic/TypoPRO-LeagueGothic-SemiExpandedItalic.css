@@ -1,0 +1,15 @@
+
+/* TypoPRO League Gothic SemiExpanded Italic */
+@font-face {
+    font-family:  'TypoPRO League Gothic';
+    src:          url('TypoPRO-LeagueGothic-SemiExpandedItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueGothic-SemiExpandedItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueGothic-SemiExpandedItalic.woff') format('woff'),
+                  url('TypoPRO-LeagueGothic-SemiExpandedItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: semi-expanded;
+    font-variant: normal;
+}
+

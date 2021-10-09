@@ -1,0 +1,38 @@
+Name:       Garamond Libre
+Homepage:   https://github.com/dbenjaminmiller/garamond-libre
+Download:   https://github.com/dbenjaminmiller/garamond-libre
+Version:    1.4 (2020-05)
+License:    X11 License
+Publisher:  Daniel Benjamin Miller
+Designer:   Claude Garamond et al
+Designed:   2020
+Derivation: Garamond
+
+Garamond Libre is a free and open-source old-style font family. It is
+a "true Garamond," i.e., it is based off the designs of 16th-century
+French engraver Claude Garamond (also spelled Garamont). The Roman
+design is Garamond’s; the italics are from a design by Robert Granjon.
+The upright Greek font is after a design by Firmin Didot; the "italic"
+Greek font is after a design by Alexander Wilson. The font family
+includes support for Latin, Greek (monotonic and polytonic) and Cyrillic
+scripts, as well as small capitals, old-style figures, superior and
+inferior figures, historical ligatures, Byzantine musical symbols, the
+IPA and swash capitals. The fonts are an extended fork based on designs
+by George Douros.
+
+Copyright (c) 2019-2020 Daniel Benjamin Miller
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+Garamond Libre is based on George Douros' text fonts project. The
+sources these fonts are based on were released by their author as free
+for any use.

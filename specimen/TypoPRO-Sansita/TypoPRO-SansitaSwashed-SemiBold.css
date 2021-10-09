@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Swashed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

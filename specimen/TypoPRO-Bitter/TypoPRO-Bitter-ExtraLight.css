@@ -1,0 +1,15 @@
+
+/* TypoPRO Bitter ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Bitter-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

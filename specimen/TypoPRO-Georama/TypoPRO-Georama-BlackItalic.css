@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Black Italic */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Georama-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

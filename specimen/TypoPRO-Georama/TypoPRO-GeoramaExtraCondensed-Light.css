@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Extra Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Georama Extra-Condensed';
+    src:          url('TypoPRO-GeoramaExtraCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaExtraCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaExtraCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-GeoramaExtraCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+

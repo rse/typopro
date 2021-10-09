@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Swashed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

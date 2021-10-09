@@ -1,0 +1,285 @@
+
+/* TypoPRO Sansita Black */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Black.woff') format('woff'),
+                  url('TypoPRO-Sansita-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Black Italic */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Sansita-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Bold */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Bold.woff') format('woff'),
+                  url('TypoPRO-Sansita-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Sansita-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Sansita-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Sansita-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Italic */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Italic.woff') format('woff'),
+                  url('TypoPRO-Sansita-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Light */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Light.woff') format('woff'),
+                  url('TypoPRO-Sansita-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Light Italic */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Sansita-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Medium */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Medium.woff') format('woff'),
+                  url('TypoPRO-Sansita-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Sansita-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Regular */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Regular.woff') format('woff'),
+                  url('TypoPRO-Sansita-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Swashed Black */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-Black.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Swashed Bold */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-Bold.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Swashed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Swashed Light */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-Light.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Swashed Medium */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-Medium.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Swashed Regular */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-Regular.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Sansita Swashed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Sansita Swashed';
+    src:          url('TypoPRO-SansitaSwashed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SansitaSwashed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SansitaSwashed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-SansitaSwashed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,34 @@
+Name:       Charter
+Homepage:   https://practicaltypography.com/charter.html
+Download:   https://practicaltypography.com/charter.html
+Version:    2.0-1.0 (1992)
+License:    MIT
+Publisher:  Bitstream, X Consortium
+Designer:   Matthew Carter
+Designed:   2019
+Derivation: none
+
+Charter was designed by Matthew Carter in 1987 as a body text font that
+would hold up well on low-resolution output devices of the day—fax
+machines and 300 dpi laser printers.
+
+Though 300 dpi printing is long gone, most of today’s computer
+displays operate far below 300 dpi. Charter, unsurprisingly, holds up
+admirably well as a screen font. (Matthew would go on to design the
+quintessential screen fonts Verdana and Georgia for Microsoft.)
+
+In 1992, Bitstream contributed PostScript versions of the basic Charter
+family to the X Consortium. These original files are still available and
+can be freely downloaded and modified. But they can be hard to find. So
+I tracked them down and converted them into a new package of OTFs, TTFs,
+and webfonts.
+
+Why? Because Charter is a great font, and easily one of the best free
+fonts available. So I’m doing what I can to put more Charter into the
+world. If your project demands a font without licensing restrictions,
+consider it.
+
+
+This is a copy of the Charter fonts which Bitstream contributed to the X consortium. This is the original notice included with the fonts: 
+
+(c) Copyright 1989-1992, Bitstream Inc., Cambridge, MA. You are hereby granted permission under all Bitstream propriety rights to use, copy, modify, sublicense, sell, and redistribute the 4 Bitstream Charter (r) Type 1 outline fonts and the 4 Courier Type 1 outline fonts for any purpose and without restriction; provided, that this notice is left intact on all copies of such fonts and that Bitstream's trademark is acknowledged as shown below on all unmodified copies of the 4 Charter Type 1 fonts. BITSTREAM CHARTER is a registered trademark of Bitstream Inc. 

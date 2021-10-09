@@ -1,0 +1,15 @@
+
+/* TypoPRO NX Baskerville Bold */
+@font-face {
+    font-family:  'TypoPRO NX Baskerville';
+    src:          url('TypoPRO-NXBaskerville-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NXBaskerville-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NXBaskerville-Bold.woff') format('woff'),
+                  url('TypoPRO-NXBaskerville-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

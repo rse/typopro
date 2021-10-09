@@ -1,0 +1,15 @@
+
+/* TypoPRO Inconsolata SemiCondensed Bold */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-SemiCondensedBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBold.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-SemiCondensedBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+

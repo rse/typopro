@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Bold */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-Bold.woff') format('woff'),
+                  url('TypoPRO-Georama-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

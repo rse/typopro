@@ -1,0 +1,15 @@
+
+/* TypoPRO Petrona Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Petrona';
+    src:          url('TypoPRO-Petrona-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Petrona-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Petrona-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Petrona-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Sansita Light */
+@font-face {
+    font-family:  'TypoPRO Sansita';
+    src:          url('TypoPRO-Sansita-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Sansita-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Sansita-Light.woff') format('woff'),
+                  url('TypoPRO-Sansita-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

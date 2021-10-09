@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono NL Bold Italic */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

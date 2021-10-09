@@ -1,0 +1,15 @@
+
+/* TypoPRO Bitter Light Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

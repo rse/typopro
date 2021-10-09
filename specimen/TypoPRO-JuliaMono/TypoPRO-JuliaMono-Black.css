@@ -1,0 +1,15 @@
+
+/* TypoPRO JuliaMono Black */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Black.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

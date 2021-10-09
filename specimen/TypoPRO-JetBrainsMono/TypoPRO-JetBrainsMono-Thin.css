@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono Thin */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMono-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMono-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMono-Thin.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMono-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

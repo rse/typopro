@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Extra Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Georama Extra-Condensed';
+    src:          url('TypoPRO-GeoramaExtraCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GeoramaExtraCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GeoramaExtraCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-GeoramaExtraCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: extra-condensed;
+    font-variant: normal;
+}
+

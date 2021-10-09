@@ -44,6 +44,36 @@
 }
 
 
+/* TypoPRO Rosario Light */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-Light.woff') format('woff'),
+                  url('TypoPRO-Rosario-Light.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rosario Light Italic */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Rosario-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Rosario Regular */
 @font-face {
     font-family:  'TypoPRO Rosario';
@@ -54,6 +84,51 @@
                   url('TypoPRO-Rosario-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rosario Italic */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-Rosario-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rosario SemiBold */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Rosario-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Rosario SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Rosario-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }

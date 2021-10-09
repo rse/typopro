@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn SC Black Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

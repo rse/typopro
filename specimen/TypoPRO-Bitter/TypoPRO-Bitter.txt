@@ -1,9 +1,10 @@
 Name:       Bitter
 Homepage:   http://www.huertatipografica.com/fonts/bitter-ht
-Download:   http://www.huertatipografica.com/fonts/bitter-ht
-Version:    1.300
+Download:   https://localfonts.eu/freefonts/bulgarian-cyrillic/bitter/
+Download:   https://github.com/google/fonts/tree/master/ofl/bitter/static
+Version:    2.001 (2020-10)
 License:    Open Font License 1.1
-Publisher:  Huerta Tipográfica
+Publisher:  Huerta Tipográfica, Google Fonts
 Designer:   Sol Matas
 Designed:   2010
 Derivation: none

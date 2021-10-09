@@ -1,0 +1,15 @@
+
+/* TypoPRO Rosario SemiBold */
+@font-face {
+    font-family:  'TypoPRO Rosario';
+    src:          url('TypoPRO-Rosario-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Rosario-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Rosario-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Rosario-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

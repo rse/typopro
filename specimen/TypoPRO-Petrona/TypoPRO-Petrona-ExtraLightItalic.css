@@ -1,0 +1,15 @@
+
+/* TypoPRO Petrona ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Petrona';
+    src:          url('TypoPRO-Petrona-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Petrona-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Petrona-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-Petrona-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

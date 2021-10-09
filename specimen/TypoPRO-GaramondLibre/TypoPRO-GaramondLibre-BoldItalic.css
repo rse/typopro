@@ -1,0 +1,15 @@
+
+/* TypoPRO Garamond Libre Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Garamond Libre';
+    src:          url('TypoPRO-GaramondLibre-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GaramondLibre-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GaramondLibre-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-GaramondLibre-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

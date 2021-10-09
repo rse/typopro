@@ -1,0 +1,15 @@
+
+/* TypoPRO Charter */
+@font-face {
+    font-family:  'TypoPRO Charter';
+    src:          url('TypoPRO-Charter-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Charter-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Charter-Regular.woff') format('woff'),
+                  url('TypoPRO-Charter-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

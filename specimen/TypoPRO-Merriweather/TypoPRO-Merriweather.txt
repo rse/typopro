@@ -2,8 +2,8 @@ Name:       Merriweather
 Homepage:   http://sorkintype.com/fonts.html
 Download:   http://www.google.com/fonts#UsePlace:use/Collection:Merriweather
 Download:   http://www.google.com/fonts#UsePlace:use/Collection:Merriweather+Sans
-Download:   https://github.com/EbenSorkin/Merriweather
-Version:    2.002 (2017-11)
+Download:   https://github.com/SorkinType/Merriweather/
+Version:    2.100/1.008 (2020-04/2019-04)
 License:    Open Font License 1.1
 Publisher:  Sorkin Type Co
 Designer:   Eben Sorkin

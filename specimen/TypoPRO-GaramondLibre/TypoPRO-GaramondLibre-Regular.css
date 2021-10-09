@@ -1,0 +1,15 @@
+
+/* TypoPRO Garamond Libre Regular */
+@font-face {
+    font-family:  'TypoPRO Garamond Libre';
+    src:          url('TypoPRO-GaramondLibre-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-GaramondLibre-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GaramondLibre-Regular.woff') format('woff'),
+                  url('TypoPRO-GaramondLibre-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

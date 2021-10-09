@@ -1,0 +1,15 @@
+
+/* TypoPRO League Mono Narrow SemiBold */
+@font-face {
+    font-family:  'TypoPRO League Mono';
+    src:          url('TypoPRO-LeagueMono-NarrowSemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-LeagueMono-NarrowSemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-LeagueMono-NarrowSemiBold.woff') format('woff'),
+                  url('TypoPRO-LeagueMono-NarrowSemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

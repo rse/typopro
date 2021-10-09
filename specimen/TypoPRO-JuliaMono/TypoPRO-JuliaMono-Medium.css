@@ -1,0 +1,15 @@
+
+/* TypoPRO JuliaMono Medium */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Medium.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

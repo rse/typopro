@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-Georama-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

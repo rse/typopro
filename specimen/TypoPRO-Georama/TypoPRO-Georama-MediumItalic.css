@@ -1,0 +1,15 @@
+
+/* TypoPRO Georama Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Georama';
+    src:          url('TypoPRO-Georama-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Georama-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Georama-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Georama-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

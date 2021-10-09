@@ -1,0 +1,15 @@
+
+/* TypoPRO Work Sans Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Work Sans';
+    src:          url('TypoPRO-WorkSans-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-WorkSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-WorkSans-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-WorkSans-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

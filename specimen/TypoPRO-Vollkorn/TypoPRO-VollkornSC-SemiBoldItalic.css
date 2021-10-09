@@ -1,0 +1,15 @@
+
+/* TypoPRO Vollkorn SC SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Vollkorn SC';
+    src:          url('TypoPRO-VollkornSC-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-VollkornSC-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-VollkornSC-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-VollkornSC-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: small-caps;
+}
+

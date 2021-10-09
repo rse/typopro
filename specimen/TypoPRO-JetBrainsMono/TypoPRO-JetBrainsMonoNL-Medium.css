@@ -1,0 +1,15 @@
+
+/* TypoPRO JetBrains Mono NL Medium */
+@font-face {
+    font-family:  'TypoPRO JetBrains Mono';
+    src:          url('TypoPRO-JetBrainsMonoNL-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-JetBrainsMonoNL-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JetBrainsMonoNL-Medium.woff') format('woff'),
+                  url('TypoPRO-JetBrainsMonoNL-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

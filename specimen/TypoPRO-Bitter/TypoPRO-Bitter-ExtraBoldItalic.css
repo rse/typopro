@@ -1,0 +1,15 @@
+
+/* TypoPRO Bitter ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Bitter';
+    src:          url('TypoPRO-Bitter-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Bitter-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Bitter-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Bitter-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

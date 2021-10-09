@@ -1,0 +1,15 @@
+
+/* TypoPRO Inconsolata Condensed ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Inconsolata';
+    src:          url('TypoPRO-Inconsolata-CondensedExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Inconsolata-CondensedExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Inconsolata-CondensedExtraLight.woff') format('woff'),
+                  url('TypoPRO-Inconsolata-CondensedExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

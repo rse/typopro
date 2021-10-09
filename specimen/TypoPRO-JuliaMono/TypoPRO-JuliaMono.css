@@ -1,0 +1,90 @@
+
+/* TypoPRO JuliaMono Black */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Black.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JuliaMono Bold */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Bold.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JuliaMono ExtraBold */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JuliaMono Light */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Light.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JuliaMono Medium */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Medium.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO JuliaMono Regular */
+@font-face {
+    font-family:  'TypoPRO JuliaMono';
+    src:          url('TypoPRO-JuliaMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-JuliaMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-JuliaMono-Regular.woff') format('woff'),
+                  url('TypoPRO-JuliaMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

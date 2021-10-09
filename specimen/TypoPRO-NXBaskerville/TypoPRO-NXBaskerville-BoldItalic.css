@@ -1,0 +1,15 @@
+
+/* TypoPRO NX Baskerville Bold Italic */
+@font-face {
+    font-family:  'TypoPRO NX Baskerville';
+    src:          url('TypoPRO-NXBaskerville-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NXBaskerville-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NXBaskerville-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-NXBaskerville-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
