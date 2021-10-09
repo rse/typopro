@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of **1912** individual fonts of **198** font families. The
+**TypoPRO** consists of **1933** individual fonts of **200** font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -184,28 +184,28 @@ You can conveniently download latest snapshot or particular versions of
 **TypoPRO** with the Node Package Manager (NPM):
 
     $ npm install typopro             # latest     version
-    $ npm install typopro@4.2.5       # particular version
+    $ npm install typopro@4.2.6       # particular version
 
 This automatically installs the peer packages `typopro-web` and `typopro-dtp`, too.
 As you usually need only the Web formats, you can install just this NPM package:
 
     $ npm install typopro-web         # latest     version
-    $ npm install typopro-web@4.2.5   # particular version
+    $ npm install typopro-web@4.2.6   # particular version
 
 Alternatively, install just the DTP formats:
 
     $ npm install typopro-dtp         # latest     version
-    $ npm install typopro-dtp@4.2.5   # particular version
+    $ npm install typopro-dtp@4.2.6   # particular version
 
 Finally, you can also download both Web and DTP formats manually, with e.g. cURL:
 
     # download Web formats in latest or particular version
     $ curl -O https://github.com/rse/typopro-web/archive/master.zip
-    $ curl -O https://github.com/rse/typopro-web/archive/4.2.5.zip
+    $ curl -O https://github.com/rse/typopro-web/archive/4.2.6.zip
 
     # download DTP formats in latest or particular version
     $ curl -O https://github.com/rse/typopro-dtp/archive/master.zip
-    $ curl -O https://github.com/rse/typopro-dtp/archive/4.2.5.zip
+    $ curl -O https://github.com/rse/typopro-dtp/archive/4.2.6.zip
 
 Additionally, you can also use [Grunt](http://gruntjs.com/) and
 my companion [Grunt-TypoPRO](https://www.npmjs.org/package/grunt-typopro)
