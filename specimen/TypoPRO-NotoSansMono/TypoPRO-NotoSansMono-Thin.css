@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans Mono Thin */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Thin.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Cooper* SemiBold */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Cooper-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

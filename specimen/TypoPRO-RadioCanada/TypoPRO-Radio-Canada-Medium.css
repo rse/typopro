@@ -1,0 +1,15 @@
+
+/* TypoPRO Radio-Canada Medium */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-Medium.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO IntelOne Mono Light */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-light.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

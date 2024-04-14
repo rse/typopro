@@ -1,14 +1,19 @@
 Name:       Crimson Pro
 Homepage:   https://github.com/Fonthausen/CrimsonPro
 Download:   https://github.com/Fonthausen/CrimsonPro
-Version:    1.002 (2019-01)
+Version:    1.002 (2021-07)
 License:    Open Font License 1.1
 Publisher:  Jacques Le Bailly
 Designer:   Sebastian Kosch, Jacques Le Bailly
 Designed:   2013
 Derivation: none
 
+Copyright 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
+
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007

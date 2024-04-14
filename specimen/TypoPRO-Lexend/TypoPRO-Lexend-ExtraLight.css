@@ -1,0 +1,15 @@
+
+/* TypoPRO Lexend ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Lexend-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

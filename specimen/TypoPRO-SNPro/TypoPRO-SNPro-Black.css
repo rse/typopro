@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Black */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-Black.woff') format('woff'),
+                  url('TypoPRO-SNPro-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

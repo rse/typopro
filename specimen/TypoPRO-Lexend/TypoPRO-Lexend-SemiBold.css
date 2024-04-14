@@ -1,0 +1,15 @@
+
+/* TypoPRO Lexend SemiBold */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Lexend-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

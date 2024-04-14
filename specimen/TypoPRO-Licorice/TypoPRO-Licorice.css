@@ -1,0 +1,15 @@
+
+/* TypoPRO Licorice Regular */
+@font-face {
+    font-family:  'TypoPRO Licorice';
+    src:          url('TypoPRO-Licorice-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Licorice-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Licorice-Regular.woff') format('woff'),
+                  url('TypoPRO-Licorice-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

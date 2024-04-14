@@ -119,6 +119,96 @@
 }
 
 
+/* TypoPRO Gentium Book Plus Bold */
+@font-face {
+    font-family:  'TypoPRO Gentium Book Plus';
+    src:          url('TypoPRO-GentiumBookPlus-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumBookPlus-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumBookPlus-Bold.woff') format('woff'),
+                  url('TypoPRO-GentiumBookPlus-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gentium Book Plus Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Gentium Book Plus';
+    src:          url('TypoPRO-GentiumBookPlus-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumBookPlus-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumBookPlus-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-GentiumBookPlus-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gentium Book Plus Italic */
+@font-face {
+    font-family:  'TypoPRO Gentium Book Plus';
+    src:          url('TypoPRO-GentiumBookPlus-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumBookPlus-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumBookPlus-Italic.woff') format('woff'),
+                  url('TypoPRO-GentiumBookPlus-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gentium Book Plus */
+@font-face {
+    font-family:  'TypoPRO Gentium Book Plus';
+    src:          url('TypoPRO-GentiumBookPlus-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumBookPlus-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumBookPlus-Regular.woff') format('woff'),
+                  url('TypoPRO-GentiumBookPlus-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gentium Plus Bold */
+@font-face {
+    font-family:  'TypoPRO Gentium Plus';
+    src:          url('TypoPRO-GentiumPlus-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumPlus-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumPlus-Bold.woff') format('woff'),
+                  url('TypoPRO-GentiumPlus-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Gentium Plus Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Gentium Plus';
+    src:          url('TypoPRO-GentiumPlus-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumPlus-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumPlus-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-GentiumPlus-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Gentium Plus Italic */
 @font-face {
     font-family:  'TypoPRO Gentium Plus';

@@ -1,0 +1,15 @@
+
+/* TypoPRO Radio-Canada Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Serif Black Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

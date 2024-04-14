@@ -1,0 +1,15 @@
+
+/* TypoPRO Lexend Bold */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Bold.woff') format('woff'),
+                  url('TypoPRO-Lexend-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

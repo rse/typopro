@@ -1,0 +1,15 @@
+
+/* TypoPRO Radio-Canada Bold */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-Bold.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Yrsa Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Yrsa';
+    src:          url('TypoPRO-Yrsa-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Yrsa-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Yrsa-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Yrsa-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

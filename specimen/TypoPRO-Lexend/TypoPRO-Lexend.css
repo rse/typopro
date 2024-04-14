@@ -1,0 +1,135 @@
+
+/* TypoPRO Lexend Black */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Black.woff') format('woff'),
+                  url('TypoPRO-Lexend-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend Bold */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Bold.woff') format('woff'),
+                  url('TypoPRO-Lexend-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Lexend-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-Lexend-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend Light */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Light.woff') format('woff'),
+                  url('TypoPRO-Lexend-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend Medium */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Medium.woff') format('woff'),
+                  url('TypoPRO-Lexend-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend Regular */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Regular.woff') format('woff'),
+                  url('TypoPRO-Lexend-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend SemiBold */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Lexend-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Lexend Thin */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Thin.woff') format('woff'),
+                  url('TypoPRO-Lexend-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

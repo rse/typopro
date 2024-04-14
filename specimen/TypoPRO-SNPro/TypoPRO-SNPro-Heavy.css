@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Heavy */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-Heavy.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-Heavy.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-Heavy.woff') format('woff'),
+                  url('TypoPRO-SNPro-Heavy.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,7 +1,7 @@
 Name:       JetBrains Mono
 Homepage:   https://www.jetbrains.com/lp/mono/
 Download:   https://www.jetbrains.com/lp/mono/
-Version:    2.242 (2021-08)
+Version:    2.304 (2023-01)
 License:    Apache
 Publisher:  JetBrains
 Designer:   JetBrains

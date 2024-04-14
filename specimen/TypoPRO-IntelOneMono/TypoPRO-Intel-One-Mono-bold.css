@@ -1,0 +1,15 @@
+
+/* TypoPRO IntelOne Mono Bold */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-bold.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Yrsa Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Yrsa';
+    src:          url('TypoPRO-Yrsa-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Yrsa-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Yrsa-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Yrsa-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

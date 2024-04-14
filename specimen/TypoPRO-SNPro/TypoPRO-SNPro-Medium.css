@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Medium */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-Medium.woff') format('woff'),
+                  url('TypoPRO-SNPro-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

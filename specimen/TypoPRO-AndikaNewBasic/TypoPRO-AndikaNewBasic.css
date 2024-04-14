@@ -1,4 +1,64 @@
 
+/* TypoPRO Andika Bold */
+@font-face {
+    font-family:  'TypoPRO Andika';
+    src:          url('TypoPRO-Andika-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andika-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andika-Bold.woff') format('woff'),
+                  url('TypoPRO-Andika-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andika Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Andika';
+    src:          url('TypoPRO-Andika-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andika-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andika-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Andika-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andika Italic */
+@font-face {
+    font-family:  'TypoPRO Andika';
+    src:          url('TypoPRO-Andika-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andika-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andika-Italic.woff') format('woff'),
+                  url('TypoPRO-Andika-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Andika */
+@font-face {
+    font-family:  'TypoPRO Andika';
+    src:          url('TypoPRO-Andika-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andika-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andika-Regular.woff') format('woff'),
+                  url('TypoPRO-Andika-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Andika New Basic Bold */
 @font-face {
     font-family:  'TypoPRO Andika New Basic';

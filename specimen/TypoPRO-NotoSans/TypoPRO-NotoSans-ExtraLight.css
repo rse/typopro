@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Noto Sans';
+    src:          url('TypoPRO-NotoSans-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSans-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-NotoSans-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

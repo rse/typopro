@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Sans';
+    src:          url('TypoPRO-NotoSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Light */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-Light.woff') format('woff'),
+                  url('TypoPRO-SNPro-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

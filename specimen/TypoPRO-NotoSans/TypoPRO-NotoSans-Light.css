@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans Light */
+@font-face {
+    font-family:  'TypoPRO Noto Sans';
+    src:          url('TypoPRO-NotoSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSans-Light.woff') format('woff'),
+                  url('TypoPRO-NotoSans-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

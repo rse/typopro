@@ -2,7 +2,7 @@ Name:       Paprika
 Homepage:   Eduardo Tunni
 Download:   https://www.fontsquirrel.com/fonts/paprika
 Download:   https://www.fontsquirrel.com/fonts/paprika
-Version:    1.001 (2012)
+Version:    1.001+ (2022-03)
 License:    Open Font License
 Publisher:  Eduardo Tunni
 Designer:   Eduardo Tunni

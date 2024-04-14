@@ -1,0 +1,120 @@
+
+/* TypoPRO IntelOne Mono Bold */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-bold.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IntelOne Mono Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-bolditalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-bolditalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-bolditalic.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-bolditalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IntelOne Mono Italic */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-italic.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IntelOne Mono Light */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-light.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IntelOne Mono Light Italic */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-lightitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-lightitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-lightitalic.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-lightitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IntelOne Mono Medium */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-medium.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IntelOne Mono Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-mediumitalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-mediumitalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-mediumitalic.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-mediumitalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO IntelOne Mono */
+@font-face {
+    font-family:  'TypoPRO Intel One Mono';
+    src:          url('TypoPRO-Intel-One-Mono-regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Intel-One-Mono-regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Intel-One-Mono-regular.woff') format('woff'),
+                  url('TypoPRO-Intel-One-Mono-regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

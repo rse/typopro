@@ -1,0 +1,15 @@
+
+/* TypoPRO Instrument Serif Italic */
+@font-face {
+    font-family:  'TypoPRO Instrument Serif';
+    src:          url('TypoPRO-InstrumentSerif-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InstrumentSerif-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InstrumentSerif-Italic.woff') format('woff'),
+                  url('TypoPRO-InstrumentSerif-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

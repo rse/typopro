@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans Mono Bold */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Bold.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Yrsa SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Yrsa';
+    src:          url('TypoPRO-Yrsa-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Yrsa-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Yrsa-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Yrsa-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

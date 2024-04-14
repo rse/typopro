@@ -1,0 +1,15 @@
+
+/* TypoPRO Cooper* ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

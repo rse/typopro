@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Serif Thin */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Thin.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

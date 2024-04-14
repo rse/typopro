@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Serif Light */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Light.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

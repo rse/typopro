@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Bold Italic */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-SNPro-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

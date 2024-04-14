@@ -1,0 +1,15 @@
+
+/* TypoPRO Florida Vibes */
+@font-face {
+    font-family:  'TypoPRO Florida Vibes';
+    src:          url('TypoPRO-FloridaVibes-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-FloridaVibes-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-FloridaVibes-Regular.woff') format('woff'),
+                  url('TypoPRO-FloridaVibes-Regular.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

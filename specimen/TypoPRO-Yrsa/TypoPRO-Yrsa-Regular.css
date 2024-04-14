@@ -1,0 +1,15 @@
+
+/* TypoPRO Yrsa Regular */
+@font-face {
+    font-family:  'TypoPRO Yrsa';
+    src:          url('TypoPRO-Yrsa-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Yrsa-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Yrsa-Regular.woff') format('woff'),
+                  url('TypoPRO-Yrsa-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

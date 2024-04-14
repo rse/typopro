@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Light Italic */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-LightItalic.woff') format('woff'),
+                  url('TypoPRO-SNPro-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Lexend Thin */
+@font-face {
+    font-family:  'TypoPRO Lexend';
+    src:          url('TypoPRO-Lexend-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-Lexend-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Lexend-Thin.woff') format('woff'),
+                  url('TypoPRO-Lexend-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

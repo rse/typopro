@@ -1,7 +1,7 @@
 Name:       Fira Code
 Homepage:   https://github.com/tonsky/FiraCode
 Download:   https://github.com/tonsky/FiraCode
-Version:    1.207 (2019-07)
+Version:    6.2 (2021-12)
 License:    Open Font License 1.1
 Publisher:  Mozilla
 Designer:   Erik Spiekermann & Ralph du Carrois (Carrois Type Design)

@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Noto Sans';
+    src:          url('TypoPRO-NotoSans-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSans-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-NotoSans-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

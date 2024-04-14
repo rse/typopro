@@ -1,0 +1,15 @@
+
+/* TypoPRO Shantell Sans Normal ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

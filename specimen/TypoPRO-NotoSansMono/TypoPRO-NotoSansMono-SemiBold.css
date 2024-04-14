@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Yrsa Light Italic */
+@font-face {
+    font-family:  'TypoPRO Yrsa';
+    src:          url('TypoPRO-Yrsa-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Yrsa-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Yrsa-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Yrsa-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

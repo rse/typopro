@@ -1,0 +1,15 @@
+
+/* TypoPRO Shantell Sans Normal SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

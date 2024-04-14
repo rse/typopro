@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Bold */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-Bold.woff') format('woff'),
+                  url('TypoPRO-SNPro-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

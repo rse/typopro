@@ -1,0 +1,15 @@
+
+/* TypoPRO Cooper* Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

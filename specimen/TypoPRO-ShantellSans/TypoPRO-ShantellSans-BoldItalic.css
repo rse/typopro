@@ -1,0 +1,15 @@
+
+/* TypoPRO Shantell Sans Normal Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

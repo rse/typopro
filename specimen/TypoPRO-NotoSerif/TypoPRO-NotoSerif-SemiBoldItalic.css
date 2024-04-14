@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Serif SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

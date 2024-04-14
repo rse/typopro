@@ -1,0 +1,15 @@
+
+/* TypoPRO Radio-Canada Condensed Condensed */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

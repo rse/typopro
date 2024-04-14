@@ -1,0 +1,15 @@
+
+/* TypoPRO Andika Italic */
+@font-face {
+    font-family:  'TypoPRO Andika';
+    src:          url('TypoPRO-Andika-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andika-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andika-Italic.woff') format('woff'),
+                  url('TypoPRO-Andika-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

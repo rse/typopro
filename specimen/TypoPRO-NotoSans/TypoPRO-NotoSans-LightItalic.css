@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans Light Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Sans';
+    src:          url('TypoPRO-NotoSans-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSans-LightItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSans-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

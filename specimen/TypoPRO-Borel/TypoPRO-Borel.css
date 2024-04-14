@@ -1,0 +1,15 @@
+
+/* TypoPRO Borel Regular */
+@font-face {
+    font-family:  'TypoPRO Borel';
+    src:          url('TypoPRO-Borel-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Borel-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Borel-Regular.woff') format('woff'),
+                  url('TypoPRO-Borel-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

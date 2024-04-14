@@ -1,0 +1,15 @@
+
+/* TypoPRO Yrsa Light */
+@font-face {
+    font-family:  'TypoPRO Yrsa';
+    src:          url('TypoPRO-Yrsa-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Yrsa-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Yrsa-Light.woff') format('woff'),
+                  url('TypoPRO-Yrsa-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

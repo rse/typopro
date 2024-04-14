@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Serif ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

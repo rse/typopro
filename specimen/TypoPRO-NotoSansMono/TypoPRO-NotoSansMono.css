@@ -1,0 +1,135 @@
+
+/* TypoPRO Noto Sans Mono Black */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Black.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono Bold */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Bold.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono Light */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Light.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono Medium */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Medium.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono Regular */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Regular.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Sans Mono Thin */
+@font-face {
+    font-family:  'TypoPRO Noto Sans Mono';
+    src:          url('TypoPRO-NotoSansMono-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSansMono-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSansMono-Thin.woff') format('woff'),
+                  url('TypoPRO-NotoSansMono-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

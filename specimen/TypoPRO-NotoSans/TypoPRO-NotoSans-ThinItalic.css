@@ -1,0 +1,15 @@
+
+/* TypoPRO Noto Sans Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Sans';
+    src:          url('TypoPRO-NotoSans-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSans-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSans-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

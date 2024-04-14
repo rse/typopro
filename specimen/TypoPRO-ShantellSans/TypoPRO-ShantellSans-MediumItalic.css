@@ -1,0 +1,15 @@
+
+/* TypoPRO Shantell Sans Normal Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

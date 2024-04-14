@@ -1,0 +1,180 @@
+
+/* TypoPRO Cooper* Black */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-Black.woff') format('woff'),
+                  url('TypoPRO-Cooper-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* Black Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* Bold */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-Bold.woff') format('woff'),
+                  url('TypoPRO-Cooper-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-Cooper-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-Italic.woff') format('woff'),
+                  url('TypoPRO-Cooper-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* Medium */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-Medium.woff') format('woff'),
+                  url('TypoPRO-Cooper-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* Regular */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-Regular.woff') format('woff'),
+                  url('TypoPRO-Cooper-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* SemiBold */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Cooper-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Cooper* SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

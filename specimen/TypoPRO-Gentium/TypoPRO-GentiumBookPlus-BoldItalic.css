@@ -1,0 +1,15 @@
+
+/* TypoPRO Gentium Book Plus Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Gentium Book Plus';
+    src:          url('TypoPRO-GentiumBookPlus-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-GentiumBookPlus-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-GentiumBookPlus-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-GentiumBookPlus-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

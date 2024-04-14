@@ -1,0 +1,15 @@
+
+/* TypoPRO Shantell Sans Normal Medium */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-Medium.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

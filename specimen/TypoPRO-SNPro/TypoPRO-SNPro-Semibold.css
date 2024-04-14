@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro SemiBold */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-Semibold.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-Semibold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-Semibold.woff') format('woff'),
+                  url('TypoPRO-SNPro-Semibold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

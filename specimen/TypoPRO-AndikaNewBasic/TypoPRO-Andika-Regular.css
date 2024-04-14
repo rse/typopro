@@ -1,0 +1,15 @@
+
+/* TypoPRO Andika */
+@font-face {
+    font-family:  'TypoPRO Andika';
+    src:          url('TypoPRO-Andika-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Andika-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Andika-Regular.woff') format('woff'),
+                  url('TypoPRO-Andika-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

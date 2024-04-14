@@ -1,0 +1,15 @@
+
+/* TypoPRO Radio-Canada Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

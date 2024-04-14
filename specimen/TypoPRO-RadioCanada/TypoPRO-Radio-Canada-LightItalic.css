@@ -1,0 +1,15 @@
+
+/* TypoPRO Radio-Canada Light Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,270 @@
+
+/* TypoPRO Noto Serif Black */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Black.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Black Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Bold */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Bold.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Italic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Light */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Light.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Light Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-LightItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Medium */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Medium.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Regular */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Regular.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif SemiBold */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-SemiBold.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Thin */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-Thin.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Noto Serif Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Noto Serif';
+    src:          url('TypoPRO-NotoSerif-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-NotoSerif-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-NotoSerif-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-NotoSerif-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

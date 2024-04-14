@@ -1,0 +1,300 @@
+
+/* TypoPRO Radio-Canada Bold */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-Bold.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-Italic.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Light */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-Light.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Light Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Medium */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-Medium.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Regular */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-Regular.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada SemiBold */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-Canada-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-Canada-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-Canada-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-Canada-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Condensed */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Condensed */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-Italic.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Light */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Light Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Radio-Canada Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO SN Pro Black Italic */
+@font-face {
+    font-family:  'TypoPRO SNPro';
+    src:          url('TypoPRO-SNPro-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-SNPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SNPro-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-SNPro-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,15 @@
+
+/* TypoPRO Cooper* Black Italic */
+@font-face {
+    font-family:  'TypoPRO Cooper';
+    src:          url('TypoPRO-Cooper-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Cooper-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Cooper-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-Cooper-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

@@ -1,0 +1,180 @@
+
+/* TypoPRO Shantell Sans Normal Bold */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-Bold.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal Light */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-Light.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal Light Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-LightItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal Medium */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-Medium.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal Regular */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-Regular.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-RegularItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-RegularItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-RegularItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-RegularItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal SemiBold */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-SemiBold.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Shantell Sans Normal SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Shantell Sans';
+    src:          url('TypoPRO-ShantellSans-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-ShantellSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-ShantellSans-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-ShantellSans-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+

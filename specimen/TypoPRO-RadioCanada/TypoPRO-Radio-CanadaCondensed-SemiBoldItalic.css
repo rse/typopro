@@ -1,0 +1,15 @@
+
+/* TypoPRO Radio-Canada Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Radio Canada';
+    src:          url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-Radio-CanadaCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
