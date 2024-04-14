@@ -1,15 +1,15 @@
 {
     "name": "typopro",
     "devDependencies": {
-        "grunt":                      "1.4.1",
+        "grunt":                      "1.6.1",
         "grunt-cli":                  "1.4.3",
-        "grunt-contrib-clean":        "2.0.0",
+        "grunt-contrib-clean":        "2.0.1",
         "grunt-contrib-copy":         "1.0.0",
         "grunt-bower-install-simple": "1.2.8"
     },
     "dependencies": {
         "normalize.css":              "8.0.1",
-        "jquery":                     "3.6.0",
-        "typopro-web":                "4.2.6"
+        "jquery":                     "3.7.1",
+        "typopro-web":                "4.2.7"
     }
 }
