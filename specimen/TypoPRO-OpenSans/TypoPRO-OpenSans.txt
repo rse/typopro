@@ -1,8 +1,7 @@
 Name:       Open Sans
 Homepage:   http://opensans.com/
-Download:   http://www.fontsquirrel.com/fonts/download/open-sans
-Download:   http://www.fontsquirrel.com/fonts/download/open-sans-condensed
-Version:    1.10 (2013)
+Download:   https://github.com/googlefonts/opensans
+Version:    3.003 (2021-03)
 License:    Apache License 2.0
 Publisher:  Google
 Designer:   Steve Metteson

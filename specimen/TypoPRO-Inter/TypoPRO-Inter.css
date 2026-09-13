@@ -59,7 +59,7 @@
 }
 
 
-/* TypoPRO Inter Extra Bold */
+/* TypoPRO Inter ExtraBold */
 @font-face {
     font-family:  'TypoPRO Inter';
     src:          url('TypoPRO-Inter-ExtraBold.eot');
@@ -74,7 +74,7 @@
 }
 
 
-/* TypoPRO Inter Extra Bold Italic */
+/* TypoPRO Inter ExtraBold Italic */
 @font-face {
     font-family:  'TypoPRO Inter';
     src:          url('TypoPRO-Inter-ExtraBoldItalic.eot');
@@ -89,7 +89,7 @@
 }
 
 
-/* TypoPRO Inter Extra Light */
+/* TypoPRO Inter ExtraLight */
 @font-face {
     font-family:  'TypoPRO Inter';
     src:          url('TypoPRO-Inter-ExtraLight.eot');
@@ -104,7 +104,7 @@
 }
 
 
-/* TypoPRO Inter Extra Light Italic */
+/* TypoPRO Inter ExtraLight Italic */
 @font-face {
     font-family:  'TypoPRO Inter';
     src:          url('TypoPRO-Inter-ExtraLightItalic.eot');
@@ -209,7 +209,7 @@
 }
 
 
-/* TypoPRO Inter Semi Bold */
+/* TypoPRO Inter SemiBold */
 @font-face {
     font-family:  'TypoPRO Inter';
     src:          url('TypoPRO-Inter-SemiBold.eot');
@@ -224,7 +224,7 @@
 }
 
 
-/* TypoPRO Inter Semi Bold Italic */
+/* TypoPRO Inter SemiBold Italic */
 @font-face {
     font-family:  'TypoPRO Inter';
     src:          url('TypoPRO-Inter-SemiBoldItalic.eot');
@@ -262,6 +262,276 @@
                   url('TypoPRO-Inter-ThinItalic.eot?#iefix') format('embedded-opentype'),
                   url('TypoPRO-Inter-ThinItalic.woff') format('woff'),
                   url('TypoPRO-Inter-ThinItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Black */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Black.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Black.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Black.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Black.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Black Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-BlackItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-BlackItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-BlackItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-BlackItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  900;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Bold */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Bold.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Italic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Light */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Light.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Light Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-LightItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Medium */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Medium.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Regular */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Regular.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display SemiBold */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-SemiBold.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Thin */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-Thin.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-Thin.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-Thin.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  100;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Inter Display Thin Italic */
+@font-face {
+    font-family:  'TypoPRO Inter Display';
+    src:          url('TypoPRO-InterDisplay-ThinItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-InterDisplay-ThinItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-InterDisplay-ThinItalic.woff') format('woff'),
+                  url('TypoPRO-InterDisplay-ThinItalic.ttf') format('truetype');
     font-style:   italic;
     font-weight:  100;
     font-stretch: normal;

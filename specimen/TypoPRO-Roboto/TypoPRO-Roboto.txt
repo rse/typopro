@@ -1,7 +1,7 @@
 Name:       Roboto
-Homepage:   https://github.com/google/roboto
-Download:   https://github.com/google/roboto
-Version:    2.138 (2017-08)
+Homepage:   https://github.com/googlefonts/roboto-3-classic
+Download:   https://github.com/googlefonts/roboto-3-classic
+Version:    3.016 (2026-06)
 License:    Apache License 2.0
 Publisher:  Open Handset Alliance, Google
 Designer:   Christian Robertson

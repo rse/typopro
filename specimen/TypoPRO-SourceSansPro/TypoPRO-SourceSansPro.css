@@ -119,6 +119,36 @@
 }
 
 
+/* TypoPRO Source Sans 3 Medium */
+@font-face {
+    font-family:  'TypoPRO Source Sans Pro';
+    src:          url('TypoPRO-SourceSansPro-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-Medium.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Source Sans 3 Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Source Sans Pro';
+    src:          url('TypoPRO-SourceSansPro-MediumIt.eot');
+    src:          local('*'),
+                  url('TypoPRO-SourceSansPro-MediumIt.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-SourceSansPro-MediumIt.woff') format('woff'),
+                  url('TypoPRO-SourceSansPro-MediumIt.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Source Sans 3 */
 @font-face {
     font-family:  'TypoPRO Source Sans Pro';

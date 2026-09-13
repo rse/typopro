@@ -3,18 +3,18 @@ Homepage:   http://sorkintype.com/fonts.html
 Download:   http://www.google.com/fonts#UsePlace:use/Collection:Merriweather
 Download:   http://www.google.com/fonts#UsePlace:use/Collection:Merriweather+Sans
 Download:   https://github.com/SorkinType/Merriweather/
-Version:    2.100/1.008 (2020-04/2019-04)
+Version:    2.101/2.100/2.001 (2025-09)
 License:    Open Font License 1.1
 Publisher:  Sorkin Type Co
 Designer:   Eben Sorkin
 Designed:   2011
 Derivation: none
 
-Copyright (c) 2010-2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Merriweather'. Merriweather is a trademark of Sorkin Type Co.
+Copyright 2020 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather4) with Reserved Font Name "Merriweather".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-
-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
 
 
 -----------------------------------------------------------
@@ -40,7 +40,7 @@ to any document created using the fonts or their derivatives.
 DEFINITIONS
 "Font Software" refers to the set of files released by the Copyright
 Holder(s) under this license and clearly marked as such. This may
-include Gelasio files, build scripts and documentation.
+include source files, build scripts and documentation.
 
 "Reserved Font Name" refers to any names specified as such after the
 copyright statement(s).

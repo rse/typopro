@@ -329,6 +329,36 @@
 }
 
 
+/* TypoPRO Roboto Mono ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Roboto Mono';
+    src:          url('TypoPRO-RobotoMono-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoMono-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoMono-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-RobotoMono-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Mono ExtraLight Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto Mono';
+    src:          url('TypoPRO-RobotoMono-ExtraLightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoMono-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoMono-ExtraLightItalic.woff') format('woff'),
+                  url('TypoPRO-RobotoMono-ExtraLightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Roboto Mono Italic */
 @font-face {
     font-family:  'TypoPRO Roboto Mono';
@@ -404,7 +434,7 @@
 }
 
 
-/* TypoPRO Roboto Mono */
+/* TypoPRO Roboto Mono Regular */
 @font-face {
     font-family:  'TypoPRO Roboto Mono';
     src:          url('TypoPRO-RobotoMono-Regular.eot');
@@ -414,6 +444,36 @@
                   url('TypoPRO-RobotoMono-Regular.ttf') format('truetype');
     font-style:   normal;
     font-weight:  normal;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Mono SemiBold */
+@font-face {
+    font-family:  'TypoPRO Roboto Mono';
+    src:          url('TypoPRO-RobotoMono-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoMono-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoMono-SemiBold.woff') format('woff'),
+                  url('TypoPRO-RobotoMono-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Mono SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Roboto Mono';
+    src:          url('TypoPRO-RobotoMono-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoMono-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoMono-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-RobotoMono-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
     font-stretch: normal;
     font-variant: normal;
 }
@@ -479,6 +539,36 @@
 }
 
 
+/* TypoPRO Roboto Slab ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Roboto Slab';
+    src:          url('TypoPRO-RobotoSlab-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoSlab-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoSlab-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-RobotoSlab-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Roboto Slab ExtraLight */
+@font-face {
+    font-family:  'TypoPRO Roboto Slab';
+    src:          url('TypoPRO-RobotoSlab-ExtraLight.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoSlab-ExtraLight.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoSlab-ExtraLight.woff') format('woff'),
+                  url('TypoPRO-RobotoSlab-ExtraLight.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  200;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Roboto Slab Light */
 @font-face {
     font-family:  'TypoPRO Roboto Slab';
@@ -524,6 +614,21 @@
 }
 
 
+/* TypoPRO Roboto Slab SemiBold */
+@font-face {
+    font-family:  'TypoPRO Roboto Slab';
+    src:          url('TypoPRO-RobotoSlab-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-RobotoSlab-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-RobotoSlab-SemiBold.woff') format('woff'),
+                  url('TypoPRO-RobotoSlab-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Roboto Slab Thin */
 @font-face {
     font-family:  'TypoPRO Roboto Slab';
@@ -533,7 +638,7 @@
                   url('TypoPRO-RobotoSlab-Thin.woff') format('woff'),
                   url('TypoPRO-RobotoSlab-Thin.ttf') format('truetype');
     font-style:   normal;
-    font-weight:  100;
+    font-weight:  200;
     font-stretch: normal;
     font-variant: normal;
 }

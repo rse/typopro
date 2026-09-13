@@ -104,6 +104,36 @@
 }
 
 
+/* TypoPRO Open Sans Medium */
+@font-face {
+    font-family:  'TypoPRO Open Sans';
+    src:          url('TypoPRO-OpenSans-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSans-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSans-Medium.woff') format('woff'),
+                  url('TypoPRO-OpenSans-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans';
+    src:          url('TypoPRO-OpenSans-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSans-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSans-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: normal;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Open Sans Regular */
 @font-face {
     font-family:  'TypoPRO Open Sans';
@@ -164,6 +194,66 @@
 }
 
 
+/* TypoPRO Open Sans Condensed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-Italic.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
 /* TypoPRO Open Sans Condensed Light */
 @font-face {
     font-family:  'TypoPRO Open Sans Condensed';
@@ -190,6 +280,261 @@
     font-style:   italic;
     font-weight:  300;
     font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed Medium */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed Regular */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans Condensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans Condensed';
+    src:          url('TypoPRO-OpenSansCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Bold */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-Bold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-Bold.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-Bold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Bold Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-BoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-BoldItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-BoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  bold;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed ExtraBold */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-ExtraBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-ExtraBold.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-ExtraBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  800;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed ExtraBold Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-ExtraBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-ExtraBoldItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-ExtraBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  800;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-Italic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-Italic.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-Italic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Light */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-Light.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-Light.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-Light.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-Light.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  300;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Light Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-LightItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-LightItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-LightItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  300;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Medium */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-Medium.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-Medium.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-Medium.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  500;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Medium Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-MediumItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-MediumItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-MediumItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  500;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed Regular */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-Regular.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-Regular.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-Regular.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  normal;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed SemiBold */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-SemiBold.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBold.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBold.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBold.ttf') format('truetype');
+    font-style:   normal;
+    font-weight:  600;
+    font-stretch: semi-condensed;
+    font-variant: normal;
+}
+
+
+/* TypoPRO Open Sans SemiCondensed SemiBold Italic */
+@font-face {
+    font-family:  'TypoPRO Open Sans SemiCondensed';
+    src:          url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.eot');
+    src:          local('*'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.woff') format('woff'),
+                  url('TypoPRO-OpenSansSemiCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-style:   italic;
+    font-weight:  600;
+    font-stretch: semi-condensed;
     font-variant: normal;
 }
 
