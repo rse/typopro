@@ -11,7 +11,7 @@ http://typopro.org/
 **TypoPRO** is a carefully hand-selected collection of freely usable
 professional fonts for use in Desktop Publishing (DTP), on Websites and
 especially inside Web-based Desktop or Mobile Applications. Currently,
-**TypoPRO** consists of **1933** individual fonts of **200** font families. The
+**TypoPRO** consists of **2206** individual fonts of **219** font families. The
 fonts in total span a very wide range of font types, font styles, font
 weights and font variants. This way, **TypoPRO** provides a magnitude of
 typographic possibilities with just a minimum number of font families.
@@ -345,7 +345,7 @@ all dependencies yourself, of course.
 Licensing
 ---------
 
-Copyright &copy; 2013-2024 Dr. Ralf S. Engelschall &lt;rse@engelschall.com&gt;
+Copyright &copy; 2013-2026 Dr. Ralf S. Engelschall &lt;rse@engelschall.com&gt;
 
 All included font families are distributed under very liberal Open
 Source licenses, either MIT License, Apache License, Open Font License
